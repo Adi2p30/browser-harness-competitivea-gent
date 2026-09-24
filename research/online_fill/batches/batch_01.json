@@ -1,0 +1,290 @@
+[
+ {
+  "job": "https://business.purdue.edu/online/programs/ms-business-analytics/",
+  "college": "PURDUE UNIVERSITY - WEST LAFAYETTE",
+  "start_urls": [
+   "https://business.purdue.edu/online/programs/ms-business-analytics/"
+  ],
+  "rows": [
+   {
+    "sheet": "Online MS Business Analytics",
+    "row": 2,
+    "program": "ONLINE MS BUSINESS ANALYTICS",
+    "fields": [
+     "School / College Name",
+     "Location - City",
+     "Location - State",
+     "Average GMAT",
+     "Average GRE",
+     "Average Undergraduate GPA",
+     "Work Experience (Month)",
+     "Average Student Age",
+     "Class Size",
+     "International (%)",
+     "Female (%)",
+     "Accept Rate (%)",
+     "Duration (months)",
+     "Credit Hours",
+     "On-Campus Options",
+     "Deadline Date(s)",
+     "Experiential Learning Courses / Opportunities (Yes/No)",
+     "Experiential Learning Courses / Opportunities (brief description)",
+     "Affinity Groups (Yes/No)",
+     "Affinity Groups (brief description)",
+     "Accept 3yr-degree from India? ",
+     "In-State Tuition Per Credit",
+     "Out-of-State Tuition Per Credit",
+     "International Tuition Per Credit",
+     "In-State Tuition Total",
+     "Out-of-State Tuition Total",
+     "International Tuition Total",
+     "Scholarship",
+     "Deposit",
+     "Ranking (U.S. News)",
+     "Ranking (Best-Masters.com)",
+     "Ranking (QS)",
+     "Job Placement %",
+     "Average Post-Grad Salary",
+     "Average Post-Grad Bonus"
+    ],
+    "link_columns": [
+     "Experiential Learning Courses / Opportunities Link",
+     "Affinity Groups Link"
+    ]
+   }
+  ]
+ },
+ {
+  "job": "https://business.purdue.edu/online/programs/ms-economics/",
+  "college": "PURDUE UNIVERSITY - WEST LAFAYETTE",
+  "start_urls": [
+   "https://business.purdue.edu/online/programs/ms-economics/"
+  ],
+  "rows": [
+   {
+    "sheet": "Online MS Economics",
+    "row": 2,
+    "program": "Online MS Economics",
+    "fields": [
+     "School / College Name",
+     "Location - City",
+     "Location - State",
+     "Average GMAT",
+     "Average GRE",
+     "Average Undergraduate GPA",
+     "Work Experience (Month)",
+     "Average Student Age",
+     "Class Size",
+     "International (%)",
+     "Female (%)",
+     "Accept Rate (%)",
+     "Duration (months)",
+     "Credit Hours",
+     "On-Campus Options",
+     "Deadline Date(s)",
+     "Experiential Learning Courses / Opportunities (Yes/No)",
+     "Experiential Learning Courses / Opportunities (brief description)",
+     "Affinity Groups (Yes/No)",
+     "Affinity Groups (brief description)",
+     "Accept 3yr-degree from India? (Y/N)",
+     "Career Coaching/Consulting Services Offered? (Yes/No)",
+     "In-State Tuition Per Credit",
+     "Out-of-State Tuition Per Credit",
+     "International Tuition Per Credit",
+     "In-State Tuition Total",
+     "Out-of-State Tuition Total",
+     "International Tuition Total",
+     "Scholarship",
+     "Deposit",
+     "Ranking (U.S. News)",
+     "Ranking (Best-Masters.com)",
+     "Ranking (QS)",
+     "Job Placement %",
+     "Average Post-Grad Salary",
+     "Average Post-Grad Bonus"
+    ],
+    "link_columns": [
+     "Experiential Learning Courses / Opportunities Link",
+     "Affinity Groups Link",
+     "Career Coaching/Consulting Services Offered? (Link)"
+    ]
+   }
+  ]
+ },
+ {
+  "job": "https://business.purdue.edu/online/programs/ms-global-supply-chain-management/",
+  "college": "PURDUE UNIVERSITY - WEST LAFAYETTE",
+  "start_urls": [
+   "https://business.purdue.edu/online/programs/ms-global-supply-chain-management/"
+  ],
+  "rows": [
+   {
+    "sheet": "Online MSGSCM",
+    "row": 2,
+    "program": "ONLINE MS GLOBAL SUPPLY CHAIN MANAGEMENT",
+    "fields": [
+     "School / College Name",
+     "Location - City",
+     "Location - State",
+     "Average GMAT",
+     "Average GRE",
+     "Average Undergraduate GPA",
+     "Work Experience (Month)",
+     "Average Student Age",
+     "Class Size",
+     "International (%)",
+     "Female (%)",
+     "Accept Rate",
+     "Duration (months)",
+     "Credit Hours",
+     "On-Campus Options",
+     "Deadline Date(s)",
+     "Experiential Learning Courses / Opportunities (Yes/No)",
+     "Experiential Learning Courses / Opportunities (brief description)",
+     "Affinity Groups (Yes/No)",
+     "Affinity Groups (brief description)",
+     "Accept 3yr-degree from India? (Y/N)",
+     "Career Coaching/Consulting Services Offered? (Yes/No)",
+     "In-State Tuition Per Credit",
+     "Out-of-State Tuition Per Credit",
+     "International Tuition Per Credit",
+     "In-State Tuition Total",
+     "Out-of-State Tuition Total",
+     "International Tuition Total",
+     "Scholarship",
+     "Deposit",
+     "Ranking (U.S. News)",
+     "Ranking (Best-Masters.com)",
+     "Ranking (QS)",
+     "Job Placement %",
+     "Average Post-Grad Salary",
+     "Average Post-Grad Bonus"
+    ],
+    "link_columns": [
+     "Experiential Learning Courses / Opportunities Link",
+     "Affinity Groups Link",
+     "Career Coaching/Consulting Services Offered? (Link)"
+    ]
+   }
+  ]
+ },
+ {
+  "job": "https://business.purdue.edu/online/programs/ms-human-resource-management/",
+  "college": "PURDUE UNIVERSITY - WEST LAFAYETTE",
+  "start_urls": [
+   "https://business.purdue.edu/online/programs/ms-human-resource-management/"
+  ],
+  "rows": [
+   {
+    "sheet": "Online MS HRM",
+    "row": 2,
+    "program": "ONLINE MS HUMAN RESOURCE MANAGEMENT",
+    "fields": [
+     "School / College Name",
+     "Location - City",
+     "Location - State",
+     "Average GMAT",
+     "Average GRE",
+     "Average Undergraduate GPA",
+     "Work Experience (Month)",
+     "Average Student Age",
+     "Class Size",
+     "International (%)",
+     "Female (%)",
+     "Accept Rate",
+     "Duration (months)",
+     "Credit Hours",
+     "On-Campus Options",
+     "Deadline Date(s)",
+     "Experiential Learning Courses / Opportunities (Yes/No)",
+     "Experiential Learning Courses / Opportunities (brief description)",
+     "Affinity Groups (Yes/No)",
+     "Affinity Groups (brief description)",
+     "Accept 3yr-degree from India? (Y/N)",
+     "Career Coaching/Consulting Services Offered? (Yes/No)",
+     "In-State Tuition Per Credit",
+     "Out-of-State Tuition Per Credit",
+     "International Tuition Per Credit",
+     "In-State Tuition Total",
+     "Out-of-State Tuition Total",
+     "International Tuition Total",
+     "Scholarship",
+     "Deposit",
+     "Ranking (U.S. News)",
+     "Ranking (Best-Masters.com)",
+     "Ranking (QS)",
+     "Job Placement %",
+     "Average Post-Grad Salary",
+     "Average Post-Grad Bonus"
+    ],
+    "link_columns": [
+     "Experiential Learning Courses / Opportunities Link",
+     "Affinity Groups Link",
+     "Career Coaching/Consulting Services Offered? (Link)"
+    ]
+   }
+  ]
+ },
+ {
+  "job": "https://business.purdue.edu/master-of-business/online-masters-in-business-administration/overview/home.php",
+  "college": "PURDUE UNIVERSITY - WEST LAFAYETTE",
+  "start_urls": [
+   "https://business.purdue.edu/master-of-business/online-masters-in-business-administration/overview/home.php"
+  ],
+  "rows": [
+   {
+    "sheet": "Online MBA",
+    "row": 2,
+    "program": "Online MBA",
+    "fields": [
+     "School / College Name",
+     "Location - City",
+     "Location - State",
+     "Delivery Model (100% online? Hybrid? )",
+     "Delivery Model (Led by Full Time faculty or Part Time Adjuncts?)",
+     "On-Campus Options - Are they offered to online students? (Y/N)",
+     "GMAT/GRE Required? (Y/N)",
+     "Average GMAT",
+     "Average GRE",
+     "Average Undergraduate GPA",
+     "Work Experience (Month)",
+     "Average Student Age",
+     "Class Size",
+     "International (%)",
+     "Female (%)",
+     "Accept Rate(%)",
+     "Total Enrollment",
+     "Duration (months)",
+     "Credit Hours",
+     "Deadline Date(s)",
+     "Experiential Learning Courses / Opportunities (Yes/No)",
+     "Experiential Learning Courses / Opportunities (brief description)",
+     "Career Coaching/Consulting Services Offered? (Yes/No)",
+     "Affinity Groups (Yes/No)",
+     "Affinity Groups (brief description)",
+     "Accept 3yr-degree from India? (Y/N)",
+     "In-State Tuition Per Credit",
+     "Out-of-State Tuition Per Credit",
+     "International Tuition Per Credit",
+     "In-State Tuition Total",
+     "Out-of-State Tuition Total",
+     "International Tuition Total",
+     "Scholarship",
+     "Deposit",
+     "Deposit Required?",
+     "Ranking (U.S. News)",
+     "Ranking (Best-Masters.com)",
+     "Ranking (QS)",
+     "Job Placement %",
+     "Average Post-Grad Salary",
+     "Average Post-Grad Bonus"
+    ],
+    "link_columns": [
+     "Experiential Learning Courses / Opportunities Link",
+     "Career Coaching/Consulting Services Offered? (Link)",
+     "Affinity Groups Link"
+    ]
+   }
+  ]
+ }
+]

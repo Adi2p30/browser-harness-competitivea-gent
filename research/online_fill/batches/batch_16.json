@@ -1,0 +1,188 @@
+[
+ {
+  "job": "https://www.butler.edu/plus/program/online-mba-program/",
+  "college": "BUTLER UNIVERSITY",
+  "start_urls": [
+   "https://www.butler.edu/plus/program/online-mba-program/"
+  ],
+  "rows": [
+   {
+    "sheet": "Online MBA",
+    "row": 4,
+    "program": "BUSINESS ADMINISTRATION",
+    "fields": [
+     "School / College Name",
+     "Location - City",
+     "Location - State",
+     "Delivery Model (100% online? Hybrid? )",
+     "Delivery Model (Led by Full Time faculty or Part Time Adjuncts?)",
+     "On-Campus Options - Are they offered to online students? (Y/N)",
+     "GMAT/GRE Required? (Y/N)",
+     "Average GMAT",
+     "Average GRE",
+     "Average Undergraduate GPA",
+     "Work Experience (Month)",
+     "Average Student Age",
+     "Class Size",
+     "International (%)",
+     "Female (%)",
+     "Accept Rate(%)",
+     "Total Enrollment",
+     "Duration (months)",
+     "Credit Hours",
+     "Deadline Date(s)",
+     "Experiential Learning Courses / Opportunities (Yes/No)",
+     "Experiential Learning Courses / Opportunities (brief description)",
+     "Career Coaching/Consulting Services Offered? (Yes/No)",
+     "Affinity Groups (Yes/No)",
+     "Affinity Groups (brief description)",
+     "Accept 3yr-degree from India? (Y/N)",
+     "In-State Tuition Per Credit",
+     "Out-of-State Tuition Per Credit",
+     "International Tuition Per Credit",
+     "In-State Tuition Total",
+     "Out-of-State Tuition Total",
+     "International Tuition Total",
+     "Scholarship",
+     "Deposit",
+     "Deposit Required?",
+     "Ranking (U.S. News)",
+     "Ranking (Best-Masters.com)",
+     "Ranking (QS)",
+     "Job Placement %",
+     "Average Post-Grad Salary",
+     "Average Post-Grad Bonus"
+    ],
+    "link_columns": [
+     "Experiential Learning Courses / Opportunities Link",
+     "Career Coaching/Consulting Services Offered? (Link)",
+     "Affinity Groups Link"
+    ]
+   }
+  ]
+ },
+ {
+  "job": "https://clarkson.edu/academics/majors-minors/mba-online",
+  "college": "CLARKSON UNIVERSITY QTR POTSDAM",
+  "start_urls": [
+   "https://clarkson.edu/academics/majors-minors/mba-online"
+  ],
+  "rows": [
+   {
+    "sheet": "Online MBA",
+    "row": 5,
+    "program": "ONLINE MBA",
+    "fields": [
+     "School / College Name",
+     "Location - City",
+     "Location - State",
+     "Delivery Model (100% online? Hybrid? )",
+     "Delivery Model (Led by Full Time faculty or Part Time Adjuncts?)",
+     "On-Campus Options - Are they offered to online students? (Y/N)",
+     "GMAT/GRE Required? (Y/N)",
+     "Average GMAT",
+     "Average GRE",
+     "Average Undergraduate GPA",
+     "Work Experience (Month)",
+     "Average Student Age",
+     "Class Size",
+     "International (%)",
+     "Female (%)",
+     "Accept Rate(%)",
+     "Total Enrollment",
+     "Duration (months)",
+     "Credit Hours",
+     "Deadline Date(s)",
+     "Experiential Learning Courses / Opportunities (Yes/No)",
+     "Experiential Learning Courses / Opportunities (brief description)",
+     "Career Coaching/Consulting Services Offered? (Yes/No)",
+     "Affinity Groups (Yes/No)",
+     "Affinity Groups (brief description)",
+     "Accept 3yr-degree from India? (Y/N)",
+     "In-State Tuition Per Credit",
+     "Out-of-State Tuition Per Credit",
+     "International Tuition Per Credit",
+     "In-State Tuition Total",
+     "Out-of-State Tuition Total",
+     "International Tuition Total",
+     "Scholarship",
+     "Deposit",
+     "Deposit Required?",
+     "Ranking (U.S. News)",
+     "Ranking (Best-Masters.com)",
+     "Ranking (QS)",
+     "Job Placement %",
+     "Average Post-Grad Salary",
+     "Average Post-Grad Bonus"
+    ],
+    "link_columns": [
+     "Experiential Learning Courses / Opportunities Link",
+     "Career Coaching/Consulting Services Offered? (Link)",
+     "Affinity Groups Link"
+    ]
+   }
+  ]
+ },
+ {
+  "job": "https://www.eastern.edu/academics/graduate-programs/mba-management",
+  "college": "EASTERN UNIVERSITY",
+  "start_urls": [
+   "https://www.eastern.edu/academics/graduate-programs/mba-management"
+  ],
+  "rows": [
+   {
+    "sheet": "Online MBA",
+    "row": 7,
+    "program": "ORGANIZATIONAL MANAGEMENT",
+    "fields": [
+     "School / College Name",
+     "Location - City",
+     "Location - State",
+     "Delivery Model (100% online? Hybrid? )",
+     "Delivery Model (Led by Full Time faculty or Part Time Adjuncts?)",
+     "On-Campus Options - Are they offered to online students? (Y/N)",
+     "GMAT/GRE Required? (Y/N)",
+     "Average GMAT",
+     "Average GRE",
+     "Average Undergraduate GPA",
+     "Work Experience (Month)",
+     "Average Student Age",
+     "Class Size",
+     "International (%)",
+     "Female (%)",
+     "Accept Rate(%)",
+     "Total Enrollment",
+     "Duration (months)",
+     "Credit Hours",
+     "Deadline Date(s)",
+     "Experiential Learning Courses / Opportunities (Yes/No)",
+     "Experiential Learning Courses / Opportunities (brief description)",
+     "Career Coaching/Consulting Services Offered? (Yes/No)",
+     "Affinity Groups (Yes/No)",
+     "Affinity Groups (brief description)",
+     "Accept 3yr-degree from India? (Y/N)",
+     "In-State Tuition Per Credit",
+     "Out-of-State Tuition Per Credit",
+     "International Tuition Per Credit",
+     "In-State Tuition Total",
+     "Out-of-State Tuition Total",
+     "International Tuition Total",
+     "Scholarship",
+     "Deposit",
+     "Deposit Required?",
+     "Ranking (U.S. News)",
+     "Ranking (Best-Masters.com)",
+     "Ranking (QS)",
+     "Job Placement %",
+     "Average Post-Grad Salary",
+     "Average Post-Grad Bonus"
+    ],
+    "link_columns": [
+     "Experiential Learning Courses / Opportunities Link",
+     "Career Coaching/Consulting Services Offered? (Link)",
+     "Affinity Groups Link"
+    ]
+   }
+  ]
+ }
+]
