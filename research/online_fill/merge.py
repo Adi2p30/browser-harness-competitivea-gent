@@ -41,7 +41,8 @@ def read_jsonl(pattern: str) -> dict[tuple, dict]:
 
 
 def code_check(f: dict) -> str | None:
-    value, quote = str(f.get("value") or "").strip(), str(f.get("quote") or "")
+    value = str(f.get("value") or "").strip()
+    quote = re.sub(r"\[[^\]]*\]", " ", str(f.get("quote") or ""))  # agent-added [notes] are not page text
     if not value:
         return "empty value"
     if "link" not in f["field"].casefold():

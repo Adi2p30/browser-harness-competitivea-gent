@@ -36,7 +36,8 @@ in the batch (every name in that row's `fields` list, spelled exactly), write wi
 - `status`: "found" or "not_found". For not_found set value "" and say in `quote` what you searched.
 - Only values the school's page states. Never compute (no per-credit x credits), never estimate, never carry an
   older year's number forward. If the only number is for 2025-2026 or 2027-2028 -> not_found.
-- `value` digits must appear in `quote`. Keep units: "$1,250", "36", "41%", "Yes", "Fall 2026: Jun 1, 2026; ...".
+- `value` digits must appear in `quote`. Never add your own words, [notes] or arithmetic to a quote (bracketed
+  text is stripped before the check); the only allowed conversion is years -> months for duration/experience. Keep units: "$1,250", "36", "41%", "Yes", "Fall 2026: Jun 1, 2026; ...".
 - For link columns (names containing "Link"), value = the URL of the page proving the paired Yes/No field.
 - Flat online rate for all students -> the same value in all three residency columns only if the page says so.
 When the whole batch is written, reply with one line: "batch NN: <found>/<total> fields found".
