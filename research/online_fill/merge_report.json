@@ -1,15 +1,26 @@
 {
  "stats": {
-  "verified": 137,
-  "unverified": 109,
-  "rejected_by_code": 6,
-  "rejected_by_verifier": 0,
-  "not_found": 2217,
+  "verified": 950,
+  "unverified": 14,
+  "rejected_by_code": 18,
+  "rejected_by_verifier": 46,
+  "not_found": 1438,
   "not_published": 244,
   "no_program": 270,
-  "verifier_corrected": 1
+  "verifier_corrected": 4
  },
  "rejected": [
+  {
+   "sheet": "Online MS Business Analytics",
+   "row": 3,
+   "field": "Deadline Date(s)",
+   "value": "Fall 2026: Round 1 Oct 14, 2025; Round 5 (Part-Time Only) Jun 16, 2026",
+   "status": "found",
+   "source_url": "https://www.cmu.edu/tepper/programs/master-business-analytics/admissions/apply/deadlines.html",
+   "quote": "Round 1 (Full-Time and Part-Time) Deadline: Oct. 14, 2025 ... Round 5 (Part-Time Only) Deadline: June 16, 2026",
+   "cycle_evidence": "Fall 2026 (August entry; single entry term)",
+   "rejected": "verifier: The 'Fall 2026' term label was inferred (the page lists round dates without naming the entry term) and the value omits Rounds 2-4, so it cannot be confirmed as the full 2026-2027 deadline set."
+  },
   {
    "sheet": "Online MS Business Analytics",
    "row": 6,
@@ -20,6 +31,171 @@
    "quote": "Apply by November 1 to start January 11",
    "cycle_evidence": "no year stated (next start Jan 11 = Spring 2027)",
    "rejected": "value digits not in quote"
+  },
+  {
+   "sheet": "Online MS Business Analytics",
+   "row": 12,
+   "field": "Ranking (Best-Masters.com)",
+   "value": "#14, Best Masters Data Analytics in U.S.A. 2026",
+   "status": "found",
+   "source_url": "https://www.best-masters.com/ranking-master-in-usa/master-data-analytics/business-analytics-university-of-cincinnati.html",
+   "quote": "Best Masters Data analytics in U.S.A.: 2026 Ranking - Business Analytics University of Cincinnati ranked #14 in the Eduniversal Best Masters Ranking.",
+   "cycle_evidence": "2026 edition",
+   "rejected": "verifier: Best-Masters #14 (2026) ranks the UC 'Business Analytics' master generally; nothing confirms it is the online version rather than the on-campus program (check 3)."
+  },
+  {
+   "sheet": "Online MS Business Analytics",
+   "row": 13,
+   "field": "Out-of-State Tuition Per Credit",
+   "value": "$904",
+   "status": "found",
+   "source_url": "https://giesonline.illinois.edu/tuition-costs",
+   "quote": "For the Fall 2026 - Summer 2027 Academic Year, the MSBAi tuition is $904 per credit hour (single rate, no residency tiers listed)",
+   "cycle_evidence": "Fall 2026 - Summer 2027",
+   "rejected": "verifier: Check 2: the Gies tuition page gives one Fall 2026-Summer 2027 rate but does not state it applies to out-of-state/international students; the residency applicability was inferred."
+  },
+  {
+   "sheet": "Online MS Business Analytics",
+   "row": 13,
+   "field": "International Tuition Per Credit",
+   "value": "$904",
+   "status": "found",
+   "source_url": "https://giesonline.illinois.edu/tuition-costs",
+   "quote": "For the Fall 2026 - Summer 2027 Academic Year, the MSBAi tuition is $904 per credit hour (single rate, no residency tiers listed)",
+   "cycle_evidence": "Fall 2026 - Summer 2027",
+   "rejected": "verifier: Check 2: the Gies tuition page gives one Fall 2026-Summer 2027 rate but does not state it applies to out-of-state/international students; the residency applicability was inferred."
+  },
+  {
+   "sheet": "Online MS Business Analytics",
+   "row": 13,
+   "field": "Out-of-State Tuition Total",
+   "value": "$32,544",
+   "status": "found",
+   "source_url": "https://giesonline.illinois.edu/tuition-costs",
+   "quote": "For the Fall 2026 - Summer 2027 Academic Year ... total MSBAi tuition of $32,544. (single rate, no residency tiers listed)",
+   "cycle_evidence": "Fall 2026 - Summer 2027",
+   "rejected": "verifier: Check 2: the Gies tuition page gives one Fall 2026-Summer 2027 rate but does not state it applies to out-of-state/international students; the residency applicability was inferred."
+  },
+  {
+   "sheet": "Online MS Business Analytics",
+   "row": 13,
+   "field": "International Tuition Total",
+   "value": "$32,544",
+   "status": "found",
+   "source_url": "https://giesonline.illinois.edu/tuition-costs",
+   "quote": "For the Fall 2026 - Summer 2027 Academic Year ... total MSBAi tuition of $32,544. (single rate, no residency tiers listed)",
+   "cycle_evidence": "Fall 2026 - Summer 2027",
+   "rejected": "verifier: Check 2: the Gies tuition page gives one Fall 2026-Summer 2027 rate but does not state it applies to out-of-state/international students; the residency applicability was inferred."
+  },
+  {
+   "sheet": "Online MS Business Analytics",
+   "row": 14,
+   "field": "Job Placement %",
+   "value": "More than 4 in 5 within 180 days",
+   "status": "found",
+   "source_url": "https://careers.rhsmith.umd.edu/outcomes/",
+   "quote": "Online MS in Business Analytics and AI: Recent graduates report an average salary of $87K, with more than 4 in 5 securing employment within 180 days of graduation.",
+   "cycle_evidence": "no year stated",
+   "rejected": "verifier: Check 4: the 'more than 4 in 5 within 180 days' figure is attributed on the live program page to UMD Smith Office of Career Services (2025) data and to business master's graduates generally, not a 2026/2027 report."
+  },
+  {
+   "sheet": "Online MS Business Analytics",
+   "row": 14,
+   "field": "Average Post-Grad Salary",
+   "value": "$87K",
+   "status": "found",
+   "source_url": "https://careers.rhsmith.umd.edu/outcomes/",
+   "quote": "Online MS in Business Analytics and AI: Recent graduates report an average salary of $87K, with more than 4 in 5 securing employment within 180 days of graduation.",
+   "cycle_evidence": "no year stated",
+   "rejected": "verifier: Check 4: the $87K average is cited on the live program page as UMD Smith Office of Career Services (2025) data for recent business master's graduates, not a 2026/2027 report."
+  },
+  {
+   "sheet": "Online MS Economics",
+   "row": 5,
+   "field": "Deposit",
+   "value": "$300",
+   "status": "found",
+   "source_url": "https://business.depaul.edu/admission-aid/graduate-admission/admitted-student-resources/Pages/default.aspx",
+   "quote": "Admitted international graduate students need to pay a Graduate Tuition Deposit ($300) and submit an Intent to Enroll form, and the deposit will be credited towards your first term tuition.",
+   "cycle_evidence": "no year stated",
+   "rejected": "verifier: Check 3: the $300 Graduate Tuition Deposit is stated only for admitted international graduate students (tied to I-20/deferral), not as a deposit for this online program."
+  },
+  {
+   "sheet": "Online MS Economics",
+   "row": 7,
+   "field": "Deadline Date(s)",
+   "value": "Rolling - online program applications accepted year-round (no application deadline); submit 4-6 weeks before start",
+   "status": "found",
+   "source_url": "https://advanced.jhu.edu/admissions-aid/how-to-apply/apply-to-online-program/",
+   "quote": "Applications for Online Programs are accepted year-round for fall, spring, or summer term starts, so, there is no application deadline. It is recommended you submit your application materials at least four-to-six weeks before the desired start date.",
+   "cycle_evidence": "no year stated",
+   "rejected": "value digits not in quote"
+  },
+  {
+   "sheet": "Online MS Economics",
+   "row": 7,
+   "field": "In-State Tuition Per Credit",
+   "value": "$5,555 per course",
+   "status": "found",
+   "source_url": "https://advanced.jhu.edu/admissions-aid/tuition-fees/",
+   "quote": "The cost per course is $5,555. ... Posted tuition rates for each graduate degree and certificate are for the following terms: Summer 2026, Fall 2026, and Spring 2027. Tuition is calculated on a per-course basis and rates vary by program.",
+   "cycle_evidence": "Summer 2026, Fall 2026, Spring 2027 (single per-course rate; no residency distinction stated)",
+   "rejected": "names term Summer 2026"
+  },
+  {
+   "sheet": "Online MS Economics",
+   "row": 7,
+   "field": "Out-of-State Tuition Per Credit",
+   "value": "$5,555 per course",
+   "status": "found",
+   "source_url": "https://advanced.jhu.edu/admissions-aid/tuition-fees/",
+   "quote": "The cost per course is $5,555. ... Posted tuition rates for each graduate degree and certificate are for the following terms: Summer 2026, Fall 2026, and Spring 2027. Tuition is calculated on a per-course basis and rates vary by program.",
+   "cycle_evidence": "Summer 2026, Fall 2026, Spring 2027 (single per-course rate; no residency distinction stated)",
+   "rejected": "names term Summer 2026"
+  },
+  {
+   "sheet": "Online MS Economics",
+   "row": 7,
+   "field": "International Tuition Per Credit",
+   "value": "$5,555 per course",
+   "status": "found",
+   "source_url": "https://advanced.jhu.edu/admissions-aid/tuition-fees/",
+   "quote": "The cost per course is $5,555. ... Posted tuition rates for each graduate degree and certificate are for the following terms: Summer 2026, Fall 2026, and Spring 2027. Tuition is calculated on a per-course basis and rates vary by program.",
+   "cycle_evidence": "Summer 2026, Fall 2026, Spring 2027 (single per-course rate; no residency distinction stated)",
+   "rejected": "names term Summer 2026"
+  },
+  {
+   "sheet": "Online MS Economics",
+   "row": 7,
+   "field": "Out-of-State Tuition Total",
+   "value": "$55,550 - $56,550 (tuition and fees)",
+   "status": "found",
+   "source_url": "https://advanced.jhu.edu/academics/graduate/ms-applied-economics/",
+   "quote": "Tuition and fees for the MS in Applied Economics program currently range from $55,550 \u2013 $56,550 USD.",
+   "cycle_evidence": "'currently'; tuition page: rates posted for Summer 2026, Fall 2026, Spring 2027 (no residency distinction stated)",
+   "rejected": "verifier: Check 2 fails: single program total with no page stating it applies to out-of-state students."
+  },
+  {
+   "sheet": "Online MS Economics",
+   "row": 7,
+   "field": "International Tuition Total",
+   "value": "$55,550 - $56,550 (tuition and fees)",
+   "status": "found",
+   "source_url": "https://advanced.jhu.edu/academics/graduate/ms-applied-economics/",
+   "quote": "Tuition and fees for the MS in Applied Economics program currently range from $55,550 \u2013 $56,550 USD.",
+   "cycle_evidence": "'currently'; tuition page: rates posted for Summer 2026, Fall 2026, Spring 2027 (no residency distinction stated)",
+   "rejected": "verifier: Check 2 fails: single program total with no page stating it applies to international students (search found no residency statement)."
+  },
+  {
+   "sheet": "Online MS Economics",
+   "row": 8,
+   "field": "In-State Tuition Per Credit",
+   "value": "$575",
+   "status": "found",
+   "source_url": "https://catalog.liberty.edu/graduate/admission/expenses-financial-policy/",
+   "quote": "Master's Programs ... $575 per hour; these rates are reflective of 2026-2027",
+   "cycle_evidence": "2026-2027",
+   "rejected": "verifier: Check 3: $575/hour for 2026-2027 is the catalog's residential master's rate (also on residential graduate aid page); Liberty's online tuition page states a different online master's rate, so pages disagree for this online program."
   },
   {
    "sheet": "Online MS Economics",
@@ -44,6 +220,116 @@
    "rejected": "value digits not in quote"
   },
   {
+   "sheet": "Online MSGSCM",
+   "row": 3,
+   "field": "Affinity Groups (Yes/No)",
+   "value": "Yes",
+   "status": "found",
+   "source_url": "https://engineering.nyu.edu/life-tandon/student-life/student-organizations/organizations-directory",
+   "quote": "NYU Tandon has several diversity-focused student organizations including NSBE (National Society of Black Engineers), SHPE (Society of Hispanic Professional Engineers), and SWE (Society of Women Engineers).",
+   "cycle_evidence": "no year stated",
+   "rejected": "verifier: Check 3: NSBE/SHPE/SWE are school-wide Tandon groups and no page says online MOT students can join them."
+  },
+  {
+   "sheet": "Online MSGSCM",
+   "row": 3,
+   "field": "Affinity Groups Link",
+   "value": "https://engineering.nyu.edu/life-tandon/student-life/student-organizations/organizations-directory",
+   "status": "found",
+   "source_url": "https://engineering.nyu.edu/life-tandon/student-life/student-organizations/organizations-directory",
+   "quote": "NYU Tandon has several diversity-focused student organizations including NSBE (National Society of Black Engineers), SHPE (Society of Hispanic Professional Engineers), and SWE (Society of Women Engineers).",
+   "cycle_evidence": "no year stated",
+   "rejected": "verifier: Check 3: directory of school-wide groups; no page says online students can join."
+  },
+  {
+   "sheet": "Online MSGSCM",
+   "row": 3,
+   "field": "Affinity Groups (brief description)",
+   "value": "NSBE (National Society of Black Engineers), SHPE (Society of Hispanic Professional Engineers), SWE (Society of Women Engineers)",
+   "status": "found",
+   "source_url": "https://engineering.nyu.edu/life-tandon/student-life/student-organizations/organizations-directory",
+   "quote": "NYU Tandon has several diversity-focused student organizations including NSBE (National Society of Black Engineers), SHPE (Society of Hispanic Professional Engineers), and SWE (Society of Women Engineers).",
+   "cycle_evidence": "no year stated",
+   "rejected": "verifier: Check 3: school-wide groups with no page stating online students can join."
+  },
+  {
+   "sheet": "Online MSGSCM",
+   "row": 5,
+   "field": "Ranking (U.S. News)",
+   "value": "#15 overall (#11 public), 2026 Best Online Master's in Business Programs (non-MBA; includes MS SCM Online)",
+   "status": "found",
+   "source_url": "https://news.utk.edu/2026/01/27/uts-online-programs-earn-high-marks-in-us-news-rankings/",
+   "quote": "the college's non-MBA online master's programs \u2014 Master of Science in Supply Chain Management Online (M.S. SCM) and Master of Science in Business Cybersecurity Online (MSBC) \u2014 rose from No. 16 to No. 11 among public schools and from No. 19 to No. 15 overall.",
+   "cycle_evidence": "2026 Best Online Education Programs (U.S. News, announced Jan. 27, 2026)",
+   "rejected": "value digits not in quote"
+  },
+  {
+   "sheet": "Online MSGSCM",
+   "row": 6,
+   "field": "Out-of-State Tuition Total",
+   "value": "$57,816",
+   "status": "found",
+   "source_url": "https://scs.georgetown.edu/programs/503/online/online-masters-in-supply-chain-management/tuition-financial-aid",
+   "quote": "Total tuition for the Online Master's in Supply Chain Management program is $57,816. Tuition rates for each term are published annually, typically in February, and total tuition listed reflects Fall semester of entry.",
+   "cycle_evidence": "no year stated",
+   "rejected": "verifier: Check 2: filled from a single total; no page says the $57,816 figure applies to out-of-state students."
+  },
+  {
+   "sheet": "Online MSGSCM",
+   "row": 6,
+   "field": "International Tuition Total",
+   "value": "$57,816",
+   "status": "found",
+   "source_url": "https://scs.georgetown.edu/programs/503/online/online-masters-in-supply-chain-management/tuition-financial-aid",
+   "quote": "Total tuition for the Online Master's in Supply Chain Management program is $57,816. Tuition rates for each term are published annually, typically in February, and total tuition listed reflects Fall semester of entry.",
+   "cycle_evidence": "no year stated",
+   "rejected": "verifier: Check 2: filled from a single total; no page says the $57,816 figure applies to international students."
+  },
+  {
+   "sheet": "Online MSGSCM",
+   "row": 6,
+   "field": "Scholarship",
+   "value": "10% Federal Employee Scholarship; 10% Alumni Discount (GU classes 2023-2026); 10% World Bank Staff Association discount; CyberCorps Scholarship; no merit scholarships",
+   "status": "found",
+   "source_url": "https://scs.georgetown.edu/admissions/scholarships/",
+   "quote": "Members of Georgetown University's undergraduate classes of 2023, 2024, 2025, and 2026 are eligible for a 10% tuition scholarship during the Fall 2025 through Spring 2027 semesters. Current and former US federal workers and contractors are eligible for a 10% tuition scholarship on all Master of Professional Studies (MPS) programs ... during the Fall 2025 through Spring 2027 semesters. World Bank Staff Association Members ... current members eligible for a 10% tuition discount. CyberCorps Scholarship. Georgetown's School of Continuing Studies offers a limited number of service-based scholarships and tuition discounts, but does not offer merit or athletic scholarships",
+   "cycle_evidence": "Fall 2025 through Spring 2027 (covers 2026-2027)",
+   "rejected": "names term Fall 2025"
+  },
+  {
+   "sheet": "Online MS HRM",
+   "row": 3,
+   "field": "Affinity Groups (Yes/No)",
+   "value": "Yes",
+   "status": "found",
+   "source_url": "https://www.ilr.cornell.edu/current-students/student-organizations",
+   "quote": "IGSA (International Graduate Student Association) supports international graduate students socially and professionally, functioning as an integrated group with domestic students in the ILR School",
+   "cycle_evidence": "no year stated",
+   "rejected": "verifier: No page says EMHRM students can join these ILR-wide groups (and the alumni affinity groups are for alumni, not students)."
+  },
+  {
+   "sheet": "Online MS HRM",
+   "row": 3,
+   "field": "Affinity Groups Link",
+   "value": "https://www.ilr.cornell.edu/current-students/student-organizations",
+   "status": "found",
+   "source_url": "https://www.ilr.cornell.edu/current-students/student-organizations",
+   "quote": "IGSA (International Graduate Student Association) supports international graduate students socially and professionally",
+   "cycle_evidence": "no year stated",
+   "rejected": "verifier: No page says EMHRM students can join these ILR-wide groups (and the alumni affinity groups are for alumni, not students)."
+  },
+  {
+   "sheet": "Online MS HRM",
+   "row": 3,
+   "field": "Affinity Groups (brief description)",
+   "value": "International Graduate Student Association (IGSA); ILR Black Student Union; ILR Alumni Association Affinity Groups",
+   "status": "found",
+   "source_url": "https://www.ilr.cornell.edu/current-students/student-organizations",
+   "quote": "IGSA (International Graduate Student Association) supports international graduate students ... The ILR Black Student Union (ILR BSU) is an independent student organization that fosters solidarity between Black ILRies ... ILR Alumni Association Affinity Groups offer alumni a mechanism for connecting with fellow alumni",
+   "cycle_evidence": "no year stated",
+   "rejected": "verifier: No page says EMHRM students can join these ILR-wide groups (and the alumni affinity groups are for alumni, not students)."
+  },
+  {
    "sheet": "Online MS HRM",
    "row": 7,
    "field": "Deadline Date(s)",
@@ -53,6 +339,28 @@
    "quote": "Apply by December 1 to start January 11",
    "cycle_evidence": "no year stated (next start Jan 11 = Spring 2027)",
    "rejected": "value digits not in quote"
+  },
+  {
+   "sheet": "Online MS HRM",
+   "row": 9,
+   "field": "Career Coaching/Consulting Services Offered? (Yes/No)",
+   "value": "Yes",
+   "status": "found",
+   "source_url": "https://www.uu.edu/studentlife/vocatio-center/students/career-counseling/",
+   "quote": "the center offers gifts assessment and career counseling/coaching for students.",
+   "cycle_evidence": "no year stated",
+   "rejected": "verifier: Check 3: Vocatio Center coaching is a university-wide student-life service and no page found ties it to this MBA or its online students."
+  },
+  {
+   "sheet": "Online MS HRM",
+   "row": 9,
+   "field": "Career Coaching/Consulting Services Offered? (Link)",
+   "value": "https://www.uu.edu/studentlife/vocatio-center/students/career-counseling/",
+   "status": "found",
+   "source_url": "https://www.uu.edu/studentlife/vocatio-center/students/career-counseling/",
+   "quote": "the center offers gifts assessment and career counseling/coaching for students.",
+   "cycle_evidence": "no year stated",
+   "rejected": "verifier: Check 3: the link is a university-wide student-life page not tied to this program or its online students."
   },
   {
    "sheet": "Online MS HRM",
@@ -75,6 +383,336 @@
    "quote": "The online student body is 74% female, 49% minority ... Three percent of the group is international. [= 3%]",
    "cycle_evidence": "no year stated",
    "rejected": "value digits not in quote"
+  },
+  {
+   "sheet": "Online MBA",
+   "row": 3,
+   "field": "Experiential Learning Courses / Opportunities Link",
+   "value": "https://www.bu.edu/questrom/graduate-programs/experiential-learning/",
+   "status": "found",
+   "source_url": "https://www.bu.edu/questrom/graduate-programs/experiential-learning/",
+   "quote": "Experiential learning is a key component of all of Questrom's academic programs.",
+   "cycle_evidence": "no year stated",
+   "rejected": "verifier: Check 3: the linked page is school-wide Action Learning and does not describe the Online MBA's opportunities."
+  },
+  {
+   "sheet": "Online MBA",
+   "row": 3,
+   "field": "Experiential Learning Courses / Opportunities (brief description)",
+   "value": "Action Learning courses with a real client component applying classroom knowledge to real-world scenarios",
+   "status": "found",
+   "source_url": "https://www.bu.edu/questrom/graduate-programs/experiential-learning/",
+   "quote": "In courses with a real client component, students dive into hands-on experience, applying classroom knowledge to real-world scenarios, serving as the ultimate bridge between theory and practice.",
+   "cycle_evidence": "no year stated",
+   "rejected": "verifier: Check 3: the Action Learning real-client description comes from a school-wide page and no page found ties those courses to the Online MBA."
+  },
+  {
+   "sheet": "Online MBA",
+   "row": 4,
+   "field": "Deadline Date(s)",
+   "value": "Spring: Dec 10; Summer (online MBA only): Apr 1; Fall: Jul 15 (pending available space)",
+   "status": "found",
+   "source_url": "https://online.butler.edu/online-mba/admission/",
+   "quote": "applications are accepted through December 10 for the spring semester and July 15 for the fall semester, pending available space in the cohort. For the summer semester (online MBA only), applications are accepted through April 1 pending available space in the cohort.",
+   "cycle_evidence": "no year stated",
+   "rejected": "verifier: butler.edu MBA admission page gives December 1 (not December 10) for spring; pages conflict and neither ties the dates to 2026-2027."
+  },
+  {
+   "sheet": "Online MBA",
+   "row": 6,
+   "field": "Affinity Groups (Yes/No)",
+   "value": "Yes",
+   "status": "found",
+   "source_url": "https://www.johnson.cornell.edu/new-students/living-in-ithaca/diversity-and-inclusion/",
+   "quote": "Cornell Johnson offers a wide network of student clubs that support and celebrate diversity and inclusion in their community and the broader business world.",
+   "cycle_evidence": "no year stated",
+   "rejected": "verifier: Diversity page is under the residential MBA 'living in Ithaca' section; no page says EMBA Americas students can join these clubs."
+  },
+  {
+   "sheet": "Online MBA",
+   "row": 6,
+   "field": "Affinity Groups Link",
+   "value": "https://www.johnson.cornell.edu/new-students/living-in-ithaca/diversity-and-inclusion/",
+   "status": "found",
+   "source_url": "https://www.johnson.cornell.edu/new-students/living-in-ithaca/diversity-and-inclusion/",
+   "quote": "Cornell Johnson offers a wide network of student clubs that support and celebrate diversity and inclusion",
+   "cycle_evidence": "no year stated",
+   "rejected": "verifier: Diversity page is under the residential MBA 'living in Ithaca' section; no page says EMBA Americas students can join these clubs."
+  },
+  {
+   "sheet": "Online MBA",
+   "row": 6,
+   "field": "Affinity Groups (brief description)",
+   "value": "Women's Management Council, Black Graduate Student Association, Out for Business (O4B), Association of Veterans at Johnson",
+   "status": "found",
+   "source_url": "https://www.johnson.cornell.edu/new-students/living-in-ithaca/diversity-and-inclusion/",
+   "quote": "Women's Management Council ... Black Graduate Student Association ... Out for Business (O4B) club for lesbian, gay, bisexual, transgender, and queer (LGBTQ+) Johnson School students ... The Association of Veterans at Johnson",
+   "cycle_evidence": "no year stated",
+   "rejected": "verifier: Diversity page is under the residential MBA 'living in Ithaca' section; no page says EMBA Americas students can join these clubs."
+  },
+  {
+   "sheet": "Online MBA",
+   "row": 8,
+   "field": "Work Experience (Month)",
+   "value": "180",
+   "status": "found",
+   "source_url": "https://goizueta.emory.edu/emba/admissions",
+   "quote": "Students bring a minimum of 10 years of professional experience, with 15 years being the average.",
+   "cycle_evidence": "no year stated",
+   "rejected": "verifier: Check 3: 15-year average is for the whole Executive MBA (all formats), not the online format; average also not re-found in search."
+  },
+  {
+   "sheet": "Online MBA",
+   "row": 8,
+   "field": "Class Size",
+   "value": "45-65 (per EMBA cohort)",
+   "status": "found",
+   "source_url": "https://goizueta.emory.edu/emba/faq",
+   "quote": "Each EMBA cohort is 45-65 students, with cohorts starting in the fall being larger than those that start in the spring.",
+   "cycle_evidence": "no year stated",
+   "rejected": "verifier: Check 3: 45-65 is the cohort size for the whole EMBA across formats, not the Online EMBA."
+  },
+  {
+   "sheet": "Online MBA",
+   "row": 8,
+   "field": "Credit Hours",
+   "value": "9 core classes, 2 immersions, 8 electives",
+   "status": "found",
+   "source_url": "https://goizueta.emory.edu/emba/faq",
+   "quote": "the EMBA degree requires nine core classes, two immersions, and eight electives to graduate.",
+   "cycle_evidence": "no year stated",
+   "rejected": "value digits not in quote"
+  },
+  {
+   "sheet": "Online MBA",
+   "row": 13,
+   "field": "Duration (months)",
+   "value": "32.4-72 (2.7 to 6 years)",
+   "status": "found",
+   "source_url": "https://carey.jhu.edu/programs/mba-programs/mba-flexible",
+   "quote": "The Flexible MBA can be completed in 2.7 to 6 years, depending on how many courses you take per term.",
+   "cycle_evidence": "no year stated",
+   "rejected": "value digits not in quote"
+  },
+  {
+   "sheet": "Online MBA",
+   "row": 13,
+   "field": "Scholarship",
+   "value": "Dean's Scholarship (merit, automatic consideration); Reaching Out MBA Fellowships (separate application); Tech Fellowship Award (job separation in 2025-2026, starting 2026)",
+   "status": "found",
+   "source_url": "https://carey.jhu.edu/admissions/financial-aid/prospective-part-time-students",
+   "quote": "All part-time students are automatically considered for merit-based scholarships, particularly Dean's Scholarship ... Reaching Out MBA Fellowships for Flexible MBA students ... Tech Fellowship Award ... plan to begin your Carey program in 2026.",
+   "cycle_evidence": "2026 start (Tech Fellowship); others no year stated",
+   "rejected": "names academic year 2025-2026"
+  },
+  {
+   "sheet": "Online MBA",
+   "row": 14,
+   "field": "Out-of-State Tuition Per Credit",
+   "value": "$2,374",
+   "status": "found",
+   "source_url": "https://onlinebusiness.rice.edu/admissions/tuition-and-financial-aid/",
+   "quote": "Tuition for the 2026-27 academic year is $2,374 per credit. Students are required to complete 54 credits, totaling $128,196 for the entirety of the program.",
+   "cycle_evidence": "2026-27",
+   "rejected": "verifier: Check 1: page gives one 2026-27 rate with no statement that it applies to out-of-state/international students; the residency fill is inferred."
+  },
+  {
+   "sheet": "Online MBA",
+   "row": 14,
+   "field": "International Tuition Per Credit",
+   "value": "$2,374",
+   "status": "found",
+   "source_url": "https://onlinebusiness.rice.edu/admissions/tuition-and-financial-aid/",
+   "quote": "Tuition for the 2026-27 academic year is $2,374 per credit. Students are required to complete 54 credits, totaling $128,196 for the entirety of the program.",
+   "cycle_evidence": "2026-27",
+   "rejected": "verifier: Check 1: page gives one 2026-27 rate with no statement that it applies to out-of-state/international students; the residency fill is inferred."
+  },
+  {
+   "sheet": "Online MBA",
+   "row": 14,
+   "field": "Out-of-State Tuition Total",
+   "value": "$128,196",
+   "status": "found",
+   "source_url": "https://onlinebusiness.rice.edu/admissions/tuition-and-financial-aid/",
+   "quote": "Tuition for the 2026-27 academic year is $2,374 per credit. Students are required to complete 54 credits, totaling $128,196 for the entirety of the program.",
+   "cycle_evidence": "2026-27",
+   "rejected": "verifier: Check 1: page gives one 2026-27 rate with no statement that it applies to out-of-state/international students; the residency fill is inferred."
+  },
+  {
+   "sheet": "Online MBA",
+   "row": 14,
+   "field": "International Tuition Total",
+   "value": "$128,196",
+   "status": "found",
+   "source_url": "https://onlinebusiness.rice.edu/admissions/tuition-and-financial-aid/",
+   "quote": "Tuition for the 2026-27 academic year is $2,374 per credit. Students are required to complete 54 credits, totaling $128,196 for the entirety of the program.",
+   "cycle_evidence": "2026-27",
+   "rejected": "verifier: Check 1: page gives one 2026-27 rate with no statement that it applies to out-of-state/international students; the residency fill is inferred."
+  },
+  {
+   "sheet": "Online MBA",
+   "row": 15,
+   "field": "Ranking (U.S. News)",
+   "value": "#75, 2026 Best Online MBA Programs",
+   "status": "found",
+   "source_url": "https://www.usnews.com/education/online-education/syracuse-university-OBUS0608/mba",
+   "quote": "Syracuse University (Whitman) is ranked No. 75 out of 356 in Best Online MBA Programs",
+   "cycle_evidence": "2026 edition",
+   "rejected": "value digits not in quote"
+  },
+  {
+   "sheet": "Online MBA",
+   "row": 16,
+   "field": "Ranking (U.S. News)",
+   "value": "#50, 2026 Best Online MBA Programs",
+   "status": "found",
+   "source_url": "https://www.usnews.com/education/online-education/the-ohio-state-university-OBUS0446/mba",
+   "quote": "The Ohio State University (Fisher) is ranked No. 50 out of 364 in Best Online MBA Programs",
+   "cycle_evidence": "2026 edition",
+   "rejected": "value digits not in quote"
+  },
+  {
+   "sheet": "Online MBA",
+   "row": 19,
+   "field": "Average Post-Grad Salary",
+   "value": "$154,712",
+   "status": "found",
+   "source_url": "https://warrington.ufl.edu/news/2026-financial-times-online-mba/",
+   "quote": "With an average salary of $154,712 after completing the program and the average cost of tuition around $56,200, the program offers students an excellent return on investment.",
+   "cycle_evidence": "Financial Times 2026 Online MBA ranking article",
+   "rejected": "verifier: Figure is the Financial Times 2026 ranking's alumni salary (third-party ranking data for an earlier graduating cohort), not a program employment report figure (check 3/4)."
+  },
+  {
+   "sheet": "Online MBA",
+   "row": 21,
+   "field": "Job Placement %",
+   "value": "94% within six months",
+   "status": "found",
+   "source_url": "https://businessgraddegrees.uic.edu/mba-online/",
+   "quote": "With a 94% employment rate within six months and an average starting salary of $101,000, UIC's MBA graduates demonstrate the program's strong return on investment.",
+   "cycle_evidence": "no year stated",
+   "rejected": "verifier: Statement attributes the 94% rate to 'UIC's MBA graduates' generally, not specifically to Online MBA graduates, and gives no report year (check 3)."
+  },
+  {
+   "sheet": "Online MBA",
+   "row": 21,
+   "field": "Average Post-Grad Salary",
+   "value": "$101,000",
+   "status": "found",
+   "source_url": "https://businessgraddegrees.uic.edu/mba-online/",
+   "quote": "With a 94% employment rate within six months and an average starting salary of $101,000, UIC's MBA graduates demonstrate the program's strong return on investment.",
+   "cycle_evidence": "no year stated",
+   "rejected": "verifier: The $101,000 average is attributed to 'UIC's MBA graduates' generally, not specifically to the Online MBA (check 3)."
+  },
+  {
+   "sheet": "Online MBA",
+   "row": 22,
+   "field": "Deadline Date(s)",
+   "value": "Spring term: Priority 1 deadline Sep 3, 2026 (later rounds not returned)",
+   "status": "found",
+   "source_url": "https://giesonline.illinois.edu/explore-programs/online-mba/admissions",
+   "quote": "Spring Priority 1 Deadline: Thursday, September 3, 2026",
+   "cycle_evidence": "Spring 2027",
+   "rejected": "verifier: Check 4: page lists only 'Spring Priority 1 Deadline: Thursday, September 3, 2026' without naming the Spring 2027 term (term year inferred) and the value omits later rounds."
+  },
+  {
+   "sheet": "Online MBA",
+   "row": 22,
+   "field": "Out-of-State Tuition Per Credit",
+   "value": "$379",
+   "status": "found",
+   "source_url": "https://giesonline.illinois.edu/tuition-costs",
+   "quote": "For the Fall 2026 - Summer 2027 Academic Year, students will pay University of Illinois tuition and fees of $379 per credit hour (single rate, no residency tiers listed)",
+   "cycle_evidence": "Fall 2026 - Summer 2027",
+   "rejected": "verifier: Check 2: the Gies tuition page gives one Fall 2026-Summer 2027 rate but does not state it applies to out-of-state/international students; the residency applicability was inferred."
+  },
+  {
+   "sheet": "Online MBA",
+   "row": 22,
+   "field": "International Tuition Per Credit",
+   "value": "$379",
+   "status": "found",
+   "source_url": "https://giesonline.illinois.edu/tuition-costs",
+   "quote": "For the Fall 2026 - Summer 2027 Academic Year, students will pay University of Illinois tuition and fees of $379 per credit hour (single rate, no residency tiers listed)",
+   "cycle_evidence": "Fall 2026 - Summer 2027",
+   "rejected": "verifier: Check 2: the Gies tuition page gives one Fall 2026-Summer 2027 rate but does not state it applies to out-of-state/international students; the residency applicability was inferred."
+  },
+  {
+   "sheet": "Online MBA",
+   "row": 22,
+   "field": "Out-of-State Tuition Total",
+   "value": "$27,288",
+   "status": "found",
+   "source_url": "https://giesonline.illinois.edu/tuition-costs",
+   "quote": "For the Fall 2026 - Summer 2027 Academic Year ... iMBA total tuition of $27,288. (single rate, no residency tiers listed)",
+   "cycle_evidence": "Fall 2026 - Summer 2027",
+   "rejected": "verifier: Check 2: the Gies tuition page gives one Fall 2026-Summer 2027 rate but does not state it applies to out-of-state/international students; the residency applicability was inferred."
+  },
+  {
+   "sheet": "Online MBA",
+   "row": 22,
+   "field": "International Tuition Total",
+   "value": "$27,288",
+   "status": "found",
+   "source_url": "https://giesonline.illinois.edu/tuition-costs",
+   "quote": "For the Fall 2026 - Summer 2027 Academic Year ... iMBA total tuition of $27,288. (single rate, no residency tiers listed)",
+   "cycle_evidence": "Fall 2026 - Summer 2027",
+   "rejected": "verifier: Check 2: the Gies tuition page gives one Fall 2026-Summer 2027 rate but does not state it applies to out-of-state/international students; the residency applicability was inferred."
+  },
+  {
+   "sheet": "Online MBA",
+   "row": 23,
+   "field": "Ranking (U.S. News)",
+   "value": "#133 Part-time MBA, U.S. News 2026 Best Graduate Schools",
+   "status": "found",
+   "source_url": "https://news.umflint.edu/2026/04/07/um-flint-graduate-programs-earn-national-recognition-from-u-s-news-world-report/",
+   "quote": "UM-Flint's Part-time MBA program ranked No. 133 in the U.S. News & World Report 2026 Best Graduate Schools rankings.",
+   "cycle_evidence": "2026 edition",
+   "rejected": "verifier: Rank is for the Part-time MBA category, not the online MBA (check 3)."
+  },
+  {
+   "sheet": "Online MBA",
+   "row": 24,
+   "field": "Class Size",
+   "value": "18 (average students per live class session)",
+   "status": "found",
+   "source_url": "https://online.unc.edu/online-masters-programs/online-mba/",
+   "quote": "maintains small class sizes with an average of only 18 students per session.",
+   "cycle_evidence": "no year stated",
+   "rejected": "verifier: 18 is the average students per live class session, not the size of the entering class/cohort (check 2)."
+  },
+  {
+   "sheet": "Online MBA",
+   "row": 25,
+   "field": "Ranking (U.S. News)",
+   "value": "#119 (of 364), 2026 Best Online MBA Programs",
+   "status": "found",
+   "source_url": "https://www.usnews.com/education/online-education/the-university-of-tennessee-OBUS0775/mba",
+   "quote": "University of Tennessee--Knoxville is ranked No. 119 out of 364 in Best Online MBA Programs.",
+   "cycle_evidence": "current U.S. News edition = 2026 Best Online MBA Programs (usnews.com/education/online-education/mba/rankings)",
+   "rejected": "value digits not in quote"
+  },
+  {
+   "sheet": "Online MBA",
+   "row": 26,
+   "field": "Ranking (U.S. News)",
+   "value": "#58 Part-time MBA, U.S. News 2026 Best Graduate Schools",
+   "status": "found",
+   "source_url": "https://www.uta.edu/news/news-releases/2026/04/07/uta-graduate-schools-earn-national-recognition",
+   "quote": "The part-time MBA program came in No. 58 out of 241 in U.S. News & World Report's 2026 \"Best Graduate Schools\" list.",
+   "cycle_evidence": "2026 edition",
+   "rejected": "verifier: Rank is for the Part-time MBA category, not the online MBA (check 3)."
+  },
+  {
+   "sheet": "Online MBA",
+   "row": 27,
+   "field": "On-Campus Options - Are they offered to online students? (Y/N)",
+   "value": "No - no required in-person meetings; optional international field study abroad",
+   "status": "found",
+   "source_url": "https://mba.wsu.edu/faq/",
+   "quote": "There are no required in-person meetings or functions for this program",
+   "cycle_evidence": "no year stated",
+   "rejected": "verifier: Check 2/5: the quote only says in-person meetings are not required; the same FAQ says graduates are invited to on-campus commencement and students to events, so it does not support 'No' on-campus options."
   }
  ]
 }

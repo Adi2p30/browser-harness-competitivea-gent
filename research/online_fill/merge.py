@@ -18,7 +18,7 @@ sys.path.insert(0, str(ROOT / "agent-workspace"))
 from competitive_analysis.__main__ import (DEFAULT_CYCLE, NO_PROGRAM, NOT_FOUND, NOT_PUBLISHED,  # noqa: E402
                                            is_note_row, needs_value)
 from competitive_analysis.agent import Context  # noqa: E402
-from competitive_analysis.colleges import no_online_program  # noqa: E402
+from competitive_analysis.colleges import links_for, no_online_program  # noqa: E402
 from competitive_analysis.excel_io import classify_columns, is_blank, load_frames, website_column, write_back  # noqa: E402
 
 HERE = Path(__file__).parent
@@ -42,7 +42,10 @@ def read_jsonl(pattern: str) -> dict[tuple, dict]:
     return out
 
 
-def code_check(f: dict) -> str | None:
+WORDS = {w: i for i, w in enumerate("one two three four five six seven eight nine ten".split(), 1)}
+
+
+def code_check(f: dict, verified: bool = False) -> str | None:
     value = str(f.get("value") or "").strip()
     quote = re.sub(r"\[[^\]]*\]", " ", str(f.get("quote") or ""))  # agent-added [notes] are not page text
     if not value:
@@ -53,10 +56,12 @@ def code_check(f: dict) -> str | None:
         # the field guide converts years to months for these columns: accept exactly 12 x a year figure in the quote
         years = {float(n) * 12 for m in re.finditer(r"(\d+(?:\.\d+)?)(?:\s*(?:-|to|\u2013)\s*(\d+(?:\.\d+)?))?\s*years?",
                                                   quote, re.I) for n in m.groups() if n}
-        years |= {12.0 * w for w, n in ((1, "one"), (2, "two"), (3, "three"), (4, "four"), (5, "five"))
-                  if re.search(rf"\b{n}\s+years?\b", quote, re.I)}
+        years |= {12.0 * n for w, n in WORDS.items()  # "one and two years", "six years", "one calendar year"
+                  if re.search(rf"\b{w}\b(?=[^.]{{0,40}}?\byears?\b)", quote, re.I)}
         if re.search(r"duration|time commitment|work experience", f["field"], re.I):
             missing = [d for d in missing if float(d) not in years]
+        if verified:  # the verifier independently confirmed the value for the 2026-2027 cycle
+            missing = [d for d in missing if d not in ("2026", "2027")]
         if missing:
             return "value digits not in quote"
     return CTX.cycle_violation(f"{quote} {value}", "deadline" in f["field"].casefold())
@@ -90,6 +95,9 @@ def main() -> None:
                         put(sheet, df, row, col, NO_PROGRAM, note)
                         stats["no_program"] += 1
                 continue
+            if needs_value(df.at[row, web]) and (seed := links_for(sheet, college, "" if is_blank(df.iloc[row, 2])
+                                                                   else str(df.iloc[row, 2]))):
+                put(sheet, df, row, web, seed[0], "starting link (colleges.py, from research/link_discovery)")
             for col in targets:
                 if col == web or not needs_value(df.at[row, col]):
                     continue
@@ -103,13 +111,13 @@ def main() -> None:
                     put(sheet, df, row, col, NOT_FOUND, f"not found for 2026-2027 | {why}"[:900])
                     stats["not_found"] += 1
                     continue
-                if bad := code_check(f):
+                v = verdicts.get((sheet, row + 2, col), {})
+                if bad := code_check(f, v.get("verdict") == "correct"):
                     rejects.append({**f, "rejected": bad})
                     put(sheet, df, row, col, NOT_FOUND, f"candidate {f['value']!r} rejected by code check: {bad}\n"
                                                         f"{f.get('source_url')}\n\"{f.get('quote')}\""[:900])
                     stats["rejected_by_code"] += 1
                     continue
-                v = verdicts.get((sheet, row + 2, col), {})
                 src = f"{f.get('source_url')}\n\"{f.get('quote')}\" ({f.get('cycle_evidence', '')})"
                 if v.get("verdict") == "correct":
                     value = str(v.get("corrected_value") or "").strip() or f["value"]
