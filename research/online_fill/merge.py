@@ -46,7 +46,14 @@ def code_check(f: dict) -> str | None:
         return "empty value"
     if "link" not in f["field"].casefold():
         digits = re.sub(r"[,\s]", "", quote)
-        if any(d not in digits for d in re.findall(r"\d+", value.replace(",", ""))):
+        missing = [d for d in re.findall(r"\d+", value.replace(",", "")) if d not in digits]
+        # the field guide converts years to months for these columns: accept exactly 12 x a year figure in the quote
+        years = {float(y) * 12 for y in re.findall(r"(\d+(?:\.\d+)?)\s*(?:-|to)?\s*(?:\d+\s*)?years?", quote, re.I)}
+        years |= {12.0 * w for w, n in ((1, "one"), (2, "two"), (3, "three"), (4, "four"), (5, "five"))
+                  if re.search(rf"\b{n}\s+years?\b", quote, re.I)}
+        if re.search(r"duration|time commitment|work experience", f["field"], re.I):
+            missing = [d for d in missing if float(d) not in years]
+        if missing:
             return "value digits not in quote"
     return CTX.cycle_violation(f"{quote} {value}", "deadline" in f["field"].casefold())
 
