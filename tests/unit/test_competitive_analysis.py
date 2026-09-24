@@ -409,6 +409,7 @@ def test_cli_fills_every_cell_no_matter_what(monkeypatch, tmp_path, clean_loggin
     ("Class of 2028 average GPA 3.4.", False, None),
     ("Ranked #5 in 2025 U.S. News.", False, "names year 2025"),
     ("Ranked #5 in 2026 Best Online Programs.", False, None),
+    ("403 Mitch Daniels Boulevard, West Lafayette, IN 47907-2076", False, None),  # ZIP+4, not a year
 ])
 def test_only_the_2026_2027_cycle_passes(text, deadline, why):
     ctx = agent.Context(date(2026, 9, 24), cli.DEFAULT_CYCLE, "Online MBA")

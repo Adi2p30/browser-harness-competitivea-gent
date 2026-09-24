@@ -24,6 +24,8 @@ from competitive_analysis.excel_io import classify_columns, is_blank, load_frame
 HERE = Path(__file__).parent
 SRC = ROOT / "EDIT Competitive Analysis Research 2026-2027.xlsx"
 DEST = SRC.with_name(f"{SRC.stem}_online_filled{SRC.suffix}")
+# Descriptive columns hold prose answers; the digit check applies to numeric columns only.
+PROSE = re.compile(r"link|description|yes/no|\(y/n\)|3yr|scholarship|delivery|on-campus|school / college|location", re.I)
 CTX = Context(date(2026, 9, 24), DEFAULT_CYCLE, "online program")
 
 
@@ -45,11 +47,12 @@ def code_check(f: dict) -> str | None:
     quote = re.sub(r"\[[^\]]*\]", " ", str(f.get("quote") or ""))  # agent-added [notes] are not page text
     if not value:
         return "empty value"
-    if "link" not in f["field"].casefold():
+    if not PROSE.search(f["field"]):
         digits = re.sub(r"[,\s]", "", quote)
         missing = [d for d in re.findall(r"\d+", value.replace(",", "")) if d not in digits]
         # the field guide converts years to months for these columns: accept exactly 12 x a year figure in the quote
-        years = {float(y) * 12 for y in re.findall(r"(\d+(?:\.\d+)?)\s*(?:-|to)?\s*(?:\d+\s*)?years?", quote, re.I)}
+        years = {float(n) * 12 for m in re.finditer(r"(\d+(?:\.\d+)?)(?:\s*(?:-|to|\u2013)\s*(\d+(?:\.\d+)?))?\s*years?",
+                                                  quote, re.I) for n in m.groups() if n}
         years |= {12.0 * w for w, n in ((1, "one"), (2, "two"), (3, "three"), (4, "four"), (5, "five"))
                   if re.search(rf"\b{n}\s+years?\b", quote, re.I)}
         if re.search(r"duration|time commitment|work experience", f["field"], re.I):

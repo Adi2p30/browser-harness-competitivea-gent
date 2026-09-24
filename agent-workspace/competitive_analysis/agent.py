@@ -30,7 +30,7 @@ MAX_VERIFY_ROUNDS = 3
 TERM = re.compile(r"\b(fall|autumn|spring|summer)\s+(?:semester\s+|term\s+|quarter\s+)?(20\d\d)\b", re.I)
 AY_RANGE = re.compile(r"(?<!\d)(20\d\d)\s*(?:-|\u2013|\u2014|/|to)\s*(20\d\d|\d\d)(?!\d)")
 CLASS_OF = re.compile(r"\bclass\s+of\s+(20\d\d)\b", re.I)
-YEAR = re.compile(r"(?<!\d)(20\d\d)(?!\d)")
+YEAR = re.compile(r"(?<!\d)(?<!\d{5}-)(20\d\d)(?!\d)")  # not the +4 of a ZIP code (47907-2076)
 GENERIC_KEYWORDS = ("admission", "apply", "deadline", "tuition", "cost", "fee", "requirement",
                     "graduate", "financial", "program", "degree", "curriculum", "international")
 

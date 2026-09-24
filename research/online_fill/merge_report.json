@@ -1,48 +1,15 @@
 {
  "stats": {
-  "verified": 120,
-  "unverified": 82,
-  "rejected_by_code": 21,
+  "verified": 137,
+  "unverified": 109,
+  "rejected_by_code": 6,
   "rejected_by_verifier": 0,
-  "not_found": 2246,
+  "not_found": 2217,
   "not_published": 244,
   "no_program": 270,
   "verifier_corrected": 1
  },
  "rejected": [
-  {
-   "sheet": "Online MS Business Analytics",
-   "row": 2,
-   "field": "Location - City",
-   "value": "West Lafayette",
-   "status": "found",
-   "source_url": "https://business.purdue.edu/careers/contact.php",
-   "quote": "403 Mitch Daniels Boulevard, West Lafayette, IN 47907-2076",
-   "cycle_evidence": "no year stated",
-   "rejected": "names year 2076"
-  },
-  {
-   "sheet": "Online MS Business Analytics",
-   "row": 2,
-   "field": "Location - State",
-   "value": "IN",
-   "status": "found",
-   "source_url": "https://business.purdue.edu/careers/contact.php",
-   "quote": "403 Mitch Daniels Boulevard, West Lafayette, IN 47907-2076",
-   "cycle_evidence": "no year stated",
-   "rejected": "names year 2076"
-  },
-  {
-   "sheet": "Online MS Business Analytics",
-   "row": 5,
-   "field": "Accept 3yr-degree from India? ",
-   "value": "N - requires Part 1 master's exams (or PG diploma) after 3-year bachelor's",
-   "status": "found",
-   "source_url": "https://ois.iu.edu/admissions/apply/graduate/equivalent.html",
-   "quote": "Students educated in India are expected to complete the Part 1 exams of a university master's degree following a three-year bachelor's degree to be eligible for graduate consideration.",
-   "cycle_evidence": "no year stated",
-   "rejected": "value digits not in quote"
-  },
   {
    "sheet": "Online MS Business Analytics",
    "row": 6,
@@ -55,102 +22,25 @@
    "rejected": "value digits not in quote"
   },
   {
-   "sheet": "Online MS Business Analytics",
-   "row": 6,
-   "field": "Accept 3yr-degree from India? ",
-   "value": "N - requires four-year degree; a 3-year degree qualifies only with master's, CA final exam, or 1-year full-time PG diploma",
+   "sheet": "Online MS Economics",
+   "row": 12,
+   "field": "In-State Tuition Per Credit",
+   "value": "$4,628 per course (3 credits; page gives per-course rate only)",
    "status": "found",
-   "source_url": "https://gradschool.psu.edu/graduate-admissions/how-to-apply/new-applicants/requirements-for-graduate-admission/admission-eligibility-by-country/",
-   "quote": "Applicants from India who have completed a four-year bachelor's degree or the master's degree examinations following a three-year bachelor's degree are eligible to apply ... Three-year bachelor's degrees followed by a post-graduate diploma may be acceptable if the diploma program is one year full-time in length and offered by an Indian University that is recognized by the Association of Indian Universities.",
-   "cycle_evidence": "no year stated",
+   "source_url": "https://masters.econ.umd.edu/tuition-cost-attendance/",
+   "quote": "The M.S. in Applied Economics program's tuition is $4,628 per course for academic year 2026-27. Tuition per course is identical in both the in-person versions and the online version ... Tuition is the same for both in-state and out-of-state residents",
+   "cycle_evidence": "2026-27",
    "rejected": "value digits not in quote"
   },
   {
    "sheet": "Online MS Economics",
-   "row": 2,
-   "field": "Location - City",
-   "value": "West Lafayette",
+   "row": 12,
+   "field": "Out-of-State Tuition Per Credit",
+   "value": "$4,628 per course (3 credits; page gives per-course rate only)",
    "status": "found",
-   "source_url": "https://business.purdue.edu/careers/contact.php",
-   "quote": "403 Mitch Daniels Boulevard, West Lafayette, IN 47907-2076",
-   "cycle_evidence": "no year stated",
-   "rejected": "names year 2076"
-  },
-  {
-   "sheet": "Online MS Economics",
-   "row": 2,
-   "field": "Location - State",
-   "value": "IN",
-   "status": "found",
-   "source_url": "https://business.purdue.edu/careers/contact.php",
-   "quote": "403 Mitch Daniels Boulevard, West Lafayette, IN 47907-2076",
-   "cycle_evidence": "no year stated",
-   "rejected": "names year 2076"
-  },
-  {
-   "sheet": "Online MSGSCM",
-   "row": 2,
-   "field": "Location - City",
-   "value": "West Lafayette",
-   "status": "found",
-   "source_url": "https://business.purdue.edu/careers/contact.php",
-   "quote": "403 Mitch Daniels Boulevard, West Lafayette, IN 47907-2076",
-   "cycle_evidence": "no year stated",
-   "rejected": "names year 2076"
-  },
-  {
-   "sheet": "Online MSGSCM",
-   "row": 2,
-   "field": "Location - State",
-   "value": "IN",
-   "status": "found",
-   "source_url": "https://business.purdue.edu/careers/contact.php",
-   "quote": "403 Mitch Daniels Boulevard, West Lafayette, IN 47907-2076",
-   "cycle_evidence": "no year stated",
-   "rejected": "names year 2076"
-  },
-  {
-   "sheet": "Online MS HRM",
-   "row": 2,
-   "field": "Location - City",
-   "value": "West Lafayette",
-   "status": "found",
-   "source_url": "https://business.purdue.edu/careers/contact.php",
-   "quote": "403 Mitch Daniels Boulevard, West Lafayette, IN 47907-2076",
-   "cycle_evidence": "no year stated",
-   "rejected": "names year 2076"
-  },
-  {
-   "sheet": "Online MS HRM",
-   "row": 2,
-   "field": "Location - State",
-   "value": "IN",
-   "status": "found",
-   "source_url": "https://business.purdue.edu/careers/contact.php",
-   "quote": "403 Mitch Daniels Boulevard, West Lafayette, IN 47907-2076",
-   "cycle_evidence": "no year stated",
-   "rejected": "names year 2076"
-  },
-  {
-   "sheet": "Online MS HRM",
-   "row": 2,
-   "field": "Duration (months)",
-   "value": "24-36",
-   "status": "found",
-   "source_url": "https://business.purdue.edu/online/programs/ms-human-resource-management/",
-   "quote": "The program requires 30 credit hours and can be completed in 2-3 years online.",
-   "cycle_evidence": "no year stated",
-   "rejected": "value digits not in quote"
-  },
-  {
-   "sheet": "Online MS HRM",
-   "row": 5,
-   "field": "Scholarship",
-   "value": "Graduate scholarships and fellowships $500-$20,000 per year per scholarship; application deadline March 1",
-   "status": "found",
-   "source_url": "https://oneill.indianapolis.iu.edu/admissions/cost-finances/grad-scholar-fellow/index.html",
-   "quote": "Award amounts range from $500 to $20,000 per year, per scholarship.",
-   "cycle_evidence": "no year stated",
+   "source_url": "https://masters.econ.umd.edu/tuition-cost-attendance/",
+   "quote": "The M.S. in Applied Economics program's tuition is $4,628 per course for academic year 2026-27. Tuition per course is identical in both the in-person versions and the online version ... Tuition is the same for both in-state and out-of-state residents",
+   "cycle_evidence": "2026-27",
    "rejected": "value digits not in quote"
   },
   {
@@ -162,17 +52,6 @@
    "source_url": "https://www.worldcampus.psu.edu/degrees-and-certificates/penn-state-online-human-resources-and-employment-relations-masters-degree",
    "quote": "Apply by December 1 to start January 11",
    "cycle_evidence": "no year stated (next start Jan 11 = Spring 2027)",
-   "rejected": "value digits not in quote"
-  },
-  {
-   "sheet": "Online MS HRM",
-   "row": 7,
-   "field": "Accept 3yr-degree from India? (Y/N)",
-   "value": "N - requires four-year degree; a 3-year degree qualifies only with master's, CA final exam, or 1-year full-time PG diploma",
-   "status": "found",
-   "source_url": "https://gradschool.psu.edu/graduate-admissions/how-to-apply/new-applicants/requirements-for-graduate-admission/admission-eligibility-by-country/",
-   "quote": "Applicants from India who have completed a four-year bachelor's degree or the master's degree examinations following a three-year bachelor's degree are eligible to apply ... Three-year bachelor's degrees followed by a post-graduate diploma may be acceptable if the diploma program is one year full-time in length and offered by an Indian University that is recognized by the Association of Indian Universities.",
-   "cycle_evidence": "no year stated",
    "rejected": "value digits not in quote"
   },
   {
@@ -194,50 +73,6 @@
    "status": "found",
    "source_url": "https://ler.illinois.edu/about/by-the-numbers/",
    "quote": "The online student body is 74% female, 49% minority ... Three percent of the group is international. [= 3%]",
-   "cycle_evidence": "no year stated",
-   "rejected": "value digits not in quote"
-  },
-  {
-   "sheet": "Online MBA",
-   "row": 2,
-   "field": "Location - City",
-   "value": "West Lafayette",
-   "status": "found",
-   "source_url": "https://business.purdue.edu/careers/contact.php",
-   "quote": "403 Mitch Daniels Boulevard, West Lafayette, IN 47907-2076",
-   "cycle_evidence": "no year stated",
-   "rejected": "names year 2076"
-  },
-  {
-   "sheet": "Online MBA",
-   "row": 2,
-   "field": "Location - State",
-   "value": "IN",
-   "status": "found",
-   "source_url": "https://business.purdue.edu/careers/contact.php",
-   "quote": "403 Mitch Daniels Boulevard, West Lafayette, IN 47907-2076",
-   "cycle_evidence": "no year stated",
-   "rejected": "names year 2076"
-  },
-  {
-   "sheet": "Online MBA",
-   "row": 12,
-   "field": "Experiential Learning Courses / Opportunities (brief description)",
-   "value": "10-14 global and domestic immersions per year (consulting with real clients abroad and in the US), Kelley On Location in US cities.",
-   "status": "found",
-   "source_url": "https://kelley.iu.edu/programs/online/why-kelley/immersions/index.html",
-   "quote": "International or domestic immersions allow Kelley Direct students to travel domestically and internationally to study a country's business culture or consult with real clients",
-   "cycle_evidence": "no year stated",
-   "rejected": "value digits not in quote"
-  },
-  {
-   "sheet": "Online MBA",
-   "row": 12,
-   "field": "Accept 3yr-degree from India? (Y/N)",
-   "value": "N - requires Part 1 master's exams (or PG diploma) after 3-year bachelor's",
-   "status": "found",
-   "source_url": "https://ois.iu.edu/admissions/apply/graduate/equivalent.html",
-   "quote": "Students educated in India are expected to complete the Part 1 exams of a university master's degree following a three-year bachelor's degree to be eligible for graduate consideration.",
    "cycle_evidence": "no year stated",
    "rejected": "value digits not in quote"
   }
