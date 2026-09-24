@@ -113,6 +113,11 @@ def main() -> None:
                     put(sheet, df, row, col, value, f"verified (research + verification agents, web search) | "
                                                     f"{v.get('reason', '')}\n{src}"[:900])
                     stats["verified"] += 1
+                elif v.get("verdict") == "incorrect" and (fix := str(v.get("corrected_value") or "").strip()) \
+                        and not CTX.cycle_violation(f"{fix} {v.get('reason', '')}", "deadline" in col.casefold()):
+                    put(sheet, df, row, col, fix, f"corrected by verification agent (research value {f['value']!r} "
+                                                  f"was wrong): {v.get('reason')}\n{v.get('source_url')}"[:900])
+                    stats["verifier_corrected"] = stats.get("verifier_corrected", 0) + 1
                 elif v.get("verdict") == "incorrect":
                     rejects.append({**f, "rejected": f"verifier: {v.get('reason')}"})
                     put(sheet, df, row, col, NOT_FOUND, f"candidate {f['value']!r} rejected by verifier: "
