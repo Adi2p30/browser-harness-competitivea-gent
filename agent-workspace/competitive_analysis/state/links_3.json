@@ -1,0 +1,322 @@
+[
+ {
+  "sheet": "MS BAIM - Residential",
+  "row": 38,
+  "college": "TEXAS A&M UNIVERSITY",
+  "program": "MANAGEMENT INFORMATION SYSTEMS",
+  "url": "https://mays.tamu.edu/graduate/masters/ms-programs/management-information-systems/",
+  "program_on_page": "MS Management Information Systems",
+  "confidence": "high",
+  "note": "Mays Business School; page states in-person MS MIS, 36 credit hours, College Station. Separate Flex Online MIS program exists at /graduate/flex-online/ and was excluded."
+ },
+ {
+  "sheet": "MS BAIM - Residential",
+  "row": 39,
+  "college": "UNIVERSITY OF ARIZONA",
+  "program": "MANAGEMENT INFORMATION SYSTEMS",
+  "url": "https://eller.arizona.edu/programs/masters/mis/mis",
+  "program_on_page": "Master of Science in Management Information Systems",
+  "confidence": "high",
+  "note": "Eller College of Management. The MIS landing page lists this URL as the on-campus format and /programs/masters/mis/online as the separate online format."
+ },
+ {
+  "sheet": "MS BAIM - Residential",
+  "row": 40,
+  "college": "UNIVERSITY OF CALIFORNIA - BERKELEY",
+  "program": "",
+  "url": "https://analytics.berkeley.edu/our-program/",
+  "program_on_page": "Master of Analytics",
+  "confidence": "medium",
+  "note": "Program name blank in sheet. Chose the one-year in-person Master of Analytics (IEOR, College of Engineering) as the closest residential business-analytics master's. Berkeley's online MIDS was excluded; the I School's MIMS (Master of Information Management and Systems) is an alternative if the row means information management."
+ },
+ {
+  "sheet": "MS BAIM - Residential",
+  "row": 41,
+  "college": "UNIVERSITY OF CALIFORNIA - IRVINE",
+  "program": "",
+  "url": "https://merage.uci.edu/programs/masters/master-science-business-analytics/index.html",
+  "program_on_page": "Master of Science in Business Analytics",
+  "confidence": "high",
+  "note": "Paul Merage School of Business; page states 1-year full-time on-campus. The separate part-time online MSBA was excluded."
+ },
+ {
+  "sheet": "MS BAIM - Residential",
+  "row": 42,
+  "college": "UNIVERSITY OF CALIFORNIA-DAVIS",
+  "program": "BUSINESS ANALYTICS",
+  "url": "https://gsm.ucdavis.edu/master-science-business-analytics",
+  "program_on_page": "Master of Science in Business Analytics",
+  "confidence": "high",
+  "note": "UC Davis Graduate School of Management; on-campus, classes in San Francisco."
+ },
+ {
+  "sheet": "MS BAIM - Residential",
+  "row": 44,
+  "college": "UNIVERSITY OF CALIFORNIA-SAN DIEGO",
+  "program": "BUSINESS ANALYTICS",
+  "url": "https://rady.ucsd.edu/programs/ms-business-analytics/",
+  "program_on_page": "Master of Science in Business Analytics",
+  "confidence": "high",
+  "note": "Rady School of Management; page identifies the Full-Time on-campus MSBA. A FlexWeekend variant also exists."
+ },
+ {
+  "sheet": "MS BAIM - Residential",
+  "row": 45,
+  "college": "UNIVERSITY OF CALIFORNIA-SAN DIEGO",
+  "program": "ELEC ENG (MACH LRN & DATA SCI)",
+  "url": null,
+  "program_on_page": null,
+  "confidence": null,
+  "note": "This is UCSD ECE's MS in Electrical and Computer Engineering with the Machine Learning & Data Science focus area. Every ece.ucsd.edu program page returned HTTP 403 to automated fetching, so no page could be confirmed. The UCSD catalog ECE graduate page (catalog.ucsd.edu/curric/ECE-gr.html) lists Machine Learning and Data Science only as a doctoral discipline, so it was not used as confirmation."
+ },
+ {
+  "sheet": "MS BAIM - Residential",
+  "row": 46,
+  "college": "UNIVERSITY OF CALIFORNIA-SANTA CRUZ",
+  "program": "",
+  "url": null,
+  "program_on_page": null,
+  "confidence": null,
+  "note": "Program name blank. The UCSC general catalog states Technology and Information Management is a B.S. and minor only (no M.S.), and the Baskin Engineering MS list (Applied Math, Scientific Computing, Bioinformatics, Computational Media, HCI, CSE, NLP, ECE, Materials Science, Statistical Science) contains no business analytics or information management master's. No residential match confirmed."
+ },
+ {
+  "sheet": "MS BAIM - Residential",
+  "row": 47,
+  "college": "UNIVERSITY OF CHICAGO",
+  "program": "M.S. IN ANALYTICS (FULL-TIME)",
+  "url": "https://datascience.uchicago.edu/education/masters-programs/in-person-program/",
+  "program_on_page": "Master's in Applied Data Science (MS-ADS) - In-Person Program",
+  "confidence": "medium",
+  "note": "UChicago's former MS in Analytics is now the MS in Applied Data Science: professional.uchicago.edu/find-your-fit/masters/master-science-analytics 301-redirects to the MS-ADS page, and the DSI master's list shows no separate MS in Analytics. Linked the in-person (full-time/part-time) page to distinguish it from row 48."
+ },
+ {
+  "sheet": "MS BAIM - Residential",
+  "row": 48,
+  "college": "UNIVERSITY OF CHICAGO",
+  "program": "M.S. IN APPLIED DATA SCIENCE (FULL-TIME)",
+  "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/",
+  "program_on_page": "MS in Applied Data Science",
+  "confidence": "high",
+  "note": "Data Science Institute; offered in-person (full- or part-time) and online. Sheet specifies full-time, which the in-person track provides."
+ },
+ {
+  "sheet": "MS BAIM - Residential",
+  "row": 49,
+  "college": "UNIVERSITY OF CHICAGO",
+  "program": "",
+  "url": null,
+  "program_on_page": null,
+  "confidence": null,
+  "note": "Program name blank and rows 47/48 already cover UChicago's analytics/applied data science master's. Could not determine which third UChicago program (e.g. MS in Applied Artificial Intelligence, MS in Data Science, MSCAPP) the row refers to, so left unresolved rather than duplicating another row's URL."
+ },
+ {
+  "sheet": "MS BAIM - Residential",
+  "row": 50,
+  "college": "UNIVERSITY OF CINCINNATI",
+  "program": "BUSINESS ADMIN BUS ANALYTICS",
+  "url": "https://www.business.uc.edu/programs-degrees/graduate/specialized-masters/business-analytics.html",
+  "program_on_page": "Master of Science (MS) in Business Analytics",
+  "confidence": "high",
+  "note": "Carl H. Lindner College of Business on-campus MS-BANA (full- or part-time). A separate fully online version lives on online.uc.edu and was excluded."
+ },
+ {
+  "sheet": "MS BAIM - Residential",
+  "row": 51,
+  "college": "UNIVERSITY OF CINCINNATI",
+  "program": "BUSINESS ADMIN INFO SYSTEMS",
+  "url": "https://www.business.uc.edu/programs-degrees/graduate/specialized-masters/information-systems.html",
+  "program_on_page": "Master of Science in Information Systems",
+  "confidence": "high",
+  "note": "Lindner College of Business, on-campus MS IS with industry practicum. Lindner's online MS IS modality is closing to new admissions from Spring 2027."
+ },
+ {
+  "sheet": "MS BAIM - Residential",
+  "row": 52,
+  "college": "UNIVERSITY OF ILLINOIS CHICAGO",
+  "program": "BUSINESS ANALYTICS",
+  "url": "https://business.uic.edu/liautaud-programs/ms-business-analytics",
+  "program_on_page": "Master of Science in Business Analytics",
+  "confidence": "high",
+  "note": "UIC College of Business Administration (Liautaud Graduate School); 32 credit hours, on-campus, full- or part-time."
+ },
+ {
+  "sheet": "MS BAIM - Residential",
+  "row": 53,
+  "college": "UNIVERSITY OF ILLINOIS URBANA-CHAMPAIGN",
+  "program": "COMPUTER SCIENCE",
+  "url": "https://siebelschool.illinois.edu/academics/graduate/ms-program",
+  "program_on_page": "Master of Science in Computer Science",
+  "confidence": "medium",
+  "note": "Siebel School of Computing and Data Science, on-campus research-oriented MS (28 credit hours + thesis). Illinois also offers a separate professional Master of Computer Science (MCS) on campus and online; the sheet's plain 'COMPUTER SCIENCE' was read as the MS."
+ },
+ {
+  "sheet": "MS BAIM - Residential",
+  "row": 54,
+  "college": "UNIVERSITY OF ILLINOIS URBANA-CHAMPAIGN",
+  "program": "BUSINESS ANALYTICS",
+  "url": "https://giesbusiness.illinois.edu/academics/graduate/business-analytics",
+  "program_on_page": "MS in Business Analytics",
+  "confidence": "high",
+  "note": "Gies College of Business on-campus MSBA (9-15 months, Champaign). The online MSBAi on giesonline.illinois.edu was excluded."
+ },
+ {
+  "sheet": "MS BAIM - Residential",
+  "row": 55,
+  "college": "UNIVERSITY OF ILLINOIS URBANA-CHAMPAIGN",
+  "program": "INFORMATION MANAGEMENT",
+  "url": "https://ischool.illinois.edu/academics/graduate/ms-information-management",
+  "program_on_page": "MS in Information Management",
+  "confidence": "high",
+  "note": "School of Information Sciences (iSchool); page states 40 credit hours completed on campus in 18-24 months."
+ },
+ {
+  "sheet": "MS BAIM - Residential",
+  "row": 56,
+  "college": "UNIVERSITY OF MARYLAND - COLLEGE PARK",
+  "program": "INFORMATION SYSTEMS",
+  "url": "https://www.rhsmith.umd.edu/programs/business-masters/academics/information-systems-ai-person",
+  "program_on_page": "Master of Science in Information Systems & AI",
+  "confidence": "high",
+  "note": "Robert H. Smith School of Business, in-person at College Park (30 credits, 3 semesters). A separate online MSIS & AI exists and was excluded."
+ },
+ {
+  "sheet": "MS BAIM - Residential",
+  "row": 57,
+  "college": "UNIVERSITY OF MARYLAND - COLLEGE PARK",
+  "program": "BUSINESS ANALYTICS",
+  "url": "https://www.rhsmith.umd.edu/programs/business-masters/academics/business-analytics-ai",
+  "program_on_page": "Master of Science in Business Analytics & AI",
+  "confidence": "high",
+  "note": "Maryland Smith in-person program page (College Park, 30 credits, 3 semesters). The online MSBA & AI was excluded."
+ },
+ {
+  "sheet": "MS BAIM - Residential",
+  "row": 58,
+  "college": "UNIVERSITY OF MASSACHUSETTS AT AMHERST",
+  "program": "MANAGEMENT (MSBA)",
+  "url": "https://www.isenberg.umass.edu/programs/masters/ms/business-analytics/on-campus",
+  "program_on_page": "On-Campus MS in Business Analytics",
+  "confidence": "high",
+  "note": "Isenberg School of Management; 1-year residential program in Amherst or Newton. Isenberg's online MSBA was excluded."
+ },
+ {
+  "sheet": "MS BAIM - Residential",
+  "row": 59,
+  "college": "UNIVERSITY OF MICHIGAN",
+  "program": "",
+  "url": "https://rossweb.bus.umich.edu/financial-aid/program-overview/mban/",
+  "program_on_page": "Master of Business Analytics (MBAn)",
+  "confidence": "medium",
+  "note": "Program name blank. Chose Ross School of Business Master of Business Analytics, a 10-month residential program in Ann Arbor. The main program page (michiganross.umich.edu/graduate/master-of-business-analytics) returns HTTP 403 to automated fetching, so this confirmed Ross program-overview page is given instead. UMSI's on-campus MS in Information is an alternative if the row means information management."
+ },
+ {
+  "sheet": "MS BAIM - Residential",
+  "row": 60,
+  "college": "UNIVERSITY OF MINNESOTA-TWIN CITIES GRADUATE",
+  "program": "BUSINESS ANALYTICS M S",
+  "url": "https://carlsonschool.umn.edu/graduate/masters/business-analytics",
+  "program_on_page": "Master of Science in Business Analytics & Artificial Intelligence (MSBAi)",
+  "confidence": "high",
+  "note": "Carlson School of Management; page states 12-month, full-time, on-campus lockstep cohort program. The MS in Business Analytics has been renamed MS in Business Analytics & AI. Carlson's Online Master of Applied Business Analytics was excluded."
+ },
+ {
+  "sheet": "MS BAIM - Residential",
+  "row": 61,
+  "college": "UNIVERSITY OF NORTH CAROLINA-CHAPEL HILL",
+  "program": "",
+  "url": null,
+  "program_on_page": null,
+  "confidence": null,
+  "note": "Pending"
+ },
+ {
+  "sheet": "MS BAIM - Residential",
+  "row": 62,
+  "college": "UNIVERSITY OF ROCHESTER- SCHOOL OF BUSINESS",
+  "program": "BUSINESS ANALYTICS [BUA] MASTERS",
+  "url": "https://simon.rochester.edu/programs/full-time-ms-in-business-analytics",
+  "program_on_page": "Full-Time MS in Business Analytics",
+  "confidence": "high",
+  "note": "Simon Business School full-time on-campus MSBA. Simon's Online MS in Business Analytics & Applied AI was excluded."
+ },
+ {
+  "sheet": "MS BAIM - Residential",
+  "row": 63,
+  "college": "UNIVERSITY OF ROCHESTER- SCHOOL OF BUSINESS",
+  "program": "BUSINESS ADMINISTRATION [MBT] MASTERS",
+  "url": null,
+  "program_on_page": null,
+  "confidence": null,
+  "note": "Pending"
+ },
+ {
+  "sheet": "MS BAIM - Residential",
+  "row": 64,
+  "college": "UNIVERSITY OF SAN FRANCISCO",
+  "program": "DATA SCIENCE",
+  "url": null,
+  "program_on_page": null,
+  "confidence": null,
+  "note": "Pending"
+ },
+ {
+  "sheet": "MS BAIM - Residential",
+  "row": 65,
+  "college": "UNIVERSITY OF SOUTH FLORIDA",
+  "program": "AI & BUSINESS ANALYTICS",
+  "url": null,
+  "program_on_page": null,
+  "confidence": null,
+  "note": "Pending"
+ },
+ {
+  "sheet": "MS BAIM - Residential",
+  "row": 70,
+  "college": "UNIVERSITY OF TEXAS AT DALLAS",
+  "program": "DBL. BSAN MS AND MBA DEGREES",
+  "url": null,
+  "program_on_page": null,
+  "confidence": null,
+  "note": "Pending"
+ },
+ {
+  "sheet": "MS BAIM - Residential",
+  "row": 71,
+  "college": "UNIVERSITY OF TEXAS AT DALLAS",
+  "program": "BUSINESS ANALYTICS",
+  "url": null,
+  "program_on_page": null,
+  "confidence": null,
+  "note": "Pending"
+ },
+ {
+  "sheet": "MS BAIM - Residential",
+  "row": 72,
+  "college": "UNIVERSITY OF VIRGINIA",
+  "program": "DATA SCIENCE (MS)",
+  "url": null,
+  "program_on_page": null,
+  "confidence": null,
+  "note": "Pending"
+ },
+ {
+  "sheet": "MS BAIM - Residential",
+  "row": 73,
+  "college": "UNIVERSITY OF WASHINGTON - SEATTLE",
+  "program": "MS BUSINESS ANALYTICS",
+  "url": null,
+  "program_on_page": null,
+  "confidence": null,
+  "note": "Pending"
+ },
+ {
+  "sheet": "MS BAIM - Residential",
+  "row": 74,
+  "college": "UNIVERSITY OF WASHINGTON - SEATTLE",
+  "program": "INFORMATION MANAGEMENT",
+  "url": null,
+  "program_on_page": null,
+  "confidence": null,
+  "note": "Pending"
+ }
+]

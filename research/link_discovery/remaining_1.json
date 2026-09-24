@@ -1,0 +1,230 @@
+[
+ {
+  "sheet": "MS BAIM - Residential",
+  "row": 27,
+  "college": "JOHNS HOPKINS UNIVERSITY",
+  "program": ""
+ },
+ {
+  "sheet": "MS BAIM - Residential",
+  "row": 30,
+  "college": "NORTH CAROLINA STATE UNIVERSITY",
+  "program": ""
+ },
+ {
+  "sheet": "MS BAIM - Residential",
+  "row": 31,
+  "college": "NORTHEASTERN UNIVERSITY",
+  "program": ""
+ },
+ {
+  "sheet": "MS BAIM - Residential",
+  "row": 32,
+  "college": "NORTHWESTERN UNIVERSITY",
+  "program": ""
+ },
+ {
+  "sheet": "MS BAIM - Residential",
+  "row": 33,
+  "college": "PENNSYLVANIA STATE UNIVERSITY",
+  "program": ""
+ },
+ {
+  "sheet": "MS BAIM - Residential",
+  "row": 34,
+  "college": "RUTGERS -THE STATE UNIVERSITY OF NJ -NEW BRUNSWICK",
+  "program": "STATISTICS - DATA SCIENCE"
+ },
+ {
+  "sheet": "MS BAIM - Residential",
+  "row": 35,
+  "college": "SEATTLE UNIVERSITY",
+  "program": "BUSINESS ANALYTICS"
+ },
+ {
+  "sheet": "MS BAIM - Residential",
+  "row": 36,
+  "college": "STANFORD UNIVERSITY",
+  "program": ""
+ },
+ {
+  "sheet": "MS BAIM - Residential",
+  "row": 37,
+  "college": "STEVENS INSTITUTE OF TECHNOLOGY",
+  "program": "BUSINESS INTELLIGENCE AND ANALYTICS MASTERS PROGRAM"
+ },
+ {
+  "sheet": "MS Finance - Residential",
+  "row": 10,
+  "college": "COLUMBIA UNIVERSITY",
+  "program": ""
+ },
+ {
+  "sheet": "MS Finance - Residential",
+  "row": 11,
+  "college": "CUNY BERNARD M. BARUCH COLLEGE",
+  "program": "QUANTITATIVE METHODS AND MODELING"
+ },
+ {
+  "sheet": "MS Finance - Residential",
+  "row": 12,
+  "college": "DUKE UNIVERSITY",
+  "program": "MASTER OF EGR IN FIN TECH"
+ },
+ {
+  "sheet": "MS Finance - Residential",
+  "row": 13,
+  "college": "EMORY UNIVERSITY",
+  "program": "ANALYTICAL FINANCE"
+ },
+ {
+  "sheet": "MS Finance - Residential",
+  "row": 14,
+  "college": "EMORY UNIVERSITY",
+  "program": "FINANCE"
+ },
+ {
+  "sheet": "MS Finance - Residential",
+  "row": 15,
+  "college": "FORDHAM UNIVERSITY",
+  "program": "FINANCE"
+ },
+ {
+  "sheet": "MS Finance - Residential",
+  "row": 16,
+  "college": "GEORGETOWN UNIVERSITY",
+  "program": "FINANCE"
+ },
+ {
+  "sheet": "MS Finance - Residential",
+  "row": 17,
+  "college": "GEORGIA STATE UNIVERSITY",
+  "program": "FINANCE"
+ },
+ {
+  "sheet": "MS Finance - Residential",
+  "row": 18,
+  "college": "ILLINOIS INSTITUTE OF TECHNOLOGY",
+  "program": "ARTIFICIAL INTELLIGENCE"
+ },
+ {
+  "sheet": "MS Finance - Residential",
+  "row": 20,
+  "college": "LOYOLA OF CHICAGO - GRAD BUSINESS",
+  "program": "BUSINESS ADMINISTRATION/FINANCE"
+ },
+ {
+  "sheet": "MS Finance - Residential",
+  "row": 21,
+  "college": "MICHIGAN STATE UNIVERSITY",
+  "program": "FINANCE MS"
+ },
+ {
+  "sheet": "MS Finance - Residential",
+  "row": 22,
+  "college": "NEW YORK UNIVERSITY",
+  "program": "MAJOR: FINANCIAL ENGINEERING"
+ },
+ {
+  "sheet": "MS Finance - Residential",
+  "row": 23,
+  "college": "NEW YORK UNIVERSITY",
+  "program": "MAJOR: FINANCIAL PLANNING"
+ },
+ {
+  "sheet": "MS Finance - Residential",
+  "row": 24,
+  "college": "NEW YORK UNIVERSITY",
+  "program": "MAJOR: QUANTITATIVE FINANCE"
+ },
+ {
+  "sheet": "MS Finance - Residential",
+  "row": 25,
+  "college": "NORTHEASTERN UNIVERSITY",
+  "program": "QUANTITATIVE FINANCE"
+ },
+ {
+  "sheet": "MS Finance - Residential",
+  "row": 26,
+  "college": "NORTHWESTERN UNIVERSITY",
+  "program": ""
+ },
+ {
+  "sheet": "MS Finance - Residential",
+  "row": 27,
+  "college": "PENNSYLVANIA STATE UNIVERSITY",
+  "program": ""
+ },
+ {
+  "sheet": "MS Finance - Residential",
+  "row": 28,
+  "college": "RUTGERS UNIVERSITY - NEWARK",
+  "program": "QUANTITATIVE FINANCE"
+ },
+ {
+  "sheet": "MS Finance - Residential",
+  "row": 29,
+  "college": "SEATTLE UNIVERSITY",
+  "program": "FINANCE"
+ },
+ {
+  "sheet": "MS Finance - Residential",
+  "row": 30,
+  "college": "SOUTHERN METHODIST UNIVERSITY",
+  "program": "FINANCE - MSF"
+ },
+ {
+  "sheet": "MS Finance - Residential",
+  "row": 31,
+  "college": "STEVENS INSTITUTE OF TECHNOLOGY",
+  "program": "FINANCIAL ENGINEERING MASTERS PROGRAM"
+ },
+ {
+  "sheet": "MS Finance - Residential",
+  "row": 32,
+  "college": "STEVENS INSTITUTE OF TECHNOLOGY",
+  "program": "FINANCE MASTERS PROGRAM"
+ },
+ {
+  "sheet": "MS Finance - Residential",
+  "row": 34,
+  "college": "UNIVERSITY OF CALIFORNIA - BERKELEY",
+  "program": ""
+ },
+ {
+  "sheet": "MS Finance - Residential",
+  "row": 35,
+  "college": "UNIVERSITY OF CALIFORNIA - IRVINE",
+  "program": ""
+ },
+ {
+  "sheet": "MS GSCM - Residential",
+  "row": 4,
+  "college": "AUBURN UNIVERSITY",
+  "program": "BUSINESS ADMINISTRATION GR"
+ },
+ {
+  "sheet": "MS GSCM - Residential",
+  "row": 5,
+  "college": "BOSTON UNIVERSITY",
+  "program": "BUSINESS ADMINISTRATION AND MANAGEMENT"
+ },
+ {
+  "sheet": "MS GSCM - Residential",
+  "row": 6,
+  "college": "CASE WESTERN RESERVE UNIVERSITY",
+  "program": "SUPPLY CHAIN MANAGEMENT (MSCM)"
+ },
+ {
+  "sheet": "MS GSCM - Residential",
+  "row": 7,
+  "college": "COLUMBIA UNIVERSITY",
+  "program": ""
+ },
+ {
+  "sheet": "MS GSCM - Residential",
+  "row": 8,
+  "college": "FLORIDA INTERNATIONAL UNIVERSITY",
+  "program": "ENGINEERING MANAGEMENT - MS"
+ }
+]

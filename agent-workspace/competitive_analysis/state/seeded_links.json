@@ -1,0 +1,522 @@
+[
+ {
+  "sheet": "Online MS Business Analytics",
+  "row": 2,
+  "college": "PURDUE UNIVERSITY - WEST LAFAYETTE",
+  "program": "ONLINE MS BUSINESS ANALYTICS",
+  "url": "https://business.purdue.edu/online/programs/ms-business-analytics/",
+  "status": 200
+ },
+ {
+  "sheet": "Online MS Economics",
+  "row": 2,
+  "college": "PURDUE UNIVERSITY - WEST LAFAYETTE",
+  "program": "Online MS Economics",
+  "url": "https://business.purdue.edu/online/programs/ms-economics/",
+  "status": 200
+ },
+ {
+  "sheet": "Online MS Economics",
+  "row": 3,
+  "college": "AMERICAN UNIVERSITY",
+  "program": "PUBLIC POLICY",
+  "url": "https://programs.online.american.edu/econ/masters-economics",
+  "status": "ConnectTimeout"
+ },
+ {
+  "sheet": "Online MS Economics",
+  "row": 7,
+  "college": "JOHNS HOPKINS UNIVERSITY",
+  "program": "",
+  "url": "https://landing.advanced.jhu.edu/applied-economics/",
+  "status": 200
+ },
+ {
+  "sheet": "Online MSGSCM",
+  "row": 2,
+  "college": "PURDUE UNIVERSITY - WEST LAFAYETTE",
+  "program": "ONLINE MS GLOBAL SUPPLY CHAIN MANAGEMENT",
+  "url": "https://business.purdue.edu/online/programs/ms-global-supply-chain-management/",
+  "status": 200
+ },
+ {
+  "sheet": "Online MSGSCM",
+  "row": 4,
+  "college": "ARIZONA STATE UNIVERSITY",
+  "program": "",
+  "url": "https://asuonline.asu.edu/online-degree-programs/graduate/supply-chain-management-ms/",
+  "status": 200
+ },
+ {
+  "sheet": "Online MSGSCM",
+  "row": 6,
+  "college": "GEORGETOWN UNIVERSITY",
+  "program": "SUPPLY CHAIN MANAGEMENT",
+  "url": "https://scs.georgetown.edu/programs/503/online/online-masters-in-supply-chain-management/",
+  "status": 200
+ },
+ {
+  "sheet": "Online MS HRM",
+  "row": 2,
+  "college": "PURDUE UNIVERSITY - WEST LAFAYETTE",
+  "program": "ONLINE MS HUMAN RESOURCE MANAGEMENT",
+  "url": "https://business.purdue.edu/online/programs/ms-human-resource-management/",
+  "status": 200
+ },
+ {
+  "sheet": "Online MS HRM",
+  "row": 7,
+  "college": "PENNSYLVANIA STATE UNIVERSITY",
+  "program": "",
+  "url": "https://www.worldcampus.psu.edu/degrees-and-certificates/penn-state-online-human-resources-and-employment-relations-masters-degree",
+  "status": 200
+ },
+ {
+  "sheet": "Online MS HRM",
+  "row": 10,
+  "college": "UNIVERSITY OF ILLINOIS URBANA-CHAMPAIGN",
+  "program": "EDUC POLICY ORGZN LEADRSHP",
+  "url": "https://online.illinois.edu/online-programs/graduate-programs/human-resources-industrial-relations",
+  "status": 200
+ },
+ {
+  "sheet": "Online MS HRM",
+  "row": 11,
+  "college": "UNIVERSITY OF ILLINOIS URBANA-CHAMPAIGN",
+  "program": "HUMAN RES INDUSTRIAL RELS",
+  "url": "https://online.illinois.edu/online-programs/graduate-programs/human-resources-industrial-relations",
+  "status": 200
+ },
+ {
+  "sheet": "Online MBA",
+  "row": 2,
+  "college": "PURDUE UNIVERSITY - WEST LAFAYETTE",
+  "program": "Online MBA",
+  "url": "https://business.purdue.edu/master-of-business/online-masters-in-business-administration/overview/home.php",
+  "status": 200
+ },
+ {
+  "sheet": "Online MBA",
+  "row": 4,
+  "college": "BUTLER UNIVERSITY",
+  "program": "BUSINESS ADMINISTRATION",
+  "url": "https://www.butler.edu/plus/program/online-mba-program/",
+  "status": 200
+ },
+ {
+  "sheet": "Online MBA",
+  "row": 10,
+  "college": "INDIANA UNIVERSITY BLOOMINGTON",
+  "program": "MANAGEMENT MBA-ONLINE",
+  "url": "https://kelley.iu.edu/programs/online/index.html",
+  "status": 200
+ },
+ {
+  "sheet": "Online MBA",
+  "row": 11,
+  "college": "INDIANA UNIVERSITY BLOOMINGTON",
+  "program": "STRATEGY&LEADERSHIP MBA-ONLINE",
+  "url": "https://kelley.iu.edu/programs/online/index.html",
+  "status": 200
+ },
+ {
+  "sheet": "Online MBA",
+  "row": 17,
+  "college": "UNIVERSITY OF ARIZONA",
+  "program": "BUSINESS ADMINISTRATION",
+  "url": "https://eller.arizona.edu/programs/mba/online",
+  "status": 200
+ },
+ {
+  "sheet": "Online MBA",
+  "row": 22,
+  "college": "UNIVERSITY OF ILLINOIS URBANA-CHAMPAIGN",
+  "program": "BUSINESS ADMINISTRATION MBA",
+  "url": "https://giesonline.illinois.edu/explore-programs/online-mba",
+  "status": 200
+ },
+ {
+  "sheet": "Online MBA",
+  "row": 24,
+  "college": "UNIVERSITY OF NORTH CAROLINA-CHAPEL HILL",
+  "program": "",
+  "url": "https://online.unc.edu/online-masters-programs/online-mba/",
+  "status": 200
+ },
+ {
+  "sheet": "MS Accounting - Residential",
+  "row": 2,
+  "college": "PURDUE UNIVERSITY - WEST LAFAYETTE",
+  "program": "MS Accounting",
+  "url": "https://business.purdue.edu/masters/programs/ms-accounting/home.php",
+  "status": 200
+ },
+ {
+  "sheet": "MS Accounting - Residential",
+  "row": 7,
+  "college": "INDIANA UNIVERSITY BLOOMINGTON",
+  "program": "ACCOUNTING DATA ANALYTIC MSADA",
+  "url": "https://kelley.iu.edu/programs/ms-accounting/index.html",
+  "status": 200
+ },
+ {
+  "sheet": "MS Accounting - Residential",
+  "row": 19,
+  "college": "UNIVERSITY OF ILLINOIS URBANA-CHAMPAIGN",
+  "program": "ACCOUNTANCY",
+  "url": "https://giesbusiness.illinois.edu/msa",
+  "status": 200
+ },
+ {
+  "sheet": "MS BAIM - Residential",
+  "row": 2,
+  "college": "PURDUE UNIVERSITY - WEST LAFAYETTE",
+  "program": "MS BUSINESS ANALYTICS & INFORMATION MANAGEMENT",
+  "url": "https://business.purdue.edu/masters/programs/ms-business-analytics-and-information-management/home.php",
+  "status": 200
+ },
+ {
+  "sheet": "MS BAIM - Residential",
+  "row": 21,
+  "college": "GEORGIA INSTITUTE OF TECHNOLOGY",
+  "program": "ANALYTICS",
+  "url": "https://www.analytics.gatech.edu/",
+  "status": 200
+ },
+ {
+  "sheet": "MS BAIM - Residential",
+  "row": 22,
+  "college": "GEORGIA INSTITUTE OF TECHNOLOGY",
+  "program": "COMPUTER SCIENCE",
+  "url": "https://www.analytics.gatech.edu/",
+  "status": 200
+ },
+ {
+  "sheet": "MS BAIM - Residential",
+  "row": 29,
+  "college": "NEW YORK UNIVERSITY",
+  "program": "MAJOR: MANAGEMENT OF TECHNOLOGY",
+  "url": "https://stern.shanghai.nyu.edu/en/program/ms-data-analytics-business-computing",
+  "status": "SSLError"
+ },
+ {
+  "sheet": "MS BAIM - Residential",
+  "row": 43,
+  "college": "UNIVERSITY OF CALIFORNIA-LOS ANGELES",
+  "program": "",
+  "url": "https://www.anderson.ucla.edu/degrees/master-of-science-in-business-analytics-msba",
+  "status": 200
+ },
+ {
+  "sheet": "MS BAIM - Residential",
+  "row": 66,
+  "college": "UNIVERSITY OF SOUTHERN CALIFORNIA",
+  "program": "BUSINESS ANALYTICS",
+  "url": "https://www.marshall.usc.edu/programs/graduate-programs/specialized-masters/ms-business-analytics",
+  "status": 200
+ },
+ {
+  "sheet": "MS BAIM - Residential",
+  "row": 67,
+  "college": "UNIVERSITY OF TEXAS AT AUSTIN",
+  "program": "BUSINESS ANALYTICS - OPTION III",
+  "url": "https://www.mccombs.utexas.edu/graduate/specialized-masters/ms-business-analytics/ms-business-analytics-on-campus/",
+  "status": 200
+ },
+ {
+  "sheet": "MS BAIM - Residential",
+  "row": 68,
+  "college": "UNIVERSITY OF TEXAS AT AUSTIN",
+  "program": "INFORMATION TECHNOLOGY MANAGEMENT - OPTION III",
+  "url": "https://www.mccombs.utexas.edu/graduate/specialized-masters/ms-business-analytics/ms-business-analytics-on-campus/",
+  "status": 200
+ },
+ {
+  "sheet": "MS BAIM - Residential",
+  "row": 69,
+  "college": "UNIVERSITY OF TEXAS AT AUSTIN",
+  "program": "BUSINESS ANALYTICS (MSBA OPTION III HYBRID ONLINE)",
+  "url": "https://www.mccombs.utexas.edu/graduate/specialized-masters/ms-business-analytics/ms-business-analytics-on-campus/",
+  "status": 200
+ },
+ {
+  "sheet": "MS Finance - Residential",
+  "row": 2,
+  "college": "PURDUE UNIVERSITY - WEST LAFAYETTE",
+  "program": "FINANCE",
+  "url": "https://business.purdue.edu/masters/programs/ms-finance/home.php",
+  "status": 200
+ },
+ {
+  "sheet": "MS Finance - Residential",
+  "row": 5,
+  "college": "BOSTON COLLEGE",
+  "program": "FINANCE-QUANTITATIVE",
+  "url": "https://www.bc.edu/bc-web/schools/carroll-school/graduate/ms-programs/ms-in-finance.html",
+  "status": 200
+ },
+ {
+  "sheet": "MS Finance - Residential",
+  "row": 6,
+  "college": "BOSTON UNIVERSITY",
+  "program": "ENTERPRISE RISK MANAGEMENT",
+  "url": "https://www.bu.edu/questrom/graduate-programs/specialty-masters-programs/ms-in-finance/",
+  "status": 200
+ },
+ {
+  "sheet": "MS Finance - Residential",
+  "row": 7,
+  "college": "BOSTON UNIVERSITY",
+  "program": "FINANCIAL MANAGEMENT",
+  "url": "https://www.bu.edu/questrom/graduate-programs/specialty-masters-programs/ms-in-finance/",
+  "status": 200
+ },
+ {
+  "sheet": "MS Finance - Residential",
+  "row": 8,
+  "college": "BOSTON UNIVERSITY",
+  "program": "ACTUARIAL SCIENCE",
+  "url": "https://www.bu.edu/questrom/graduate-programs/specialty-masters-programs/ms-in-finance/",
+  "status": 200
+ },
+ {
+  "sheet": "MS Finance - Residential",
+  "row": 19,
+  "college": "JOHNS HOPKINS UNIVERSITY",
+  "program": "",
+  "url": "https://carey.jhu.edu/programs/master-science-programs/ms-finance-full-time",
+  "status": 200
+ },
+ {
+  "sheet": "MS Finance - Residential",
+  "row": 22,
+  "college": "NEW YORK UNIVERSITY",
+  "program": "MAJOR: FINANCIAL ENGINEERING",
+  "url": "https://stern.shanghai.nyu.edu/en/program/ms-quantitative-finance",
+  "status": "SSLError"
+ },
+ {
+  "sheet": "MS Finance - Residential",
+  "row": 23,
+  "college": "NEW YORK UNIVERSITY",
+  "program": "MAJOR: FINANCIAL PLANNING",
+  "url": "https://stern.shanghai.nyu.edu/en/program/ms-quantitative-finance",
+  "status": "SSLError"
+ },
+ {
+  "sheet": "MS Finance - Residential",
+  "row": 24,
+  "college": "NEW YORK UNIVERSITY",
+  "program": "MAJOR: QUANTITATIVE FINANCE",
+  "url": "https://stern.shanghai.nyu.edu/en/program/ms-quantitative-finance",
+  "status": "SSLError"
+ },
+ {
+  "sheet": "MS Finance - Residential",
+  "row": 33,
+  "college": "THE OHIO STATE UNIVERSITY",
+  "program": "SPECIALIZED MASTER BUS-FIN",
+  "url": "https://fisher.osu.edu/graduate/smf",
+  "status": 200
+ },
+ {
+  "sheet": "MS Finance - Residential",
+  "row": 36,
+  "college": "UNIVERSITY OF CALIFORNIA-SAN DIEGO",
+  "program": "MASTER OF QUANTITATIVE FINANCE",
+  "url": "https://rady.ucsd.edu/programs/master-quantitative-finance/index.html",
+  "status": 200
+ },
+ {
+  "sheet": "MS Finance - Residential",
+  "row": 37,
+  "college": "UNIVERSITY OF CALIFORNIA-SAN DIEGO",
+  "program": "MASTER OF FINANCE",
+  "url": "https://rady.ucsd.edu/programs/master-quantitative-finance/index.html",
+  "status": 200
+ },
+ {
+  "sheet": "MS Finance - Residential",
+  "row": 39,
+  "college": "UNIVERSITY OF ILLINOIS URBANA-CHAMPAIGN",
+  "program": "FINANCE",
+  "url": "https://giesbusiness.illinois.edu/msf",
+  "status": 200
+ },
+ {
+  "sheet": "MS Finance - Residential",
+  "row": 40,
+  "college": "UNIVERSITY OF ILLINOIS URBANA-CHAMPAIGN",
+  "program": "FINANCIAL ENGINEERING",
+  "url": "https://giesbusiness.illinois.edu/msf",
+  "status": 200
+ },
+ {
+  "sheet": "MS Finance - Residential",
+  "row": 47,
+  "college": "UNIVERSITY OF SOUTHERN CALIFORNIA",
+  "program": "FINANCE",
+  "url": "https://www.marshall.usc.edu/programs/graduate-programs/specialized-masters/ms-finance",
+  "status": 200
+ },
+ {
+  "sheet": "MS Finance - Residential",
+  "row": 48,
+  "college": "UNIVERSITY OF TEXAS AT AUSTIN",
+  "program": "FINANCE-OPTION III",
+  "url": "https://www.mccombs.utexas.edu/graduate/specialized-masters/ms-finance/",
+  "status": 200
+ },
+ {
+  "sheet": "MS HRM - Residential",
+  "row": 2,
+  "college": "PURDUE UNIVERSITY - WEST LAFAYETTE",
+  "program": "MS Human Resource Management",
+  "url": "https://business.purdue.edu/masters/programs/ms-human-resource-management/home.php",
+  "status": 200
+ },
+ {
+  "sheet": "MS HRM - Residential",
+  "row": 15,
+  "college": "UNIVERSITY OF ILLINOIS URBANA-CHAMPAIGN",
+  "program": "HUMAN RES INDUSTRIAL RELS",
+  "url": "https://ler.illinois.edu/our-programs/human-resources-masters/",
+  "status": 200
+ },
+ {
+  "sheet": "MS GSCM - Residential",
+  "row": 2,
+  "college": "PURDUE UNIVERSITY - WEST LAFAYETTE",
+  "program": "MS Global Supply Chain Management",
+  "url": "https://business.purdue.edu/masters/programs/ms-global-supply-chain-management/home.php",
+  "status": 200
+ },
+ {
+  "sheet": "MS GSCM - Residential",
+  "row": 3,
+  "college": "ARIZONA STATE UNIVERSITY",
+  "program": "",
+  "url": "https://wpcarey.asu.edu/masters-programs/supply-chain",
+  "status": 200
+ },
+ {
+  "sheet": "MS GSCM - Residential",
+  "row": 12,
+  "college": "MICHIGAN STATE UNIVERSITY",
+  "program": "STEM MBA",
+  "url": "https://broad.msu.edu/masters/supply-chain-management/",
+  "status": 200
+ },
+ {
+  "sheet": "MS GSCM - Residential",
+  "row": 21,
+  "college": "UNIVERSITY OF TEXAS AT DALLAS",
+  "program": "DBL. SCMT MS AND MBA DEGREES",
+  "url": "https://om.utdallas.edu/ms-scm/",
+  "status": 200
+ },
+ {
+  "sheet": "MS GSCM - Residential",
+  "row": 22,
+  "college": "UNIVERSITY OF TEXAS AT DALLAS",
+  "program": "SUPPLY CHAIN MANAGEMENT",
+  "url": "https://om.utdallas.edu/ms-scm/",
+  "status": 200
+ },
+ {
+  "sheet": "MS Marketing - Residential",
+  "row": 9,
+  "college": "PURDUE UNIVERSITY - WEST LAFAYETTE",
+  "program": "MARKETING",
+  "url": "https://business.purdue.edu/masters/programs/ms-marketing/home.php",
+  "status": 200
+ },
+ {
+  "sheet": "MS Marketing - Residential",
+  "row": 14,
+  "college": "UNIVERSITY OF SOUTHERN CALIFORNIA",
+  "program": "MARKETING (MARKETING ANALYTICS)",
+  "url": "https://www.marshall.usc.edu/programs/graduate-programs/specialized-masters/ms-marketing",
+  "status": 200
+ },
+ {
+  "sheet": "MS Marketing - Residential",
+  "row": 15,
+  "college": "UNIVERSITY OF SOUTHERN CALIFORNIA",
+  "program": "MARKETING",
+  "url": "https://www.marshall.usc.edu/programs/graduate-programs/specialized-masters/ms-marketing",
+  "status": 200
+ },
+ {
+  "sheet": "MS Marketing - Residential",
+  "row": 16,
+  "college": "UNIVERSITY OF SOUTHERN CALIFORNIA",
+  "program": "COMMUNICATION MANAGEMENT",
+  "url": "https://www.marshall.usc.edu/programs/graduate-programs/specialized-masters/ms-marketing",
+  "status": 200
+ },
+ {
+  "sheet": "MS Marketing - Residential",
+  "row": 17,
+  "college": "UNIVERSITY OF SOUTHERN CALIFORNIA",
+  "program": "APPLIED COMMUNICATION RESEARCH",
+  "url": "https://www.marshall.usc.edu/programs/graduate-programs/specialized-masters/ms-marketing",
+  "status": 200
+ },
+ {
+  "sheet": "MS Marketing - Residential",
+  "row": 18,
+  "college": "UNIVERSITY OF TEXAS AT AUSTIN",
+  "program": "MARKETING - OPTION III",
+  "url": "https://www.mccombs.utexas.edu/graduate/specialized-masters/ms-marketing/",
+  "status": 200
+ },
+ {
+  "sheet": "Master of Business & Technology",
+  "row": 2,
+  "college": "PURDUE UNIVERSITY - WEST LAFAYETTE",
+  "program": "Master of Business and Technology",
+  "url": "https://business.purdue.edu/master-of-business/master-of-business-and-technology/home.php",
+  "status": 200
+ },
+ {
+  "sheet": "Master of Business & Technology",
+  "row": 5,
+  "college": "CORNELL UNIVERSITY",
+  "program": "COMPUTER SCIENCE",
+  "url": "https://tech.cornell.edu/programs/masters-programs/johnson-cornell-tech-mba/",
+  "status": 200
+ },
+ {
+  "sheet": "Master of Business & Technology",
+  "row": 14,
+  "college": "CARNEGIE MELLON UNIVERSITY",
+  "program": "INFORMATION SYSTEMS MANAGEMENT",
+  "url": "https://www.cmu.edu/tepper/programs/mba/curriculum/concentration/business-technologies.html",
+  "status": 200
+ },
+ {
+  "sheet": "Master of Business & Technology",
+  "row": 15,
+  "college": "COLUMBIA UNIVERSITY",
+  "program": "",
+  "url": "https://sps.columbia.edu/academics/masters/technology-management/master-science",
+  "status": 200
+ },
+ {
+  "sheet": "Master of Business & Technology",
+  "row": 17,
+  "college": "CARNEGIE MELLON UNIVERSITY",
+  "program": "MANAGEMENT SCIENCE",
+  "url": "https://www.cmu.edu/tepper/programs/mba/curriculum/concentration/business-technologies.html",
+  "status": 200
+ },
+ {
+  "sheet": "1yr MBA",
+  "row": 2,
+  "college": "PURDUE UNIVERSITY - WEST LAFAYETTE",
+  "program": "1 YEAR MBA",
+  "url": "https://business.purdue.edu/master-of-business/one-year-mba/home.php",
+  "status": 200
+ }
+]

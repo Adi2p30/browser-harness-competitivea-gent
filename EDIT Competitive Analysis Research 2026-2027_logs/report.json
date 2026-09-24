@@ -1,0 +1,1319 @@
+{
+  "context": {
+    "cycle": "2026-2027 academic year",
+    "started": "2026-09-18"
+  },
+  "colleges": {
+    "Online MSGSCM::PURDUE UNIVERSITY - WEST LAFAYETTE::ONLINE MS GLOBAL SUPPLY CHAIN MANAGEMENT": {
+      "program": "ONLINE MS GLOBAL SUPPLY CHAIN MANAGEMENT - listed on the workbook sheet 'Online MSGSCM'",
+      "fields": {
+        "Location - City": {
+          "value": "West Lafayette",
+          "status": "corroborated-unstated",
+          "source": "https://business.purdue.edu/online/programs/ms-global-supply-chain-management/class-profile.php",
+          "quote": "403 Mitch Daniels Boulevard West Lafayette, IN 47907",
+          "candidates": [
+            {
+              "value": "West Lafayette",
+              "quote": "403 Mitch Daniels Boulevard West Lafayette, IN 47907",
+              "cycle_match": "unstated",
+              "program_match": "general",
+              "url": "https://business.purdue.edu/online/programs/ms-global-supply-chain-management/"
+            },
+            {
+              "value": "West Lafayette",
+              "quote": "403 Mitch Daniels Boulevard West Lafayette, IN 47907",
+              "cycle_match": "unstated",
+              "program_match": "target",
+              "url": "https://business.purdue.edu/online/programs/ms-global-supply-chain-management/class-profile.php"
+            },
+            {
+              "value": "West Lafayette",
+              "quote": "403 Mitch Daniels Boulevard West Lafayette, IN 47907",
+              "cycle_match": "unstated",
+              "program_match": "general",
+              "url": "https://business.purdue.edu/online/programs/ms-global-supply-chain-management/application.php"
+            },
+            {
+              "value": "West Lafayette",
+              "quote": "403 Mitch Daniels Boulevard West Lafayette, IN 47907",
+              "cycle_match": "unstated",
+              "program_match": "general",
+              "url": "https://business.purdue.edu/online/programs/ms-global-supply-chain-management/curriculum.php"
+            },
+            {
+              "value": "West Lafayette",
+              "quote": "403 Mitch Daniels Boulevard West Lafayette, IN 47907",
+              "cycle_match": "unstated",
+              "program_match": "general",
+              "url": "https://business.purdue.edu/online/admissions/how-to-apply.php"
+            },
+            {
+              "value": "West Lafayette",
+              "quote": "403 Mitch Daniels Boulevard West Lafayette, IN 47907",
+              "cycle_match": "unstated",
+              "program_match": "target",
+              "url": "https://business.purdue.edu/online/programs/ms-global-supply-chain-management/home.php"
+            },
+            {
+              "value": "West Lafayette",
+              "quote": "403 Mitch Daniels Boulevard West Lafayette, IN 47907",
+              "cycle_match": "unstated",
+              "program_match": "general",
+              "url": "https://business.purdue.edu/online/career-outcomes.php"
+            }
+          ]
+        },
+        "Location - State": {
+          "value": "IN",
+          "status": "corroborated-unstated",
+          "source": "https://business.purdue.edu/online/programs/ms-global-supply-chain-management/class-profile.php",
+          "quote": "403 Mitch Daniels Boulevard West Lafayette, IN 47907",
+          "candidates": [
+            {
+              "value": "IN",
+              "quote": "403 Mitch Daniels Boulevard West Lafayette, IN 47907",
+              "cycle_match": "unstated",
+              "program_match": "general",
+              "url": "https://business.purdue.edu/online/programs/ms-global-supply-chain-management/"
+            },
+            {
+              "value": "IN",
+              "quote": "403 Mitch Daniels Boulevard West Lafayette, IN 47907",
+              "cycle_match": "unstated",
+              "program_match": "target",
+              "url": "https://business.purdue.edu/online/programs/ms-global-supply-chain-management/class-profile.php"
+            },
+            {
+              "value": "IN",
+              "quote": "403 Mitch Daniels Boulevard West Lafayette, IN 47907",
+              "cycle_match": "unstated",
+              "program_match": "general",
+              "url": "https://business.purdue.edu/online/programs/ms-global-supply-chain-management/application.php"
+            },
+            {
+              "value": "IN",
+              "quote": "403 Mitch Daniels Boulevard West Lafayette, IN 47907",
+              "cycle_match": "unstated",
+              "program_match": "general",
+              "url": "https://business.purdue.edu/online/programs/ms-global-supply-chain-management/curriculum.php"
+            },
+            {
+              "value": "IN",
+              "quote": "403 Mitch Daniels Boulevard West Lafayette, IN 47907",
+              "cycle_match": "unstated",
+              "program_match": "general",
+              "url": "https://business.purdue.edu/online/admissions/how-to-apply.php"
+            },
+            {
+              "value": "IN",
+              "quote": "403 Mitch Daniels Boulevard West Lafayette, IN 47907",
+              "cycle_match": "unstated",
+              "program_match": "target",
+              "url": "https://business.purdue.edu/online/programs/ms-global-supply-chain-management/home.php"
+            },
+            {
+              "value": "IN",
+              "quote": "403 Mitch Daniels Boulevard West Lafayette, IN 47907",
+              "cycle_match": "unstated",
+              "program_match": "general",
+              "url": "https://business.purdue.edu/online/career-outcomes.php"
+            }
+          ]
+        },
+        "Average GMAT": {
+          "value": null,
+          "status": "not-found",
+          "source": null,
+          "quote": null,
+          "candidates": []
+        },
+        "Average GRE": {
+          "value": null,
+          "status": "not-found",
+          "source": null,
+          "quote": null,
+          "candidates": []
+        },
+        "Average Undergraduate GPA": {
+          "value": null,
+          "status": "not-found",
+          "source": null,
+          "quote": null,
+          "candidates": []
+        },
+        "Work Experience (Month)": {
+          "value": "24",
+          "status": "resolved-conflict",
+          "source": "https://business.purdue.edu/online/programs/ms-global-supply-chain-management/application.php",
+          "quote": "At least 24 months of professional work experience",
+          "candidates": [
+            {
+              "value": "10 years",
+              "quote": "Average Experience 10 years",
+              "cycle_match": "unstated",
+              "program_match": "target",
+              "url": "https://business.purdue.edu/online/programs/ms-global-supply-chain-management/class-profile.php"
+            },
+            {
+              "value": "24",
+              "quote": "At least 24 months of professional work experience",
+              "cycle_match": "unstated",
+              "program_match": "target",
+              "url": "https://business.purdue.edu/online/programs/ms-global-supply-chain-management/application.php"
+            }
+          ]
+        },
+        "Average Student Age": {
+          "value": null,
+          "status": "not-found",
+          "source": null,
+          "quote": null,
+          "candidates": []
+        },
+        "Class Size": {
+          "value": null,
+          "status": "not-found",
+          "source": null,
+          "quote": null,
+          "candidates": []
+        },
+        "International (%)": {
+          "value": null,
+          "status": "not-found",
+          "source": null,
+          "quote": null,
+          "candidates": []
+        },
+        "Female (%)": {
+          "value": null,
+          "status": "not-found",
+          "source": null,
+          "quote": null,
+          "candidates": []
+        },
+        "Accept Rate": {
+          "value": null,
+          "status": "not-found",
+          "source": null,
+          "quote": null,
+          "candidates": []
+        },
+        "Duration (months)": {
+          "value": "1.5 \u2014 2.5 years",
+          "status": "corroborated-unstated",
+          "source": "https://business.purdue.edu/online/programs/ms-global-supply-chain-management/",
+          "quote": "1.5 \u2014 2.5 years",
+          "candidates": [
+            {
+              "value": "1.5 \u2014 2.5 years",
+              "quote": "1.5 \u2014 2.5 years",
+              "cycle_match": "unstated",
+              "program_match": "target",
+              "url": "https://business.purdue.edu/online/programs/ms-global-supply-chain-management/"
+            },
+            {
+              "value": "1.5 \u2014 2.5 years",
+              "quote": "30 credit hours 1.5 \u2014 2.5 years Flexible, 100% online",
+              "cycle_match": "unstated",
+              "program_match": "target",
+              "url": "https://business.purdue.edu/online/programs/ms-global-supply-chain-management/home.php"
+            }
+          ]
+        },
+        "Credit Hours": {
+          "value": "30 credit hours",
+          "status": "corroborated-unstated",
+          "source": "https://business.purdue.edu/online/programs/ms-global-supply-chain-management/",
+          "quote": "30 credit hours",
+          "candidates": [
+            {
+              "value": "30 credit hours",
+              "quote": "30 credit hours",
+              "cycle_match": "unstated",
+              "program_match": "target",
+              "url": "https://business.purdue.edu/online/programs/ms-global-supply-chain-management/"
+            },
+            {
+              "value": "30",
+              "quote": "students must complete 30 hours of coursework including management of operations, projects, global supply chain, strategic planning, procurement, sustainability, and advanced manufacturing...",
+              "cycle_match": "unstated",
+              "program_match": "target",
+              "url": "https://business.purdue.edu/online/programs/ms-global-supply-chain-management/curriculum.php"
+            },
+            {
+              "value": "30 credit hours",
+              "quote": "30 credit hours 1.5 \u2014 2.5 years Flexible, 100% online",
+              "cycle_match": "unstated",
+              "program_match": "target",
+              "url": "https://business.purdue.edu/online/programs/ms-global-supply-chain-management/home.php"
+            }
+          ]
+        },
+        "On-Campus Options": {
+          "value": "None (100% online)",
+          "status": "resolved-conflict",
+          "source": "https://business.purdue.edu/online/programs/ms-global-supply-chain-management/",
+          "quote": "Flexible, 100% online",
+          "candidates": [
+            {
+              "value": "None (100% online)",
+              "quote": "Flexible, 100% online",
+              "cycle_match": "unstated",
+              "program_match": "target",
+              "url": "https://business.purdue.edu/online/programs/ms-global-supply-chain-management/"
+            },
+            {
+              "value": "100% online",
+              "quote": "30 credit hours 1.5 \u2014 2.5 years Flexible, 100% online",
+              "cycle_match": "unstated",
+              "program_match": "target",
+              "url": "https://business.purdue.edu/online/programs/ms-global-supply-chain-management/home.php"
+            }
+          ]
+        },
+        "Deadline Date(s)": {
+          "value": null,
+          "status": "unverified-cycle",
+          "source": null,
+          "quote": null,
+          "candidates": [
+            {
+              "value": "Spring Start Deadline Dec 1; Fall Start Deadline Aug 1",
+              "quote": "Program Start Deadline Spring Start December 1 Fall Start August 1",
+              "cycle_match": "unstated",
+              "program_match": "target",
+              "url": "https://business.purdue.edu/online/programs/ms-global-supply-chain-management/application.php"
+            }
+          ]
+        },
+        "Experiential Learning Courses / Opportunities (Yes/No)": {
+          "value": "Yes",
+          "status": "corroborated-unstated",
+          "source": "https://business.purdue.edu/online/programs/ms-global-supply-chain-management/",
+          "quote": "the online MSGSCM program offers experiential learning opportunities",
+          "candidates": [
+            {
+              "value": "Yes",
+              "quote": "the online MSGSCM program offers experiential learning opportunities",
+              "cycle_match": "unstated",
+              "program_match": "target",
+              "url": "https://business.purdue.edu/online/programs/ms-global-supply-chain-management/"
+            },
+            {
+              "value": "Yes",
+              "quote": "puts students to work on real industry projects that are centered on solving problems in global supply chains.",
+              "cycle_match": "unstated",
+              "program_match": "target",
+              "url": "https://business.purdue.edu/online/programs/ms-global-supply-chain-management/curriculum.php"
+            },
+            {
+              "value": "Yes",
+              "quote": "the online MSGSCM program offers experiential learning opportunities that help students adapt to the business technology that defines the future",
+              "cycle_match": "unstated",
+              "program_match": "target",
+              "url": "https://business.purdue.edu/online/programs/ms-global-supply-chain-management/home.php"
+            }
+          ]
+        },
+        "Experiential Learning Courses / Opportunities (brief description)": {
+          "value": "offers experiential learning opportunities that help students adapt to the business technology that defines the future",
+          "status": "resolved-conflict",
+          "source": "https://business.purdue.edu/online/programs/ms-global-supply-chain-management/",
+          "quote": "the online MSGSCM program offers experiential learning opportunities that help students adapt to the business technology that defines the future",
+          "candidates": [
+            {
+              "value": "offers experiential learning opportunities that help students adapt to the business technology that defines the future",
+              "quote": "the online MSGSCM program offers experiential learning opportunities that help students adapt to the business technology that defines the future",
+              "cycle_match": "unstated",
+              "program_match": "target",
+              "url": "https://business.purdue.edu/online/programs/ms-global-supply-chain-management/"
+            },
+            {
+              "value": "Students work on real industry projects solving global supply chain problems.",
+              "quote": "puts students to work on real industry projects that are centered on solving problems in global supply chains.",
+              "cycle_match": "unstated",
+              "program_match": "target",
+              "url": "https://business.purdue.edu/online/programs/ms-global-supply-chain-management/curriculum.php"
+            },
+            {
+              "value": "Offers experiential learning opportunities that help students adapt to the business technology that defines the future.",
+              "quote": "the online MSGSCM program offers experiential learning opportunities that help students adapt to the business technology that defines the future",
+              "cycle_match": "unstated",
+              "program_match": "target",
+              "url": "https://business.purdue.edu/online/programs/ms-global-supply-chain-management/home.php"
+            }
+          ]
+        },
+        "Affinity Groups (Yes/No)": {
+          "value": null,
+          "status": "not-found",
+          "source": null,
+          "quote": null,
+          "candidates": []
+        },
+        "Affinity Groups (brief description)": {
+          "value": null,
+          "status": "not-found",
+          "source": null,
+          "quote": null,
+          "candidates": []
+        },
+        "Accept 3yr-degree from India? (Y/N)": {
+          "value": null,
+          "status": "not-found",
+          "source": null,
+          "quote": null,
+          "candidates": []
+        },
+        "Career Coaching/Consulting Services Offered? (Yes/No)": {
+          "value": null,
+          "status": "unverified-cycle",
+          "source": null,
+          "quote": null,
+          "candidates": [
+            {
+              "value": "Yes",
+              "quote": "The dedicated career coaches and advisors at the Daniels School of Business are here to help students turn their goals into reality.",
+              "cycle_match": "unstated",
+              "program_match": "general",
+              "url": "https://business.purdue.edu/online/career-outcomes.php"
+            }
+          ]
+        },
+        "In-State Tuition Per Credit": {
+          "value": null,
+          "status": "unverified-cycle",
+          "source": null,
+          "quote": null,
+          "candidates": [
+            {
+              "value": "$728.00",
+              "quote": "Indiana Residents $728.00",
+              "cycle_match": "unstated",
+              "program_match": "target",
+              "url": "https://business.purdue.edu/online/programs/ms-global-supply-chain-management/tuition.php"
+            }
+          ]
+        },
+        "Out-of-State Tuition Per Credit": {
+          "value": null,
+          "status": "unverified-cycle",
+          "source": null,
+          "quote": null,
+          "candidates": [
+            {
+              "value": "$748.00",
+              "quote": "Out-of-State Students $748.00",
+              "cycle_match": "unstated",
+              "program_match": "target",
+              "url": "https://business.purdue.edu/online/programs/ms-global-supply-chain-management/tuition.php"
+            }
+          ]
+        },
+        "International Tuition Per Credit": {
+          "value": null,
+          "status": "unverified-cycle",
+          "source": null,
+          "quote": null,
+          "candidates": [
+            {
+              "value": "$748.00",
+              "quote": "International Students $748.00",
+              "cycle_match": "unstated",
+              "program_match": "target",
+              "url": "https://business.purdue.edu/online/programs/ms-global-supply-chain-management/tuition.php"
+            }
+          ]
+        },
+        "In-State Tuition Total": {
+          "value": null,
+          "status": "not-found",
+          "source": null,
+          "quote": null,
+          "candidates": []
+        },
+        "Out-of-State Tuition Total": {
+          "value": null,
+          "status": "not-found",
+          "source": null,
+          "quote": null,
+          "candidates": []
+        },
+        "International Tuition Total": {
+          "value": null,
+          "status": "not-found",
+          "source": null,
+          "quote": null,
+          "candidates": []
+        },
+        "Scholarship": {
+          "value": null,
+          "status": "unverified-cycle",
+          "source": null,
+          "quote": null,
+          "candidates": [
+            {
+              "value": "Limited number of merit\u2011based scholarships",
+              "quote": "The Daniels School of Business is currently offering a limited number of scholarships to qualified candidates for its Online Master\u2019s programs.",
+              "cycle_match": "unstated",
+              "program_match": "general",
+              "url": "https://business.purdue.edu/online/programs/ms-global-supply-chain-management/tuition.php"
+            },
+            {
+              "value": "Yes",
+              "quote": "The Daniels School of Business is currently offering a limited number of scholarships to qualified candidates for its Online Master\u2019s programs.",
+              "cycle_match": "unstated",
+              "program_match": "target",
+              "url": "https://business.purdue.edu/online/programs/ms-global-supply-chain-management/application.php"
+            }
+          ]
+        },
+        "Deposit": {
+          "value": null,
+          "status": "not-found",
+          "source": null,
+          "quote": null,
+          "candidates": []
+        },
+        "Job Placement %": {
+          "value": null,
+          "status": "not-found",
+          "source": null,
+          "quote": null,
+          "candidates": []
+        },
+        "Average Post-Grad Salary": {
+          "value": null,
+          "status": "not-found",
+          "source": null,
+          "quote": null,
+          "candidates": []
+        },
+        "Average Post-Grad Bonus": {
+          "value": null,
+          "status": "not-found",
+          "source": null,
+          "quote": null,
+          "candidates": []
+        }
+      },
+      "pages": {
+        "visited": [
+          "https://business.purdue.edu/online/programs/ms-global-supply-chain-management/",
+          "https://business.purdue.edu/online/programs/ms-global-supply-chain-management/tuition.php",
+          "https://business.purdue.edu/online/programs/ms-global-supply-chain-management/class-profile.php",
+          "https://business.purdue.edu/online/programs/ms-global-supply-chain-management/application.php",
+          "https://business.purdue.edu/online/programs/ms-global-supply-chain-management/curriculum.php",
+          "https://business.purdue.edu/online/admissions/how-to-apply.php",
+          "https://business.purdue.edu/online/programs/ms-global-supply-chain-management/home.php",
+          "https://business.purdue.edu/online/career-outcomes.php"
+        ],
+        "unreadable": [],
+        "rejected": {
+          "unknown field": 1
+        }
+      }
+    },
+    "Online MSGSCM::ARIZONA STATE UNIVERSITY::": {
+      "program": "(program name not given) - listed on the workbook sheet 'Online MSGSCM'",
+      "fields": {
+        "Location - City": {
+          "value": null,
+          "status": "not-found",
+          "source": null,
+          "quote": null,
+          "candidates": []
+        },
+        "Location - State": {
+          "value": null,
+          "status": "not-found",
+          "source": null,
+          "quote": null,
+          "candidates": []
+        },
+        "Average GMAT": {
+          "value": null,
+          "status": "not-found",
+          "source": null,
+          "quote": null,
+          "candidates": []
+        },
+        "Average GRE": {
+          "value": null,
+          "status": "not-found",
+          "source": null,
+          "quote": null,
+          "candidates": []
+        },
+        "Average Undergraduate GPA": {
+          "value": null,
+          "status": "not-found",
+          "source": null,
+          "quote": null,
+          "candidates": []
+        },
+        "Work Experience (Month)": {
+          "value": null,
+          "status": "not-found",
+          "source": null,
+          "quote": null,
+          "candidates": []
+        },
+        "Average Student Age": {
+          "value": null,
+          "status": "unverified-cycle",
+          "source": null,
+          "quote": null,
+          "candidates": [
+            {
+              "value": "33",
+              "quote": "15,663 ASU Online graduate students 33 Average age",
+              "cycle_match": "unstated",
+              "program_match": "general",
+              "url": "https://asuonline.asu.edu/admission/graduate/"
+            }
+          ]
+        },
+        "Class Size": {
+          "value": null,
+          "status": "not-found",
+          "source": null,
+          "quote": null,
+          "candidates": []
+        },
+        "International (%)": {
+          "value": null,
+          "status": "not-found",
+          "source": null,
+          "quote": null,
+          "candidates": []
+        },
+        "Female (%)": {
+          "value": null,
+          "status": "not-found",
+          "source": null,
+          "quote": null,
+          "candidates": []
+        },
+        "Accept Rate": {
+          "value": null,
+          "status": "not-found",
+          "source": null,
+          "quote": null,
+          "candidates": []
+        },
+        "Duration (months)": {
+          "value": null,
+          "status": "not-found",
+          "source": null,
+          "quote": null,
+          "candidates": []
+        },
+        "Credit Hours": {
+          "value": null,
+          "status": "unverified-cycle",
+          "source": null,
+          "quote": null,
+          "candidates": [
+            {
+              "value": "30",
+              "quote": "Total credit hours: 30",
+              "cycle_match": "unstated",
+              "program_match": "target",
+              "url": "https://asuonline.asu.edu/online-degree-programs/graduate/supply-chain-management-ms/"
+            }
+          ]
+        },
+        "On-Campus Options": {
+          "value": null,
+          "status": "unverified-cycle",
+          "source": null,
+          "quote": null,
+          "candidates": [
+            {
+              "value": "Yes",
+              "quote": "This program is also available in-person.",
+              "cycle_match": "unstated",
+              "program_match": "target",
+              "url": "https://asuonline.asu.edu/online-degree-programs/graduate/supply-chain-management-ms/"
+            }
+          ]
+        },
+        "Deadline Date(s)": {
+          "value": "September 25",
+          "status": "single-source",
+          "source": "https://asuonline.asu.edu/what-it-costs/",
+          "quote": "ASU has moved the tuition payment date to September 25 for those impacted.",
+          "candidates": [
+            {
+              "value": "September 25",
+              "quote": "ASU has moved the tuition payment date to September 25 for those impacted.",
+              "cycle_match": "exact",
+              "program_match": "general",
+              "url": "https://asuonline.asu.edu/what-it-costs/"
+            }
+          ]
+        },
+        "Experiential Learning Courses / Opportunities (Yes/No)": {
+          "value": null,
+          "status": "not-found",
+          "source": null,
+          "quote": null,
+          "candidates": []
+        },
+        "Experiential Learning Courses / Opportunities (brief description)": {
+          "value": null,
+          "status": "not-found",
+          "source": null,
+          "quote": null,
+          "candidates": []
+        },
+        "Affinity Groups (Yes/No)": {
+          "value": null,
+          "status": "not-found",
+          "source": null,
+          "quote": null,
+          "candidates": []
+        },
+        "Affinity Groups (brief description)": {
+          "value": null,
+          "status": "not-found",
+          "source": null,
+          "quote": null,
+          "candidates": []
+        },
+        "Accept 3yr-degree from India? (Y/N)": {
+          "value": null,
+          "status": "not-found",
+          "source": null,
+          "quote": null,
+          "candidates": []
+        },
+        "Career Coaching/Consulting Services Offered? (Yes/No)": {
+          "value": "Yes",
+          "status": "single-source",
+          "source": "https://asuonline.asu.edu/what-it-costs/",
+          "quote": "Our enrollment coaches are available to chat about your tuition estimate and more.",
+          "candidates": [
+            {
+              "value": "Yes",
+              "quote": "Our enrollment coaches are available to chat about your tuition estimate and more.",
+              "cycle_match": "exact",
+              "program_match": "general",
+              "url": "https://asuonline.asu.edu/what-it-costs/"
+            }
+          ]
+        },
+        "In-State Tuition Per Credit": {
+          "value": null,
+          "status": "not-found",
+          "source": null,
+          "quote": null,
+          "candidates": []
+        },
+        "Out-of-State Tuition Per Credit": {
+          "value": null,
+          "status": "not-found",
+          "source": null,
+          "quote": null,
+          "candidates": []
+        },
+        "International Tuition Per Credit": {
+          "value": null,
+          "status": "not-found",
+          "source": null,
+          "quote": null,
+          "candidates": []
+        },
+        "In-State Tuition Total": {
+          "value": null,
+          "status": "not-found",
+          "source": null,
+          "quote": null,
+          "candidates": []
+        },
+        "Out-of-State Tuition Total": {
+          "value": null,
+          "status": "not-found",
+          "source": null,
+          "quote": null,
+          "candidates": []
+        },
+        "International Tuition Total": {
+          "value": null,
+          "status": "not-found",
+          "source": null,
+          "quote": null,
+          "candidates": []
+        },
+        "Scholarship": {
+          "value": "Yes",
+          "status": "single-source",
+          "source": "https://asuonline.asu.edu/what-it-costs/",
+          "quote": "ASU offers scholarships for eligible online students.",
+          "candidates": [
+            {
+              "value": "Available to eligible new, transfer, and continuing online students through the ASU Online Scholarship program",
+              "quote": "ASU offers scholarships for eligible new and transfer students and students continuing their degree through the ASU Online Scholarship program.",
+              "cycle_match": "unstated",
+              "program_match": "general",
+              "url": "https://asuonline.asu.edu/what-it-costs/scholarship-opportunities/"
+            },
+            {
+              "value": "Yes",
+              "quote": "ASU offers scholarships for eligible online students.",
+              "cycle_match": "exact",
+              "program_match": "general",
+              "url": "https://asuonline.asu.edu/what-it-costs/"
+            }
+          ]
+        },
+        "Deposit": {
+          "value": null,
+          "status": "not-found",
+          "source": null,
+          "quote": null,
+          "candidates": []
+        },
+        "Job Placement %": {
+          "value": null,
+          "status": "not-found",
+          "source": null,
+          "quote": null,
+          "candidates": []
+        },
+        "Average Post-Grad Salary": {
+          "value": null,
+          "status": "not-found",
+          "source": null,
+          "quote": null,
+          "candidates": []
+        },
+        "Average Post-Grad Bonus": {
+          "value": null,
+          "status": "not-found",
+          "source": null,
+          "quote": null,
+          "candidates": []
+        }
+      },
+      "pages": {
+        "visited": [
+          "https://asuonline.asu.edu/online-degree-programs/graduate/supply-chain-management-ms/",
+          "https://asuonline.asu.edu/what-it-costs/scholarship-opportunities/",
+          "https://asuonline.asu.edu/what-it-costs/",
+          "https://asuonline.asu.edu/online-degree-programs/undergraduate/",
+          "https://asuonline.asu.edu/online-degree-programs/graduate/",
+          "https://asuonline.asu.edu/admission/graduate/",
+          "https://asuonline.asu.edu/online-degree-programs/",
+          "https://asuonline.asu.edu/admission/"
+        ],
+        "unreadable": [],
+        "rejected": {
+          "value not in quote": 1,
+          "quote not found on page": 1
+        }
+      }
+    },
+    "Online MSGSCM::GEORGETOWN UNIVERSITY::SUPPLY CHAIN MANAGEMENT": {
+      "program": "SUPPLY CHAIN MANAGEMENT - listed on the workbook sheet 'Online MSGSCM'",
+      "fields": {
+        "Location - City": {
+          "value": "Washington, D.C.",
+          "status": "resolved-conflict",
+          "source": "https://scs.georgetown.edu/programs/503/master-of-professional-studies-in-supply-chain-management/curriculum-courses/",
+          "quote": "In the on-campus format, classes are held at the same times every week at our downtown D.C. campus.",
+          "candidates": [
+            {
+              "value": "Washington",
+              "quote": "111 Massachusetts Ave NW Washington, DC 20001",
+              "cycle_match": "unstated",
+              "program_match": "general",
+              "url": "https://scs.georgetown.edu/programs/503/online/online-masters-in-supply-chain-management/"
+            },
+            {
+              "value": "Washington, D.C.",
+              "quote": "In the on-campus format, classes are held at the same times every week at our downtown D.C. campus.",
+              "cycle_match": "unstated",
+              "program_match": "target",
+              "url": "https://scs.georgetown.edu/programs/503/master-of-professional-studies-in-supply-chain-management/curriculum-courses/"
+            },
+            {
+              "value": "Washington",
+              "quote": "111 Massachusetts Ave NW Washington, DC 20001",
+              "cycle_match": "unstated",
+              "program_match": "target",
+              "url": "https://scs.georgetown.edu/programs/503/master-of-professional-studies-in-supply-chain-management/curriculum-courses/"
+            },
+            {
+              "value": "Washington",
+              "quote": "111 Massachusetts Ave NW Washington, DC 20001",
+              "cycle_match": "unstated",
+              "program_match": "general",
+              "url": "https://scs.georgetown.edu/programs/503/master-of-professional-studies-in-supply-chain-management/tuition-financial-aid/"
+            },
+            {
+              "value": "Washington",
+              "quote": "111 Massachusetts Ave NW Washington, DC 20001",
+              "cycle_match": "unstated",
+              "program_match": "general",
+              "url": "https://scs.georgetown.edu/programs/503/master-of-professional-studies-in-supply-chain-management/how-to-apply/"
+            },
+            {
+              "value": "Washington",
+              "quote": "111 Massachusetts Ave NW Washington, DC 20001",
+              "cycle_match": "unstated",
+              "program_match": "general",
+              "url": "https://scs.georgetown.edu/programs/503/master-of-professional-studies-in-supply-chain-management/student-profile/"
+            },
+            {
+              "value": "Washington",
+              "quote": "111 Massachusetts Ave NW Washington, DC 20001",
+              "cycle_match": "unstated",
+              "program_match": "general",
+              "url": "https://scs.georgetown.edu/programs/503/master-of-professional-studies-in-supply-chain-management/career-outlook/"
+            },
+            {
+              "value": "Washington",
+              "quote": "111 Massachusetts Ave NW Washington, DC 20001",
+              "cycle_match": "unstated",
+              "program_match": "general",
+              "url": "https://scs.georgetown.edu/programs/503/master-of-professional-studies-in-supply-chain-management/"
+            },
+            {
+              "value": "Washington",
+              "quote": "111 Massachusetts Ave NW Washington, DC 20001",
+              "cycle_match": "unstated",
+              "program_match": "general",
+              "url": "https://scs.georgetown.edu/tuition-aid/"
+            }
+          ]
+        },
+        "Location - State": {
+          "value": "District of Columbia",
+          "status": "resolved-conflict",
+          "source": "https://scs.georgetown.edu/programs/503/master-of-professional-studies-in-supply-chain-management/curriculum-courses/",
+          "quote": "In the on-campus format, classes are held at the same times every week at our downtown D.C. campus.",
+          "candidates": [
+            {
+              "value": "District of Columbia",
+              "quote": "111 Massachusetts Ave NW Washington, DC 20001",
+              "cycle_match": "unstated",
+              "program_match": "general",
+              "url": "https://scs.georgetown.edu/programs/503/online/online-masters-in-supply-chain-management/"
+            },
+            {
+              "value": "District of Columbia",
+              "quote": "In the on-campus format, classes are held at the same times every week at our downtown D.C. campus.",
+              "cycle_match": "unstated",
+              "program_match": "target",
+              "url": "https://scs.georgetown.edu/programs/503/master-of-professional-studies-in-supply-chain-management/curriculum-courses/"
+            },
+            {
+              "value": "DC",
+              "quote": "111 Massachusetts Ave NW Washington, DC 20001",
+              "cycle_match": "unstated",
+              "program_match": "target",
+              "url": "https://scs.georgetown.edu/programs/503/master-of-professional-studies-in-supply-chain-management/curriculum-courses/"
+            },
+            {
+              "value": "DC",
+              "quote": "111 Massachusetts Ave NW Washington, DC 20001",
+              "cycle_match": "unstated",
+              "program_match": "general",
+              "url": "https://scs.georgetown.edu/programs/503/master-of-professional-studies-in-supply-chain-management/tuition-financial-aid/"
+            },
+            {
+              "value": "DC",
+              "quote": "111 Massachusetts Ave NW Washington, DC 20001",
+              "cycle_match": "unstated",
+              "program_match": "general",
+              "url": "https://scs.georgetown.edu/programs/503/master-of-professional-studies-in-supply-chain-management/how-to-apply/"
+            },
+            {
+              "value": "DC",
+              "quote": "111 Massachusetts Ave NW Washington, DC 20001",
+              "cycle_match": "unstated",
+              "program_match": "general",
+              "url": "https://scs.georgetown.edu/programs/503/master-of-professional-studies-in-supply-chain-management/student-profile/"
+            },
+            {
+              "value": "DC",
+              "quote": "111 Massachusetts Ave NW Washington, DC 20001",
+              "cycle_match": "unstated",
+              "program_match": "general",
+              "url": "https://scs.georgetown.edu/programs/503/master-of-professional-studies-in-supply-chain-management/career-outlook/"
+            },
+            {
+              "value": "DC",
+              "quote": "111 Massachusetts Ave NW Washington, DC 20001",
+              "cycle_match": "unstated",
+              "program_match": "general",
+              "url": "https://scs.georgetown.edu/programs/503/master-of-professional-studies-in-supply-chain-management/"
+            },
+            {
+              "value": "DC",
+              "quote": "111 Massachusetts Ave NW Washington, DC 20001",
+              "cycle_match": "unstated",
+              "program_match": "general",
+              "url": "https://scs.georgetown.edu/tuition-aid/"
+            }
+          ]
+        },
+        "Average GMAT": {
+          "value": null,
+          "status": "not-found",
+          "source": null,
+          "quote": null,
+          "candidates": []
+        },
+        "Average GRE": {
+          "value": null,
+          "status": "not-found",
+          "source": null,
+          "quote": null,
+          "candidates": []
+        },
+        "Average Undergraduate GPA": {
+          "value": null,
+          "status": "not-found",
+          "source": null,
+          "quote": null,
+          "candidates": []
+        },
+        "Work Experience (Month)": {
+          "value": null,
+          "status": "not-found",
+          "source": null,
+          "quote": null,
+          "candidates": []
+        },
+        "Average Student Age": {
+          "value": null,
+          "status": "not-found",
+          "source": null,
+          "quote": null,
+          "candidates": []
+        },
+        "Class Size": {
+          "value": null,
+          "status": "not-found",
+          "source": null,
+          "quote": null,
+          "candidates": []
+        },
+        "International (%)": {
+          "value": null,
+          "status": "not-found",
+          "source": null,
+          "quote": null,
+          "candidates": []
+        },
+        "Female (%)": {
+          "value": null,
+          "status": "not-found",
+          "source": null,
+          "quote": null,
+          "candidates": []
+        },
+        "Accept Rate": {
+          "value": null,
+          "status": "not-found",
+          "source": null,
+          "quote": null,
+          "candidates": []
+        },
+        "Duration (months)": {
+          "value": null,
+          "status": "not-found",
+          "source": null,
+          "quote": null,
+          "candidates": []
+        },
+        "Credit Hours": {
+          "value": "33",
+          "status": "corroborated-unstated",
+          "source": "https://scs.georgetown.edu/programs/503/online/online-masters-in-supply-chain-management/",
+          "quote": "Number of Credits 33 credits",
+          "candidates": [
+            {
+              "value": "33",
+              "quote": "Number of Credits 33 credits",
+              "cycle_match": "unstated",
+              "program_match": "target",
+              "url": "https://scs.georgetown.edu/programs/503/online/online-masters-in-supply-chain-management/"
+            },
+            {
+              "value": "33",
+              "quote": "To earn a Master\u2019s in Supply Chain Management, you must successfully complete 33 credits total, including the following:",
+              "cycle_match": "unstated",
+              "program_match": "target",
+              "url": "https://scs.georgetown.edu/programs/503/master-of-professional-studies-in-supply-chain-management/curriculum-courses/"
+            },
+            {
+              "value": "33 credits",
+              "quote": "Number of Credits 33 credits",
+              "cycle_match": "unstated",
+              "program_match": "target",
+              "url": "https://scs.georgetown.edu/programs/503/master-of-professional-studies-in-supply-chain-management/"
+            }
+          ]
+        },
+        "On-Campus Options": {
+          "value": "Yes",
+          "status": "single-source",
+          "source": "https://scs.georgetown.edu/programs/503/master-of-professional-studies-in-supply-chain-management/curriculum-courses/",
+          "quote": "This course meets in person on the day and time listed.",
+          "candidates": [
+            {
+              "value": "Yes",
+              "quote": "We offer flexible options to take classes online, on campus, or through a combination of both\u2014so you don\u2019t have to interrupt your career to earn your degree.",
+              "cycle_match": "unstated",
+              "program_match": "target",
+              "url": "https://scs.georgetown.edu/programs/503/online/online-masters-in-supply-chain-management/"
+            },
+            {
+              "value": "Yes",
+              "quote": "The Master's in Supply Chain Management is available in both an online format and an on-campus format.",
+              "cycle_match": "unstated",
+              "program_match": "target",
+              "url": "https://scs.georgetown.edu/programs/503/master-of-professional-studies-in-supply-chain-management/curriculum-courses/"
+            },
+            {
+              "value": "Yes",
+              "quote": "This course meets in person on the day and time listed.",
+              "cycle_match": "exact",
+              "program_match": "target",
+              "url": "https://scs.georgetown.edu/programs/503/master-of-professional-studies-in-supply-chain-management/curriculum-courses/"
+            },
+            {
+              "value": "Yes",
+              "quote": "Master's in Supply Chain Management (On-Campus) Online Master's in Supply Chain Management (Online)",
+              "cycle_match": "unstated",
+              "program_match": "target",
+              "url": "https://scs.georgetown.edu/programs/503/master-of-professional-studies-in-supply-chain-management/curriculum-courses/"
+            },
+            {
+              "value": "Yes (On-Campus option available)",
+              "quote": "Program Format Select a Format Master's in Supply Chain Management (On-Campus) Online Master's in Supply Chain Management (Online)",
+              "cycle_match": "unstated",
+              "program_match": "target",
+              "url": "https://scs.georgetown.edu/programs/503/master-of-professional-studies-in-supply-chain-management/how-to-apply/"
+            },
+            {
+              "value": "On-Campus and Online",
+              "quote": "Program Format Select a Format Master's in Supply Chain Management (On-Campus) Online Master's in Supply Chain Management (Online)",
+              "cycle_match": "unstated",
+              "program_match": "target",
+              "url": "https://scs.georgetown.edu/programs/503/master-of-professional-studies-in-supply-chain-management/career-outlook/"
+            },
+            {
+              "value": "On-campus or online",
+              "quote": "Format On-campus or online",
+              "cycle_match": "unstated",
+              "program_match": "target",
+              "url": "https://scs.georgetown.edu/programs/503/master-of-professional-studies-in-supply-chain-management/"
+            }
+          ]
+        },
+        "Deadline Date(s)": {
+          "value": "Fall Term: Application Opens\u2014Sep 15; Priority Deadline\u2014Apr 1; Final Deadline\u2014Jun 15. Spring Term: Application Opens\u2014May 1; Priority Deadline\u2014Oct 15; Final Deadline\u2014Nov 1",
+          "status": "single-source",
+          "source": "https://scs.georgetown.edu/programs/503/master-of-professional-studies-in-supply-chain-management/how-to-apply/",
+          "quote": "Deadlines Fall Term Application Opens\u2014Sep 15 Priority Deadline\u2014Apr 1 Final Deadline\u2014Jun 15 Spring Term Application Opens\u2014May 1 Priority Deadline\u2014Oct 15 Final Deadline\u2014Nov 1",
+          "candidates": [
+            {
+              "value": "Fall Term: Application Opens\u2014Sep 15; Priority Deadline\u2014Apr 1; Final Deadline\u2014Jun 15. Spring Term: Application Opens\u2014May 1; Priority Deadline\u2014Oct 15; Final Deadline\u2014Nov 1",
+              "quote": "Deadlines Fall Term Application Opens\u2014Sep 15 Priority Deadline\u2014Apr 1 Final Deadline\u2014Jun 15 Spring Term Application Opens\u2014May 1 Priority Deadline\u2014Oct 15 Final Deadline\u2014Nov 1",
+              "cycle_match": "exact",
+              "program_match": "target",
+              "url": "https://scs.georgetown.edu/programs/503/master-of-professional-studies-in-supply-chain-management/how-to-apply/"
+            }
+          ]
+        },
+        "Experiential Learning Courses / Opportunities (Yes/No)": {
+          "value": "Yes",
+          "status": "single-source",
+          "source": "https://scs.georgetown.edu/programs/503/master-of-professional-studies-in-supply-chain-management/curriculum-courses/",
+          "quote": "The Supply Chain Internship Course provides students with an experience that links classroom learning with knowledge gained through an applied work setting.",
+          "candidates": [
+            {
+              "value": "Yes",
+              "quote": "MPS-SCM Internship 1 ... This course is designed to help students solidify their career as an industry professional.",
+              "cycle_match": "unstated",
+              "program_match": "target",
+              "url": "https://scs.georgetown.edu/programs/503/master-of-professional-studies-in-supply-chain-management/curriculum-courses/"
+            },
+            {
+              "value": "Yes",
+              "quote": "The Supply Chain Internship Course provides students with an experience that links classroom learning with knowledge gained through an applied work setting.",
+              "cycle_match": "exact",
+              "program_match": "target",
+              "url": "https://scs.georgetown.edu/programs/503/master-of-professional-studies-in-supply-chain-management/curriculum-courses/"
+            }
+          ]
+        },
+        "Experiential Learning Courses / Opportunities (brief description)": {
+          "value": "Students complete career\u2011focused assignments, a reflection, and a supply chain career development plan; the course requires at least 20 hours of applied experience outside of scheduled class time.",
+          "status": "single-source",
+          "source": "https://scs.georgetown.edu/programs/503/master-of-professional-studies-in-supply-chain-management/curriculum-courses/",
+          "quote": "This course requires at least 20 hours of applied experience outside of scheduled class time and requires department approval for registration.",
+          "candidates": [
+            {
+              "value": "Students complete career\u2011focused assignments, a reflection, and a supply chain career development plan; the course requires at least 20 hours of applied experience outside of scheduled class time.",
+              "quote": "This course requires at least 20 hours of applied experience outside of scheduled class time and requires department approval for registration.",
+              "cycle_match": "exact",
+              "program_match": "target",
+              "url": "https://scs.georgetown.edu/programs/503/master-of-professional-studies-in-supply-chain-management/curriculum-courses/"
+            }
+          ]
+        },
+        "Affinity Groups (Yes/No)": {
+          "value": null,
+          "status": "not-found",
+          "source": null,
+          "quote": null,
+          "candidates": []
+        },
+        "Affinity Groups (brief description)": {
+          "value": null,
+          "status": "not-found",
+          "source": null,
+          "quote": null,
+          "candidates": []
+        },
+        "Accept 3yr-degree from India? (Y/N)": {
+          "value": null,
+          "status": "not-found",
+          "source": null,
+          "quote": null,
+          "candidates": []
+        },
+        "Career Coaching/Consulting Services Offered? (Yes/No)": {
+          "value": null,
+          "status": "not-found",
+          "source": null,
+          "quote": null,
+          "candidates": []
+        },
+        "In-State Tuition Per Credit": {
+          "value": null,
+          "status": "not-found",
+          "source": null,
+          "quote": null,
+          "candidates": []
+        },
+        "Out-of-State Tuition Per Credit": {
+          "value": null,
+          "status": "not-found",
+          "source": null,
+          "quote": null,
+          "candidates": []
+        },
+        "International Tuition Per Credit": {
+          "value": null,
+          "status": "not-found",
+          "source": null,
+          "quote": null,
+          "candidates": []
+        },
+        "In-State Tuition Total": {
+          "value": "$57,816",
+          "status": "single-source",
+          "source": "https://scs.georgetown.edu/programs/503/master-of-professional-studies-in-supply-chain-management/tuition-financial-aid/",
+          "quote": "Total tuition for the Master of Professional Studies in Supply Chain Management program is $57,816*.",
+          "candidates": [
+            {
+              "value": "$57,816",
+              "quote": "Tuition $57,816*",
+              "cycle_match": "unstated",
+              "program_match": "target",
+              "url": "https://scs.georgetown.edu/programs/503/online/online-masters-in-supply-chain-management/"
+            },
+            {
+              "value": "$57,816",
+              "quote": "Total tuition for the Master of Professional Studies in Supply Chain Management program is $57,816*.",
+              "cycle_match": "exact",
+              "program_match": "target",
+              "url": "https://scs.georgetown.edu/programs/503/master-of-professional-studies-in-supply-chain-management/tuition-financial-aid/"
+            }
+          ]
+        },
+        "Out-of-State Tuition Total": {
+          "value": null,
+          "status": "not-found",
+          "source": null,
+          "quote": null,
+          "candidates": []
+        },
+        "International Tuition Total": {
+          "value": null,
+          "status": "not-found",
+          "source": null,
+          "quote": null,
+          "candidates": []
+        },
+        "Scholarship": {
+          "value": null,
+          "status": "unverified-cycle",
+          "source": null,
+          "quote": null,
+          "candidates": [
+            {
+              "value": "Limited service\u2011based scholarships; SCS does not offer merit or athletic scholarships or scholarships specifically to international students.",
+              "quote": "SCS does not offer merit or athletic scholarships or scholarships specifically to international students.",
+              "cycle_match": "unstated",
+              "program_match": "general",
+              "url": "https://scs.georgetown.edu/programs/503/master-of-professional-studies-in-supply-chain-management/tuition-financial-aid/"
+            }
+          ]
+        },
+        "Deposit": {
+          "value": null,
+          "status": "not-found",
+          "source": null,
+          "quote": null,
+          "candidates": []
+        },
+        "Job Placement %": {
+          "value": null,
+          "status": "not-found",
+          "source": null,
+          "quote": null,
+          "candidates": []
+        },
+        "Average Post-Grad Salary": {
+          "value": null,
+          "status": "not-found",
+          "source": null,
+          "quote": null,
+          "candidates": []
+        },
+        "Average Post-Grad Bonus": {
+          "value": null,
+          "status": "not-found",
+          "source": null,
+          "quote": null,
+          "candidates": []
+        }
+      },
+      "pages": {
+        "visited": [
+          "https://scs.georgetown.edu/programs/503/online/online-masters-in-supply-chain-management/",
+          "https://scs.georgetown.edu/programs/503/master-of-professional-studies-in-supply-chain-management/curriculum-courses/",
+          "https://scs.georgetown.edu/programs/503/master-of-professional-studies-in-supply-chain-management/tuition-financial-aid/",
+          "https://scs.georgetown.edu/programs/503/master-of-professional-studies-in-supply-chain-management/how-to-apply/",
+          "https://scs.georgetown.edu/programs/503/master-of-professional-studies-in-supply-chain-management/student-profile/",
+          "https://scs.georgetown.edu/programs/503/master-of-professional-studies-in-supply-chain-management/career-outlook/",
+          "https://scs.georgetown.edu/programs/503/master-of-professional-studies-in-supply-chain-management/",
+          "https://scs.georgetown.edu/tuition-aid/"
+        ],
+        "unreadable": [],
+        "rejected": {
+          "quote not found on page": 3
+        }
+      }
+    }
+  }
+}

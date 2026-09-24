@@ -1,0 +1,322 @@
+[
+ {
+  "sheet": "MS GSCM - Residential",
+  "row": 23,
+  "college": "UNIVERSITY OF WASHINGTON - SEATTLE",
+  "program": "SUPPLY CHAIN MANAGEMENT",
+  "url": "https://foster.washington.edu/academics/degree-programs/master-of-supply-chain-management/",
+  "program_on_page": "Master of Supply Chain Management (MSCM)",
+  "confidence": "high",
+  "note": "UW Foster School of Business; one-year full-time STEM on-campus master's in Seattle. Matches residential MS GSCM."
+ },
+ {
+  "sheet": "MS GSCM - Residential",
+  "row": 24,
+  "college": "UNIVERSITY OF WISCONSIN - MADISON",
+  "program": "BUS: SUPPLY CHAIN MGMT MSB",
+  "url": "https://business.wisc.edu/graduate/masters/supply-chain/",
+  "program_on_page": "Master of Science-Business: Supply Chain Management",
+  "confidence": "high",
+  "note": "Wisconsin School of Business; 1-year in-person MS. Exactly matches 'BUS: SUPPLY CHAIN MGMT MSB'."
+ },
+ {
+  "sheet": "MS GSCM - Residential",
+  "row": 25,
+  "college": "WASHINGTON UNIVERSITY",
+  "program": "MASTER OF SCIENCE IN SUPPLY CHAIN MANAGEMENT",
+  "url": "https://olin.washu.edu/programs/specialized-masters/ms-in-supply-chain-management/index.php",
+  "program_on_page": "MS in Supply Chain Management",
+  "confidence": "high",
+  "note": "WashU Olin Business School, St. Louis; full-time on-campus, 3 semesters."
+ },
+ {
+  "sheet": "MS HRM - Residential",
+  "row": 3,
+  "college": "BRIGHAM YOUNG UNIVERSITY",
+  "program": "",
+  "url": null,
+  "program_on_page": null,
+  "confidence": null,
+  "note": "BYU Marriott's graduate list (MAcc, MBA, EMBA, MISM, MPA, Exec MPA) contains no HR master's; HRM is an undergraduate major and the only graduate HR offering is the MBA Strategic Human Resources track, not a master's in HRM. No matching program found."
+ },
+ {
+  "sheet": "MS HRM - Residential",
+  "row": 4,
+  "college": "CLARK UNIVERSITY",
+  "program": "MANAGEMENT",
+  "url": "https://www.clarku.edu/business/academics/graduate-programs/management/",
+  "program_on_page": "Master of Science in Management",
+  "confidence": "high",
+  "note": "Clark University School of Business. Page explicitly offers on-campus as well as online study, so the residential option is confirmed. Matches program text 'MANAGEMENT' (Clark has no MS HRM)."
+ },
+ {
+  "sheet": "MS HRM - Residential",
+  "row": 5,
+  "college": "CLEVELAND STATE UNIVERSITY",
+  "program": "",
+  "url": "https://business.csuohio.edu/academics/master-human-resource-management-100-online",
+  "program_on_page": "Master of Human Resource Management - 100% Online",
+  "confidence": "medium",
+  "note": "Cleveland State, Monte Ahuja College of Business. This is CSU's only HRM master's, but the page states it is 100% online - no residential option exists, so delivery does not match the 'Residential' sheet."
+ },
+ {
+  "sheet": "MS HRM - Residential",
+  "row": 6,
+  "college": "CORNELL UNIVERSITY",
+  "program": "INDUSTRIAL & LABOR RELATIONS",
+  "url": "https://www.ilr.cornell.edu/programs/graduate-degree-programs/master-industrial-and-labor-relations-milr",
+  "program_on_page": "Master of Industrial and Labor Relations (MILR)",
+  "confidence": "high",
+  "note": "Cornell ILR School. Page states 'fully on-campus learning environment', 3-4 semesters on campus. Matches program text 'INDUSTRIAL & LABOR RELATIONS'; it is Cornell's HR master's."
+ },
+ {
+  "sheet": "MS HRM - Residential",
+  "row": 7,
+  "college": "GEORGE WASHINGTON UNIVERSITY",
+  "program": "HUMAN RESOURCE MANAGEMENT",
+  "url": "https://business.gwu.edu/academics/programs/masters/master-of-human-resource-management",
+  "program_on_page": "Master of Human Resource Management",
+  "confidence": "high",
+  "note": "GW School of Business. Page lists on-campus (Foggy Bottom) as well as online options; on-campus delivery confirmed. Links to admissions, tuition and bulletin curriculum."
+ },
+ {
+  "sheet": "MS HRM - Residential",
+  "row": 8,
+  "college": "ILLINOIS INSTITUTE OF TECHNOLOGY",
+  "program": "PEOPLE ANALYTICS",
+  "url": "https://www.iit.edu/academics/programs/people-analytics-ms",
+  "program_on_page": "People Analytics (M.S.)",
+  "confidence": "high",
+  "note": "Illinois Institute of Technology; page explicitly states 'On Campus'. 33-credit MS combining I-O psychology with analytics, with a required HR internship. Exact match for program text 'PEOPLE ANALYTICS'."
+ },
+ {
+  "sheet": "MS HRM - Residential",
+  "row": 9,
+  "college": "NEW YORK UNIVERSITY",
+  "program": "MAJOR: HUMAN RESOURCE MANAGEMENT AND DEVELOPMENT",
+  "url": "https://www.sps.nyu.edu/explore/degrees-and-programs/ms-in-human-capital-management.html",
+  "program_on_page": "Master of Science in Human Capital Management",
+  "confidence": "medium",
+  "note": "NYU School of Professional Studies. The MS in Human Resource Management and Development stopped accepting new students (Fall 2024) and was replaced by the MS in Human Capital Management; the old HRMD URL now serves this page. Onsite (all courses on campus) is one of the stated modalities."
+ },
+ {
+  "sheet": "MS HRM - Residential",
+  "row": 10,
+  "college": "NEW YORK UNIVERSITY",
+  "program": "MAJOR: HUMAN CAPITAL ANALYTICS AND TECHNOLOGY",
+  "url": "https://www.sps.nyu.edu/explore/degrees-and-programs/ms-in-human-capital-analytics-and-technology.html",
+  "program_on_page": "Master of Science in Human Capital Analytics & Technology (STEM)",
+  "confidence": "high",
+  "note": "NYU School of Professional Studies. Exact match for 'MAJOR: HUMAN CAPITAL ANALYTICS AND TECHNOLOGY'. Onsite (all courses on campus) offered alongside hybrid/online."
+ },
+ {
+  "sheet": "MS HRM - Residential",
+  "row": 11,
+  "college": "NEW YORK UNIVERSITY",
+  "program": "MAJOR: HUMAN CAPITAL MANAGEMENT",
+  "url": "https://www.sps.nyu.edu/explore/degrees-and-programs/ms-in-human-capital-management.html",
+  "program_on_page": "Master of Science in Human Capital Management",
+  "confidence": "high",
+  "note": "NYU School of Professional Studies. Exact match for 'MAJOR: HUMAN CAPITAL MANAGEMENT'. Onsite (all courses on campus) offered alongside hybrid/online."
+ },
+ {
+  "sheet": "MS HRM - Residential",
+  "row": 12,
+  "college": "RUTGERS -THE STATE UNIVERSITY OF NJ -NEW BRUNSWICK",
+  "program": "HUMAN RESOURCE MANAGEMENT",
+  "url": "https://smlr.rutgers.edu/academic-programs/graduate-programs/masters-human-resource-management-mhrm",
+  "program_on_page": "Master's in Human Resource Management (MHRM)",
+  "confidence": "high",
+  "note": "Rutgers School of Management and Labor Relations, Piscataway/New Brunswick. This is the in-person MHRM page (a separate 'Online Professional MHRM' page exists and was deliberately not chosen, since the sheet is residential)."
+ },
+ {
+  "sheet": "MS HRM - Residential",
+  "row": 13,
+  "college": "TRINE UNIVERSITY",
+  "program": "MASTER OF BUSINESS ADMINISTRATION",
+  "url": "https://www.trine.edu/online/degrees/business-administration/online-mba-master-business-administration.aspx",
+  "program_on_page": "Master of Business Administration",
+  "confidence": "medium",
+  "note": "Trine University, College of Graduate and Professional Studies. Program text is 'MASTER OF BUSINESS ADMINISTRATION' and Trine offers a Human Resource Management specialization within it. This is Trine's MBA overview page but it is the fully online format; no separate on-campus MBA overview page could be confirmed (the international/graduate MBA URL returns 404)."
+ },
+ {
+  "sheet": "MS HRM - Residential",
+  "row": 14,
+  "college": "UNIVERSITY OF GEORGIA",
+  "program": "SOCIAL WORK",
+  "url": "https://ssw.uga.edu/degrees-programs/msw/",
+  "program_on_page": "Master of Social Work",
+  "confidence": "high",
+  "note": "University of Georgia School of Social Work. Program text on the sheet is 'SOCIAL WORK', so this is the MSW, not an HR degree; the page confirms an on-campus Athens full-time option alongside Atlanta/Gwinnett and online tracks."
+ },
+ {
+  "sheet": "MS HRM - Residential",
+  "row": 16,
+  "college": "UNIVERSITY OF MINNESOTA-TWIN CITIES GRADUATE",
+  "program": "HUMAN RSRC/INDUS REL M H R I R",
+  "url": "https://carlsonschool.umn.edu/graduate/masters/human-resources-industrial-relations",
+  "program_on_page": "Master of Human Resources & Industrial Relations",
+  "confidence": "high",
+  "note": "University of Minnesota Carlson School of Management, Minneapolis. Page states 'On campus; day classes', full-time 16 or 20 months. Exact match for 'HUMAN RSRC/INDUS REL M H R I R'."
+ },
+ {
+  "sheet": "MS HRM - Residential",
+  "row": 17,
+  "college": "UNIVERSITY OF TEXAS AT TYLER",
+  "program": "",
+  "url": null,
+  "program_on_page": null,
+  "confidence": null,
+  "note": "not yet researched"
+ },
+ {
+  "sheet": "MS HRM - Residential",
+  "row": 18,
+  "college": "VILLANOVA UNIVERSITY",
+  "program": "HUMAN RESOURCE DEVELOPMENT",
+  "url": null,
+  "program_on_page": null,
+  "confidence": null,
+  "note": "not yet researched"
+ },
+ {
+  "sheet": "MS Marketing - Residential",
+  "row": 2,
+  "college": "BOSTON UNIVERSITY",
+  "program": "ADVERTISING",
+  "url": null,
+  "program_on_page": null,
+  "confidence": null,
+  "note": "not yet researched"
+ },
+ {
+  "sheet": "MS Marketing - Residential",
+  "row": 3,
+  "college": "GEORGETOWN UNIV - GRAD SCHOOL",
+  "program": "MANAGEMENT MIM",
+  "url": null,
+  "program_on_page": null,
+  "confidence": null,
+  "note": "not yet researched"
+ },
+ {
+  "sheet": "MS Marketing - Residential",
+  "row": 4,
+  "college": "GEORGETOWN UNIV - GRAD SCHOOL",
+  "program": "COMMUN CULTURE TECHNOLOGY",
+  "url": null,
+  "program_on_page": null,
+  "confidence": null,
+  "note": "not yet researched"
+ },
+ {
+  "sheet": "MS Marketing - Residential",
+  "row": 5,
+  "college": "INDIANA STATE UNIVERSITY",
+  "program": "MASTER OF BUSINESS ADMIN",
+  "url": null,
+  "program_on_page": null,
+  "confidence": null,
+  "note": "not yet researched"
+ },
+ {
+  "sheet": "MS Marketing - Residential",
+  "row": 6,
+  "college": "INDIANA UNIVERSITY BLOOMINGTON",
+  "program": "MANAGEMENT MSM",
+  "url": null,
+  "program_on_page": null,
+  "confidence": null,
+  "note": "not yet researched"
+ },
+ {
+  "sheet": "MS Marketing - Residential",
+  "row": 7,
+  "college": "MICHIGAN STATE UNIVERSITY",
+  "program": "MARKETING RSRCH & ANALYTICS MS",
+  "url": null,
+  "program_on_page": null,
+  "confidence": null,
+  "note": "not yet researched"
+ },
+ {
+  "sheet": "MS Marketing - Residential",
+  "row": 8,
+  "college": "NEW YORK UNIVERSITY",
+  "program": "MAJOR: INTEGRATED MARKETING",
+  "url": null,
+  "program_on_page": null,
+  "confidence": null,
+  "note": "not yet researched"
+ },
+ {
+  "sheet": "MS Marketing - Residential",
+  "row": 10,
+  "college": "UNIVERSITY OF ILLINOIS CHICAGO",
+  "program": "LAW",
+  "url": null,
+  "program_on_page": null,
+  "confidence": null,
+  "note": "not yet researched"
+ },
+ {
+  "sheet": "MS Marketing - Residential",
+  "row": 11,
+  "college": "UNIVERSITY OF PENNSYLVANIA",
+  "program": "BEHAVIORAL DECISION SCIENCES",
+  "url": null,
+  "program_on_page": null,
+  "confidence": null,
+  "note": "not yet researched"
+ },
+ {
+  "sheet": "MS Marketing - Residential",
+  "row": 12,
+  "college": "UNIVERSITY OF ROCHESTER- SCHOOL OF BUSINESS",
+  "program": "MARKETING ANALYTICS [MKA] MASTERS",
+  "url": null,
+  "program_on_page": null,
+  "confidence": null,
+  "note": "not yet researched"
+ },
+ {
+  "sheet": "MS Marketing - Residential",
+  "row": 13,
+  "college": "UNIVERSITY OF SAN FRANCISCO",
+  "program": "MARKETING INTELLIGENCE",
+  "url": null,
+  "program_on_page": null,
+  "confidence": null,
+  "note": "not yet researched"
+ },
+ {
+  "sheet": "MS Marketing - Residential",
+  "row": 19,
+  "college": "UNIVERSITY OF WASHINGTON - SEATTLE",
+  "program": "COMMUNICATION (DIGITAL MEDIA)",
+  "url": null,
+  "program_on_page": null,
+  "confidence": null,
+  "note": "not yet researched"
+ },
+ {
+  "sheet": "MS Marketing - Residential",
+  "row": 20,
+  "college": "VANDERBILT UNIVERSITY",
+  "program": "MARKETING",
+  "url": null,
+  "program_on_page": null,
+  "confidence": null,
+  "note": "not yet researched"
+ },
+ {
+  "sheet": "MS Marketing - Residential",
+  "row": 21,
+  "college": "WAKE FOREST UNIVERSITY- SCHOOL OF BUSINESS",
+  "program": "GENERAL MANAGEMENT",
+  "url": null,
+  "program_on_page": null,
+  "confidence": null,
+  "note": "not yet researched"
+ }
+]

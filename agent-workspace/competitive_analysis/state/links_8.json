@@ -1,0 +1,132 @@
+[
+ {
+  "sheet": "Online MS Business Analytics",
+  "row": 4,
+  "college": "COLUMBIA UNIVERSITY",
+  "program": "",
+  "url": "https://sps.columbia.edu/academics/masters/applied-analytics/master-science-applied-analytics",
+  "program_on_page": "Master of Science in Applied Analytics",
+  "confidence": "medium",
+  "note": "Columbia's only online analytics master's is the School of Professional Studies M.S. in Applied Analytics (page confirms a part-time fully online format alongside part-time in-person). The Columbia Business School / Engineering MS in Business Analytics is full-time on-campus only, so the online-sheet match is Applied Analytics; degree name differs from 'Business Analytics'."
+ },
+ {
+  "sheet": "Online MS Business Analytics",
+  "row": 5,
+  "college": "INDIANA UNIVERSITY INDIANAPOLIS",
+  "program": "MANAGEMENT BSB",
+  "url": "https://kelley.iu.edu/programs/executive-education-degrees-certificates/online-masters-degrees/business-analytics/index.html",
+  "program_on_page": "Online MS in Business Analytics",
+  "confidence": "medium",
+  "note": "IU's online MS in Business Analytics is offered by the Kelley School of Business; both the Kelley page and online.iu.edu attribute the degree to the Bloomington campus, not IU Indianapolis. No separate IU Indianapolis online MSBA was found, so this is the IU system program."
+ },
+ {
+  "sheet": "Online MS Business Analytics",
+  "row": 6,
+  "college": "PENNSYLVANIA STATE UNIVERSITY",
+  "program": "",
+  "url": "https://www.worldcampus.psu.edu/degrees-and-certificates/penn-state-online-data-analytics-business-masters-degree",
+  "program_on_page": "Data Analytics - Business Analytics Option (Master of Professional Studies), 100% online",
+  "confidence": "high",
+  "note": "Penn State World Campus online master's in Data Analytics with the Business Analytics option (Smeal-affiliated). Confirmed 100% online."
+ },
+ {
+  "sheet": "Online MS Business Analytics",
+  "row": 7,
+  "college": "SAINT JOSEPH'S UNIVERSITY",
+  "program": "BUSINESS INTELLIG ANALYTICS",
+  "url": "https://www.sju.edu/degree-programs/business-intelligence-analytics-ms",
+  "program_on_page": "Master of Science in Business Intelligence & Analytics",
+  "confidence": "high",
+  "note": "Haub School of Business MS; page confirms classes can be taken entirely online, on campus, or a mix."
+ },
+ {
+  "sheet": "Online MS Business Analytics",
+  "row": 8,
+  "college": "UNIVERSITY OF CALIFORNIA-LOS ANGELES",
+  "program": "",
+  "url": "https://www.anderson.ucla.edu/degrees/master-of-science-in-business-analytics",
+  "program_on_page": "Master of Science in Business Analytics (MSBA)",
+  "confidence": "low",
+  "note": "UCLA Anderson's MSBA is a 15-month full-time ON-CAMPUS program; no online format is offered. Delivery does not match the 'Online MS Business Analytics' sheet - this is the only UCLA MSBA."
+ },
+ {
+  "sheet": "Online MS Business Analytics",
+  "row": 9,
+  "college": "UNIVERSITY OF CALIFORNIA-SAN DIEGO",
+  "program": "BUSINESS ANALYTICS",
+  "url": "https://rady.ucsd.edu/programs/ms-business-analytics/",
+  "program_on_page": "Master of Science in Business Analytics (MSBA)",
+  "confidence": "low",
+  "note": "UC San Diego Rady School MSBA. Page describes a full-time on-campus program; the FlexWeekend variant is in-person weekends, and no fully online format is offered. Delivery does not match the online sheet."
+ },
+ {
+  "sheet": "Online MS Business Analytics",
+  "row": 10,
+  "college": "UNIVERSITY OF CHICAGO",
+  "program": "M.S. IN ANALYTICS (PART-TIME)",
+  "url": "https://datascience.uchicago.edu/education/masters-programs/online-program/",
+  "program_on_page": "MS in Applied Data Science - Online Program",
+  "confidence": "medium",
+  "note": "UChicago's 'M.S. in Analytics' was renamed the M.S. in Applied Data Science; this is the online program page, which confirms a part-time online option (two courses per quarter, evenings/Saturdays). Same program as the next row."
+ },
+ {
+  "sheet": "Online MS Business Analytics",
+  "row": 11,
+  "college": "UNIVERSITY OF CHICAGO",
+  "program": "M.S. IN APPLIED DATA SCIENCE (PART-TIME)",
+  "url": "https://datascience.uchicago.edu/education/masters-programs/online-program/",
+  "program_on_page": "MS in Applied Data Science - Online Program",
+  "confidence": "high",
+  "note": "Online part-time option of the UChicago MS in Applied Data Science, confirmed on page."
+ },
+ {
+  "sheet": "Online MS Business Analytics",
+  "row": 12,
+  "college": "UNIVERSITY OF CINCINNATI",
+  "program": "BUSINESS ADMIN BUS ANALYTICS",
+  "url": "https://www.online.uc.edu/degrees-programs/bachelors-required/masters/ms-business-analytics-bana.html",
+  "program_on_page": "Online Master of Science in Business Analytics",
+  "confidence": "high",
+  "note": "Carl H. Lindner College of Business, 100% online asynchronous."
+ },
+ {
+  "sheet": "Online MS Business Analytics",
+  "row": 13,
+  "college": "UNIVERSITY OF ILLINOIS URBANA-CHAMPAIGN",
+  "program": "BUSINESS ADMINISTRATION MBA",
+  "url": "https://giesonline.illinois.edu/explore-programs/msbai",
+  "program_on_page": "Online Master's in Business Analytics (MSBAi)",
+  "confidence": "high",
+  "note": "Gies College of Business 100% online MS in Business Analytics (MSBAi), first cohort Fall 2026. The spreadsheet's program text says 'MBA' but the sheet is the online MSBA sheet, so the MSBAi is the match; Gies' online MBA is the separate iMBA."
+ },
+ {
+  "sheet": "Online MS Business Analytics",
+  "row": 14,
+  "college": "UNIVERSITY OF MARYLAND - COLLEGE PARK",
+  "program": "BUSINESS ANALYTICS (ONLINE)",
+  "url": "https://www.rhsmith.umd.edu/programs/online-ms-business-analytics",
+  "program_on_page": "Online Master of Science in Business Analytics and AI",
+  "confidence": "high",
+  "note": "Robert H. Smith School of Business, online/asynchronous."
+ },
+ {
+  "sheet": "Online MS Business Analytics",
+  "row": 15,
+  "college": "UNIVERSITY OF MASSACHUSETTS AT AMHERST",
+  "program": "MANAGEMENT (MSBA)",
+  "url": "https://www.isenberg.umass.edu/programs/masters/ms/business-analytics/online",
+  "program_on_page": "Online MS in Business Analytics",
+  "confidence": "high",
+  "note": "Isenberg School of Management online MSBA (10 courses, 31 credits, fully online)."
+ },
+ {
+  "sheet": "Online MS Economics",
+  "row": 3,
+  "college": "AMERICAN UNIVERSITY",
+  "program": "PUBLIC POLICY",
+  "url": "https://www.american.edu/cas/economics/ms/online.cfm",
+  "program_on_page": "Online MS in Economics (Applied Economics or Data Science specializations)",
+  "confidence": "high",
+  "note": "American University College of Arts and Sciences online MS in Economics; policy-oriented curriculum, which likely explains the 'public policy' label in the sheet."
+ }
+]

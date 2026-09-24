@@ -1,0 +1,762 @@
+[
+ {
+  "sheet": "MS BAIM - Residential",
+  "row": 27,
+  "college": "JOHNS HOPKINS UNIVERSITY",
+  "program": "",
+  "url": "https://carey.jhu.edu/programs/master-science-programs/ms-business-analytics-artificial-intelligence",
+  "program_on_page": "MS in Business Analytics and Artificial Intelligence (full-time)",
+  "confidence": "high",
+  "note": "Carey Business School full-time on-campus MS (formerly Business Analytics and Risk Management); part-time variant exists at a separate URL"
+ },
+ {
+  "sheet": "MS BAIM - Residential",
+  "row": 30,
+  "college": "NORTH CAROLINA STATE UNIVERSITY",
+  "program": "",
+  "url": "https://analytics.ncsu.edu/",
+  "program_on_page": "Master of Science in Analytics (Institute for Advanced Analytics)",
+  "confidence": "medium",
+  "note": "10-month full-time in-person MSA; housed in Institute for Advanced Analytics (not Poole business school); Poole only offers online part-time Master of Management Risk & Analytics / Marketing Analytics"
+ },
+ {
+  "sheet": "MS BAIM - Residential",
+  "row": 31,
+  "college": "NORTHEASTERN UNIVERSITY",
+  "program": "",
+  "url": "https://damore-mckim.northeastern.edu/programs/ms-business-analytics/",
+  "program_on_page": "Master of Science in Business Analytics",
+  "confidence": "high",
+  "note": "D'Amore-McKim full-time Boston 12/16-month; online variant also exists"
+ },
+ {
+  "sheet": "MS BAIM - Residential",
+  "row": 32,
+  "college": "NORTHWESTERN UNIVERSITY",
+  "program": "",
+  "url": "https://www.mccormick.northwestern.edu/machine-learning-data-science/",
+  "program_on_page": "MS in Machine Learning and Data Science (MLDS), formerly MS in Analytics (MSiA)",
+  "confidence": "medium",
+  "note": "15-month full-time McCormick program (formerly MSiA, renamed MLDS); engineering school not Kellogg; closest analytics MS at Northwestern; fetched to verify"
+ },
+ {
+  "sheet": "MS BAIM - Residential",
+  "row": 33,
+  "college": "PENNSYLVANIA STATE UNIVERSITY",
+  "program": "",
+  "url": "https://mban.smeal.psu.edu/",
+  "program_on_page": "Master's in Business Analytics (M-BAN), Smeal",
+  "confidence": "high",
+  "note": "One-year residential STEM MS at University Park; also residential-masters page at smeal.psu.edu/academic-programs/residential-masters/masters-in-business-analytics"
+ },
+ {
+  "sheet": "MS BAIM - Residential",
+  "row": 34,
+  "college": "RUTGERS -THE STATE UNIVERSITY OF NJ -NEW BRUNSWICK",
+  "program": "STATISTICS - DATA SCIENCE",
+  "url": "https://msds-stat.rutgers.edu/",
+  "program_on_page": "MS Program in Data Science (Statistics dept + CS)",
+  "confidence": "high",
+  "note": "Professional MS in Data Science, Dept of Statistics, New Brunswick; matches STATISTICS - DATA SCIENCE"
+ },
+ {
+  "sheet": "MS BAIM - Residential",
+  "row": 35,
+  "college": "SEATTLE UNIVERSITY",
+  "program": "BUSINESS ANALYTICS",
+  "url": "https://www.seattleu.edu/academics/all-programs/business-analytics-ms/",
+  "program_on_page": "Master of Science in Business Analytics (MSBA), In-Person",
+  "confidence": "high",
+  "note": "Albers on-campus MSBA; separate online version exists"
+ },
+ {
+  "sheet": "MS BAIM - Residential",
+  "row": 36,
+  "college": "STANFORD UNIVERSITY",
+  "program": "",
+  "url": "https://msande.stanford.edu/academics-admissions/graduate/ms-program/ms-degree",
+  "program_on_page": "MS in Management Science and Engineering",
+  "confidence": "low",
+  "note": "Stanford has no business-school analytics master's; closest is engineering MS&E (45 units, in-person or online); alt Statistics & Data Science MS"
+ },
+ {
+  "sheet": "MS BAIM - Residential",
+  "row": 37,
+  "college": "STEVENS INSTITUTE OF TECHNOLOGY",
+  "program": "BUSINESS INTELLIGENCE AND ANALYTICS MASTERS PROGRAM",
+  "url": "https://www.stevens.edu/program/masters-in-business-analytics-and-artificial-intelligence",
+  "program_on_page": "Business Analytics and AI Masters Program (formerly MS Business Intelligence & Analytics)",
+  "confidence": "medium",
+  "note": "On-campus program appears renamed from BI&A to Business Analytics and AI; online BI&A page is separate (stevens.edu/program/business-intelligence-and-analytics-masters-ssb-grad-online)"
+ },
+ {
+  "sheet": "MS Finance - Residential",
+  "row": 10,
+  "college": "COLUMBIA UNIVERSITY",
+  "program": "",
+  "url": "https://academics.business.columbia.edu/msfe",
+  "program_on_page": "Master of Science in Financial Economics (Columbia Business School)",
+  "confidence": "medium",
+  "note": "Columbia Business School has no plain MS Finance; MS Financial Economics (2-yr full-time, STEM) is closest in business school; alt: Columbia Engineering MS Financial Engineering (ieor.columbia.edu/financial-engineering-msfe)"
+ },
+ {
+  "sheet": "MS Finance - Residential",
+  "row": 11,
+  "college": "CUNY BERNARD M. BARUCH COLLEGE",
+  "program": "QUANTITATIVE METHODS AND MODELING",
+  "url": "https://zicklin.baruch.cuny.edu/academic-programs/graduate/ms/quantitative-methods-modeling/",
+  "program_on_page": "Master's in Quantitative Methods & Modeling",
+  "confidence": "high",
+  "note": "Zicklin MS QMM; full-time and part-time on-campus"
+ },
+ {
+  "sheet": "MS Finance - Residential",
+  "row": 12,
+  "college": "DUKE UNIVERSITY",
+  "program": "MASTER OF EGR IN FIN TECH",
+  "url": "https://masters.pratt.duke.edu/fintech",
+  "program_on_page": "Financial Technology Master of Engineering",
+  "confidence": "high",
+  "note": "Pratt M.Eng. FinTech; on-campus full-time (12 months or 17-22 months) or part-time online options"
+ },
+ {
+  "sheet": "MS Finance - Residential",
+  "row": 13,
+  "college": "EMORY UNIVERSITY",
+  "program": "ANALYTICAL FINANCE",
+  "url": "https://goizueta.emory.edu/masters-in-finance",
+  "program_on_page": "Master of Finance (formerly Master of Analytical Finance)",
+  "confidence": "medium",
+  "note": "Goizueta page now brands the STEM 10-16 month program as Master of Finance; Master of Analytical Finance appears renamed; same URL as row 14"
+ },
+ {
+  "sheet": "MS Finance - Residential",
+  "row": 14,
+  "college": "EMORY UNIVERSITY",
+  "program": "FINANCE",
+  "url": "https://goizueta.emory.edu/masters-in-finance",
+  "program_on_page": "Master of Finance",
+  "confidence": "high",
+  "note": "Goizueta on-campus STEM Master of Finance, 10-16 months"
+ },
+ {
+  "sheet": "MS Finance - Residential",
+  "row": 15,
+  "college": "FORDHAM UNIVERSITY",
+  "program": "FINANCE",
+  "url": "https://www.fordham.edu/gabelli-school-of-business/academic-programs-and-admissions/graduate-programs/academic-programs/ms-programs/finance/",
+  "program_on_page": "Master's (MS) in Finance",
+  "confidence": "high",
+  "note": "Gabelli 30-credit STEM MS Finance, on-site NYC (also offered online)"
+ },
+ {
+  "sheet": "MS Finance - Residential",
+  "row": 16,
+  "college": "GEORGETOWN UNIVERSITY",
+  "program": "FINANCE",
+  "url": "https://msb.georgetown.edu/online-masters-in-finance/",
+  "program_on_page": "Master of Science in Finance (MSF), McDonough",
+  "confidence": "medium",
+  "note": "MSF is a blended program (attend in person or online, part-time/full-time 21 months or 10-month accelerated) rather than purely residential; msb page URL from search (fetch returned 404); marketing site also msbonline.georgetown.edu"
+ },
+ {
+  "sheet": "MS Finance - Residential",
+  "row": 17,
+  "college": "GEORGIA STATE UNIVERSITY",
+  "program": "FINANCE",
+  "url": "https://robinson.gsu.edu/program/finance-ms/",
+  "program_on_page": "Finance, M.S. (Robinson College of Business)",
+  "confidence": "high",
+  "note": "12-month STEM on-campus MS Finance"
+ },
+ {
+  "sheet": "MS Finance - Residential",
+  "row": 18,
+  "college": "ILLINOIS INSTITUTE OF TECHNOLOGY",
+  "program": "ARTIFICIAL INTELLIGENCE",
+  "url": "https://www.iit.edu/academics/programs/finance-ms",
+  "program_on_page": "Master of Science - Finance (Stuart School of Business)",
+  "confidence": "medium",
+  "note": "Sheet program column says ARTIFICIAL INTELLIGENCE (IIT Master of AI, School of Computing: https://www.iit.edu/academics/programs/artificial-intelligence-mas) but sheet type is MS Finance so Stuart MS Finance chosen; finance page not fetched"
+ },
+ {
+  "sheet": "MS Finance - Residential",
+  "row": 20,
+  "college": "LOYOLA OF CHICAGO - GRAD BUSINESS",
+  "program": "BUSINESS ADMINISTRATION/FINANCE",
+  "url": "https://gpem.luc.edu/portal/program?name=financems",
+  "program_on_page": "MS in Finance (Quinlan School of Business)",
+  "confidence": "medium",
+  "note": "Quinlan MS Finance offered evening/weekend downtown Chicago and online (not a full-time cohort residential program); on luc.edu domain graduate portal"
+ },
+ {
+  "sheet": "MS Finance - Residential",
+  "row": 21,
+  "college": "MICHIGAN STATE UNIVERSITY",
+  "program": "FINANCE MS",
+  "url": "https://broad.msu.edu/masters/finance/",
+  "program_on_page": "Master's in Finance - MS Finance Program (Broad College)",
+  "confidence": "high",
+  "note": "1-year STEM on-campus MSF"
+ },
+ {
+  "sheet": "MS Finance - Residential",
+  "row": 22,
+  "college": "NEW YORK UNIVERSITY",
+  "program": "MAJOR: FINANCIAL ENGINEERING",
+  "url": "https://engineering.nyu.edu/academics/programs/financial-engineering-ms",
+  "program_on_page": "Financial Engineering, M.S. (NYU Tandon)",
+  "confidence": "high",
+  "note": "Tandon Dept of Finance and Risk Engineering, 33 credits"
+ },
+ {
+  "sheet": "MS Finance - Residential",
+  "row": 23,
+  "college": "NEW YORK UNIVERSITY",
+  "program": "MAJOR: FINANCIAL PLANNING",
+  "url": "https://www.sps.nyu.edu/explore/degrees-and-programs/ms-in-financial-planning.html",
+  "program_on_page": "Master of Science in Financial Planning (NYU SPS)",
+  "confidence": "high",
+  "note": "30-credit CFP-certified; onsite, hybrid or online options, full/part-time"
+ },
+ {
+  "sheet": "MS Finance - Residential",
+  "row": 24,
+  "college": "NEW YORK UNIVERSITY",
+  "program": "MAJOR: QUANTITATIVE FINANCE",
+  "url": "https://stern.shanghai.nyu.edu/en/program/ms-quantitative-finance",
+  "program_on_page": "MS in Quantitative Finance (NYU Stern)",
+  "confidence": "medium",
+  "note": "Full-time 12/20-month; summer at Stern NYC then fall/spring at NYU Shanghai (split location); alt catalog: bulletins.nyu.edu/graduate/business/programs/quantitative-finance-ms/"
+ },
+ {
+  "sheet": "MS Finance - Residential",
+  "row": 25,
+  "college": "NORTHEASTERN UNIVERSITY",
+  "program": "QUANTITATIVE FINANCE",
+  "url": "https://damore-mckim.northeastern.edu/programs/ms-quantitative-finance/",
+  "program_on_page": "MS in Quantitative Finance (D'Amore-McKim, full-time)",
+  "confidence": "high",
+  "note": "Verified: full-time STEM MS Quantitative Finance, Boston, 12-16 months"
+ },
+ {
+  "sheet": "MS Finance - Residential",
+  "row": 26,
+  "college": "NORTHWESTERN UNIVERSITY",
+  "program": "",
+  "url": null,
+  "program_on_page": null,
+  "confidence": null,
+  "note": "No standalone MS in Finance at Northwestern found: only PhD/Financial Economics at Kellogg; nearest is Kellogg MS in Management Studies (general, not finance) - not a match"
+ },
+ {
+  "sheet": "MS Finance - Residential",
+  "row": 27,
+  "college": "PENNSYLVANIA STATE UNIVERSITY",
+  "program": "",
+  "url": "https://mfin.smeal.psu.edu/",
+  "program_on_page": "Penn State Smeal Master of Finance (MFIN)",
+  "confidence": "high",
+  "note": "One-year (9-month) residential STEM Master of Finance, 31 credits; Smeal also has Master's in Corporate Finance (smeal.psu.edu/academic-programs/residential-masters/master-of-corporate-finance)"
+ },
+ {
+  "sheet": "MS Finance - Residential",
+  "row": 28,
+  "college": "RUTGERS UNIVERSITY - NEWARK",
+  "program": "QUANTITATIVE FINANCE",
+  "url": "https://www.business.rutgers.edu/masters-quantitative-finance",
+  "program_on_page": "Master of Quantitative Finance (Rutgers Business School)",
+  "confidence": "high",
+  "note": "45 credits, full-time 3 semesters or part-time; STEM"
+ },
+ {
+  "sheet": "MS Finance - Residential",
+  "row": 29,
+  "college": "SEATTLE UNIVERSITY",
+  "program": "FINANCE",
+  "url": "https://www.seattleu.edu/academics/all-programs/finance-ms/",
+  "program_on_page": "Master of Science in Finance (Albers)",
+  "confidence": "high",
+  "note": "45-credit STEM MSF; URL slug taken from official admissions-process subpage in search results (not fetched)"
+ },
+ {
+  "sheet": "MS Finance - Residential",
+  "row": 30,
+  "college": "SOUTHERN METHODIST UNIVERSITY",
+  "program": "FINANCE - MSF",
+  "url": "https://www.smu.edu/cox/business-degrees/masters-programs/ms-finance",
+  "program_on_page": "Master of Science in Finance (SMU Cox)",
+  "confidence": "high",
+  "note": "9-month full-time or 21-month part-time on campus, STEM"
+ },
+ {
+  "sheet": "MS Finance - Residential",
+  "row": 31,
+  "college": "STEVENS INSTITUTE OF TECHNOLOGY",
+  "program": "FINANCIAL ENGINEERING MASTERS PROGRAM",
+  "url": "https://www.stevens.edu/program/financial-engineering-masters-program",
+  "program_on_page": "Master's in Financial Engineering (30 credits)",
+  "confidence": "high",
+  "note": "On-campus Hoboken program; separate online version at stevens.edu/program/financial-engineering-masters-ses-grad-online"
+ },
+ {
+  "sheet": "MS Finance - Residential",
+  "row": 32,
+  "college": "STEVENS INSTITUTE OF TECHNOLOGY",
+  "program": "FINANCE MASTERS PROGRAM",
+  "url": "https://www.stevens.edu/program/finance-masters-program",
+  "program_on_page": "Master's in Finance (MFin, 36 credits, STEM)",
+  "confidence": "high",
+  "note": "Available on campus or fully online per page summary"
+ },
+ {
+  "sheet": "MS Finance - Residential",
+  "row": 34,
+  "college": "UNIVERSITY OF CALIFORNIA - BERKELEY",
+  "program": "",
+  "url": "https://mfe.haas.berkeley.edu/",
+  "program_on_page": "Master of Financial Engineering (Haas)",
+  "confidence": "medium",
+  "note": "Haas has no MS Finance; MFE is the finance master's (1-year full-time STEM, part-time 2-yr option); degree name differs"
+ },
+ {
+  "sheet": "MS Finance - Residential",
+  "row": 35,
+  "college": "UNIVERSITY OF CALIFORNIA - IRVINE",
+  "program": "",
+  "url": "https://merage.uci.edu/programs/masters/master-finance/",
+  "program_on_page": "Master of Finance (Paul Merage School)",
+  "confidence": "high",
+  "note": "One-year full-time STEM MFin; degree title Master of Finance rather than MS"
+ },
+ {
+  "sheet": "MS GSCM - Residential",
+  "row": 4,
+  "college": "AUBURN UNIVERSITY",
+  "program": "BUSINESS ADMINISTRATION GR",
+  "url": "https://harbert.auburn.edu/degrees-programs/graduate/ms-supply-chain/index.html",
+  "program_on_page": "Master of Science in Supply Chain Management (Harbert)",
+  "confidence": "high",
+  "note": "Full-time on-campus cohort (18 months); separate online MSSCM at harbert.auburn.edu/degrees-programs/graduate/ms-supply-chain-online/"
+ },
+ {
+  "sheet": "MS GSCM - Residential",
+  "row": 5,
+  "college": "BOSTON UNIVERSITY",
+  "program": "BUSINESS ADMINISTRATION AND MANAGEMENT",
+  "url": "https://www.bu.edu/met/degrees-certificates/ms-supply-chain-management/",
+  "program_on_page": "Master of Science in Supply Chain Management (BU Metropolitan College)",
+  "confidence": "medium",
+  "note": "Offered on campus or online, part- or full-time via MET (accredited through Questrom), not a Questrom-run residential program; program column says Business Admin and Management"
+ },
+ {
+  "sheet": "MS GSCM - Residential",
+  "row": 6,
+  "college": "CASE WESTERN RESERVE UNIVERSITY",
+  "program": "SUPPLY CHAIN MANAGEMENT (MSCM)",
+  "url": "https://case.edu/weatherhead/academics/graduate/master-supply-chain-management",
+  "program_on_page": "Master of Supply Chain Management (Weatherhead)",
+  "confidence": "high",
+  "note": "STEM 30-credit, 9-month accelerated or 15-month professional track; degree titled Master of Supply Chain Management (MSCM)"
+ },
+ {
+  "sheet": "MS GSCM - Residential",
+  "row": 7,
+  "college": "COLUMBIA UNIVERSITY",
+  "program": "",
+  "url": "https://ieor.columbia.edu/management-science-and-engineering-mse",
+  "program_on_page": "MS in Management Science and Engineering (IEOR with Columbia Business School)",
+  "confidence": "low",
+  "note": "Columbia has no dedicated MS in Supply Chain Management; MS&E (STEM, on-campus) covers operations/logistics/supply chain applications; only tentative match; URL from search results, not fetched"
+ },
+ {
+  "sheet": "MS GSCM - Residential",
+  "row": 8,
+  "college": "FLORIDA INTERNATIONAL UNIVERSITY",
+  "program": "ENGINEERING MANAGEMENT - MS",
+  "url": "https://business.fiu.edu/academics/graduate/logistics-and-supply-chain-management/",
+  "program_on_page": "Master of Science in Logistics and Supply Chain Management (FIU College of Business)",
+  "confidence": "medium",
+  "note": "Sheet type is GSCM so business-school MSLSCM chosen; delivered as online classes with on-campus Saturday sessions (hybrid, 10 months), separate fully online version exists; program column says Engineering Management (FIU also has MS Logistics Engineering at em.fiu.edu/msle/)"
+ },
+ {
+  "sheet": "MS GSCM - Residential",
+  "row": 9,
+  "college": "GEORGIA INSTITUTE OF TECHNOLOGY",
+  "program": "SUPPLY CHAIN ENGINEERING",
+  "url": "https://www.isye.gatech.edu/academics/masters/degrees/ms-supply-chain-engineering",
+  "program_on_page": "Master of Science in Supply Chain Engineering",
+  "confidence": "high",
+  "note": "ISyE program page; on-campus Atlanta only, 30 credits, 12 months"
+ },
+ {
+  "sheet": "MS GSCM - Residential",
+  "row": 10,
+  "college": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+  "program": "SUPPLY CHAIN MANAGEMENT",
+  "url": "https://scm.mit.edu/supply-chain-management-masters-degree-options/",
+  "program_on_page": "Master's in Supply Chain Management (MASc-SCM / MEng-SCM), 10-month residential",
+  "confidence": "high",
+  "note": "Official MIT SCM program site; residential 10-month option"
+ },
+ {
+  "sheet": "MS GSCM - Residential",
+  "row": 11,
+  "college": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+  "program": "CIVIL AND ENVIRONMENTAL ENGINEERING (TRANSPORTATION STUDIES)",
+  "url": "https://oge.mit.edu/programs/transportation/",
+  "program_on_page": "Master of Science in Transportation (MST), administered by CEE",
+  "confidence": "medium",
+  "note": "Program is the interdepartmental MS in Transportation (2-yr, research), run by CEE; not a GSCM degree per se. Catalog chart: https://catalog.mit.edu/degree-charts/master-transportation/"
+ },
+ {
+  "sheet": "MS GSCM - Residential",
+  "row": 13,
+  "college": "PURDUE UNIVERSITY FORT WAYNE",
+  "program": "",
+  "url": "https://www.pfw.edu/business/master-business-administration",
+  "program_on_page": "MBA (Doermer School of Business; concentrations: Business Analytics, Engineering Mgmt, Finance, Healthcare Mgmt, HRM)",
+  "confidence": "low",
+  "note": "No dedicated supply chain/GSCM master's found at PFW (searched pfw.edu and web). Closest is the PFW MBA; likely the sheet row may be mis-attributed to West Lafayette Krannert MS GSCM (https://business.purdue.edu/masters/programs/ms-global-supply-chain-management/)"
+ },
+ {
+  "sheet": "MS GSCM - Residential",
+  "row": 14,
+  "college": "SYRACUSE UNIVERSITY",
+  "program": "SUPPLY CHAIN MANAGEMENT",
+  "url": "https://whitman.syracuse.edu/full-time-masters-program/masters-in-supply-chain-management",
+  "program_on_page": "M.S. in Supply Chain Management (on-campus full-time)",
+  "confidence": "high",
+  "note": "Whitman full-time on-campus MS SCM; 9/16/21-month; links to admissions/curriculum/costs"
+ },
+ {
+  "sheet": "MS GSCM - Residential",
+  "row": 15,
+  "college": "THE OHIO STATE UNIVERSITY",
+  "program": "INDUSTRIAL AND SYSTEMS ENG",
+  "url": "https://ise.osu.edu/graduate-program",
+  "program_on_page": "Industrial and Systems Engineering MS (concentrations incl. Data Analytics & Optimization, Operations Research)",
+  "confidence": "medium",
+  "note": "Matches the sheet program (MS ISE) but is not a dedicated supply chain degree; supply chain/logistics covered within Data Analytics & Optimization. Admissions page: https://gpadmissions.osu.edu/programs/program.aspx?prog=0120"
+ },
+ {
+  "sheet": "MS GSCM - Residential",
+  "row": 16,
+  "college": "UNIVERSITY OF HOUSTON",
+  "program": "SUPPLY CHAIN MANAGEMENT MS",
+  "url": "https://www.bauer.uh.edu/ms-supply-chain/",
+  "program_on_page": "MS Supply Chain Management (STEM), 30 credits",
+  "confidence": "high",
+  "note": "Bauer on-campus MS-SCM main page; separate online version exists at /ms-supply-chain/online/"
+ },
+ {
+  "sheet": "MS GSCM - Residential",
+  "row": 17,
+  "college": "UNIVERSITY OF ILLINOIS URBANA-CHAMPAIGN",
+  "program": "TECHNOLOGY MANAGEMENT",
+  "url": "https://giesbusiness.illinois.edu/mstm",
+  "program_on_page": "MS in Technology Management (Gies), with Supply Chain Management concentration",
+  "confidence": "medium",
+  "note": "Sheet program is MS Technology Management; program has a Supply Chain Management concentration (12 credit hrs), catalog: https://catalog.illinois.edu/graduate/bus/concentration/badm/supply-chain-management/"
+ },
+ {
+  "sheet": "MS GSCM - Residential",
+  "row": 18,
+  "college": "UNIVERSITY OF MARYLAND - COLLEGE PARK",
+  "program": "SUPPLY CHAIN MANAGEMENT",
+  "url": "https://www.rhsmith.umd.edu/programs/business-masters/academics/supply-chain-management",
+  "program_on_page": "Master of Science in Supply Chain Management (Smith), 30 credits, 10 or 16 months",
+  "confidence": "high",
+  "note": "Smith School cohort-based on-campus MSSCM page"
+ },
+ {
+  "sheet": "MS GSCM - Residential",
+  "row": 19,
+  "college": "UNIVERSITY OF MICHIGAN",
+  "program": "",
+  "url": "https://michiganross.umich.edu/graduate/master-of-supply-chain-management",
+  "program_on_page": "Master of Supply Chain Management (MSCM), Ross, 10-month STEM",
+  "confidence": "high",
+  "note": "Ross one-year on-campus MSCM; URL is program root (admissions subpage: /admissions), Michigan-relevant school for sheet type. Not directly fetched; root inferred from admissions URLs in search results"
+ },
+ {
+  "sheet": "MS GSCM - Residential",
+  "row": 20,
+  "college": "UNIVERSITY OF SOUTHERN CALIFORNIA",
+  "program": "GLOBAL SUPPLY CHAIN MANAGEMENT",
+  "url": "https://www.marshall.usc.edu/programs/graduate-programs/specialized-masters/ms-global-supply-chain-management",
+  "program_on_page": "MS Global Supply Chain Management (MSGSCM), on-campus and online options",
+  "confidence": "high",
+  "note": "USC Marshall/Viterbi joint program page; residential option covered (catalog: https://www.marshall.usc.edu/global-supply-chain-management-on-campus-ms-course-catalogue)"
+ },
+ {
+  "sheet": "Online MBA",
+  "row": 18,
+  "college": "UNIVERSITY OF CALIFORNIA-SAN DIEGO",
+  "program": "MASTER BUSINESS ADMINISTRATION",
+  "url": "https://rady.ucsd.edu/programs/flex-weekend-mba/index.html",
+  "program_on_page": "Executive MBA (Flex Weekend), hybrid: one weekend/month on campus + asynchronous online",
+  "confidence": "low",
+  "note": "Rady has no fully online MBA (offers Full-Time, FlexEvening, Executive/FlexWeekend hybrid, MicroMBA online-only 8-week non-degree). Executive MBA is the most online-heavy; programs index: https://rady.ucsd.edu/programs/"
+ },
+ {
+  "sheet": "Online MBA",
+  "row": 19,
+  "college": "UNIVERSITY OF FLORIDA",
+  "program": "BUSINESS ADMINISTRATION",
+  "url": "https://warrington.ufl.edu/graduate/online-mba/",
+  "program_on_page": "Online MBA Degree - UF Warrington College of Business",
+  "confidence": "high",
+  "note": "Official Warrington Online MBA page (also two-year: https://warrington.ufl.edu/mba/online/two-year/)"
+ },
+ {
+  "sheet": "Online MBA",
+  "row": 20,
+  "college": "UNIVERSITY OF GEORGIA",
+  "program": "BUSINESS ADMINISTRATION",
+  "url": "https://www.terry.uga.edu/mba/online/",
+  "program_on_page": "Online MBA Program (Terry College of Business), 100% online, 17-23 months",
+  "confidence": "high",
+  "note": "Official Terry Online MBA page; curriculum at /mba/online/curriculum/"
+ },
+ {
+  "sheet": "Online MBA",
+  "row": 21,
+  "college": "UNIVERSITY OF ILLINOIS CHICAGO",
+  "program": "BUSINESS ADMINISTRATION MBA",
+  "url": "https://businessgraddegrees.uic.edu/mba-online",
+  "program_on_page": "Online MBA (UIC Business), 42 semester hours",
+  "confidence": "high",
+  "note": "Official UIC Business grad degrees page; catalog: https://catalog.uic.edu/gcat/colleges-schools/business-administration/mba/online-mba/"
+ },
+ {
+  "sheet": "Online MBA",
+  "row": 23,
+  "college": "UNIVERSITY OF MICHIGAN FLINT",
+  "program": "ARTS ADMINISTRATION",
+  "url": "https://www.umflint.edu/graduateprograms/business-mba/",
+  "program_on_page": "Master of Business Administration (online/hybrid/on-campus formats; School of Management)",
+  "confidence": "medium",
+  "note": "Sheet program 'Arts Administration' does not match; UM-Flint MBA can be completed fully online (asynchronous). Program column looks mislabelled"
+ },
+ {
+  "sheet": "Online MBA",
+  "row": 25,
+  "college": "UNIVERSITY OF TENNESSEE",
+  "program": "BUSINESS ADMINISTRATION",
+  "url": "https://onlinemba.utk.edu/",
+  "program_on_page": "Online MBA, Haslam College of Business (32-36 months part-time)",
+  "confidence": "high",
+  "note": "Official UT Online MBA site (utk.edu); also Vols Online listing https://volsonline.utk.edu/program/masters/business-administration-mba/"
+ },
+ {
+  "sheet": "Online MBA",
+  "row": 26,
+  "college": "UNIVERSITY OF TEXAS ARLINGTON",
+  "program": "BUSINESS ADMIN MBA ONLINE",
+  "url": "https://www.uta.edu/academics/schools-colleges/business/graduate-business-services/online-mba",
+  "program_on_page": "Online MBA - UT Arlington College of Business (12 courses, fully online)",
+  "confidence": "high",
+  "note": "Official UTA Online MBA page"
+ },
+ {
+  "sheet": "Online MBA",
+  "row": 27,
+  "college": "WASHINGTON STATE UNIVERSITY- PULLMAN",
+  "program": "BUSINESS ADMINISTRATION",
+  "url": "https://mba.wsu.edu/mba/",
+  "program_on_page": "Online Master of Business Administration (Carson College), ~22 months",
+  "confidence": "high",
+  "note": "Official WSU Carson online MBA site (mba.wsu.edu)"
+ },
+ {
+  "sheet": "Online MBA",
+  "row": 30,
+  "college": "Colleges not ranked on US news for Online MBA Program as of 09/07/25",
+  "program": "",
+  "url": null,
+  "program_on_page": null,
+  "confidence": null,
+  "note": "Row is a section header/label, not a specific college; no program to look up"
+ },
+ {
+  "sheet": "Online MS Business Analytics",
+  "row": 3,
+  "college": "CARNEGIE MELLON UNIVERSITY",
+  "program": "BUSINESS ANALYTICS",
+  "url": "https://www.cmu.edu/tepper/programs/master-business-analytics/part-time",
+  "program_on_page": "Tepper Part-Time Online MS in Business Analytics (20 months)",
+  "confidence": "high",
+  "note": "Official Tepper page for part-time online MSBA with 3 on-campus immersions"
+ },
+ {
+  "sheet": "Online MS Economics",
+  "row": 4,
+  "college": "BOSTON COLLEGE",
+  "program": "APPLIED ECONOMICS",
+  "url": "https://appliedeconomics.bc.edu/master-science-applied-economics/",
+  "program_on_page": "M.S. in Applied Economics (Woods College), onground or fully online",
+  "confidence": "high",
+  "note": "Official BC program site; 30 credits, online and on-campus formats; admission at /admission/"
+ },
+ {
+  "sheet": "Online MS Economics",
+  "row": 5,
+  "college": "DEPAUL UNIVERSITY",
+  "program": "MS IN ECONOMICS AND QUANTITATIVE ANALYSIS (MS)",
+  "url": "https://www.depaul.edu/academics/programs/economics-quantitative-analysis-ms",
+  "program_on_page": "MS in Economics and Quantitative Analysis (in-person or in-person hybrid)",
+  "confidence": "medium",
+  "note": "Exact program matches sheet, but DePaul states it is NOT available fully online (in-person and in-person hybrid only, Chicago)"
+ },
+ {
+  "sheet": "Online MS Economics",
+  "row": 6,
+  "college": "DUKE UNIVERSITY",
+  "program": "",
+  "url": "https://econ.duke.edu/masters-programs",
+  "program_on_page": "Duke Economics master's programs (MAE, MS Economics & Computation, MAPE, MQFE), on-campus Durham",
+  "confidence": "low",
+  "note": "No online MS Economics found at Duke; programs are on-campus. Closest: M.A. Economics https://econ.duke.edu/masters-programs/degree-programs/ma-econ"
+ },
+ {
+  "sheet": "Online MS Economics",
+  "row": 8,
+  "college": "LIBERTY UNIVERSITY",
+  "program": "MBA ECONOMICS",
+  "url": "https://www.liberty.edu/online/business/masters/mba/economics",
+  "program_on_page": "Master of Business Administration - Economics (45 credit hrs, 100% online)",
+  "confidence": "high",
+  "note": "Official Liberty online MBA in Economics page; matches program column"
+ },
+ {
+  "sheet": "Online MS Economics",
+  "row": 9,
+  "college": "PENNSYLVANIA STATE UNIVERSITY",
+  "program": "",
+  "url": "https://www.worldcampus.psu.edu/degrees-and-certificates/penn-state-online-community-and-economic-development-masters-degree",
+  "program_on_page": "Community and Economic Development master's (Penn State World Campus, online)",
+  "confidence": "low",
+  "note": "No online MS in Economics found at Penn State; residential MA/PhD in Economics only (https://bulletins.psu.edu/graduate/programs/majors/economics/). Closest online economics-related master's is World Campus CED degree"
+ },
+ {
+  "sheet": "Online MS Economics",
+  "row": 10,
+  "college": "TEXAS STATE UNIVERSITY - SAN MARCOS",
+  "program": "QUANT FINANCE ECONOMICS",
+  "url": "https://www.gradcollege.txst.edu/programs/msqfe.html",
+  "program_on_page": "M.S. in Quantitative Finance and Economics (30 hrs, thesis/non-thesis)",
+  "confidence": "medium",
+  "note": "Exact program match, but page indicates evening on-campus classes; no fully online format confirmed. Dept page: https://www.mccoy.txst.edu/graduate/finance-economics.html"
+ },
+ {
+  "sheet": "Online MS Economics",
+  "row": 11,
+  "college": "UNIVERSITY OF CINCINNATI",
+  "program": "APPLIED ECONOMICS",
+  "url": "https://www.business.uc.edu/programs-degrees/graduate/specialized-masters/applied-economics.html",
+  "program_on_page": "Master's in Applied Economics (MS), Lindner College of Business, 30 credits",
+  "confidence": "medium",
+  "note": "Exact program match; page shows full/part-time formats and does not list a fully online format (Lindner online list features Online MBA); details: https://business.uc.edu/academics/specialized-masters/applied-economics/program-details.html"
+ },
+ {
+  "sheet": "Online MS Economics",
+  "row": 12,
+  "college": "UNIVERSITY OF MARYLAND-COLLEGE PARK",
+  "program": "APPLIED ECONOMICS (OFF-CAMPUS)",
+  "url": "https://masters.econ.umd.edu/online-program/",
+  "program_on_page": "Online MS in Applied Economics (ECAE), synchronous evening online, 10 courses",
+  "confidence": "high",
+  "note": "Sheet says off-campus but sheet type is Online; UMD offers online ECAE (also Extended Studies page https://exst.umd.edu/professionals-post-baccalaureates/professional-graduate-programs/applied-economics/ms-applied-economics-online; catalog https://academiccatalog.umd.edu/graduate/programs/applied-economics-online-ecae/). Program main site: https://masters.econ.umd.edu/"
+ },
+ {
+  "sheet": "Online MS HRM",
+  "row": 3,
+  "college": "CORNELL UNIVERSITY",
+  "program": "INDUSTRIAL AND LABOR RELATIONS",
+  "url": "https://www.ilr.cornell.edu/programs/emhrm",
+  "program_on_page": "Executive Master of Human Resource Management (EMHRM), MPS; 15-month primarily online + 3 residential sessions",
+  "confidence": "medium",
+  "note": "ILR's online-format HR master's; sheet program (Industrial and Labor Relations) corresponds to the ILR School. Not fully online (3 residencies), executive audience (8+ yrs exp). Residential MILR is separate: https://www.ilr.cornell.edu/programs/graduate-degree-programs/master-industrial-and-labor-relations-milr"
+ },
+ {
+  "sheet": "Online MS HRM",
+  "row": 4,
+  "college": "HOFSTRA UNIVERSITY",
+  "program": "",
+  "url": "https://www.hofstra.edu/academics/colleges/zarb/graduate/ms-human-resources-management.html",
+  "program_on_page": "MS in Human Resources Management (Zarb School of Business)",
+  "confidence": "medium",
+  "note": "Right degree at Hofstra but search results state online degree option is not available (in-person/hybrid only). Catalog: https://bulletin.hofstra.edu/preview_program.php?catoid=120&poid=24093"
+ },
+ {
+  "sheet": "Online MS HRM",
+  "row": 5,
+  "college": "INDIANA UNIVERSITY INDIANAPOLIS",
+  "program": "POLICY ANALYSIS GR CRT",
+  "url": "https://oneill.iupui.edu/academics/graduate-degrees/certificates/policy-analysis.html",
+  "program_on_page": "Graduate Certificate in Policy Analysis (15 credit hours), O'Neill School",
+  "confidence": "medium",
+  "note": "Matches sheet program (Policy Analysis graduate certificate) but it is a certificate, not an HRM master's; online availability not confirmed on page. O'Neill also lists an HR-related option? not verified"
+ },
+ {
+  "sheet": "Online MS HRM",
+  "row": 6,
+  "college": "MISSOURI BAPTIST UNIVERSITY",
+  "program": "BUSINESS ADMINISTRATION: MBA (ONLINE)",
+  "url": "https://online.mobap.edu/master-of-business-administration-2/",
+  "program_on_page": "MBA (fully online; 30-credit General or 39-credit with concentration)",
+  "confidence": "medium",
+  "note": "Matches sheet program (online MBA) but it's an MBA, not an MS HRM; HR concentration not verified on page. Residential MBA page: https://www.mobap.edu/majors-programs/master-of-business-administration/"
+ },
+ {
+  "sheet": "Online MS HRM",
+  "row": 8,
+  "college": "TROY UNIVERSITY",
+  "program": "HUMAN RESOURCE MGMT",
+  "url": "https://www.troy.edu/academics/academic-programs/graduate/human-resource-management.html",
+  "program_on_page": "Master of Science in Human Resource Management (MSHRM), 100% online",
+  "confidence": "high",
+  "note": "Official Troy program page; catalog: https://catalog.troy.edu/preview_program.php?catoid=6&poid=1131"
+ },
+ {
+  "sheet": "Online MS HRM",
+  "row": 9,
+  "college": "UNION UNIVERSITY",
+  "program": "BUSINESS ADMINISTRATION",
+  "url": "https://www.uu.edu/programs/business/graduate/mba/human-resource/",
+  "program_on_page": "MBA with Human Resource Management concentration (McAfee School of Business), online 8-week courses",
+  "confidence": "medium",
+  "note": "Sheet program is Business Administration (MBA); this is the MBA HR concentration page (closest to HRM). General MBA page: https://www.uu.edu/academics/programs-of-study/master-of-business-administration/"
+ },
+ {
+  "sheet": "Online MS HRM",
+  "row": 12,
+  "college": "UNIVERSITY OF OKLAHOMA",
+  "program": "ORGANIZATIONAL LEADERSHIP OL",
+  "url": "https://online.ou.edu/program/ma-in-organizational-leadership/",
+  "program_on_page": "Online M.A. in Organizational Leadership (30 credits, 100% online)",
+  "confidence": "high",
+  "note": "Exact program match; note OU also has online Master of Human Relations (closer to HRM): https://www.ou.edu/online/programs/graduate/human-relations-inclusive-leadership"
+ },
+ {
+  "sheet": "Online MSGSCM",
+  "row": 3,
+  "college": "NEW YORK UNIVERSITY",
+  "program": "MAJOR: MANAGEMENT OF TECHNOLOGY",
+  "url": "https://engineering.nyu.edu/academics/programs/management-technology-ms-online",
+  "program_on_page": "Management of Technology M.S. (Online), NYU Tandon, 36 credits, 100% online",
+  "confidence": "medium",
+  "note": "Matches sheet program (Management of Technology) in online format; not a dedicated supply chain degree (specializations: Cybersecurity Mgmt, Digital Strategies, People Analytics, Project Mgmt)"
+ },
+ {
+  "sheet": "Online MSGSCM",
+  "row": 5,
+  "college": "UNIVERSITY OF TENNESSEE",
+  "program": "SUPPLY CHAIN MANAGEMENT",
+  "url": "https://supplychainmanagement.utk.edu/online-masters-in-supply-chain-management-msscm",
+  "program_on_page": "Master of Science in Supply Chain Management Online (30 credits, 18-24 months)",
+  "confidence": "high",
+  "note": "Official UT Haslam online MSSCM page; hybrid-online with 3-day in-person immersions"
+ }
+]

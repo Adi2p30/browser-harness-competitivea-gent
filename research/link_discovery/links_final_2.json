@@ -1,0 +1,382 @@
+[
+ {
+  "sheet": "MS Accounting - Residential",
+  "row": 12,
+  "college": "OKLAHOMA STATE UNIVERSITY - STILLWATER/TULSA",
+  "program": "ACCOUNTING",
+  "url": "https://business.okstate.edu/watson/accounting/",
+  "program_on_page": "Accounting MS (Master of Science in Accounting)",
+  "confidence": "high",
+  "note": "Official Spears School of Business MS Accounting page (search result snippet; page itself 403 to WebFetch). Cohort, on-campus, concentrations, admissions info in FAQ/related pages."
+ },
+ {
+  "sheet": "MS Accounting - Residential",
+  "row": 17,
+  "college": "UNIVERSITY OF CALIFORNIA - SAN DIEGO",
+  "program": "MASTER OF PRO ACCOUNTANCY",
+  "url": "https://rady.ucsd.edu/programs/master-professional-accountancy/",
+  "program_on_page": "Master of Professional Accountancy (MPAc)",
+  "confidence": "high",
+  "note": "Official Rady School MPAc main page; has admissions and academics/core curriculum subpages; STEM, 50 units, on-campus. Not fetched (search snippets)."
+ },
+ {
+  "sheet": "MS Accounting - Residential",
+  "row": 18,
+  "college": "UNIVERSITY OF GEORGIA",
+  "program": "ACCOUNTING",
+  "url": "https://www.terry.uga.edu/macc/",
+  "program_on_page": "Master of Accountancy (MAcc)",
+  "confidence": "high",
+  "note": "Terry College MAcc main page with admissions, tuition, program-options subpages; 30 credit hrs, on-campus Athens. Page 403 to WebFetch; confirmed via search. Note UGA also has separate Master of Professional Accountancy (MPAcc) at /master-professional-accounting, but MAcc is the residential one."
+ },
+ {
+  "sheet": "MS Accounting - Residential",
+  "row": 20,
+  "college": "UNIVERSITY OF LOUISVILLE",
+  "program": "ACCOUNTANCY AND ANALYTICS",
+  "url": "https://louisville.edu/programs/accountancy-and-analytics-ms",
+  "program_on_page": "Accountancy and Analytics (MS)",
+  "confidence": "high",
+  "note": "Official university program page for MS Accountancy and Analytics (37 credits, cohort). College of Business page also exists: https://business.louisville.edu/academics-programs/graduate-programs/msaa"
+ },
+ {
+  "sheet": "MS Accounting - Residential",
+  "row": 21,
+  "college": "UNIVERSITY OF MICHIGAN",
+  "program": "",
+  "url": "https://michiganross.umich.edu/graduate/master-of-accounting",
+  "program_on_page": "Master of Accounting (MAcc)",
+  "confidence": "high",
+  "note": "Program column blank; used Michigan Ross Master of Accounting (8-month, STEM, on-campus). Admissions subpage exists."
+ },
+ {
+  "sheet": "MS Accounting - Residential",
+  "row": 22,
+  "college": "UNIVERSITY OF NORTH CAROLINA-CHAPEL HILL",
+  "program": "",
+  "url": "https://www.kenan-flagler.unc.edu/programs/master-of-accounting/",
+  "program_on_page": "Master of Accounting (MAC), on-campus and online formats",
+  "confidence": "high",
+  "note": "Program column blank; Kenan-Flagler MAC main page, which covers both formats; on-campus is 12-month full-time. Has admissions/academics subpages."
+ },
+ {
+  "sheet": "MS Accounting - Residential",
+  "row": 23,
+  "college": "UNIVERSITY OF ROCHESTER- SCHOOL OF BUSINESS",
+  "program": "ACCOUNTANCY [ACN] MASTERS",
+  "url": "https://simon.rochester.edu/programs/full-time-ms-in-accountancy",
+  "program_on_page": "Full-Time MS in Accountancy",
+  "confidence": "high",
+  "note": "Simon Business School Full-Time MS in Accountancy main page; has academics/curriculum/admissions subpages."
+ },
+ {
+  "sheet": "MS Accounting - Residential",
+  "row": 24,
+  "college": "UNIVERSITY OF SOUTHERN CALIFORNIA",
+  "program": "ACCOUNTING",
+  "url": "https://www.marshall.usc.edu/programs/graduate-programs/accounting-masters/master-of-accounting",
+  "program_on_page": "Master of Accounting (MAcc)",
+  "confidence": "high",
+  "note": "USC Marshall Leventhal School one-year full-time MAcc (Los Angeles)."
+ },
+ {
+  "sheet": "MS Accounting - Residential",
+  "row": 25,
+  "college": "UNIVERSITY OF SOUTHERN CALIFORNIA",
+  "program": "",
+  "url": "https://www.marshall.usc.edu/programs/graduate-accounting-programs/master-accounting-emphasis-data-and-analytics",
+  "program_on_page": "Master of Accounting with Emphasis in Data and Analytics (MAcc D+A)",
+  "confidence": "low",
+  "note": "Program column blank and second USC row; guessed it is the other USC accounting master (MAcc Data & Analytics, 12-month on-campus). Other candidate: Master of Business Taxation. Row 24 already uses the plain MAcc. Accounting-masters hub: https://www.marshall.usc.edu/programs/graduate-programs/accounting-masters"
+ },
+ {
+  "sheet": "MS Accounting - Residential",
+  "row": 26,
+  "college": "UNIVERSITY OF WISCONSIN - MADISON",
+  "program": "BUS: ACCT & BUS ANLYSIS MSB",
+  "url": "https://business.wisc.edu/graduate/masters/accounting-business-analysis/",
+  "program_on_page": "MS in Accounting and Business Analysis (MSABA)",
+  "confidence": "high",
+  "note": "Wisconsin School of Business MSABA main page; one-year on-campus; has admissions, tuition, curriculum subpages. Exact match to sheet program name."
+ },
+ {
+  "sheet": "MS Accounting - Residential",
+  "row": 27,
+  "college": "WESTERN GOVERNORS UNIVERSITY",
+  "program": "ACCOUNTING",
+  "url": "https://www.wgu.edu/online-business-degrees/accounting-masters-program.html",
+  "program_on_page": "Master of Accounting / MS Accounting (online, competency-based)",
+  "confidence": "low",
+  "note": "WGU is fully online; no residential/on-campus option exists. Closest match is its online MS Accounting page, so low confidence for a Residential sheet."
+ },
+ {
+  "sheet": "MS Accounting - Residential",
+  "row": 28,
+  "college": "WILMINGTON UNIVERSITY",
+  "program": "ACCOUNTING",
+  "url": "https://www.wilmu.edu/business/accounting-master.aspx",
+  "program_on_page": "Master of Science in Accounting",
+  "confidence": "high",
+  "note": "Official page; 30 credits, offered face-to-face (New Castle, DE) or online; links to admission and curriculum pages."
+ },
+ {
+  "sheet": "MS BAIM - Residential",
+  "row": 3,
+  "college": "BABSON COLLEGE",
+  "program": "MASTER OF SCIENCE IN BUSINESS ANALYTICS",
+  "url": "https://www.babson.edu/graduate/academics/full-time-business-programs/master-of-science-in-business-analytics/",
+  "program_on_page": "Master of Science in Business Analytics",
+  "confidence": "high",
+  "note": "Official Babson MSBA page; STEM, 9 or 16 months, face-to-face plus online sessions; graduate catalog page also at https://graduatecatalog.babson.edu/msba/master-of-science-in-business-analytics"
+ },
+ {
+  "sheet": "MS BAIM - Residential",
+  "row": 61,
+  "college": "UNIVERSITY OF NORTH CAROLINA-CHAPEL HILL",
+  "program": "",
+  "url": "https://www.kenan-flagler.unc.edu/programs/ms-management/",
+  "program_on_page": "Master of Science in Management (analytics is part of core; concentrations in Finance or Marketing)",
+  "confidence": "low",
+  "note": "Program column blank. Kenan-Flagler has no standalone MS in Business Analytics/Info Mgmt (searched twice); offers only an MBA Business Analytics and Management Science concentration and the new MS in Management (on-campus, analytics in core). Given as closest fit, low confidence; url could reasonably be null. MBA concentration: https://www.kenan-flagler.unc.edu/programs/mba/full-time-mba/academics/concentrations-electives/business-analytics-and-management-science/"
+ },
+ {
+  "sheet": "MS BAIM - Residential",
+  "row": 63,
+  "college": "UNIVERSITY OF ROCHESTER- SCHOOL OF BUSINESS",
+  "program": "BUSINESS ADMINISTRATION [MBT] MASTERS",
+  "url": "https://simon.rochester.edu/programs/full-time-ms-in-business-analytics",
+  "program_on_page": "Full-Time MS in Business Analytics",
+  "confidence": "medium",
+  "note": "Sheet program code 'Business Administration [MBT]' is an internal degree label not shown on Simon site; mapped to Simon's on-campus Full-Time MS in Business Analytics (STEM). Simon also offers other analytics MS options (see https://simon.rochester.edu/ms-analytics-programs). Not verified that MBT = this exact program."
+ },
+ {
+  "sheet": "MS BAIM - Residential",
+  "row": 64,
+  "college": "UNIVERSITY OF SAN FRANCISCO",
+  "program": "DATA SCIENCE",
+  "url": "https://www.usfca.edu/arts-sciences/programs/graduate/data-science-artificial-intelligence",
+  "program_on_page": "Data Science & Artificial Intelligence, MS",
+  "confidence": "medium",
+  "note": "Matches sheet 'Data Science'; program now renamed MS in Data Science and Artificial Intelligence, housed in College of Arts & Sciences (not a business school); full-time one-year on-campus in San Francisco."
+ },
+ {
+  "sheet": "MS BAIM - Residential",
+  "row": 65,
+  "college": "UNIVERSITY OF SOUTH FLORIDA",
+  "program": "AI & BUSINESS ANALYTICS",
+  "url": "https://www.usf.edu/business/graduate/ms-ai-business-analytics/",
+  "program_on_page": "Master of Science in Artificial Intelligence (AI) and Business Analytics",
+  "confidence": "high",
+  "note": "Muma College of Business on-campus MS AIBA (formerly MS BAIS); separate Global Executive online version exists at /ms-ai-business-analytics-global/. Has FAQ, application-process, faculty subpages."
+ },
+ {
+  "sheet": "MS BAIM - Residential",
+  "row": 70,
+  "college": "UNIVERSITY OF TEXAS AT DALLAS",
+  "program": "DBL. BSAN MS AND MBA DEGREES",
+  "url": "https://mba.utdallas.edu/academics/double-ms-mba-degree/",
+  "program_on_page": "Double MS/MBA Degree (MS Business Analytics and AI + MBA)",
+  "confidence": "high",
+  "note": "UTD Double MS/MBA page; dual degree of MS Business Analytics and AI with MBA, min 63 credits. Sheet label 'BSAN' presumably older abbreviation of the MS analytics program."
+ },
+ {
+  "sheet": "MS BAIM - Residential",
+  "row": 71,
+  "college": "UNIVERSITY OF TEXAS AT DALLAS",
+  "program": "BUSINESS ANALYTICS",
+  "url": "https://infosystems.utdallas.edu/ms-business-analytics-cohort/",
+  "program_on_page": "MS Business Analytics and Artificial Intelligence Cohort",
+  "confidence": "high",
+  "note": "Jindal School 36-credit STEM on-campus cohort MS BUAN. Other formats: Flex https://infosystems.utdallas.edu/ms-business-analytics/ and Online cohort; options hub https://infosystems.utdallas.edu/ms-ba-options/"
+ },
+ {
+  "sheet": "MS BAIM - Residential",
+  "row": 72,
+  "college": "UNIVERSITY OF VIRGINIA",
+  "program": "DATA SCIENCE (MS)",
+  "url": "https://datascience.virginia.edu/degrees/msds-residential",
+  "program_on_page": "M.S. in Data Science, Residential",
+  "confidence": "high",
+  "note": "UVA School of Data Science residential 11-month, 33-credit MSDS; page links admissions, tuition, academics. Search + fetch verified."
+ },
+ {
+  "sheet": "MS BAIM - Residential",
+  "row": 73,
+  "college": "UNIVERSITY OF WASHINGTON - SEATTLE",
+  "program": "MS BUSINESS ANALYTICS",
+  "url": "https://foster.uw.edu/academics/degree-programs/master-science-business-analytics/",
+  "program_on_page": "Master of Science in Business Analytics",
+  "confidence": "high",
+  "note": "UW Foster MSBA main page (12-month, evening/weekend, on UW Seattle campus); links admissions, curriculum, tuition. Fetch verified."
+ },
+ {
+  "sheet": "MS BAIM - Residential",
+  "row": 74,
+  "college": "UNIVERSITY OF WASHINGTON - SEATTLE",
+  "program": "INFORMATION MANAGEMENT",
+  "url": "https://ischool.uw.edu/programs/msim",
+  "program_on_page": "Information Management Master's - MSIM",
+  "confidence": "high",
+  "note": "UW iSchool MSIM main page; on-campus Seattle or online option, same degree. Found via search (title verified in results)."
+ },
+ {
+  "sheet": "MS HRM - Residential",
+  "row": 17,
+  "college": "UNIVERSITY OF TEXAS AT TYLER",
+  "program": "",
+  "url": "https://www.uttyler.edu/academics/programs/human-resource-development-ms.php",
+  "program_on_page": "Master's in Human Resource Development",
+  "confidence": "medium",
+  "note": "UT Tyler Soules College of Business MS in Human Resource Development (30 credits, SHRM-aligned). Program page describes it as 100% online only, so not residential; no separate on-campus MS HRM page found. Closest match."
+ },
+ {
+  "sheet": "MS HRM - Residential",
+  "row": 18,
+  "college": "VILLANOVA UNIVERSITY",
+  "program": "HUMAN RESOURCE DEVELOPMENT",
+  "url": "https://www.villanova.edu/university/liberal-arts-sciences/programs/psychological-brain-sciences/graduate-programs-hrd/masters.html",
+  "program_on_page": "MS in Human Resource Development",
+  "confidence": "high",
+  "note": "Villanova MSHRD, 36 credits; search says offered online or on campus, page says hybrid and virtual evening classes (no full-time day residential). Links to curriculum/admissions/financial aid."
+ },
+ {
+  "sheet": "MS Marketing - Residential",
+  "row": 2,
+  "college": "BOSTON UNIVERSITY",
+  "program": "ADVERTISING",
+  "url": "https://www.bu.edu/com/programs/advertising/ms-in-advertising/",
+  "program_on_page": "MS in Advertising",
+  "confidence": "high",
+  "note": "BU College of Communication MS in Advertising, on-campus full/part-time, 48 credits; links to apply, tuition, degree requirements. (MET part-time version at bu.edu/met/degrees-certificates/ms-advertising is not accepting applications.)"
+ },
+ {
+  "sheet": "MS Marketing - Residential",
+  "row": 3,
+  "college": "GEORGETOWN UNIV - GRAD SCHOOL",
+  "program": "MANAGEMENT MIM",
+  "url": "https://msb.georgetown.edu/masters-in-management/",
+  "program_on_page": "Master of Science in Management (MiM)",
+  "confidence": "high",
+  "note": "Georgetown McDonough MS in Management (MiM), 10-month full-time in-person, STEM; links to admissions, tuition, academics. Note it is run by McDonough School of Business (msb.georgetown.edu), not the Graduate School."
+ },
+ {
+  "sheet": "MS Marketing - Residential",
+  "row": 4,
+  "college": "GEORGETOWN UNIV - GRAD SCHOOL",
+  "program": "COMMUN CULTURE TECHNOLOGY",
+  "url": "https://cct.georgetown.edu/",
+  "program_on_page": "MA Communication, Culture & Technology",
+  "confidence": "medium",
+  "note": "Program's own Georgetown site for the MA in Communication, Culture & Technology (39 credits, full/part-time, Georgetown College of Arts & Sciences). Exact program per sheet, but it is an MA not an MS marketing degree, hence medium. Alt: https://grad.georgetown.edu/communication-culture-technology/"
+ },
+ {
+  "sheet": "MS Marketing - Residential",
+  "row": 5,
+  "college": "INDIANA STATE UNIVERSITY",
+  "program": "MASTER OF BUSINESS ADMIN",
+  "url": "https://indianastate.edu/academics/academic-program-finder/business-administration-mba",
+  "program_on_page": "Master of Business Administration (On-Campus)",
+  "confidence": "medium",
+  "note": "Indiana State Scott College of Business on-campus MBA (33 units, ~16 months full-time). Matches the sheet's MBA program name but is an MBA not an MS Marketing; no MS Marketing at ISU found."
+ },
+ {
+  "sheet": "MS Marketing - Residential",
+  "row": 6,
+  "college": "INDIANA UNIVERSITY BLOOMINGTON",
+  "program": "MANAGEMENT MSM",
+  "url": "https://kelley.iu.edu/programs/ms-management/index.html",
+  "program_on_page": "MS in Management",
+  "confidence": "high",
+  "note": "Kelley School of Business MS in Management (12-month, 30/36 credits, Bloomington) - exact program per sheet; found via search (title verified in results), not fetched."
+ },
+ {
+  "sheet": "MS Marketing - Residential",
+  "row": 7,
+  "college": "MICHIGAN STATE UNIVERSITY",
+  "program": "MARKETING RSRCH & ANALYTICS MS",
+  "url": "https://broad.msu.edu/masters/marketing-research/",
+  "program_on_page": "Master's in Marketing Research and Analytics",
+  "confidence": "high",
+  "note": "MSU Broad College MS in Marketing Research and Analytics; in-person 12- or 20-month format (online also offered). Found via search."
+ },
+ {
+  "sheet": "MS Marketing - Residential",
+  "row": 8,
+  "college": "NEW YORK UNIVERSITY",
+  "program": "MAJOR: INTEGRATED MARKETING",
+  "url": "https://www.sps.nyu.edu/explore/degrees-and-programs/ms-in-integrated-marketing.html",
+  "program_on_page": "Master's in Integrated Marketing",
+  "confidence": "high",
+  "note": "NYU SPS MS in Integrated Marketing (18 months; onsite, hybrid or online formats). Found via search."
+ },
+ {
+  "sheet": "MS Marketing - Residential",
+  "row": 10,
+  "college": "UNIVERSITY OF ILLINOIS CHICAGO",
+  "program": "LAW",
+  "url": "https://business.uic.edu/liautaud-programs/ms-marketing",
+  "program_on_page": "Master of Science in Marketing",
+  "confidence": "medium",
+  "note": "Sheet program 'LAW' is odd for the Marketing sheet; UIC Law offers only LLM/MJ (no marketing). Chose UIC Liautaud MS in Marketing (32 credits, on-campus/hybrid or online) as the marketing-sheet match. Fetch verified; page also cites https://business.uic.edu/graduate/degrees/master-science-marketing/."
+ },
+ {
+  "sheet": "MS Marketing - Residential",
+  "row": 11,
+  "college": "UNIVERSITY OF PENNSYLVANIA",
+  "program": "BEHAVIORAL DECISION SCIENCES",
+  "url": "https://www.lps.upenn.edu/degree-programs/mbds",
+  "program_on_page": "Master of Behavioral and Decision Sciences",
+  "confidence": "high",
+  "note": "Penn LPS Master of Behavioral and Decision Sciences (MBDS), 9 CU, STEM, in-person. Found via search. Catalog: https://catalog.upenn.edu/graduate/programs/behavioral-decision-sciences-mbds/"
+ },
+ {
+  "sheet": "MS Marketing - Residential",
+  "row": 12,
+  "college": "UNIVERSITY OF ROCHESTER- SCHOOL OF BUSINESS",
+  "program": "MARKETING ANALYTICS [MKA] MASTERS",
+  "url": "https://simon.rochester.edu/programs/full-time-ms-in-marketing-analytics",
+  "program_on_page": "Full-Time MS in Marketing Analytics",
+  "confidence": "high",
+  "note": "Simon Business School full-time (on-campus) STEM MS in Marketing Analytics; site has academics/curriculum and full-time MS admissions pages. Found via search."
+ },
+ {
+  "sheet": "MS Marketing - Residential",
+  "row": 13,
+  "college": "UNIVERSITY OF SAN FRANCISCO",
+  "program": "MARKETING INTELLIGENCE",
+  "url": "https://www.usfca.edu/management/programs/graduate/marketing-intelligence",
+  "program_on_page": "Marketing Intelligence, MS",
+  "confidence": "high",
+  "note": "USF School of Management MS in Marketing Intelligence, 11-month STEM on-campus program; sub-pages for overview, career outcomes. Found via search."
+ },
+ {
+  "sheet": "MS Marketing - Residential",
+  "row": 19,
+  "college": "UNIVERSITY OF WASHINGTON - SEATTLE",
+  "program": "COMMUNICATION (DIGITAL MEDIA)",
+  "url": "https://commlead.uw.edu/academics/mcdm/",
+  "program_on_page": "Master of Communication in Digital Media (MCDM)",
+  "confidence": "high",
+  "note": "UW Communication Leadership MCDM, 45 credits, on-campus Seattle evening/Saturday; links to how-to-apply, tuition, classes. Fetch verified."
+ },
+ {
+  "sheet": "MS Marketing - Residential",
+  "row": 20,
+  "college": "VANDERBILT UNIVERSITY",
+  "program": "MARKETING",
+  "url": "https://business.vanderbilt.edu/master-of-marketing/",
+  "program_on_page": "Master of Marketing",
+  "confidence": "high",
+  "note": "Vanderbilt Owen 9-month full-time in-person STEM Master of Marketing; links to curriculum, admissions, tuition. Degree is titled 'Master of Marketing' rather than MS. Found via search."
+ },
+ {
+  "sheet": "MS Marketing - Residential",
+  "row": 21,
+  "college": "WAKE FOREST UNIVERSITY- SCHOOL OF BUSINESS",
+  "program": "GENERAL MANAGEMENT",
+  "url": "https://business.wfu.edu/masters-in-management/",
+  "program_on_page": "Masters in Management Program (MS in Management)",
+  "confidence": "high",
+  "note": "Wake Forest School of Business 10-month MS in Management (marketing specialization track available). Matches 'general management' on the marketing sheet. Found via search."
+ }
+]

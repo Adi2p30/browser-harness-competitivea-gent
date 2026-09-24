@@ -1,0 +1,222 @@
+[
+ {
+  "sheet": "Master of Business & Technology",
+  "row": 3,
+  "college": "UNIVERSITY OF WASHINGTON - SEATTLE",
+  "program": "LIBRARY & INFORMATION SCIENCE (DL)",
+  "url": "https://ischool.uw.edu/programs/mlis/degree-options/online",
+  "program_on_page": "Online MLIS (Master of Library and Information Science)",
+  "confidence": "high",
+  "note": "UW Information School's distance-learning (online) MLIS option page; confirms same degree as residential, 63 quarter credits, links to admissions and tuition. Matches the '(DL)' distance-learning tag in the program name."
+ },
+ {
+  "sheet": "Master of Business & Technology",
+  "row": 4,
+  "college": "ROCHESTER INSTITUTE OF TECHNOLOGY",
+  "program": "ARTIFICIAL INTELLIGENCE",
+  "url": "https://www.rit.edu/study/artificial-intelligence-ms",
+  "program_on_page": "Artificial Intelligence Master of Science Degree",
+  "confidence": "high",
+  "note": "RIT's interdisciplinary MS in AI. Page confirms curriculum, admissions and formats (on-campus full/part-time, online part-time, hybrid)."
+ },
+ {
+  "sheet": "Master of Business & Technology",
+  "row": 6,
+  "college": "BELLARMINE UNIVERSITY",
+  "program": "ONLINE MBA",
+  "url": "https://www.bellarmine.edu/rubel-school-of-business/graduate/master-of-business-administration/",
+  "program_on_page": "Online MBA (Master of Business Administration)",
+  "confidence": "high",
+  "note": "Rubel School of Business MBA page; confirms the MBA is delivered 100% online with real-time weeknight instruction (38 credit hours). Bellarmine has no separate standalone Online-MBA URL; this is the MBA program page."
+ },
+ {
+  "sheet": "Master of Business & Technology",
+  "row": 7,
+  "college": "BELLARMINE UNIVERSITY",
+  "program": "MBA",
+  "url": "https://www.bellarmine.edu/programs/master-business-administration/index.php",
+  "program_on_page": "Master of Business Administration (MBA)",
+  "confidence": "high",
+  "note": "Bellarmine's top-level MBA program page (admissions, tuition, scholarships). Bellarmine offers only two MBA formats: Online MBA and Executive MBA; there is no residential daytime MBA."
+ },
+ {
+  "sheet": "Master of Business & Technology",
+  "row": 8,
+  "college": "BABSON COLLEGE",
+  "program": "TWO YEAR PROGRAM",
+  "url": "https://www.babson.edu/graduate/academics/full-time-business-programs/mba/",
+  "program_on_page": "Babson Full Time MBA",
+  "confidence": "medium",
+  "note": "Babson has no separate URL for the two-year MBA; the Full Time MBA page covers both the one-year and two-year (21-month, 45-credit) full-time options. Chose this page for 'TWO YEAR PROGRAM'."
+ },
+ {
+  "sheet": "Master of Business & Technology",
+  "row": 9,
+  "college": "UNIVERSITY OF CALIFORNIA-LOS ANGELES",
+  "program": "",
+  "url": "https://www.anderson.ucla.edu/degrees/master-of-science-in-business-analytics-msba",
+  "program_on_page": "Master of Science in Business Analytics (MSBA)",
+  "confidence": "low",
+  "note": "Program cell is blank, so picked UCLA's closest business+technology master's: the UCLA Anderson MSBA (15-month, full-time, on campus). UCLA also has an unrelated online MS in Engineering (MSOL, Engineering Management track) at msol.ucla.edu if a tech-management degree was intended."
+ },
+ {
+  "sheet": "Master of Business & Technology",
+  "row": 10,
+  "college": "UNIVERSITY OF MARYLAND - COLLEGE PARK",
+  "program": "BUSINESS ADMINISTRATION",
+  "url": "https://www.rhsmith.umd.edu/programs/full-time-mba",
+  "program_on_page": "Full-Time MBA",
+  "confidence": "medium",
+  "note": "'BUSINESS ADMINISTRATION' maps to the Robert H. Smith School MBA; chose the Full-Time MBA page. Smith also offers Online MBA and Flex (part-time) MBA, and specialized MS degrees, so the intended format is uncertain."
+ },
+ {
+  "sheet": "Master of Business & Technology",
+  "row": 11,
+  "college": "UNIVERSITY OF ILLINOIS URBANA-CHAMPAIGN",
+  "program": "MANAGEMENT",
+  "url": "https://giesbusiness.illinois.edu/msm",
+  "program_on_page": "Master of Science in Management (MSM)",
+  "confidence": "medium",
+  "note": "Matched the literal program name 'MANAGEMENT' to Gies College of Business MS in Management (9-month, on campus, STEM). If the intent was a business+technology degree, Gies' MS in Technology Management (giesbusiness.illinois.edu/mstm) would be the closer fit."
+ },
+ {
+  "sheet": "Master of Business & Technology",
+  "row": 12,
+  "college": "JOHNS HOPKINS UNIVERSITY ARTSSCIENCES ENGINEERING",
+  "program": "",
+  "url": "https://e-catalogue.jhu.edu/engineering/engineering-professionals/engineering-management/engineering-management-master/",
+  "program_on_page": "Engineering Management, Master of Engineering Management",
+  "confidence": "low",
+  "note": "Program cell blank. This IPEDS unit is the JHU Krieger/Whiting (Arts & Sciences + Engineering) schools, not Carey Business School. Closest business+technology master's is Whiting's Engineering for Professionals part-time online Master of Engineering Management. The marketing page ep.jhu.edu/programs/engineering-management/ returns HTTP 403 to automated fetches, so the official JHU academic catalogue page is given instead."
+ },
+ {
+  "sheet": "Master of Business & Technology",
+  "row": 13,
+  "college": "ILLINOIS INSTITUTE OF TECHNOLOGY",
+  "program": "BUSINESS ANALYTICS",
+  "url": "https://www.iit.edu/academics/programs/business-analytics-ms",
+  "program_on_page": "Business Analytics (M.S.)",
+  "confidence": "high",
+  "note": "Stuart School of Business MS in Business Analytics, on campus (evening/Saturday), 30 credit hours; curriculum and admissions on page."
+ },
+ {
+  "sheet": "Master of Business & Technology",
+  "row": 16,
+  "college": "BOSTON UNIVERSITY",
+  "program": "BUSINESS ANALYTICS",
+  "url": "https://www.bu.edu/questrom/graduate-programs/specialty-masters-programs/ms-in-business-analytics/",
+  "program_on_page": "MS in Business Analytics (MSBA)",
+  "confidence": "high",
+  "note": "BU Questrom School of Business MSBA, on-campus, 9/12/16-month tracks; curriculum, tuition and admissions on page."
+ },
+ {
+  "sheet": "Online MBA",
+  "row": 3,
+  "college": "BOSTON UNIVERSITY",
+  "program": "BUSINESS ADMINISTRATION AND MANAGEMENT",
+  "url": "https://www.bu.edu/questrom/graduate-programs/mba-programs/online-mba/",
+  "program_on_page": "Online MBA",
+  "confidence": "high",
+  "note": "BU Questrom Online MBA, 100% online with live Zoom sessions, 45 units / 6 modules, $25,000 total tuition. Curriculum, tuition and admissions all on page."
+ },
+ {
+  "sheet": "Online MBA",
+  "row": 5,
+  "college": "CLARKSON UNIVERSITY QTR POTSDAM",
+  "program": "ONLINE MBA",
+  "url": "https://clarkson.edu/academics/majors-minors/mba-online",
+  "program_on_page": "Online Master of Business Administration (MBA)",
+  "confidence": "high",
+  "note": "Clarkson (David D. Reh School of Business) 100% online MBA, no residency, 36-42 credits; curriculum and admissions on page."
+ },
+ {
+  "sheet": "Online MBA",
+  "row": 6,
+  "college": "CORNELL UNIVERSITY",
+  "program": "BOARDRM EXEC W/QUEENSU-ONTARIO",
+  "url": "https://business.cornell.edu/admissions/graduate/emba/americas/",
+  "program_on_page": "Executive MBA Americas",
+  "confidence": "high",
+  "note": "This is the former Cornell-Queen's Executive MBA (boardroom format, partnership with Queen's University, Ontario). The current Cornell page presents it as 'Executive MBA Americas' with live online weekend classes plus four residential sessions; the Queen's dual-degree branding is no longer prominent on this page. johnson.cornell.edu/programs/emba/americas/ now 301-redirects here."
+ },
+ {
+  "sheet": "Online MBA",
+  "row": 7,
+  "college": "EASTERN UNIVERSITY",
+  "program": "ORGANIZATIONAL MANAGEMENT",
+  "url": "https://www.eastern.edu/academics/graduate-programs/mba-management",
+  "program_on_page": "MBA in Organizational Management",
+  "confidence": "high",
+  "note": "Eastern University's 100% online, self-paced (LifeFlex) MBA in Organizational Management, 30 credits, $9,900. Exact name and online delivery confirmed on page."
+ },
+ {
+  "sheet": "Online MBA",
+  "row": 8,
+  "college": "EMORY UNIVERSITY",
+  "program": "BUSINESS ADMINISTRATION ONLINE",
+  "url": "https://goizueta.emory.edu/emba/online-emba",
+  "program_on_page": "Executive Online MBA",
+  "confidence": "medium",
+  "note": "Emory Goizueta's only fully-online MBA is the Executive Online MBA (100% online, 6 hours of coursework/week, 18 months). Goizueta's Part-Time Evening MBA can also be completed fully online (goizueta.emory.edu/part-time-mba), so the exact intended program is slightly uncertain."
+ },
+ {
+  "sheet": "Online MBA",
+  "row": 9,
+  "college": "GEORGIA INSTITUTE OF TECHNOLOGY",
+  "program": "",
+  "url": null,
+  "program_on_page": null,
+  "confidence": null,
+  "note": "Georgia Tech / Scheller College of Business does not offer a fully online MBA. Its MBA options are Full-time, part-time Evening (up to half the coursework can be taken online) and Executive. Scheller's only fully online graduate business degree is an MS in Management, not an MBA. No confirmed online MBA URL."
+ },
+ {
+  "sheet": "Online MBA",
+  "row": 12,
+  "college": "INDIANA UNIVERSITY INDIANAPOLIS",
+  "program": "GENERAL ADMINISTRATION MBA",
+  "url": "https://kelley.iu.edu/programs/online/mba/index.html",
+  "program_on_page": "Kelley Direct Online MBA",
+  "confidence": "medium",
+  "note": "IU's online MBA is the Kelley Direct Online MBA, run by the Kelley School of Business (administered from Bloomington but a single IU Kelley program covering the Indianapolis campus too). Confirmed online delivery, seven majors, admissions on page. Downgraded to medium because the page is branded IU Bloomington rather than IU Indianapolis."
+ },
+ {
+  "sheet": "Online MBA",
+  "row": 13,
+  "college": "JOHNS HOPKINS UNIVERSITY",
+  "program": "",
+  "url": "https://carey.jhu.edu/programs/mba-programs/mba-flexible",
+  "program_on_page": "Flexible MBA",
+  "confidence": "high",
+  "note": "Johns Hopkins Carey Business School's online MBA is the Flexible MBA: fully online, part-time, 54 credits, eight specializations. Program cell was blank; matched to the sheet's field (online MBA)."
+ },
+ {
+  "sheet": "Online MBA",
+  "row": 14,
+  "college": "RICE UNIVERSITY",
+  "program": "BUSINESS ADMINISTRATION",
+  "url": "https://business.rice.edu/rice-mba/online-mba",
+  "program_on_page": "MBA@Rice: Online MBA",
+  "confidence": "high",
+  "note": "Rice Jones Graduate School of Business online MBA (MBA@Rice): 100% online classes, 54 credits, plus one in-person immersion and a global field experience. Used the official business.rice.edu page rather than the onlinebusiness.rice.edu marketing site."
+ },
+ {
+  "sheet": "Online MBA",
+  "row": 15,
+  "college": "SYRACUSE UNIVERSITY",
+  "program": "PROJECT MANAGEMENT",
+  "url": "https://whitman.syracuse.edu/online-masters-programs-programs/mba-online",
+  "program_on_page": "Online MBA",
+  "confidence": "medium",
+  "note": "Syracuse's online MBA is the Whitman School's 45-credit Online MBA (MBA@Syracuse). Verified on the page that its six specializations are accounting, business analytics, entrepreneurship, finance, marketing management and supply chain management - there is NO project management specialization, so the 'PROJECT MANAGEMENT' program label does not match any Whitman online MBA track."
+ },
+ {
+  "sheet": "Online MBA",
+  "row": 16,
+  "college": "THE OHIO STATE UNIVERSITY",
+  "program": "MBA FOR WORKING PROFESSIONALS",
+  "url": "https://fisher.osu.edu/graduate/wpmba/online-mba",
+  "program_on_page": "Online Working Professional MBA (WPMBA)",
+  "confidence": "high",
+  "note": "Fisher College of Business Working Professional MBA, online delivery option. Note the page states classes require at least 30% live (synchronous) content, so it is distance-delivered rather than fully asynchronous. The umbrella WPMBA page is fisher.osu.edu/graduate/wpmba."
+ }
+]

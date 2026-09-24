@@ -1,0 +1,82 @@
+[
+ {
+  "sheet": "MS BAIM - Residential",
+  "row": 75,
+  "college": "UNIVERSITY OF WASHINGTON - SEATTLE",
+  "program": "BUSINESS ADMINISTRATION (INFORM SYSTEMS)",
+  "url": "https://foster.uw.edu/academics/degree-programs/master-of-science-in-information-systems/",
+  "program_on_page": "Master of Science in Information Systems (MSIS)",
+  "confidence": "high",
+  "note": "UW Foster School of Business MSIS; on-campus (Seattle), one-year, STEM-designated. Page has admissions/tuition/curriculum links. Foster's information-systems master's is the match for 'Business Administration (Inform Systems)'."
+ },
+ {
+  "sheet": "MS BAIM - Residential",
+  "row": 76,
+  "college": "UNIVERSITY OF WISCONSIN - MADISON",
+  "program": "BUS: ANALYTICS MSB",
+  "url": "https://business.wisc.edu/graduate/masters/business-analytics/",
+  "program_on_page": "MS in Business Analytics",
+  "confidence": "high",
+  "note": "Wisconsin School of Business; 30-credit, ~10-month degree (summer online bootcamp then two semesters in person on campus). Distinct from UW-Madison's fully online 'Business: Data, Insights, and Analytics MS'."
+ },
+ {
+  "sheet": "MS BAIM - Residential",
+  "row": 77,
+  "college": "WASHINGTON UNIVERSITY",
+  "program": "MASTER OF SCIENCE IN BUSINESS ANALYTICS",
+  "url": "https://olin.washu.edu/programs/specialized-masters/ms-in-business-analytics/index.php",
+  "program_on_page": "MS in Business Analytics",
+  "confidence": "high",
+  "note": "WashU Olin Business School, full-time on-campus MSA (3 semesters, St. Louis), five concentrations. Olin's other analytics degree is the separate Online MSBA."
+ },
+ {
+  "sheet": "MS BAIM - Residential",
+  "row": 78,
+  "college": "WASHINGTON UNIVERSITY",
+  "program": "BUSINESS ANALYTICS M.S.",
+  "url": "https://olin.washu.edu/programs/specialized-masters/ms-in-business-analytics/index.php",
+  "program_on_page": "MS in Business Analytics",
+  "confidence": "medium",
+  "note": "Duplicate of row 77. The WashU bulletin lists only one residential business analytics master's (Olin MSA); the other is online. Same URL returned."
+ },
+ {
+  "sheet": "MS BAIM - Residential",
+  "row": 79,
+  "college": "YALE UNIVERSITY",
+  "program": "ASSET MANAGEMENT",
+  "url": "https://som.yale.edu/programs/mms-asset-management",
+  "program_on_page": "Master's in Asset Management (Master of Management Studies)",
+  "confidence": "high",
+  "note": "Yale School of Management, full-time 9-month residential MMS in Asset Management in New Haven."
+ },
+ {
+  "sheet": "MS Finance - Residential",
+  "row": 3,
+  "college": "ARIZONA STATE UNIVERSITY",
+  "program": "",
+  "url": "https://wpcarey.asu.edu/masters-programs/finance",
+  "program_on_page": "MS Finance (MS-FIN)",
+  "confidence": "high",
+  "note": "ASU W. P. Carey School of Business; full-time on-campus (Tempe/McCord Hall), 9-16 months, STEM-designated."
+ },
+ {
+  "sheet": "MS Finance - Residential",
+  "row": 4,
+  "college": "BABSON COLLEGE",
+  "program": "MASTER OF SCIENCE IN FINANCE",
+  "url": "https://www.babson.edu/graduate/academics/full-time-business-programs/master-of-science-in-finance/",
+  "program_on_page": "Master of Science in Finance",
+  "confidence": "high",
+  "note": "Babson F.W. Olin Graduate School; full-time on-campus, 30 credits over 9 or 16 months."
+ },
+ {
+  "sheet": "MS Finance - Residential",
+  "row": 9,
+  "college": "CLEMSON UNIVERSITY",
+  "program": "BUSINESS ADMINISTRATION",
+  "url": "https://www.clemson.edu/business/academics/finance/graduate/",
+  "program_on_page": "Master of Science in Finance (MSF)",
+  "confidence": "medium",
+  "note": "Clemson Powers College of Business MSF, 10-month, 32-credit, in-person on the main campus. The row's 'BUSINESS ADMINISTRATION' is the IPEDS-style label; the MSF is Clemson's only residential finance master's."
+ }
+]

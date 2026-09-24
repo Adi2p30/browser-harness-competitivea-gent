@@ -1,0 +1,230 @@
+[
+ {
+  "sheet": "MS GSCM - Residential",
+  "row": 9,
+  "college": "GEORGIA INSTITUTE OF TECHNOLOGY",
+  "program": "SUPPLY CHAIN ENGINEERING"
+ },
+ {
+  "sheet": "MS GSCM - Residential",
+  "row": 10,
+  "college": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+  "program": "SUPPLY CHAIN MANAGEMENT"
+ },
+ {
+  "sheet": "MS GSCM - Residential",
+  "row": 11,
+  "college": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+  "program": "CIVIL AND ENVIRONMENTAL ENGINEERING (TRANSPORTATION STUDIES)"
+ },
+ {
+  "sheet": "MS GSCM - Residential",
+  "row": 13,
+  "college": "PURDUE UNIVERSITY FORT WAYNE",
+  "program": ""
+ },
+ {
+  "sheet": "MS GSCM - Residential",
+  "row": 14,
+  "college": "SYRACUSE UNIVERSITY",
+  "program": "SUPPLY CHAIN MANAGEMENT"
+ },
+ {
+  "sheet": "MS GSCM - Residential",
+  "row": 15,
+  "college": "THE OHIO STATE UNIVERSITY",
+  "program": "INDUSTRIAL AND SYSTEMS ENG"
+ },
+ {
+  "sheet": "MS GSCM - Residential",
+  "row": 16,
+  "college": "UNIVERSITY OF HOUSTON",
+  "program": "SUPPLY CHAIN MANAGEMENT MS"
+ },
+ {
+  "sheet": "MS GSCM - Residential",
+  "row": 17,
+  "college": "UNIVERSITY OF ILLINOIS URBANA-CHAMPAIGN",
+  "program": "TECHNOLOGY MANAGEMENT"
+ },
+ {
+  "sheet": "MS GSCM - Residential",
+  "row": 18,
+  "college": "UNIVERSITY OF MARYLAND - COLLEGE PARK",
+  "program": "SUPPLY CHAIN MANAGEMENT"
+ },
+ {
+  "sheet": "MS GSCM - Residential",
+  "row": 19,
+  "college": "UNIVERSITY OF MICHIGAN",
+  "program": ""
+ },
+ {
+  "sheet": "MS GSCM - Residential",
+  "row": 20,
+  "college": "UNIVERSITY OF SOUTHERN CALIFORNIA",
+  "program": "GLOBAL SUPPLY CHAIN MANAGEMENT"
+ },
+ {
+  "sheet": "Online MBA",
+  "row": 18,
+  "college": "UNIVERSITY OF CALIFORNIA-SAN DIEGO",
+  "program": "MASTER BUSINESS ADMINISTRATION"
+ },
+ {
+  "sheet": "Online MBA",
+  "row": 19,
+  "college": "UNIVERSITY OF FLORIDA",
+  "program": "BUSINESS ADMINISTRATION"
+ },
+ {
+  "sheet": "Online MBA",
+  "row": 20,
+  "college": "UNIVERSITY OF GEORGIA",
+  "program": "BUSINESS ADMINISTRATION"
+ },
+ {
+  "sheet": "Online MBA",
+  "row": 21,
+  "college": "UNIVERSITY OF ILLINOIS CHICAGO",
+  "program": "BUSINESS ADMINISTRATION MBA"
+ },
+ {
+  "sheet": "Online MBA",
+  "row": 23,
+  "college": "UNIVERSITY OF MICHIGAN FLINT",
+  "program": "ARTS ADMINISTRATION"
+ },
+ {
+  "sheet": "Online MBA",
+  "row": 25,
+  "college": "UNIVERSITY OF TENNESSEE",
+  "program": "BUSINESS ADMINISTRATION"
+ },
+ {
+  "sheet": "Online MBA",
+  "row": 26,
+  "college": "UNIVERSITY OF TEXAS ARLINGTON",
+  "program": "BUSINESS ADMIN MBA ONLINE"
+ },
+ {
+  "sheet": "Online MBA",
+  "row": 27,
+  "college": "WASHINGTON STATE UNIVERSITY- PULLMAN",
+  "program": "BUSINESS ADMINISTRATION"
+ },
+ {
+  "sheet": "Online MBA",
+  "row": 30,
+  "college": "Colleges not ranked on US news for Online MBA Program as of 09/07/25",
+  "program": ""
+ },
+ {
+  "sheet": "Online MS Business Analytics",
+  "row": 3,
+  "college": "CARNEGIE MELLON UNIVERSITY",
+  "program": "BUSINESS ANALYTICS"
+ },
+ {
+  "sheet": "Online MS Economics",
+  "row": 4,
+  "college": "BOSTON COLLEGE",
+  "program": "APPLIED ECONOMICS"
+ },
+ {
+  "sheet": "Online MS Economics",
+  "row": 5,
+  "college": "DEPAUL UNIVERSITY",
+  "program": "MS IN ECONOMICS AND QUANTITATIVE ANALYSIS (MS)"
+ },
+ {
+  "sheet": "Online MS Economics",
+  "row": 6,
+  "college": "DUKE UNIVERSITY",
+  "program": ""
+ },
+ {
+  "sheet": "Online MS Economics",
+  "row": 8,
+  "college": "LIBERTY UNIVERSITY",
+  "program": "MBA ECONOMICS"
+ },
+ {
+  "sheet": "Online MS Economics",
+  "row": 9,
+  "college": "PENNSYLVANIA STATE UNIVERSITY",
+  "program": ""
+ },
+ {
+  "sheet": "Online MS Economics",
+  "row": 10,
+  "college": "TEXAS STATE UNIVERSITY - SAN MARCOS",
+  "program": "QUANT FINANCE ECONOMICS"
+ },
+ {
+  "sheet": "Online MS Economics",
+  "row": 11,
+  "college": "UNIVERSITY OF CINCINNATI",
+  "program": "APPLIED ECONOMICS"
+ },
+ {
+  "sheet": "Online MS Economics",
+  "row": 12,
+  "college": "UNIVERSITY OF MARYLAND-COLLEGE PARK",
+  "program": "APPLIED ECONOMICS (OFF-CAMPUS)"
+ },
+ {
+  "sheet": "Online MS HRM",
+  "row": 3,
+  "college": "CORNELL UNIVERSITY",
+  "program": "INDUSTRIAL AND LABOR RELATIONS"
+ },
+ {
+  "sheet": "Online MS HRM",
+  "row": 4,
+  "college": "HOFSTRA UNIVERSITY",
+  "program": ""
+ },
+ {
+  "sheet": "Online MS HRM",
+  "row": 5,
+  "college": "INDIANA UNIVERSITY INDIANAPOLIS",
+  "program": "POLICY ANALYSIS GR CRT"
+ },
+ {
+  "sheet": "Online MS HRM",
+  "row": 6,
+  "college": "MISSOURI BAPTIST UNIVERSITY",
+  "program": "BUSINESS ADMINISTRATION: MBA (ONLINE)"
+ },
+ {
+  "sheet": "Online MS HRM",
+  "row": 8,
+  "college": "TROY UNIVERSITY",
+  "program": "HUMAN RESOURCE MGMT"
+ },
+ {
+  "sheet": "Online MS HRM",
+  "row": 9,
+  "college": "UNION UNIVERSITY",
+  "program": "BUSINESS ADMINISTRATION"
+ },
+ {
+  "sheet": "Online MS HRM",
+  "row": 12,
+  "college": "UNIVERSITY OF OKLAHOMA",
+  "program": "ORGANIZATIONAL LEADERSHIP OL"
+ },
+ {
+  "sheet": "Online MSGSCM",
+  "row": 3,
+  "college": "NEW YORK UNIVERSITY",
+  "program": "MAJOR: MANAGEMENT OF TECHNOLOGY"
+ },
+ {
+  "sheet": "Online MSGSCM",
+  "row": 5,
+  "college": "UNIVERSITY OF TENNESSEE",
+  "program": "SUPPLY CHAIN MANAGEMENT"
+ }
+]

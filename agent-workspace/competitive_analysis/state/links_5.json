@@ -1,0 +1,162 @@
+[
+ {
+  "sheet": "MS Finance - Residential",
+  "row": 38,
+  "college": "UNIVERSITY OF CHICAGO",
+  "program": "",
+  "url": "https://www.chicagobooth.edu/master-in-finance",
+  "program_on_page": "Asness and Liew Master in Finance Program",
+  "confidence": "high",
+  "note": "Chicago Booth's full-time, on-campus Master in Finance (launched 2024). Program name blank in sheet; this is UChicago's business-school finance master's. UChicago also has an MS in Financial Mathematics in the Dept. of Mathematics, which is a different unit."
+ },
+ {
+  "sheet": "MS Finance - Residential",
+  "row": 41,
+  "college": "UNIVERSITY OF MARYLAND - COLLEGE PARK",
+  "program": "MASTER OF FINANCE",
+  "url": "https://www.rhsmith.umd.edu/programs/business-masters/academics/finance",
+  "program_on_page": "Master of Finance",
+  "confidence": "high",
+  "note": "Robert H. Smith School of Business, on-campus full-time, 30 credits. Admissions/curriculum/cost links present."
+ },
+ {
+  "sheet": "MS Finance - Residential",
+  "row": 42,
+  "college": "UNIVERSITY OF MARYLAND - COLLEGE PARK",
+  "program": "MASTER OF QUANTITATIVE FINANCE",
+  "url": "https://www.rhsmith.umd.edu/programs/business-masters/academics/quantitative-finance",
+  "program_on_page": "Master of Quantitative Finance",
+  "confidence": "high",
+  "note": "Robert H. Smith School of Business, on-campus, STEM-designated, 3-4 semesters."
+ },
+ {
+  "sheet": "MS Finance - Residential",
+  "row": 43,
+  "college": "UNIVERSITY OF MARYLAND - COLLEGE PARK",
+  "program": "BUSINESS ADMINISTRATION",
+  "url": "https://www.rhsmith.umd.edu/programs/business-masters/academics/finance",
+  "program_on_page": "Master of Finance",
+  "confidence": "medium",
+  "note": "\"Business Administration\" is a generic CIP/umbrella label, not a program name at Smith. Used the sheet's field (MS Finance, residential) and pointed to the Master of Finance page - same URL as row 41."
+ },
+ {
+  "sheet": "MS Finance - Residential",
+  "row": 44,
+  "college": "UNIVERSITY OF MICHIGAN",
+  "program": "",
+  "url": null,
+  "program_on_page": null,
+  "confidence": "low",
+  "note": "Could not confirm an MS in Finance at Michigan. Ross School's one-year master's programs are Accounting, Business Analytics, Management and Supply Chain Management - no finance master's. U-M does have an MS in Quantitative Finance & Risk Management run jointly by LSA Mathematics and Statistics, but lsa.umich.edu and sites.lsa.umich.edu returned HTTP 403 to every fetch attempt, so no URL is returned."
+ },
+ {
+  "sheet": "MS Finance - Residential",
+  "row": 45,
+  "college": "UNIVERSITY OF NORTH TEXAS",
+  "program": "",
+  "url": "https://www.unt.edu/academics/programs/finance-masters.html",
+  "program_on_page": "Finance M.S.",
+  "confidence": "high",
+  "note": "G. Brint Ryan College of Business, Dept. of Finance, Insurance, Real Estate and Law. Page states On Campus delivery; has admissions, tuition & aid, and course links."
+ },
+ {
+  "sheet": "MS Finance - Residential",
+  "row": 46,
+  "college": "UNIVERSITY OF ROCHESTER- SCHOOL OF BUSINESS",
+  "program": "FINANCE [FIS] MASTERS",
+  "url": "https://simon.rochester.edu/programs/full-time-ms-in-finance",
+  "program_on_page": "MS in Finance",
+  "confidence": "high",
+  "note": "Simon Business School full-time, on-campus MS in Finance. Admissions, tuition/financial aid and curriculum links present."
+ },
+ {
+  "sheet": "MS Finance - Residential",
+  "row": 49,
+  "college": "UNIVERSITY OF TEXAS AT DALLAS",
+  "program": "FINANCE",
+  "url": "https://fin.utdallas.edu/ms-finance-cohort/",
+  "program_on_page": "Master of Science in Finance Cohort",
+  "confidence": "high",
+  "note": "Naveen Jindal School of Management. UTD offers two MS Finance tracks; chose the Cohort track because it is the full-time on-campus 12-month version (the Flex track includes online and evening classes), matching the Residential sheet."
+ },
+ {
+  "sheet": "MS Finance - Residential",
+  "row": 50,
+  "college": "UNIVERSITY OF THE CUMBERLANDS",
+  "program": "FINANCE M.S.",
+  "url": "https://www.ucumberlands.edu/academics/executive/masters-finance",
+  "program_on_page": "Executive Master of Science in Finance (MSF)",
+  "confidence": "medium",
+  "note": "Cumberlands' MSF is primarily online; the executive format shown here is the one with required in-person residency weekends, so it is the closest match to the Residential sheet. A fully online MSF page also exists at ucumberlands.edu/academics/graduate/masters-finance."
+ },
+ {
+  "sheet": "MS Finance - Residential",
+  "row": 51,
+  "college": "UNIVERSITY OF WISCONSIN - MADISON",
+  "program": "FINANCIAL ECONOMICS MS",
+  "url": "https://guide.wisc.edu/graduate/economics/financial-economics-ms/",
+  "program_on_page": "Financial Economics, MS",
+  "confidence": "high",
+  "note": "Official UW-Madison Graduate Guide page; joint program of the School of Business Finance Dept. and L&S Economics Dept. Listed mode of instruction: face-to-face. Includes admissions and degree requirements."
+ },
+ {
+  "sheet": "MS Finance - Residential",
+  "row": 52,
+  "college": "VANDERBILT UNIVERSITY",
+  "program": "FINANCE",
+  "url": "https://business.vanderbilt.edu/masters-in-finance/",
+  "program_on_page": "MS Finance (MSF)",
+  "confidence": "high",
+  "note": "Owen Graduate School of Management; 9-month full-time, in-person in Nashville. Admissions, tuition and curriculum links present."
+ },
+ {
+  "sheet": "MS Finance - Residential",
+  "row": 53,
+  "college": "WASHINGTON UNIVERSITY",
+  "program": "M.S.F. IN WEALTH AND ASSET MANAGEMENT",
+  "url": "https://olin.washu.edu/programs/specialized-masters/ms-in-wealth-and-asset-management/index.php",
+  "program_on_page": "MS in Finance - Wealth & Asset Management",
+  "confidence": "high",
+  "note": "Washington University in St. Louis, Olin Business School. On-campus, 3 semesters, fall start."
+ },
+ {
+  "sheet": "MS Finance - Residential",
+  "row": 54,
+  "college": "WASHINGTON UNIVERSITY",
+  "program": "MASTER OF SCIENCE IN FINANCE",
+  "url": "https://olin.washu.edu/programs/specialized-masters/ms-in-finance/index.php",
+  "program_on_page": "MS in Finance",
+  "confidence": "high",
+  "note": "WashU Olin's general on-campus MS in Finance landing page (concentrations: Corporate Finance, Quantitative Finance, Wealth & Asset Management)."
+ },
+ {
+  "sheet": "MS Finance - Residential",
+  "row": 55,
+  "college": "WASHINGTON UNIVERSITY",
+  "program": "FINANCE - WEALTH AND ASSET MANAGEMENT M.S.",
+  "url": "https://olin.washu.edu/programs/specialized-masters/ms-in-wealth-and-asset-management/index.php",
+  "program_on_page": "MS in Finance - Wealth & Asset Management",
+  "confidence": "high",
+  "note": "Duplicate of row 53 (same WashU Olin program, different spelling in the sheet)."
+ },
+ {
+  "sheet": "MS Finance - Residential",
+  "row": 56,
+  "college": "WASHINGTON UNIVERSITY",
+  "program": "MASTER OF SCIENCE IN FINANCE (QF)",
+  "url": "https://olin.washu.edu/programs/specialized-masters/ms-in-quantitative-finance/index.php",
+  "program_on_page": "MS in Finance - Quantitative",
+  "confidence": "high",
+  "note": "WashU Olin, on-campus, 3 semesters, STEM-designated."
+ },
+ {
+  "sheet": "MS Finance - Residential",
+  "row": 57,
+  "college": "WASHINGTON UNIVERSITY",
+  "program": "FINANCE - QUANTITATIVE FINANCE M.S.",
+  "url": "https://olin.washu.edu/programs/specialized-masters/ms-in-quantitative-finance/index.php",
+  "program_on_page": "MS in Finance - Quantitative",
+  "confidence": "high",
+  "note": "Duplicate of row 56 (same WashU Olin program, different spelling in the sheet)."
+ }
+]

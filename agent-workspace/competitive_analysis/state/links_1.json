@@ -1,0 +1,322 @@
+[
+ {
+  "sheet": "1yr MBA",
+  "row": 3,
+  "college": "VANDERBILT UNIVERSITY",
+  "program": "GENERAL MANAGEMENT",
+  "url": "https://business.vanderbilt.edu/master-of-management/",
+  "program_on_page": "Master of Management",
+  "confidence": "medium",
+  "note": "Owen has no 1-year MBA (its MBA is a 2-year, on-campus degree). The Master of Management is a 9-month on-campus degree with a General Management concentration, the closest match to the program text and to a 1-year format."
+ },
+ {
+  "sheet": "1yr MBA",
+  "row": 4,
+  "college": "EMORY UNIVERSITY",
+  "program": "BUSINESS ADMINISTRATION",
+  "url": "https://goizueta.emory.edu/full-time-mba/one-year-mba",
+  "program_on_page": "One-Year MBA",
+  "confidence": "high",
+  "note": "Confirmed on page: Emory Goizueta, on-campus, completed in 12 months; four tracks (Accelerated, Global, Healthcare, Real Estate)."
+ },
+ {
+  "sheet": "1yr MBA",
+  "row": 5,
+  "college": "ARIZONA STATE UNIVERSITY",
+  "program": "",
+  "url": "https://wpcarey.asu.edu/mba-programs/full-time",
+  "program_on_page": "Full-time MBA Degree Program",
+  "confidence": "medium",
+  "note": "ASU W. P. Carey has no 1-year MBA; the full-time MBA is 21 months on the Tempe campus. A Fast-track/Evening MBA can finish in 12-18 months but is a part-time evening program. Chose the full-time MBA."
+ },
+ {
+  "sheet": "1yr MBA",
+  "row": 6,
+  "college": "MICHIGAN STATE UNIVERSITY",
+  "program": "STEM MBA",
+  "url": "https://publications.broad.msu.edu/full-time-mba",
+  "program_on_page": "Full-Time MBA / STEM MBA",
+  "confidence": "medium",
+  "note": "Official MSU Broad site confirming the STEM MBA curriculum option within the Full-Time MBA; 21 months, in-person, not a 1-year program. The dedicated page broad.msu.edu/masters/mba/curriculum/stem-mba/ would not load content when fetched, so this confirmed page is given instead."
+ },
+ {
+  "sheet": "1yr MBA",
+  "row": 7,
+  "college": "SOUTHERN METHODIST UNIVERSITY",
+  "program": "",
+  "url": "https://www.smu.edu/cox/business-degrees/mba-programs/one-year-mba",
+  "program_on_page": "Full-Time One-Year MBA",
+  "confidence": "high",
+  "note": "Confirmed on page: SMU Cox, in-person, 12 months, May start."
+ },
+ {
+  "sheet": "1yr MBA",
+  "row": 8,
+  "college": "BABSON COLLEGE",
+  "program": "",
+  "url": "https://www.babson.edu/graduate/academics/full-time-business-programs/mba/",
+  "program_on_page": "Babson Full Time MBA",
+  "confidence": "medium",
+  "note": "Babson's Full-Time MBA is the single program that can be paced as one year (12 months) or two years; there is no separate One-Year MBA page. The fetched page confirmed the program and on-campus full-time delivery but did not itself state the 12-month pacing."
+ },
+ {
+  "sheet": "1yr MBA",
+  "row": 9,
+  "college": "UNIVERSITY OF WISCONSIN - MADISON",
+  "program": "BUS: FINANCE INVEST&BANK MBA",
+  "url": "https://guide.wisc.edu/graduate/finance/business-finance-investment-banking-mba/",
+  "program_on_page": "Business: Finance, Investment, and Banking, MBA",
+  "confidence": "medium",
+  "note": "Exact registrar name matches the sheet text 'BUS: FINANCE INVEST&BANK MBA'. Official UW-Madison catalog page with admissions and curriculum requirements. Wisconsin's MBA is ~21 months, not 1 year, and the page notes the program no longer admits new students after Fall 2026. Delivery mode not stated on page."
+ },
+ {
+  "sheet": "MS Accounting - Residential",
+  "row": 3,
+  "college": "PURDUE UNIVERSITY GLOBAL",
+  "program": "ACCOUNTING",
+  "url": "https://www.purdueglobal.edu/degree-programs/business/online-master-accounting-degree/",
+  "program_on_page": "Master of Science in Accounting (MSA)",
+  "confidence": "medium",
+  "note": "Confirmed Purdue Global master's in accounting, but it is 100% online while the sheet is a Residential sheet - Purdue Global is an online-only institution, so no residential equivalent exists."
+ },
+ {
+  "sheet": "MS Accounting - Residential",
+  "row": 4,
+  "college": "PURDUE UNIVERSITY NORTHWEST",
+  "program": "ACCOUNTANCY MANAGEMENT",
+  "url": "https://www.pnw.edu/program-finder/master-of-accountancy-macc/",
+  "program_on_page": "Master of Accountancy, MAcc",
+  "confidence": "high",
+  "note": "Confirmed: Purdue University Northwest, on-campus master's (evening classes), 30 credit hours. Sheet text 'ACCOUNTANCY MANAGEMENT' matches PNW's MAcc, which emphasizes managerial accounting skills."
+ },
+ {
+  "sheet": "MS Accounting - Residential",
+  "row": 5,
+  "college": "BOSTON COLLEGE",
+  "program": "ACCOUNTING STEM",
+  "url": "https://www.bc.edu/bc-web/schools/carroll-school/graduate/ms-programs/ms-in-accounting.html",
+  "program_on_page": "M.S. in Accounting",
+  "confidence": "high",
+  "note": "Confirmed: Boston College Carroll School, on-campus, 9-12 months, explicitly STEM-designated - matches 'ACCOUNTING STEM'."
+ },
+ {
+  "sheet": "MS Accounting - Residential",
+  "row": 6,
+  "college": "CORNELL UNIVERSITY",
+  "program": "MANAGEMENT",
+  "url": "https://business.cornell.edu/programs/masters-in-accounting/",
+  "program_on_page": "Master of Professional Studies (MPS) in Management - Accounting Specialization",
+  "confidence": "high",
+  "note": "Confirmed: Cornell SC Johnson College of Business, on-campus, full-time 10 months. Degree is in Management with an Accounting specialization, which matches the sheet's program text 'MANAGEMENT' on the MS Accounting sheet. (johnson.cornell.edu URL 301-redirects here.)"
+ },
+ {
+  "sheet": "MS Accounting - Residential",
+  "row": 8,
+  "college": "INDIANA UNIVERSITY NORTHWEST",
+  "program": "ACCOUNTING PBC",
+  "url": "https://northwest.iu.edu/business/graduate/postbaccalaureate-certificate-in-accounting.html",
+  "program_on_page": "Postbaccalaureate Certificate in Accounting (PBCA)",
+  "confidence": "high",
+  "note": "Confirmed: IU Northwest, on campus. Note this is a post-baccalaureate CERTIFICATE, not a master's degree - matching the sheet text 'ACCOUNTING PBC'. IU Northwest does not offer a master's in accounting."
+ },
+ {
+  "sheet": "MS Accounting - Residential",
+  "row": 9,
+  "college": "IVY TECH COMMUNITY COLLEGE",
+  "program": "",
+  "url": null,
+  "program_on_page": null,
+  "confidence": null,
+  "note": "Ivy Tech Community College awards only associate degrees and certificates - confirmed on its official Degrees & Certificates page (https://www.ivytech.edu/programs/degrees-certificates/). No master's in accounting exists, so no matching program page."
+ },
+ {
+  "sheet": "MS Accounting - Residential",
+  "row": 10,
+  "college": "JOHNS HOPKINS UNIVERSITY",
+  "program": "",
+  "url": null,
+  "program_on_page": null,
+  "confidence": null,
+  "note": "Johns Hopkins Carey Business School offers no accounting master's. The official JHU academic catalogue (https://e-catalogue.jhu.edu/business/) lists MBA plus MS degrees in Business Analytics & AI, Finance, Health Care Management, Information Systems & AI, Management, Marketing and Real Estate & Infrastructure - no accounting degree (only an undergraduate Accounting & Financial Management minor)."
+ },
+ {
+  "sheet": "MS Accounting - Residential",
+  "row": 11,
+  "college": "OAKLAND UNIVERSITY",
+  "program": "ACCOUNTING",
+  "url": "https://www.oakland.edu/business/graduate-executive-programs/master-of-accounting/",
+  "program_on_page": "Master of Accounting",
+  "confidence": "high",
+  "note": "Confirmed: Oakland University School of Business Administration, on campus, one-year program."
+ },
+ {
+  "sheet": "MS Accounting - Residential",
+  "row": 12,
+  "college": "OKLAHOMA STATE UNIVERSITY - STILLWATER/TULSA",
+  "program": "ACCOUNTING",
+  "url": null,
+  "program_on_page": null,
+  "confidence": null,
+  "note": "pending"
+ },
+ {
+  "sheet": "MS Accounting - Residential",
+  "row": 13,
+  "college": "SOUTHERN ILLINOIS UNIVERSITY CARBONDALE",
+  "program": "",
+  "url": "https://academics.siu.edu/business/accounting/masters/",
+  "program_on_page": "Master of Accountancy",
+  "confidence": "high",
+  "note": "Confirmed: SIU Carbondale School of Accountancy, one calendar year. Page states the M.Acc. is offered both in-person and fully online; the in-person option matches this Residential sheet."
+ },
+ {
+  "sheet": "MS Accounting - Residential",
+  "row": 14,
+  "college": "TEXAS A&M UNIVERSITY",
+  "program": "ACCOUNTING",
+  "url": "https://mays.tamu.edu/graduate/masters/ms-programs/accounting/",
+  "program_on_page": "MS Accounting",
+  "confidence": "high",
+  "note": "Confirmed: Texas A&M Mays Business School, in-person at College Station, 36 credit hours. (A separate Flex Online MS Accounting exists; this is the residential one.)"
+ },
+ {
+  "sheet": "MS Accounting - Residential",
+  "row": 15,
+  "college": "THE OHIO STATE UNIVERSITY",
+  "program": "MASTER OF ACCOUNTING",
+  "url": "https://fisher.osu.edu/graduate/macc",
+  "program_on_page": "Master of Accounting",
+  "confidence": "high",
+  "note": "Confirmed: Ohio State Fisher College of Business, on campus. Matches sheet text 'MASTER OF ACCOUNTING'. Program is 9 months / STEM-designated."
+ },
+ {
+  "sheet": "MS Accounting - Residential",
+  "row": 16,
+  "college": "UNIVERSITY OF CALIFORNIA - IRVINE",
+  "program": "",
+  "url": "https://merage.uci.edu/programs/masters/master-professional-accountancy/index.html",
+  "program_on_page": "Master of Professional Accountancy",
+  "confidence": "high",
+  "note": "Confirmed: UC Irvine Paul Merage School of Business, on campus full-time, as few as nine months. Program field blank in sheet; this is UCI's only accounting master's."
+ },
+ {
+  "sheet": "MS Accounting - Residential",
+  "row": 17,
+  "college": "UNIVERSITY OF CALIFORNIA - SAN DIEGO",
+  "program": "MASTER OF PRO ACCOUNTANCY",
+  "url": null,
+  "program_on_page": null,
+  "confidence": null,
+  "note": "pending"
+ },
+ {
+  "sheet": "MS Accounting - Residential",
+  "row": 18,
+  "college": "UNIVERSITY OF GEORGIA",
+  "program": "ACCOUNTING",
+  "url": null,
+  "program_on_page": null,
+  "confidence": null,
+  "note": "pending"
+ },
+ {
+  "sheet": "MS Accounting - Residential",
+  "row": 20,
+  "college": "UNIVERSITY OF LOUISVILLE",
+  "program": "ACCOUNTANCY AND ANALYTICS",
+  "url": null,
+  "program_on_page": null,
+  "confidence": null,
+  "note": "pending"
+ },
+ {
+  "sheet": "MS Accounting - Residential",
+  "row": 21,
+  "college": "UNIVERSITY OF MICHIGAN",
+  "program": "",
+  "url": null,
+  "program_on_page": null,
+  "confidence": null,
+  "note": "pending"
+ },
+ {
+  "sheet": "MS Accounting - Residential",
+  "row": 22,
+  "college": "UNIVERSITY OF NORTH CAROLINA-CHAPEL HILL",
+  "program": "",
+  "url": null,
+  "program_on_page": null,
+  "confidence": null,
+  "note": "pending"
+ },
+ {
+  "sheet": "MS Accounting - Residential",
+  "row": 23,
+  "college": "UNIVERSITY OF ROCHESTER- SCHOOL OF BUSINESS",
+  "program": "ACCOUNTANCY [ACN] MASTERS",
+  "url": null,
+  "program_on_page": null,
+  "confidence": null,
+  "note": "pending"
+ },
+ {
+  "sheet": "MS Accounting - Residential",
+  "row": 24,
+  "college": "UNIVERSITY OF SOUTHERN CALIFORNIA",
+  "program": "ACCOUNTING",
+  "url": null,
+  "program_on_page": null,
+  "confidence": null,
+  "note": "pending"
+ },
+ {
+  "sheet": "MS Accounting - Residential",
+  "row": 25,
+  "college": "UNIVERSITY OF SOUTHERN CALIFORNIA",
+  "program": "",
+  "url": null,
+  "program_on_page": null,
+  "confidence": null,
+  "note": "pending"
+ },
+ {
+  "sheet": "MS Accounting - Residential",
+  "row": 26,
+  "college": "UNIVERSITY OF WISCONSIN - MADISON",
+  "program": "BUS: ACCT & BUS ANLYSIS MSB",
+  "url": null,
+  "program_on_page": null,
+  "confidence": null,
+  "note": "pending"
+ },
+ {
+  "sheet": "MS Accounting - Residential",
+  "row": 27,
+  "college": "WESTERN GOVERNORS UNIVERSITY",
+  "program": "ACCOUNTING",
+  "url": null,
+  "program_on_page": null,
+  "confidence": null,
+  "note": "pending"
+ },
+ {
+  "sheet": "MS Accounting - Residential",
+  "row": 28,
+  "college": "WILMINGTON UNIVERSITY",
+  "program": "ACCOUNTING",
+  "url": null,
+  "program_on_page": null,
+  "confidence": null,
+  "note": "pending"
+ },
+ {
+  "sheet": "MS BAIM - Residential",
+  "row": 3,
+  "college": "BABSON COLLEGE",
+  "program": "MASTER OF SCIENCE IN BUSINESS ANALYTICS",
+  "url": null,
+  "program_on_page": null,
+  "confidence": null,
+  "note": "pending"
+ }
+]
