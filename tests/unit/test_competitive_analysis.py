@@ -11,7 +11,7 @@ from openpyxl.styles import Font
 sys.path.insert(0, str(Path(__file__).resolve().parents[2] / "agent-workspace"))
 
 from competitive_analysis import __main__ as cli  # noqa: E402
-from competitive_analysis import agent, colleges, crawler, excel_io, rcac  # noqa: E402
+from competitive_analysis import agent, claude, colleges, crawler, excel_io, rcac, skills  # noqa: E402
 from competitive_analysis.crawler import Page  # noqa: E402
 from competitive_analysis.rcac import parse_json  # noqa: E402
 
@@ -162,7 +162,9 @@ def _workbook(path):
 
 
 @pytest.fixture
-def clean_logging():
+def clean_logging(monkeypatch):
+    monkeypatch.setattr(cli, "pick_models", lambda requested: ["rcac"])  # no API keys in tests
+    monkeypatch.setattr(crawler, "BROWSER_FIRST", False)
     root = logging.getLogger()
     before = list(root.handlers)
     yield
@@ -170,16 +172,16 @@ def clean_logging():
         if h not in before:
             h.close()
             root.removeHandler(h)
-    crawler.PAGE_DIR = rcac.LLM_LOG = None
+    crawler.PAGE_DIR = rcac.LLM_LOG = claude.LLM_LOG = None
 
 
 def test_classify_columns_and_link_pairing():
     import pandas as pd
     df = pd.DataFrame(columns=HEADERS + ["Unnamed: 9"])
     fields, links, skipped = excel_io.classify_columns(df)
-    assert fields == ["Tuition Per Credit", "Experiential Learning (Yes/No)"]
+    assert fields == ["Tuition Per Credit", "Experiential Learning (Yes/No)", "Ranking (QS)"]  # schools cite rankings
     assert links == ["Experiential Learning Link"]
-    assert set(skipped) == {"Ranking (QS)", "Confidence"}
+    assert set(skipped) == {"Confidence"}
     assert excel_io.paired_field("Experiential Learning Link", fields) == "Experiential Learning (Yes/No)"
     assert excel_io.paired_field("Tuition Source URL", fields) == "Tuition Per Credit"
     assert excel_io.paired_field("Curriculum (link)", fields) is None
@@ -196,8 +198,8 @@ def test_cli_fills_verified_cells_links_and_logs_everything(monkeypatch, tmp_pat
     monkeypatch.setitem(colleges._INDEX, ("Programs", "alpha u", ""), ["https://alpha.edu/"])
     seen = {}
 
-    def fake_research(college, urls, fields, ctx, max_pages, max_depth):
-        seen.update(college=college, fields=fields, ctx=ctx)
+    def fake_research(college, urls, fields, ctx, max_pages, max_depth, models, verify):
+        seen.update(college=college, fields=fields, ctx=ctx, models=models, verify=verify)
         crawler.log.info("FETCH %s", urls[0])  # stands in for the real crawler's logging
         return ({"Tuition Per Credit": {"value": "$500", "status": "confirmed", "source": "https://alpha.edu/cost",
                                         "quote": "Tuition is $500 per credit.", "candidates": []},
@@ -206,13 +208,15 @@ def test_cli_fills_verified_cells_links_and_logs_everything(monkeypatch, tmp_pat
                 {"visited": urls, "unreadable": [], "rejected": {}})
 
     monkeypatch.setattr(cli, "research_college", fake_research)
-    argv = ["prog", str(src), "--cycle", "2026-2027 academic year", "--as-of", "2026-09-18"]
+    argv = ["prog", str(src), "--cycle", "2026-2027 academic year", "--as-of", "2026-09-18", "--leave-blank"]
     monkeypatch.setattr(sys, "argv", argv)
     cli.main()
 
     out = load_workbook(tmp_path / "in_filled.xlsx")["Programs"]
     assert seen["college"] == "ALPHA U - WEST LAFAYETTE"  # the workbook's own name is what is researched
-    assert seen["fields"] == ["Tuition Per Credit", "Experiential Learning (Yes/No)"]  # no rankings, links or identity columns
+    assert seen["fields"] == ["School / College Name", "Tuition Per Credit", "Experiential Learning (Yes/No)",
+                              "Ranking (QS)"]  # no links or derived columns
+    assert (seen["models"], seen["verify"]) == (("rcac",), True)
     assert "MS Supply Chain" in seen["ctx"].program and "Programs" in seen["ctx"].program
     assert (seen["ctx"].today, seen["ctx"].cycle) == (date(2026, 9, 18), "2026-2027 academic year")
     assert [c.value for c in out[2]] == ["ALPHA U - WEST LAFAYETTE", None, "MS Supply Chain", "https://alpha.edu/", "$500",
@@ -226,7 +230,7 @@ def test_cli_fills_verified_cells_links_and_logs_everything(monkeypatch, tmp_pat
     text = (logs / "run.log").read_text()
     assert "CELL Programs!E2 | Tuition Per Credit | None -> '$500'" in text
     assert "CELL Programs!D2 | Website Link" in text and "CELL Programs!G2 | Experiential Learning Link" in text
-    assert "SKIP column 'Ranking (QS)'" in text and "NO LINK for Programs!3 Nowhere College" in text
+    assert "SKIP column 'Confidence'" in text and "NO LINK for Programs!3 Nowhere College" in text
     assert "FETCH https://alpha.edu/" in text
     report = json.loads((logs / "report.json").read_text())
     assert report["context"]["cycle"] == "2026-2027 academic year"
@@ -249,12 +253,12 @@ def test_cli_leaves_unverified_fields_blank_and_supports_sheet_and_limit(monkeyp
     monkeypatch.setattr(cli, "research_college", lambda *a: calls.append(a) or (
         {"Tuition Per Credit": {"value": None, "status": "conflict-unresolved", "source": None, "quote": None, "candidates": []}},
         {"visited": [], "unreadable": [], "rejected": {}}))
-    monkeypatch.setattr(sys, "argv", ["prog", str(src), "--cycle", "c", "--sheet", "Programs", "--limit", "1"])
+    monkeypatch.setattr(sys, "argv", ["prog", str(src), "--cycle", "c", "--sheet", "Programs", "--limit", "1", "--leave-blank"])
     cli.main()
     assert len(calls) == 1
     assert load_workbook(tmp_path / "in_filled.xlsx")["Programs"]["E2"].value is None
     assert "LEFT BLANK Programs!2 'Tuition Per Credit': conflict-unresolved" in (tmp_path / "in_logs" / "run.log").read_text()
-    assert "1 researched field(s) left blank" in capsys.readouterr().out
+    assert "4 researched field(s) left blank" in capsys.readouterr().out  # school, tuition, experiential, ranking
 
 
 def test_fetch_logs_every_link_and_saves_page_text(monkeypatch, tmp_path, caplog):
@@ -341,3 +345,153 @@ def test_apply_links_fills_blank_cells_only_and_rejects_bad_links(monkeypatch, t
     assert load_workbook(tmp_path / "in_before_links.xlsx")["Programs"]["D2"].value is None
     text = (tmp_path / "in_logs" / "apply_links.log").read_text()
     assert "REJECTED (HTTP 404)" in text and "NOT WRITTEN (low confidence)" in text
+
+
+def test_cli_fills_every_cell_no_matter_what(monkeypatch, tmp_path, clean_logging):
+    src = tmp_path / "in.xlsx"
+    _workbook(src)
+    wb = load_workbook(src)
+    wb["Programs"].title = "Online Programs"
+    wb.create_sheet("Residential").append(HEADERS)
+    wb["Residential"].append(["Res U", None, "MS", "https://res.edu/", None, None, None, None, None])
+    wb["Online Programs"].append(["Colleges not ranked on US news as of 09/07/25", None, None, None, None, None, None, None, None])
+    wb.save(src)
+    monkeypatch.setitem(colleges._INDEX, ("Online Programs", "alpha u", ""), ["https://alpha.edu/", "https://alpha.edu/ms"])
+    calls = []
+    cand = {"value": "$510", "quote": "Tuition $510 per credit.", "cycle_match": "unstated", "program_match": "target",
+            "url": "https://alpha.edu/cost", "model": "claude"}
+
+    def fake_research(college, urls, fields, ctx, *rest):
+        calls.append((college, urls))
+        return ({"School / College Name": {"value": "Alpha School", "status": "single-source", "source": "https://alpha.edu/",
+                                           "quote": "Alpha School", "candidates": [], "verified_by": "claude", "model": "claude"},
+                 "Tuition Per Credit": {"value": None, "status": "unverified-cycle", "source": None, "quote": None,
+                                        "candidates": [cand], "verify_rejected": []},
+                 "Experiential Learning (Yes/No)": {"value": None, "status": "not-found", "source": None, "quote": None,
+                                                    "candidates": []}},
+                {"visited": ["https://alpha.edu/"], "unreadable": [], "rejected": {}})
+
+    monkeypatch.setattr(cli, "research_college", fake_research)
+    monkeypatch.setattr(sys, "argv", ["prog", str(src), "--online"])
+    cli.main()
+    assert calls == [("ALPHA U - WEST LAFAYETTE", ["https://alpha.edu/", "https://alpha.edu/ms"])]  # every known link, online only
+    out = load_workbook(tmp_path / "in_filled.xlsx")
+    row = [c.value for c in out["Online Programs"][2]]
+    assert row == ["ALPHA U - WEST LAFAYETTE", "Alpha School", "MS Supply Chain", "https://alpha.edu/", "UNVERIFIED: $510",
+                   cli.NOT_FOUND, cli.NOT_FOUND, cli.NOT_FOUND, cli.NOT_PUBLISHED]
+    assert "verified by claude" in out["Online Programs"]["B2"].comment.text
+    assert "NOT VERIFIED" in out["Online Programs"]["E2"].comment.text
+    assert "https://alpha.edu/" in out["Online Programs"]["F2"].comment.text  # pages checked
+    assert [c.value for c in out["Online Programs"][3]][1:] == [cli.NO_LINK, None] + [cli.NO_LINK] * 5 + [cli.NOT_PUBLISHED]
+    assert [c.value for c in out["Online Programs"][4]][1:] == [None] * 8  # note row untouched
+    assert out["Residential"]["E2"].value is None
+
+    # Placeholders count as blank, so a rerun with --retry-unfilled researches them again.
+    calls.clear()
+    monkeypatch.setattr(sys, "argv", ["prog", str(tmp_path / "in_filled.xlsx"), "--online", "--inplace", "--retry-unfilled"])
+    cli.main()
+    assert len(calls) == 1
+
+
+@pytest.mark.parametrize("text,deadline,why", [
+    ("2026-2027 tuition is $1,200 per credit.", False, None),
+    ("Tuition for 2026-27: $1,200.", False, None),
+    ("Tuition is $1,200 per credit.", False, None),
+    ("2025-2026 tuition is $1,150.", False, "names academic year 2025-2026"),
+    ("2027-28 rates: $1,300.", False, "names academic year 2027-2028"),
+    ("Fall 2026 deadline: June 1, 2026.", True, None),
+    ("Spring 2027 start: apply by November 15, 2026.", True, None),
+    ("Fall 2027 priority deadline: January 15, 2027.", True, "names term Fall 2027"),
+    ("Summer 2026 start.", False, "names term Summer 2026"),
+    ("Round 1: October 15, 2025.", True, None),          # deadlines precede the cycle
+    ("Average GMAT 640 (Fall 2024 profile).", False, "names term Fall 2024"),
+    ("Class of 2025 average GPA 3.4.", False, "names class of 2025"),
+    ("Class of 2028 average GPA 3.4.", False, None),
+    ("Ranked #5 in 2025 U.S. News.", False, "names year 2025"),
+    ("Ranked #5 in 2026 Best Online Programs.", False, None),
+])
+def test_only_the_2026_2027_cycle_passes(text, deadline, why):
+    ctx = agent.Context(date(2026, 9, 24), cli.DEFAULT_CYCLE, "Online MBA")
+    assert ctx.academic_years == (2026, 2027)
+    assert ctx.cycle_violation(text, deadline) == why
+
+
+def test_off_cycle_quote_is_rejected_even_if_the_model_says_exact(monkeypatch):
+    ctx = agent.Context(date(2026, 9, 24), cli.DEFAULT_CYCLE, "Online MBA")
+    page = "Tuition 2025-2026: $1,150 per credit. Credits: 36 total."
+    script(monkeypatch, {"https://x.edu/": (page, [])}, {"https://x.edu/": {"found": [
+        finding("Tuition", "$1,150", "Tuition 2025-2026: $1,150 per credit."),
+        finding("Credits", "36", "Credits: 36 total.", cycle="unstated")], "next_urls": []}})
+    results, meta = agent.research_college("X", ["https://x.edu/"], ["Tuition", "Credits"], ctx)
+    assert results["Tuition"]["status"] == "not-found"
+    assert meta["rejected"] == {"off-cycle (names academic year 2025-2026)": 1}
+
+
+def test_claude_takes_over_what_rcac_missed_and_each_model_verifies_its_own_values(monkeypatch):
+    ctx = agent.Context(date(2026, 9, 24), cli.DEFAULT_CYCLE, "Online MBA")
+    page = "Fall 2026 tuition: $1,200 per credit. The program is 36 credit hours. Deposit $500."
+    monkeypatch.setattr(agent, "fetch", lambda url: Page(page + PAD, [], ""))
+    asked = []
+
+    def model(name, found):
+        def call(prompt):
+            asked.append((name, "VERIFY" if "Check one value" in prompt else "EXTRACT"))
+            if "Check one value" in prompt:
+                bad = "Extracted value: $999" in prompt
+                return json.dumps({"verdict": "incorrect" if bad else "correct", "failed_check": 2 if bad else None,
+                                   "corrected_value": "", "reason": "r"})
+            return json.dumps({"found": found, "next_urls": []})
+        return call
+
+    monkeypatch.setattr(agent, "call_rcac", model("rcac", [
+        finding("Tuition", "$1,200", "Fall 2026 tuition: $1,200 per credit.")]))
+    monkeypatch.setattr(agent, "call_claude", model("claude", [
+        finding("Credits", "36", "The program is 36 credit hours.", cycle="exact"),
+        finding("Deposit", "$999", "Deposit $500.")]))  # digits not in quote -> rejected in code
+    results, meta = agent.research_college("X", ["https://x.edu/"], ["Tuition", "Credits", "Deposit"], ctx,
+                                           models=("rcac", "claude"), verify=True)
+    assert (results["Tuition"]["value"], results["Tuition"]["verified_by"]) == ("$1,200", "rcac")
+    assert (results["Credits"]["value"], results["Credits"]["verified_by"]) == ("36", "claude")
+    assert results["Deposit"]["status"] == "not-found"
+    assert ("rcac", "VERIFY") in asked and ("claude", "VERIFY") in asked
+    assert asked.index(("claude", "EXTRACT")) > asked.index(("rcac", "VERIFY"))  # Claude only after RCAC finished
+    assert meta["models"] == {"rcac": "ok", "claude": "ok"}
+
+
+def test_verifier_rejection_drops_the_value_and_rcac_outage_hands_over_to_claude(monkeypatch):
+    ctx = agent.Context(date(2026, 9, 24), cli.DEFAULT_CYCLE, "Online MBA")
+    page = "Application fee $75 for international applicants. Application fee $60."
+    monkeypatch.setattr(agent, "fetch", lambda url: Page(page + PAD, [], ""))
+
+    def down(prompt):
+        raise RuntimeError("RCAC API failed after retries")
+
+    def claude_call(prompt):
+        if "Check one value" in prompt:
+            bad = "Extracted value: $75" in prompt
+            return json.dumps({"verdict": "incorrect" if bad else "correct", "reason": "international only" if bad else "ok"})
+        if "Pick the candidate" in prompt:
+            return json.dumps({"choice": 1, "reason": "r"})
+        return json.dumps({"found": [finding("Fee", "$75", "Application fee $75 for international applicants."),
+                                     finding("Fee", "$60", "Application fee $60.")], "next_urls": []})
+
+    monkeypatch.setattr(agent, "call_rcac", down)
+    monkeypatch.setattr(agent, "call_claude", claude_call)
+    results, meta = agent.research_college("X", ["https://x.edu/"], ["Fee"], ctx, models=("rcac", "claude"), verify=True)
+    assert meta["models"]["rcac"].startswith("down")
+    assert (results["Fee"]["value"], results["Fee"]["status"], results["Fee"]["verified_by"]) == ("$60", "single-source", "claude")
+    assert [c["value"] for c in results["Fee"]["verify_rejected"]] == ["$75"]
+    assert agent.best_effort(results["Fee"])[0] == "$60"
+
+
+def test_field_guide_is_loaded_into_prompts_and_link_keywords(monkeypatch):
+    assert "Fall 2026" in skills.cycle_rules()
+    assert "per credit hour for in-state" in skills.field_hint("In-State Tuition Per Credit")
+    assert "out-of-state" in skills.field_hint("Out-of-State Tuition Per Credit").casefold()
+    assert "Yes" in skills.field_hint("Deposit Required?") and "$500" in skills.field_hint("Deposit")
+    assert "three-year" in skills.field_hint("Accept 3yr-degree from India? (Y/N)")
+    assert {"tuition", "bursar"} <= skills.field_keywords(["International Tuition Total", "In-State Tuition Per Credit"])
+    ctx = agent.Context(date(2026, 9, 24), cli.DEFAULT_CYCLE, "Online MBA")
+    prompts = script(monkeypatch, {"https://x.edu/": ("x", [])}, {"https://x.edu/": {"found": [], "next_urls": []}})
+    agent.research_college("X", ["https://x.edu/"], ["Average GMAT"], ctx)
+    assert "Average (mean) GMAT" in prompts[0] and "2026-2027 academic year ONLY" in prompts[0]

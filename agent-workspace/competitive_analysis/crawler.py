@@ -16,7 +16,10 @@ PAGE_DIR: Path | None = None  # when set, the full text of every fetched page is
 HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; competitive-analysis-agent)"}
 MIN_READABLE = 200  # fewer characters than this usually means a JavaScript-rendered page
 USE_BROWSER = os.environ.get("BH_FETCH") == "1"  # retry pages requests can't read through browser-harness
-STATS = {"requests": 0, "browser_rescued": 0, "browser_failed": 0}
+BROWSER_GIVE_UP = 5  # browser-first falls back to plain HTTP if the browser never worked on this many pages
+BROWSER_FIRST = False  # --fetch browser: render every page in the real browser, plain HTTP only as fallback
+TAB_MARKER = "\U0001f434 "
+STATS = {"requests": 0, "browser": 0, "browser_rescued": 0, "browser_failed": 0}
 SKIP_EXT = (".pdf", ".jpg", ".jpeg", ".png", ".gif", ".svg", ".zip", ".doc", ".docx",
             ".xls", ".xlsx", ".ppt", ".pptx", ".mp4", ".mp3")
 
@@ -111,7 +114,7 @@ def _via_browser(url: str) -> tuple[str, str, str] | None:
     if not final.startswith(("http://", "https://")):  # chrome-error:// etc.
         log.warning("BROWSER FETCH FAILED %s: browser error page %s", url, final)
         return None
-    return html, final, ""
+    return html.replace(TAB_MARKER, ""), final, ""  # the harness prefixes tab titles with a marker
 
 
 def _parse(html: str, url: str, last_modified: str) -> Page:
@@ -134,23 +137,40 @@ def _parse(html: str, url: str, last_modified: str) -> Page:
 
 
 def fetch(url: str, timeout: int = 20) -> Page | None:
-    """An HTML page, or None if it can't be fetched or isn't HTML. With BH_FETCH=1, pages requests
-    cannot fetch or that hold almost no text are retried in a real browser via browser-harness."""
+    """An HTML page, or None if it can't be fetched or isn't HTML. With BROWSER_FIRST every page is rendered in the
+    real browser via browser-harness (plain HTTP if that fails); with BH_FETCH=1, pages plain HTTP cannot fetch or
+    that hold almost no text are retried in the browser."""
+    global BROWSER_FIRST
     log.info("FETCH %s", url)
-    got = _via_requests(url, timeout)
-    page = _parse(*got) if got else None
-    if USE_BROWSER and (page is None or len(page.text) < MIN_READABLE):
-        log.info("  retrying in the browser (%s)", "requests failed" if page is None else f"only {len(page.text)} chars")
-        rendered = _via_browser(url)
-        rescued = _parse(*rendered) if rendered else None
-        if rescued and len(rescued.text) >= MIN_READABLE:
-            STATS["browser_rescued"] += 1
-            log.info("  BROWSER RESCUED %s: %d chars", url, len(rescued.text))
-            page, got = rescued, rendered
+    got = page = None
+    if BROWSER_FIRST:
+        got = _via_browser(url)
+        page = _parse(*got) if got else None
+        if page and len(page.text) >= MIN_READABLE:
+            STATS["browser"] += 1
         else:
             STATS["browser_failed"] += 1
-    elif got:
-        STATS["requests"] += 1
+            if STATS["browser"] == 0 and STATS["browser_failed"] >= BROWSER_GIVE_UP:
+                BROWSER_FIRST = False
+                log.error("Browser-harness failed on the first %d pages and never worked; continuing with plain HTTP. "
+                          "Check ./browser-harness --doctor", BROWSER_GIVE_UP)
+            log.info("  browser gave %s; falling back to plain HTTP", "nothing" if page is None else f"{len(page.text)} chars")
+            got = page = None
+    if page is None:
+        got = _via_requests(url, timeout)
+        page = _parse(*got) if got else None
+        if USE_BROWSER and not BROWSER_FIRST and (page is None or len(page.text) < MIN_READABLE):
+            log.info("  retrying in the browser (%s)", "requests failed" if page is None else f"only {len(page.text)} chars")
+            rendered = _via_browser(url)
+            rescued = _parse(*rendered) if rendered else None
+            if rescued and len(rescued.text) >= MIN_READABLE:
+                STATS["browser_rescued"] += 1
+                log.info("  BROWSER RESCUED %s: %d chars", url, len(rescued.text))
+                page, got = rescued, rendered
+            else:
+                STATS["browser_failed"] += 1
+        elif got:
+            STATS["requests"] += 1
     if page is None:
         return None
     text = page.text

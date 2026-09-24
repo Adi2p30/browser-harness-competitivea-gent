@@ -31,6 +31,13 @@ def _api_key() -> str:
         raise RuntimeError("Set RCAC_API_KEY in the environment or in .env") from None
 
 
+def available() -> bool:
+    try:
+        return bool(_api_key())
+    except RuntimeError:
+        return False
+
+
 LLM_LOG_LOCK = threading.Lock()  # concurrent colleges share one llm.jsonl
 
 

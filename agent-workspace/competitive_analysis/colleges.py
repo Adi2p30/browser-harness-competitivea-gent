@@ -278,6 +278,19 @@ COLLEGE_LINKS: dict[tuple[str, str, str], list[str]] = {
     ('Online MSGSCM', 'university of st. francis', 'mba with supply chain concentration'): ['https://stfrancis.edu/mba/'],
     ('Online MSGSCM', 'university of tenessee-knoxville', ''): ['https://volsonline.utk.edu/program/masters/supply-chain-management-ms/'],
     ('Online MSGSCM', 'university of tenessee-knoxville', 'master’s degree in supply chain management'): ['https://volsonline.utk.edu/program/masters/supply-chain-management-ms/'],
+    # From research/link_discovery (high confidence; the automated reachability check had rejected it).
+    ('Online MS Economics', 'university of maryland-college park', ''): ['https://masters.econ.umd.edu/online-program/'],
+}
+
+# Rows whose university offers no online version of the program (research/link_discovery, 2026-09-19).
+# The run fills these rows with "No online program offered" and puts the note in the cell comment.
+NO_ONLINE_PROGRAM: dict[tuple[str, str], str] = {
+    ('Online MBA', 'georgia institute of technology'): 'Scheller College of Business offers Full-time, Evening and Executive MBAs; no fully online MBA.',
+    ('Online MBA', 'university of california-san diego'): 'Rady offers Full-Time, FlexEvening and FlexWeekend (hybrid) MBAs; no fully online MBA.',
+    ('Online MS Business Analytics', 'university of california-los angeles'): "UCLA Anderson's MSBA is a 15-month full-time on-campus program; no online format.",
+    ('Online MS Business Analytics', 'university of california-san diego'): 'Rady MSBA is full-time on campus (FlexWeekend is in person); no online format.',
+    ('Online MS Economics', 'duke university'): 'No online MS in Economics at Duke; its economics master\'s programs are on campus.',
+    ('Online MS Economics', 'pennsylvania state university'): 'No online MS in Economics at Penn State; residential MA/PhD in Economics only.',
 }
 
 
@@ -292,6 +305,10 @@ def _norm(s) -> str:
 _INDEX: dict[tuple[str, str, str], list[str]] = {}
 for (_sheet, _college, _program), _urls in COLLEGE_LINKS.items():
     _INDEX.setdefault((_sheet, _norm(_college), _norm(_program)), _urls)
+
+
+def no_online_program(sheet: str, college: str) -> str | None:
+    return next((note for (sh, c), note in NO_ONLINE_PROGRAM.items() if sh == sheet and _norm(c) == _norm(college)), None)
 
 
 def links_for(sheet: str, college: str, program: str = "") -> list[str]:
