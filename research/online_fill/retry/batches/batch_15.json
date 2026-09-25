@@ -1,0 +1,221 @@
+[
+ {
+  "job": "https://www.uu.edu/programs/business/graduate/mba/human-resource/",
+  "college": "UNION UNIVERSITY",
+  "start_urls": [
+   "https://www.uu.edu/programs/business/graduate/mba/human-resource/"
+  ],
+  "rows": [
+   {
+    "sheet": "Online MS HRM",
+    "row": 9,
+    "program": "BUSINESS ADMINISTRATION",
+    "fields": [
+     "Average GMAT",
+     "Average GRE",
+     "Average Undergraduate GPA",
+     "Work Experience (Month)",
+     "Average Student Age",
+     "Class Size",
+     "International (%)",
+     "Female (%)",
+     "Accept Rate",
+     "On-Campus Options",
+     "Deadline Date(s)",
+     "Affinity Groups (Yes/No)",
+     "Affinity Groups (brief description)",
+     "Accept 3yr-degree from India? (Y/N)",
+     "Career Coaching/Consulting Services Offered? (Yes/No)",
+     "Out-of-State Tuition Per Credit",
+     "International Tuition Per Credit",
+     "In-State Tuition Total",
+     "Out-of-State Tuition Total",
+     "International Tuition Total",
+     "Scholarship",
+     "Deposit",
+     "Ranking (U.S. News)",
+     "Ranking (Best-Masters.com)",
+     "Ranking (QS)",
+     "Job Placement %",
+     "Average Post-Grad Salary",
+     "Average Post-Grad Bonus"
+    ],
+    "link_columns": [
+     "Affinity Groups Link",
+     "Career Coaching/Consulting Services Offered? (Link)"
+    ],
+    "first_pass": {
+     "Average GMAT": "not found for 2026-2027 | Searched uu.edu for Union MBA class profile (GMAT/GRE/GPA/experience/age/class size/international/women/acceptance); no class profile published.",
+     "Average GRE": "not found for 2026-2027 | Searched uu.edu for Union MBA class profile (GMAT/GRE/GPA/experience/age/class size/international/women/acceptance); no class profile published.",
+     "Average Undergraduate GPA": "not found for 2026-2027 | Searched uu.edu for Union MBA class profile (GMAT/GRE/GPA/experience/age/class size/international/women/acceptance); no class profile published.",
+     "Work Experience (Month)": "not found for 2026-2027 | Searched uu.edu for Union MBA class profile (GMAT/GRE/GPA/experience/age/class size/international/women/acceptance); no class profile published.",
+     "Average Student Age": "not found for 2026-2027 | Searched uu.edu for Union MBA class profile (GMAT/GRE/GPA/experience/age/class size/international/women/acceptance); no class profile published.",
+     "Class Size": "not found for 2026-2027 | Searched uu.edu for Union MBA class profile (GMAT/GRE/GPA/experience/age/class size/international/women/acceptance); no class profile published.",
+     "International (%)": "not found for 2026-2027 | Searched uu.edu for Union MBA class profile (GMAT/GRE/GPA/experience/age/class size/international/women/acceptance); no class profile published.",
+     "Female (%)": "not found for 2026-2027 | Searched uu.edu for Union MBA class profile (GMAT/GRE/GPA/experience/age/class size/international/women/acceptance); no class profile published.",
+     "Accept Rate": "not found for 2026-2027 | Searched uu.edu for Union MBA class profile (GMAT/GRE/GPA/experience/age/class size/international/women/acceptance); no class profile published.",
+     "On-Campus Options": "not found for 2026-2027 | Searched uu.edu MBA pages; only 'Courses are offered in an 8-week format 100% online' found, no statement on on-campus options for online students.",
+     "Deadline Date(s)": "not found for 2026-2027 | Searched uu.edu 'MBA application deadline 2026'; only start months (August, October, January, March, June) given, no deadline dates.",
+     "Affinity Groups (Yes/No)": "not found for 2026-2027 | Searched uu.edu student organizations; campus groups (International Students Union, Fusion) found but none stated as open to online MBA students.",
+     "Affinity Groups (brief description)": "not found for 2026-2027 | Searched uu.edu student organizations; no affinity groups stated for online MBA students.",
+     "Accept 3yr-degree from India? (Y/N)": "not found for 2026-2027 | Searched uu.edu international graduate admission / three-year degree India; only NACES evaluation requirement found, no statement on 3-year degrees.",
+     "Career Coaching/Consulting Services Offered? (Yes/No)": "candidate 'Yes' rejected by verifier: Check 3: Vocatio Center coaching is a university-wide student-life service and no page found ties it to this MBA or its online students.\nhttps://www.uu.edu/studentlife/vocatio-center/students/career-counseling/\n\"the center offers gifts assessment and career coun",
+     "Out-of-State Tuition Per Credit": "not found for 2026-2027 | HR MBA page states one rate ($772/credit hour, 2026-2027) without stating it applies regardless of residency.",
+     "International Tuition Per Credit": "not found for 2026-2027 | HR MBA page states one rate ($772/credit hour, 2026-2027) without stating it applies to international students.",
+     "In-State Tuition Total": "not found for 2026-2027 | Searched uu.edu MBA tuition 2026-2027; only per-credit rate stated, no program total.",
+     "Out-of-State Tuition Total": "not found for 2026-2027 | Searched uu.edu MBA tuition 2026-2027; only per-credit rate stated, no program total.",
+     "International Tuition Total": "not found for 2026-2027 | Searched uu.edu MBA tuition 2026-2027; only per-credit rate stated, no program total.",
+     "Scholarship": "not found for 2026-2027 | Searched uu.edu MBA scholarship; only employer tuition reimbursement, FAFSA aid and VA benefits mentioned, no named scholarship.",
+     "Deposit": "not found for 2026-2027 | Searched uu.edu MBA enrollment deposit; none found.",
+     "Ranking (U.S. News)": "not found for 2026-2027 | Searched uu.edu MBA ranking U.S. News; only Best Value Schools (2020) and Best College Reviews (2017) rankings found.",
+     "Ranking (Best-Masters.com)": "not found for 2026-2027 | Searched uu.edu MBA rankings; no Best-Masters ranking cited.",
+     "Ranking (QS)": "not found for 2026-2027 | Searched uu.edu MBA rankings; no QS ranking cited.",
+     "Job Placement %": "not found for 2026-2027 | Searched uu.edu MBA outcomes; no employment report published.",
+     "Average Post-Grad Salary": "not found for 2026-2027 | Searched uu.edu MBA outcomes; no employment report published.",
+     "Average Post-Grad Bonus": "not found for 2026-2027 | Searched uu.edu MBA outcomes; no employment report published.",
+     "Affinity Groups Link": "not found for 2026-2027 | No page found proving affinity groups for online MBA students.",
+     "Career Coaching/Consulting Services Offered? (Link)": "candidate 'https://www.uu.edu/studentlife/vocatio-center/students/career-counseling/' rejected by verifier: Check 3: the link is a university-wide student-life page not tied to this program or its online students.\nhttps://www.uu.edu/studentlife/vocatio-center/students/career-counseling/\n\"the center "
+    }
+   }
+  ]
+ },
+ {
+  "job": "https://online.ou.edu/program/ma-in-organizational-leadership/",
+  "college": "UNIVERSITY OF OKLAHOMA",
+  "start_urls": [
+   "https://online.ou.edu/program/ma-in-organizational-leadership/"
+  ],
+  "rows": [
+   {
+    "sheet": "Online MS HRM",
+    "row": 12,
+    "program": "ORGANIZATIONAL LEADERSHIP OL",
+    "fields": [
+     "Average GMAT",
+     "Average GRE",
+     "Average Undergraduate GPA",
+     "Work Experience (Month)",
+     "Average Student Age",
+     "Class Size",
+     "International (%)",
+     "Female (%)",
+     "Accept Rate",
+     "On-Campus Options",
+     "Experiential Learning Courses / Opportunities (brief description)",
+     "Out-of-State Tuition Per Credit",
+     "International Tuition Per Credit",
+     "Out-of-State Tuition Total",
+     "International Tuition Total",
+     "Scholarship",
+     "Ranking (U.S. News)",
+     "Ranking (Best-Masters.com)",
+     "Ranking (QS)",
+     "Job Placement %",
+     "Average Post-Grad Salary",
+     "Average Post-Grad Bonus"
+    ],
+    "link_columns": [],
+    "first_pass": {
+     "Average GMAT": "not found for 2026-2027 | Searched ou.edu for MA Organizational Leadership class profile; none published (No GRE required).",
+     "Average GRE": "not found for 2026-2027 | Searched ou.edu for MA Organizational Leadership class profile; none published (No GRE required).",
+     "Average Undergraduate GPA": "not found for 2026-2027 | Searched ou.edu for MA Organizational Leadership class profile; none published (No GRE required).",
+     "Work Experience (Month)": "not found for 2026-2027 | Searched ou.edu for MA Organizational Leadership class profile; none published (No GRE required).",
+     "Average Student Age": "not found for 2026-2027 | Searched ou.edu for MA Organizational Leadership class profile; none published (No GRE required).",
+     "Class Size": "not found for 2026-2027 | Searched ou.edu for MA Organizational Leadership class profile; none published (No GRE required).",
+     "International (%)": "not found for 2026-2027 | Searched ou.edu for MA Organizational Leadership class profile; none published (No GRE required).",
+     "Female (%)": "not found for 2026-2027 | Searched ou.edu for MA Organizational Leadership class profile; none published (No GRE required).",
+     "Accept Rate": "not found for 2026-2027 | Searched ou.edu for MA Organizational Leadership class profile; none published (No GRE required).",
+     "On-Campus Options": "not found for 2026-2027 | Searched ou.edu MA Organizational Leadership residency/on-campus; program described as fully online, no on-campus option stated.",
+     "Experiential Learning Courses / Opportunities (brief description)": "NOT VERIFIED - review | The program page confirms hands-on, real-world learning, but a search could not confirm the capstone course claim.\nhttps://online.ou.edu/program/ma-in-organizational-leadership/\n\"The program includes a capstone course as part of the 30 credit hour requirement.\" (no year state",
+     "Out-of-State Tuition Per Credit": "not found for 2026-2027 | Program page states one rate ($845/credit hour) without stating it applies regardless of residency.",
+     "International Tuition Per Credit": "not found for 2026-2027 | Program page states one rate ($845/credit hour) without stating it applies to international students.",
+     "Out-of-State Tuition Total": "not found for 2026-2027 | Program page states one total ($25,350) without stating it applies regardless of residency.",
+     "International Tuition Total": "not found for 2026-2027 | Program page states one total ($25,350) without stating it applies to international students.",
+     "Scholarship": "NOT VERIFIED - review | The PACS tuition page gives $300-$1,500 per semester, but the PACS scholarship pages say $500-$1,900 per semester, so the current amount is unclear.\nhttps://pacs.ou.edu/tuition-financial-aid/\n\"The College of Professional and Continuing Studies' degree seeking students can app",
+     "Ranking (U.S. News)": "not found for 2026-2027 | Searched ou.edu 'OU Online ranked U.S. News 2026'; no 2026/2027 ranking cited for MA Organizational Leadership.",
+     "Ranking (Best-Masters.com)": "not found for 2026-2027 | Searched ou.edu; no Best-Masters ranking cited.",
+     "Ranking (QS)": "not found for 2026-2027 | Searched ou.edu; no QS ranking cited.",
+     "Job Placement %": "not found for 2026-2027 | Searched ou.edu MA Organizational Leadership outcomes; no employment report published.",
+     "Average Post-Grad Salary": "not found for 2026-2027 | Searched ou.edu MA Organizational Leadership outcomes; no employment report published.",
+     "Average Post-Grad Bonus": "not found for 2026-2027 | Searched ou.edu MA Organizational Leadership outcomes; no employment report published."
+    }
+   }
+  ]
+ },
+ {
+  "job": "https://www.bu.edu/questrom/graduate-programs/mba-programs/online-mba/",
+  "college": "BOSTON UNIVERSITY",
+  "start_urls": [
+   "https://www.bu.edu/questrom/graduate-programs/mba-programs/online-mba/"
+  ],
+  "rows": [
+   {
+    "sheet": "Online MBA",
+    "row": 3,
+    "program": "BUSINESS ADMINISTRATION AND MANAGEMENT",
+    "fields": [
+     "Average GMAT",
+     "Average GRE",
+     "Average Undergraduate GPA",
+     "Work Experience (Month)",
+     "Average Student Age",
+     "Class Size",
+     "International (%)",
+     "Female (%)",
+     "Accept Rate(%)",
+     "Total Enrollment",
+     "Experiential Learning Courses / Opportunities (brief description)",
+     "Affinity Groups (Yes/No)",
+     "Affinity Groups (brief description)",
+     "Accept 3yr-degree from India? (Y/N)",
+     "In-State Tuition Per Credit",
+     "Out-of-State Tuition Per Credit",
+     "International Tuition Per Credit",
+     "Out-of-State Tuition Total",
+     "International Tuition Total",
+     "Deposit",
+     "Ranking (U.S. News)",
+     "Ranking (Best-Masters.com)",
+     "Ranking (QS)",
+     "Job Placement %",
+     "Average Post-Grad Salary",
+     "Average Post-Grad Bonus"
+    ],
+    "link_columns": [
+     "Experiential Learning Courses / Opportunities Link",
+     "Affinity Groups Link"
+    ],
+    "first_pass": {
+     "Average GMAT": "not found for 2026-2027 | Searched Questrom Online MBA class profile; profile shown only for Fall 2025 and Spring 2026 classes (previous cycle), no Fall 2026/Spring 2027 data; no GMAT/GRE/GPA averages.",
+     "Average GRE": "not found for 2026-2027 | Searched Questrom Online MBA class profile; profile shown only for Fall 2025 and Spring 2026 classes (previous cycle), no Fall 2026/Spring 2027 data; no GMAT/GRE/GPA averages.",
+     "Average Undergraduate GPA": "not found for 2026-2027 | Searched Questrom Online MBA class profile; profile shown only for Fall 2025 and Spring 2026 classes (previous cycle), no Fall 2026/Spring 2027 data; no GMAT/GRE/GPA averages.",
+     "Work Experience (Month)": "not found for 2026-2027 | Searched Questrom Online MBA class profile; profile shown only for Fall 2025 and Spring 2026 classes (previous cycle), no Fall 2026/Spring 2027 data; no GMAT/GRE/GPA averages.",
+     "Average Student Age": "not found for 2026-2027 | Searched Questrom Online MBA class profile; profile shown only for Fall 2025 and Spring 2026 classes (previous cycle), no Fall 2026/Spring 2027 data; no GMAT/GRE/GPA averages.",
+     "Class Size": "not found for 2026-2027 | Searched Questrom Online MBA class profile; profile shown only for Fall 2025 and Spring 2026 classes (previous cycle), no Fall 2026/Spring 2027 data; no GMAT/GRE/GPA averages.",
+     "International (%)": "not found for 2026-2027 | Searched Questrom Online MBA class profile; profile shown only for Fall 2025 and Spring 2026 classes (previous cycle), no Fall 2026/Spring 2027 data; no GMAT/GRE/GPA averages.",
+     "Female (%)": "not found for 2026-2027 | Searched Questrom Online MBA class profile; profile shown only for Fall 2025 and Spring 2026 classes (previous cycle), no Fall 2026/Spring 2027 data; no GMAT/GRE/GPA averages.",
+     "Accept Rate(%)": "not found for 2026-2027 | Searched Questrom Online MBA class profile; profile shown only for Fall 2025 and Spring 2026 classes (previous cycle), no Fall 2026/Spring 2027 data; no GMAT/GRE/GPA averages.",
+     "Total Enrollment": "not found for 2026-2027 | Class profile gives enrollment only for Fall 2025 (652) and Spring 2026 (617) cohorts as of January 2026 - previous cycle.",
+     "Experiential Learning Courses / Opportunities (brief description)": "candidate 'Action Learning courses with a real client component applying classroom knowledge to real-world scenarios' rejected by verifier: Check 3: the Action Learning real-client description comes from a school-wide page and no page found ties those courses to the Online MBA.\nhttps://www.bu.edu/qu",
+     "Affinity Groups (Yes/No)": "not found for 2026-2027 | OMBA identity groups (Parents/Women/Black Students/PRIDE in OMBA) appear only in the Spring 2026 / Fall 2025 welcome packet PDFs (previous cycle); no current HTML page found.",
+     "Affinity Groups (brief description)": "not found for 2026-2027 | See Affinity Groups (Yes/No): only Spring 2026 / Fall 2025 welcome packet PDFs.",
+     "Accept 3yr-degree from India? (Y/N)": "not found for 2026-2027 | Searched bu.edu Questrom three-year degree India; statement found only for Master in Management program, not the Online MBA.",
+     "In-State Tuition Per Credit": "not found for 2026-2027 | Tuition stated only per module ($4,167) and total; no per-credit rate.",
+     "Out-of-State Tuition Per Credit": "not found for 2026-2027 | Tuition stated only per module ($4,167) and total; no per-credit rate.",
+     "International Tuition Per Credit": "not found for 2026-2027 | Tuition stated only per module ($4,167) and total; no per-credit rate.",
+     "Out-of-State Tuition Total": "not found for 2026-2027 | Admissions page states one total ($25,000, Fall 2026 starters) without stating it applies regardless of residency.",
+     "International Tuition Total": "not found for 2026-2027 | Admissions page states one total ($25,000, Fall 2026 starters) without stating it applies to international students.",
+     "Deposit": "not found for 2026-2027 | Searched Questrom Online MBA deposit; $2,000 amount found only for Full-Time MBA, no Online MBA amount stated.",
+     "Ranking (U.S. News)": "not found for 2026-2027 | Searched bu.edu and usnews.com for Questrom Online MBA 2026 ranking; only Part-Time MBA (#29) and Best Business Schools (#46) cited.",
+     "Ranking (Best-Masters.com)": "not found for 2026-2027 | Searched bu.edu; no Best-Masters ranking cited.",
+     "Ranking (QS)": "not found for 2026-2027 | Searched bu.edu; no QS ranking cited for Online MBA.",
+     "Job Placement %": "not found for 2026-2027 | Searched bu.edu Online MBA outcomes; no employment report for Online MBA.",
+     "Average Post-Grad Salary": "not found for 2026-2027 | Searched bu.edu Online MBA outcomes; no employment report for Online MBA.",
+     "Average Post-Grad Bonus": "not found for 2026-2027 | Searched bu.edu Online MBA outcomes; no employment report for Online MBA.",
+     "Experiential Learning Courses / Opportunities Link": "candidate 'https://www.bu.edu/questrom/graduate-programs/experiential-learning/' rejected by verifier: Check 3: the linked page is school-wide Action Learning and does not describe the Online MBA's opportunities.\nhttps://www.bu.edu/questrom/graduate-programs/experiential-learning/\n\"Experiential lear",
+     "Affinity Groups Link": "not found for 2026-2027 | No current HTML page found proving OMBA affinity groups."
+    }
+   }
+  ]
+ }
+]

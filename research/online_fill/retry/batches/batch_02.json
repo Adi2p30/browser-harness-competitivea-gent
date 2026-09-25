@@ -1,0 +1,217 @@
+[
+ {
+  "job": "https://kelley.iu.edu/programs/executive-education-degrees-certificates/online-masters-degrees/business-analytics/index.html",
+  "college": "INDIANA UNIVERSITY INDIANAPOLIS",
+  "start_urls": [
+   "https://kelley.iu.edu/programs/executive-education-degrees-certificates/online-masters-degrees/business-analytics/index.html"
+  ],
+  "rows": [
+   {
+    "sheet": "Online MS Business Analytics",
+    "row": 5,
+    "program": "MANAGEMENT BSB",
+    "fields": [
+     "Location - City",
+     "Average GMAT",
+     "Average GRE",
+     "Average Undergraduate GPA",
+     "Work Experience (Month)",
+     "Average Student Age",
+     "Class Size",
+     "International (%)",
+     "Female (%)",
+     "Accept Rate (%)",
+     "On-Campus Options",
+     "Deadline Date(s)",
+     "Experiential Learning Courses / Opportunities (Yes/No)",
+     "Experiential Learning Courses / Opportunities (brief description)",
+     "In-State Tuition Per Credit",
+     "Out-of-State Tuition Per Credit",
+     "International Tuition Per Credit",
+     "Out-of-State Tuition Total",
+     "International Tuition Total",
+     "Scholarship",
+     "Deposit",
+     "Ranking (U.S. News)",
+     "Ranking (Best-Masters.com)",
+     "Ranking (QS)",
+     "Job Placement %",
+     "Average Post-Grad Salary",
+     "Average Post-Grad Bonus"
+    ],
+    "link_columns": [
+     "Experiential Learning Courses / Opportunities Link"
+    ],
+    "first_pass": {
+     "Location - City": "not found for 2026-2027 | Searched kelley.iu.edu MSBA pages; the online MSBA page names no campus/city (Kelley has Bloomington and Indianapolis campuses).",
+     "Average GMAT": "not found for 2026-2027 | Searched kelley.iu.edu for online MSBA class profile (GMAT/GRE/GPA/experience/age/size/international/women/acceptance); no class profile published.",
+     "Average GRE": "not found for 2026-2027 | Searched kelley.iu.edu for online MSBA class profile (GMAT/GRE/GPA/experience/age/size/international/women/acceptance); no class profile published.",
+     "Average Undergraduate GPA": "not found for 2026-2027 | Searched kelley.iu.edu for online MSBA class profile (GMAT/GRE/GPA/experience/age/size/international/women/acceptance); no class profile published.",
+     "Work Experience (Month)": "not found for 2026-2027 | Searched kelley.iu.edu for online MSBA class profile (GMAT/GRE/GPA/experience/age/size/international/women/acceptance); no class profile published.",
+     "Average Student Age": "not found for 2026-2027 | Searched kelley.iu.edu for online MSBA class profile (GMAT/GRE/GPA/experience/age/size/international/women/acceptance); no class profile published.",
+     "Class Size": "not found for 2026-2027 | Searched kelley.iu.edu for online MSBA class profile (GMAT/GRE/GPA/experience/age/size/international/women/acceptance); no class profile published.",
+     "International (%)": "not found for 2026-2027 | Searched kelley.iu.edu for online MSBA class profile (GMAT/GRE/GPA/experience/age/size/international/women/acceptance); no class profile published.",
+     "Female (%)": "not found for 2026-2027 | Searched kelley.iu.edu for online MSBA class profile (GMAT/GRE/GPA/experience/age/size/international/women/acceptance); no class profile published.",
+     "Accept Rate (%)": "not found for 2026-2027 | Searched kelley.iu.edu for online MSBA class profile (GMAT/GRE/GPA/experience/age/size/international/women/acceptance); no class profile published.",
+     "On-Campus Options": "not found for 2026-2027 | Searched kelley.iu.edu for online MSBA residency/immersion/on-campus options; nothing stated for the MSBA.",
+     "Deadline Date(s)": "not found for 2026-2027 | Searched kelley.iu.edu 'online MSBA application deadline Fall 2026 Spring 2027'; only a certificate deadline (Spring 2027: December 1) found, none for the MSBA.",
+     "Experiential Learning Courses / Opportunities (Yes/No)": "not found for 2026-2027 | Searched kelley.iu.edu 'online MSBA capstone project experiential'; results only for MSIS capstone, nothing for online MSBA.",
+     "Experiential Learning Courses / Opportunities (brief description)": "not found for 2026-2027 | Searched kelley.iu.edu 'online MSBA capstone project experiential'; nothing for online MSBA.",
+     "In-State Tuition Per Credit": "not found for 2026-2027 | Searched kelley.iu.edu 'online MSBA tuition per credit hour'; page gives only a program total ($25,500), no per-credit rate.",
+     "Out-of-State Tuition Per Credit": "not found for 2026-2027 | Searched kelley.iu.edu 'online MSBA tuition per credit hour'; page gives only a program total ($25,500), no per-credit rate.",
+     "International Tuition Per Credit": "not found for 2026-2027 | Searched kelley.iu.edu 'online MSBA tuition per credit hour'; page gives only a program total ($25,500), no per-credit rate.",
+     "Out-of-State Tuition Total": "not found for 2026-2027 | Page states one total ($25,500) without saying it applies regardless of residency; not recorded per instructions.",
+     "International Tuition Total": "not found for 2026-2027 | Page states one total ($25,500) without saying it applies to international students; not recorded per instructions.",
+     "Scholarship": "not found for 2026-2027 | Searched kelley.iu.edu 'online MSBA scholarship'; nothing specific found.",
+     "Deposit": "not found for 2026-2027 | Searched kelley.iu.edu for MSBA enrollment deposit; none stated for MSBA.",
+     "Ranking (U.S. News)": "not found for 2026-2027 | Searched kelley.iu.edu/usnews.com; no 2026/2027 U.S. News rank cited for the online MSBA (business analytics specialty rank is for the MBA).",
+     "Ranking (Best-Masters.com)": "not found for 2026-2027 | Searched best-masters.com 'Indiana University Kelley business analytics 2026'; online MSBA not listed.",
+     "Ranking (QS)": "not found for 2026-2027 | Searched kelley.iu.edu/topuniversities.com; no QS rank for online MSBA.",
+     "Job Placement %": "not found for 2026-2027 | Searched kelley.iu.edu for online MSBA employment outcomes; none published.",
+     "Average Post-Grad Salary": "not found for 2026-2027 | Searched kelley.iu.edu for online MSBA employment outcomes; none published.",
+     "Average Post-Grad Bonus": "not found for 2026-2027 | Searched kelley.iu.edu for online MSBA employment outcomes; none published.",
+     "Experiential Learning Courses / Opportunities Link": "not found for 2026-2027 | No page found proving experiential learning for the online MSBA."
+    }
+   }
+  ]
+ },
+ {
+  "job": "https://oneill.iupui.edu/academics/graduate-degrees/certificates/policy-analysis.html",
+  "college": "INDIANA UNIVERSITY INDIANAPOLIS",
+  "start_urls": [
+   "https://oneill.iupui.edu/academics/graduate-degrees/certificates/policy-analysis.html"
+  ],
+  "rows": [
+   {
+    "sheet": "Online MS HRM",
+    "row": 5,
+    "program": "POLICY ANALYSIS GR CRT",
+    "fields": [
+     "Average GMAT",
+     "Average GRE",
+     "Average Undergraduate GPA",
+     "Work Experience (Month)",
+     "Average Student Age",
+     "Class Size",
+     "International (%)",
+     "Female (%)",
+     "Accept Rate",
+     "Duration (months)",
+     "On-Campus Options",
+     "Deadline Date(s)",
+     "Affinity Groups (Yes/No)",
+     "Affinity Groups (brief description)",
+     "Accept 3yr-degree from India? (Y/N)",
+     "In-State Tuition Per Credit",
+     "Out-of-State Tuition Per Credit",
+     "International Tuition Per Credit",
+     "In-State Tuition Total",
+     "Out-of-State Tuition Total",
+     "International Tuition Total",
+     "Deposit",
+     "Ranking (U.S. News)",
+     "Ranking (Best-Masters.com)",
+     "Ranking (QS)",
+     "Job Placement %",
+     "Average Post-Grad Salary",
+     "Average Post-Grad Bonus"
+    ],
+    "link_columns": [
+     "Affinity Groups Link"
+    ],
+    "first_pass": {
+     "Average GMAT": "not found for 2026-2027 | Searched oneill.indianapolis.iu.edu for policy analysis certificate class profile; none published.",
+     "Average GRE": "not found for 2026-2027 | Searched oneill.indianapolis.iu.edu for policy analysis certificate class profile; none published.",
+     "Average Undergraduate GPA": "not found for 2026-2027 | Searched oneill.indianapolis.iu.edu for policy analysis certificate class profile; none published.",
+     "Work Experience (Month)": "not found for 2026-2027 | Searched oneill.indianapolis.iu.edu for policy analysis certificate class profile; none published.",
+     "Average Student Age": "not found for 2026-2027 | Searched oneill.indianapolis.iu.edu for policy analysis certificate class profile; none published.",
+     "Class Size": "not found for 2026-2027 | Searched oneill.indianapolis.iu.edu for policy analysis certificate class profile; none published.",
+     "International (%)": "not found for 2026-2027 | Searched oneill.indianapolis.iu.edu for policy analysis certificate class profile; none published.",
+     "Female (%)": "not found for 2026-2027 | Searched oneill.indianapolis.iu.edu for policy analysis certificate class profile; none published.",
+     "Accept Rate": "not found for 2026-2027 | Searched oneill.indianapolis.iu.edu for policy analysis certificate class profile; none published.",
+     "Duration (months)": "not found for 2026-2027 | Searched O'Neill policy analysis certificate page for duration/months; not stated (only 15 credit hours, five courses).",
+     "On-Campus Options": "not found for 2026-2027 | Searched O'Neill certificate pages for online/on-campus options; not stated.",
+     "Deadline Date(s)": "not found for 2026-2027 | Searched oneill.indianapolis.iu.edu 'graduate application deadlines fall 2026 spring 2027 certificate'; no admission deadlines shown (only March 1 scholarship deadline).",
+     "Affinity Groups (Yes/No)": "not found for 2026-2027 | Searched oneill.indianapolis.iu.edu student organizations/diversity; found O'Neill GSA, Student Council, SEPA Indy (equity advocacy) but no identity-based affinity group.",
+     "Affinity Groups (brief description)": "not found for 2026-2027 | No identity-based groups found on oneill.indianapolis.iu.edu student-orgs page.",
+     "Accept 3yr-degree from India? (Y/N)": "NOT VERIFIED - review | Could not re-find the quoted first-degree/16-year wording on graduate.indianapolis.iu.edu, and the Y reading is an inference from it.\nhttps://graduate.indianapolis.iu.edu/admissions/apply.html\n\"having completed at least 16 years of primary + secondary + tertiary education and",
+     "In-State Tuition Per Credit": "not found for 2026-2027 | Searched oneill.indianapolis.iu.edu and graduate.indianapolis.iu.edu for 2026-2027 graduate tuition per credit; no O'Neill rate shown in results (only a McKinney Law rate).",
+     "Out-of-State Tuition Per Credit": "not found for 2026-2027 | Searched oneill.indianapolis.iu.edu and graduate.indianapolis.iu.edu for 2026-2027 graduate tuition per credit; no O'Neill rate shown in results (only a McKinney Law rate).",
+     "International Tuition Per Credit": "not found for 2026-2027 | Searched oneill.indianapolis.iu.edu and graduate.indianapolis.iu.edu for 2026-2027 graduate tuition per credit; no O'Neill rate shown in results (only a McKinney Law rate).",
+     "In-State Tuition Total": "not found for 2026-2027 | Searched oneill.indianapolis.iu.edu and graduate.indianapolis.iu.edu for 2026-2027 graduate tuition per credit; no O'Neill rate shown in results (only a McKinney Law rate).",
+     "Out-of-State Tuition Total": "not found for 2026-2027 | Searched oneill.indianapolis.iu.edu and graduate.indianapolis.iu.edu for 2026-2027 graduate tuition per credit; no O'Neill rate shown in results (only a McKinney Law rate).",
+     "International Tuition Total": "not found for 2026-2027 | Searched oneill.indianapolis.iu.edu and graduate.indianapolis.iu.edu for 2026-2027 graduate tuition per credit; no O'Neill rate shown in results (only a McKinney Law rate).",
+     "Deposit": "not found for 2026-2027 | Searched O'Neill admissions pages; no enrollment deposit stated.",
+     "Ranking (U.S. News)": "not found for 2026-2027 | Searched for ranking of O'Neill Indianapolis policy analysis certificate; certificates are not ranked.",
+     "Ranking (Best-Masters.com)": "not found for 2026-2027 | Searched for ranking of O'Neill Indianapolis policy analysis certificate; certificates are not ranked.",
+     "Ranking (QS)": "not found for 2026-2027 | Searched for ranking of O'Neill Indianapolis policy analysis certificate; certificates are not ranked.",
+     "Job Placement %": "not found for 2026-2027 | Searched O'Neill career development pages; no outcomes figures for the certificate.",
+     "Average Post-Grad Salary": "not found for 2026-2027 | Searched O'Neill career development pages; no outcomes figures for the certificate.",
+     "Average Post-Grad Bonus": "not found for 2026-2027 | Searched O'Neill career development pages; no outcomes figures for the certificate.",
+     "Affinity Groups Link": "not found for 2026-2027 | No page found proving identity-based affinity groups."
+    }
+   }
+  ]
+ },
+ {
+  "job": "https://kelley.iu.edu/programs/online/mba/index.html",
+  "college": "INDIANA UNIVERSITY INDIANAPOLIS",
+  "start_urls": [
+   "https://kelley.iu.edu/programs/online/mba/index.html"
+  ],
+  "rows": [
+   {
+    "sheet": "Online MBA",
+    "row": 12,
+    "program": "GENERAL ADMINISTRATION MBA",
+    "fields": [
+     "Average GMAT",
+     "Average GRE",
+     "Average Undergraduate GPA",
+     "Work Experience (Month)",
+     "Average Student Age",
+     "Class Size",
+     "International (%)",
+     "Female (%)",
+     "Accept Rate(%)",
+     "Total Enrollment",
+     "In-State Tuition Per Credit",
+     "Out-of-State Tuition Per Credit",
+     "International Tuition Per Credit",
+     "In-State Tuition Total",
+     "Out-of-State Tuition Total",
+     "International Tuition Total",
+     "Ranking (Best-Masters.com)",
+     "Ranking (QS)",
+     "Job Placement %",
+     "Average Post-Grad Salary",
+     "Average Post-Grad Bonus"
+    ],
+    "link_columns": [],
+    "first_pass": {
+     "Average GMAT": "not found for 2026-2027 | Searched kelley.iu.edu 'Kelley Direct online MBA class profile average GMAT GPA work experience age women'; no Kelley Direct class profile published.",
+     "Average GRE": "not found for 2026-2027 | Searched kelley.iu.edu 'Kelley Direct online MBA class profile average GMAT GPA work experience age women'; no Kelley Direct class profile published.",
+     "Average Undergraduate GPA": "not found for 2026-2027 | Searched kelley.iu.edu 'Kelley Direct online MBA class profile average GMAT GPA work experience age women'; no Kelley Direct class profile published.",
+     "Work Experience (Month)": "not found for 2026-2027 | Searched kelley.iu.edu 'Kelley Direct online MBA class profile average GMAT GPA work experience age women'; no Kelley Direct class profile published.",
+     "Average Student Age": "not found for 2026-2027 | Searched kelley.iu.edu 'Kelley Direct online MBA class profile average GMAT GPA work experience age women'; no Kelley Direct class profile published.",
+     "Class Size": "not found for 2026-2027 | Searched kelley.iu.edu 'Kelley Direct online MBA class profile average GMAT GPA work experience age women'; no Kelley Direct class profile published.",
+     "International (%)": "not found for 2026-2027 | Searched kelley.iu.edu 'Kelley Direct online MBA class profile average GMAT GPA work experience age women'; no Kelley Direct class profile published.",
+     "Female (%)": "not found for 2026-2027 | Searched kelley.iu.edu 'Kelley Direct online MBA class profile average GMAT GPA work experience age women'; no Kelley Direct class profile published.",
+     "Accept Rate(%)": "not found for 2026-2027 | Searched kelley.iu.edu 'Kelley Direct online MBA class profile average GMAT GPA work experience age women'; no Kelley Direct class profile published.",
+     "Total Enrollment": "not found for 2026-2027 | Searched kelley.iu.edu 'Kelley Direct online MBA class profile average GMAT GPA work experience age women'; no Kelley Direct class profile published.",
+     "In-State Tuition Per Credit": "not found for 2026-2027 | Searched kelley.iu.edu 'Kelley Direct online MBA tuition fall 2026 per credit hour / total'; tuition page confirms fall 2026/spring 2027 total based on 54 credits but dollar amounts not returned.",
+     "Out-of-State Tuition Per Credit": "not found for 2026-2027 | Searched kelley.iu.edu 'Kelley Direct online MBA tuition fall 2026 per credit hour / total'; tuition page confirms fall 2026/spring 2027 total based on 54 credits but dollar amounts not returned.",
+     "International Tuition Per Credit": "not found for 2026-2027 | Searched kelley.iu.edu 'Kelley Direct online MBA tuition fall 2026 per credit hour / total'; tuition page confirms fall 2026/spring 2027 total based on 54 credits but dollar amounts not returned.",
+     "In-State Tuition Total": "not found for 2026-2027 | Searched kelley.iu.edu 'Kelley Direct online MBA tuition fall 2026 per credit hour / total'; tuition page confirms fall 2026/spring 2027 total based on 54 credits but dollar amounts not returned.",
+     "Out-of-State Tuition Total": "not found for 2026-2027 | Searched kelley.iu.edu 'Kelley Direct online MBA tuition fall 2026 per credit hour / total'; tuition page confirms fall 2026/spring 2027 total based on 54 credits but dollar amounts not returned.",
+     "International Tuition Total": "not found for 2026-2027 | Searched kelley.iu.edu 'Kelley Direct online MBA tuition fall 2026 per credit hour / total'; tuition page confirms fall 2026/spring 2027 total based on 54 credits but dollar amounts not returned.",
+     "Ranking (Best-Masters.com)": "not found for 2026-2027 | Searched best-masters.com 'Indiana University Kelley online MBA 2026'; Kelley Direct online MBA not listed.",
+     "Ranking (QS)": "not found for 2026-2027 | Kelley blog (Sep 2025) says No. 1 in North America / fifth worldwide by QS, but edition year not stated; could not confirm 2026/2027 edition.",
+     "Job Placement %": "not found for 2026-2027 | Searched kelley.iu.edu employment statistics; only Full-Time MBA reports, none for Kelley Direct online MBA.",
+     "Average Post-Grad Salary": "not found for 2026-2027 | Searched kelley.iu.edu employment statistics; only Full-Time MBA reports, none for Kelley Direct online MBA.",
+     "Average Post-Grad Bonus": "not found for 2026-2027 | Searched kelley.iu.edu employment statistics; only Full-Time MBA reports, none for Kelley Direct online MBA."
+    }
+   }
+  ]
+ }
+]

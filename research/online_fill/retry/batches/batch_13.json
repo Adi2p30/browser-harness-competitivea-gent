@@ -1,0 +1,218 @@
+[
+ {
+  "job": "https://engineering.nyu.edu/academics/programs/management-technology-ms-online",
+  "college": "NEW YORK UNIVERSITY",
+  "start_urls": [
+   "https://engineering.nyu.edu/academics/programs/management-technology-ms-online"
+  ],
+  "rows": [
+   {
+    "sheet": "Online MSGSCM",
+    "row": 3,
+    "program": "MAJOR: MANAGEMENT OF TECHNOLOGY",
+    "fields": [
+     "Average GMAT",
+     "Average GRE",
+     "Average Undergraduate GPA",
+     "Work Experience (Month)",
+     "Average Student Age",
+     "Class Size",
+     "International (%)",
+     "Female (%)",
+     "Accept Rate",
+     "Deadline Date(s)",
+     "Affinity Groups (Yes/No)",
+     "Affinity Groups (brief description)",
+     "In-State Tuition Per Credit",
+     "Out-of-State Tuition Per Credit",
+     "International Tuition Per Credit",
+     "In-State Tuition Total",
+     "Out-of-State Tuition Total",
+     "International Tuition Total",
+     "Ranking (U.S. News)",
+     "Ranking (Best-Masters.com)",
+     "Ranking (QS)",
+     "Job Placement %",
+     "Average Post-Grad Salary",
+     "Average Post-Grad Bonus"
+    ],
+    "link_columns": [
+     "Affinity Groups Link"
+    ],
+    "first_pass": {
+     "Average GMAT": "not found for 2026-2027 | Searched engineering.nyu.edu for MOT online class profile (GMAT/GRE/GPA/experience/age/class size/international/women/acceptance); no class profile published.",
+     "Average GRE": "not found for 2026-2027 | Searched engineering.nyu.edu for MOT online class profile (GMAT/GRE/GPA/experience/age/class size/international/women/acceptance); no class profile published.",
+     "Average Undergraduate GPA": "not found for 2026-2027 | Searched engineering.nyu.edu for MOT online class profile (GMAT/GRE/GPA/experience/age/class size/international/women/acceptance); no class profile published.",
+     "Work Experience (Month)": "not found for 2026-2027 | Searched engineering.nyu.edu for MOT online class profile (GMAT/GRE/GPA/experience/age/class size/international/women/acceptance); no class profile published.",
+     "Average Student Age": "not found for 2026-2027 | Searched engineering.nyu.edu for MOT online class profile (GMAT/GRE/GPA/experience/age/class size/international/women/acceptance); no class profile published.",
+     "Class Size": "not found for 2026-2027 | Searched engineering.nyu.edu for MOT online class profile (GMAT/GRE/GPA/experience/age/class size/international/women/acceptance); no class profile published.",
+     "International (%)": "not found for 2026-2027 | Searched engineering.nyu.edu for MOT online class profile (GMAT/GRE/GPA/experience/age/class size/international/women/acceptance); no class profile published.",
+     "Female (%)": "not found for 2026-2027 | Searched engineering.nyu.edu for MOT online class profile (GMAT/GRE/GPA/experience/age/class size/international/women/acceptance); no class profile published.",
+     "Accept Rate": "not found for 2026-2027 | Searched engineering.nyu.edu for MOT online class profile (GMAT/GRE/GPA/experience/age/class size/international/women/acceptance); no class profile published.",
+     "Deadline Date(s)": "not found for 2026-2027 | Searched engineering.nyu.edu for Fall 2026 / Spring 2027 online MOT deadlines; deadline pages returned no dated Fall 2026/Spring 2027 deadlines (only an undated July 1 reference tied to older application cycles).",
+     "Affinity Groups (Yes/No)": "candidate 'Yes' rejected by verifier: Check 3: NSBE/SHPE/SWE are school-wide Tandon groups and no page says online MOT students can join them.\nhttps://engineering.nyu.edu/life-tandon/student-life/student-organizations/organizations-directory\n\"NYU Tandon has several diversity-focused student organiza",
+     "Affinity Groups (brief description)": "candidate 'NSBE (National Society of Black Engineers), SHPE (Society of Hispanic Professional Engineers), SWE (Society of Women Engineers)' rejected by verifier: Check 3: school-wide groups with no page stating online students can join.\nhttps://engineering.nyu.edu/life-tandon/student-life/student-or",
+     "In-State Tuition Per Credit": "not found for 2026-2027 | Searched nyu.edu for 2026-2027 Tandon online per-credit and total tuition; pages only refer to the Bursar lookup tool/PDF, no per-credit or total figure stated in results.",
+     "Out-of-State Tuition Per Credit": "not found for 2026-2027 | Searched nyu.edu for 2026-2027 Tandon online per-credit and total tuition; pages only refer to the Bursar lookup tool/PDF, no per-credit or total figure stated in results.",
+     "International Tuition Per Credit": "not found for 2026-2027 | Searched nyu.edu for 2026-2027 Tandon online per-credit and total tuition; pages only refer to the Bursar lookup tool/PDF, no per-credit or total figure stated in results.",
+     "In-State Tuition Total": "not found for 2026-2027 | Searched nyu.edu for 2026-2027 Tandon online per-credit and total tuition; pages only refer to the Bursar lookup tool/PDF, no per-credit or total figure stated in results.",
+     "Out-of-State Tuition Total": "not found for 2026-2027 | Searched nyu.edu for 2026-2027 Tandon online per-credit and total tuition; pages only refer to the Bursar lookup tool/PDF, no per-credit or total figure stated in results.",
+     "International Tuition Total": "not found for 2026-2027 | Searched nyu.edu for 2026-2027 Tandon online per-credit and total tuition; pages only refer to the Bursar lookup tool/PDF, no per-credit or total figure stated in results.",
+     "Ranking (U.S. News)": "not found for 2026-2027 | Searched engineering.nyu.edu and usnews.com for 2026/2027 MOT online ranking; only older-edition online engineering rankings found.",
+     "Ranking (Best-Masters.com)": "not found for 2026-2027 | Searched engineering.nyu.edu and usnews.com for 2026/2027 MOT online ranking; only older-edition online engineering rankings found.",
+     "Ranking (QS)": "not found for 2026-2027 | Searched engineering.nyu.edu and usnews.com for 2026/2027 MOT online ranking; only older-edition online engineering rankings found.",
+     "Job Placement %": "not found for 2026-2027 | Searched engineering.nyu.edu for MOT online employment outcomes (placement/salary/bonus); none published.",
+     "Average Post-Grad Salary": "not found for 2026-2027 | Searched engineering.nyu.edu for MOT online employment outcomes (placement/salary/bonus); none published.",
+     "Average Post-Grad Bonus": "not found for 2026-2027 | Searched engineering.nyu.edu for MOT online employment outcomes (placement/salary/bonus); none published.",
+     "Affinity Groups Link": "candidate 'https://engineering.nyu.edu/life-tandon/student-life/student-organizations/organizations-directory' rejected by verifier: Check 3: directory of school-wide groups; no page says online students can join.\nhttps://engineering.nyu.edu/life-tandon/student-life/student-organizations/organizatio"
+    }
+   }
+  ]
+ },
+ {
+  "job": "https://asuonline.asu.edu/online-degree-programs/graduate/supply-chain-management-ms/",
+  "college": "ARIZONA STATE UNIVERSITY",
+  "start_urls": [
+   "https://asuonline.asu.edu/online-degree-programs/graduate/supply-chain-management-ms/"
+  ],
+  "rows": [
+   {
+    "sheet": "Online MSGSCM",
+    "row": 4,
+    "program": "(not given)",
+    "fields": [
+     "Average GMAT",
+     "Average GRE",
+     "Average Undergraduate GPA",
+     "Work Experience (Month)",
+     "Average Student Age",
+     "Class Size",
+     "International (%)",
+     "Female (%)",
+     "Accept Rate",
+     "Duration (months)",
+     "On-Campus Options",
+     "Affinity Groups (Yes/No)",
+     "Affinity Groups (brief description)",
+     "In-State Tuition Per Credit",
+     "Out-of-State Tuition Per Credit",
+     "International Tuition Per Credit",
+     "In-State Tuition Total",
+     "Out-of-State Tuition Total",
+     "International Tuition Total",
+     "Ranking (Best-Masters.com)",
+     "Ranking (QS)",
+     "Job Placement %",
+     "Average Post-Grad Salary",
+     "Average Post-Grad Bonus"
+    ],
+    "link_columns": [
+     "Affinity Groups Link"
+    ],
+    "first_pass": {
+     "Average GMAT": "not found for 2026-2027 | Searched asu.edu for Online MS-SCM class profile (GMAT/GRE/GPA/experience/age/class size/international/women/acceptance); no class profile page for this program (only a 3.00 minimum GPA).",
+     "Average GRE": "not found for 2026-2027 | Searched asu.edu for Online MS-SCM class profile (GMAT/GRE/GPA/experience/age/class size/international/women/acceptance); no class profile page for this program (only a 3.00 minimum GPA).",
+     "Average Undergraduate GPA": "not found for 2026-2027 | Searched asu.edu for Online MS-SCM class profile (GMAT/GRE/GPA/experience/age/class size/international/women/acceptance); no class profile page for this program (only a 3.00 minimum GPA).",
+     "Work Experience (Month)": "not found for 2026-2027 | Searched asu.edu for Online MS-SCM class profile (GMAT/GRE/GPA/experience/age/class size/international/women/acceptance); no class profile page for this program (only a 3.00 minimum GPA).",
+     "Average Student Age": "not found for 2026-2027 | Searched asu.edu for Online MS-SCM class profile (GMAT/GRE/GPA/experience/age/class size/international/women/acceptance); no class profile page for this program (only a 3.00 minimum GPA).",
+     "Class Size": "not found for 2026-2027 | Searched asu.edu for Online MS-SCM class profile (GMAT/GRE/GPA/experience/age/class size/international/women/acceptance); no class profile page for this program (only a 3.00 minimum GPA).",
+     "International (%)": "not found for 2026-2027 | Searched asu.edu for Online MS-SCM class profile (GMAT/GRE/GPA/experience/age/class size/international/women/acceptance); no class profile page for this program (only a 3.00 minimum GPA).",
+     "Female (%)": "not found for 2026-2027 | Searched asu.edu for Online MS-SCM class profile (GMAT/GRE/GPA/experience/age/class size/international/women/acceptance); no class profile page for this program (only a 3.00 minimum GPA).",
+     "Accept Rate": "not found for 2026-2027 | Searched asu.edu for Online MS-SCM class profile (GMAT/GRE/GPA/experience/age/class size/international/women/acceptance); no class profile page for this program (only a 3.00 minimum GPA).",
+     "Duration (months)": "not found for 2026-2027 | Searched wpcarey.asu.edu / asuonline.asu.edu for program length; only the credential pathway is stated as nine months, not the degree.",
+     "On-Campus Options": "not found for 2026-2027 | Searched for residency/immersion/on-campus options for Online MS-SCM; pages only state courses are 100% online, no on-campus option described.",
+     "Affinity Groups (Yes/No)": "not found for 2026-2027 | Searched wpcarey.asu.edu for affinity groups open to online MS-SCM students; found only Full-time MBA clubs (e.g. Out for Business), not stated as open to online students.",
+     "Affinity Groups (brief description)": "not found for 2026-2027 | Searched wpcarey.asu.edu for affinity groups open to online MS-SCM students; found only Full-time MBA clubs (e.g. Out for Business), not stated as open to online students.",
+     "In-State Tuition Per Credit": "not found for 2026-2027 | Searched asuonline.asu.edu / wpcarey.asu.edu for per-credit and total tuition; ASU Online tuition shown represents the 2025-26 academic year only; no 2026-2027 figure.",
+     "Out-of-State Tuition Per Credit": "not found for 2026-2027 | Searched asuonline.asu.edu / wpcarey.asu.edu for per-credit and total tuition; ASU Online tuition shown represents the 2025-26 academic year only; no 2026-2027 figure.",
+     "International Tuition Per Credit": "not found for 2026-2027 | Searched asuonline.asu.edu / wpcarey.asu.edu for per-credit and total tuition; ASU Online tuition shown represents the 2025-26 academic year only; no 2026-2027 figure.",
+     "In-State Tuition Total": "not found for 2026-2027 | Searched asuonline.asu.edu / wpcarey.asu.edu for per-credit and total tuition; ASU Online tuition shown represents the 2025-26 academic year only; no 2026-2027 figure.",
+     "Out-of-State Tuition Total": "not found for 2026-2027 | Searched asuonline.asu.edu / wpcarey.asu.edu for per-credit and total tuition; ASU Online tuition shown represents the 2025-26 academic year only; no 2026-2027 figure.",
+     "International Tuition Total": "not found for 2026-2027 | Searched asuonline.asu.edu / wpcarey.asu.edu for per-credit and total tuition; ASU Online tuition shown represents the 2025-26 academic year only; no 2026-2027 figure.",
+     "Ranking (Best-Masters.com)": "not found for 2026-2027 | Searched for Best-Masters / QS 2026-2027 ranking of ASU Online MS-SCM; none cited by the school.",
+     "Ranking (QS)": "not found for 2026-2027 | Searched for Best-Masters / QS 2026-2027 ranking of ASU Online MS-SCM; none cited by the school.",
+     "Job Placement %": "not found for 2026-2027 | Searched for Online MS-SCM placement/salary/bonus outcomes; none published.",
+     "Average Post-Grad Salary": "not found for 2026-2027 | Searched for Online MS-SCM placement/salary/bonus outcomes; none published.",
+     "Average Post-Grad Bonus": "not found for 2026-2027 | Searched for Online MS-SCM placement/salary/bonus outcomes; none published.",
+     "Affinity Groups Link": "not found for 2026-2027 | Searched wpcarey.asu.edu for affinity groups open to online MS-SCM students; found only Full-time MBA clubs (e.g. Out for Business), not stated as open to online students."
+    }
+   }
+  ]
+ },
+ {
+  "job": "https://scs.georgetown.edu/programs/503/online/online-masters-in-supply-chain-management/",
+  "college": "GEORGETOWN UNIVERSITY",
+  "start_urls": [
+   "https://scs.georgetown.edu/programs/503/online/online-masters-in-supply-chain-management/"
+  ],
+  "rows": [
+   {
+    "sheet": "Online MSGSCM",
+    "row": 6,
+    "program": "SUPPLY CHAIN MANAGEMENT",
+    "fields": [
+     "Average GMAT",
+     "Average GRE",
+     "Average Undergraduate GPA",
+     "Work Experience (Month)",
+     "Average Student Age",
+     "Class Size",
+     "International (%)",
+     "Female (%)",
+     "Accept Rate",
+     "Duration (months)",
+     "Deadline Date(s)",
+     "Affinity Groups (Yes/No)",
+     "Affinity Groups (brief description)",
+     "Accept 3yr-degree from India? (Y/N)",
+     "In-State Tuition Per Credit",
+     "Out-of-State Tuition Per Credit",
+     "International Tuition Per Credit",
+     "Out-of-State Tuition Total",
+     "International Tuition Total",
+     "Scholarship",
+     "Deposit",
+     "Ranking (U.S. News)",
+     "Ranking (Best-Masters.com)",
+     "Ranking (QS)",
+     "Job Placement %",
+     "Average Post-Grad Salary",
+     "Average Post-Grad Bonus"
+    ],
+    "link_columns": [
+     "Affinity Groups Link"
+    ],
+    "first_pass": {
+     "Average GMAT": "not found for 2026-2027 | Searched scs.georgetown.edu for online MPS Supply Chain Management class profile statistics; none published.",
+     "Average GRE": "not found for 2026-2027 | Searched scs.georgetown.edu for online MPS Supply Chain Management class profile statistics; none published.",
+     "Average Undergraduate GPA": "not found for 2026-2027 | Searched scs.georgetown.edu for online MPS Supply Chain Management class profile statistics; none published.",
+     "Work Experience (Month)": "not found for 2026-2027 | Searched scs.georgetown.edu for online MPS Supply Chain Management class profile statistics; none published.",
+     "Average Student Age": "not found for 2026-2027 | Searched scs.georgetown.edu for online MPS Supply Chain Management class profile statistics; none published.",
+     "Class Size": "not found for 2026-2027 | Searched scs.georgetown.edu for online MPS Supply Chain Management class profile statistics; none published.",
+     "International (%)": "not found for 2026-2027 | Searched scs.georgetown.edu for online MPS Supply Chain Management class profile statistics; none published.",
+     "Female (%)": "not found for 2026-2027 | Searched scs.georgetown.edu for online MPS Supply Chain Management class profile statistics; none published.",
+     "Accept Rate": "not found for 2026-2027 | Searched scs.georgetown.edu for online MPS Supply Chain Management class profile statistics; none published.",
+     "Duration (months)": "not found for 2026-2027 | Searched program pages for time to complete; only credit loads per semester stated (9 credits full-time, 3-6 part-time), no duration in months/years.",
+     "Deadline Date(s)": "not found for 2026-2027 | Searched scs.georgetown.edu for Fall 2026 / Spring 2027 priority and final deadlines for the program; dates not shown in results.",
+     "Affinity Groups (Yes/No)": "not found for 2026-2027 | Searched scs.georgetown.edu for student affinity groups; found only GradGov, Facebook cohort groups and the DEBIC council, no identity-based student groups named.",
+     "Affinity Groups (brief description)": "not found for 2026-2027 | Searched scs.georgetown.edu for student affinity groups; found only GradGov, Facebook cohort groups and the DEBIC council, no identity-based student groups named.",
+     "Accept 3yr-degree from India? (Y/N)": "not found for 2026-2027 | Searched georgetown.edu SCS international admissions for three-year degree policy; SCS only requires a conferred bachelor's with WES/ECE/SpanTran evaluation, no statement on three-year Indian degrees.",
+     "In-State Tuition Per Credit": "not found for 2026-2027 | Searched scs.georgetown.edu for Supply Chain Management per-credit rate; the program page gives only the total; per-credit rate not stated for this program (not computed).",
+     "Out-of-State Tuition Per Credit": "not found for 2026-2027 | Searched scs.georgetown.edu for Supply Chain Management per-credit rate; the program page gives only the total; per-credit rate not stated for this program (not computed).",
+     "International Tuition Per Credit": "not found for 2026-2027 | Searched scs.georgetown.edu for Supply Chain Management per-credit rate; the program page gives only the total; per-credit rate not stated for this program (not computed).",
+     "Out-of-State Tuition Total": "candidate '$57,816' rejected by verifier: Check 2: filled from a single total; no page says the $57,816 figure applies to out-of-state students.\nhttps://scs.georgetown.edu/programs/503/online/online-masters-in-supply-chain-management/tuition-financial-aid\n\"Total tuition for the Online Master's in Su",
+     "International Tuition Total": "candidate '$57,816' rejected by verifier: Check 2: filled from a single total; no page says the $57,816 figure applies to international students.\nhttps://scs.georgetown.edu/programs/503/online/online-masters-in-supply-chain-management/tuition-financial-aid\n\"Total tuition for the Online Master's in S",
+     "Scholarship": "candidate '10% Federal Employee Scholarship; 10% Alumni Discount (GU classes 2023-2026); 10% World Bank Staff Association discount; CyberCorps Scholarship; no merit scholarships' rejected by code check: names term Fall 2025\nhttps://scs.georgetown.edu/admissions/scholarships/\n\"Members of Georgetown U",
+     "Deposit": "not found for 2026-2027 | Searched scs.georgetown.edu for master's enrollment deposit; only a noncredit-program $250 deposit found, none stated for master's programs.",
+     "Ranking (U.S. News)": "not found for 2026-2027 | Searched georgetown.edu / usnews.com / best-masters.com for 2026-2027 ranking of the online MPS SCM; none cited.",
+     "Ranking (Best-Masters.com)": "not found for 2026-2027 | Searched georgetown.edu / usnews.com / best-masters.com for 2026-2027 ranking of the online MPS SCM; none cited.",
+     "Ranking (QS)": "not found for 2026-2027 | Searched georgetown.edu / usnews.com / best-masters.com for 2026-2027 ranking of the online MPS SCM; none cited.",
+     "Job Placement %": "not found for 2026-2027 | Searched for program placement/salary/bonus outcomes; none published.",
+     "Average Post-Grad Salary": "not found for 2026-2027 | Searched for program placement/salary/bonus outcomes; none published.",
+     "Average Post-Grad Bonus": "not found for 2026-2027 | Searched for program placement/salary/bonus outcomes; none published.",
+     "Affinity Groups Link": "not found for 2026-2027 | Searched scs.georgetown.edu for student affinity groups; found only GradGov, Facebook cohort groups and the DEBIC council, no identity-based student groups named."
+    }
+   }
+  ]
+ }
+]

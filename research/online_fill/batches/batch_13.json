@@ -1,0 +1,173 @@
+[
+ {
+  "job": "https://engineering.nyu.edu/academics/programs/management-technology-ms-online",
+  "college": "NEW YORK UNIVERSITY",
+  "start_urls": [
+   "https://engineering.nyu.edu/academics/programs/management-technology-ms-online"
+  ],
+  "rows": [
+   {
+    "sheet": "Online MSGSCM",
+    "row": 3,
+    "program": "MAJOR: MANAGEMENT OF TECHNOLOGY",
+    "fields": [
+     "School / College Name",
+     "Location - City",
+     "Location - State",
+     "Average GMAT",
+     "Average GRE",
+     "Average Undergraduate GPA",
+     "Work Experience (Month)",
+     "Average Student Age",
+     "Class Size",
+     "International (%)",
+     "Female (%)",
+     "Accept Rate",
+     "Duration (months)",
+     "Credit Hours",
+     "On-Campus Options",
+     "Deadline Date(s)",
+     "Experiential Learning Courses / Opportunities (Yes/No)",
+     "Experiential Learning Courses / Opportunities (brief description)",
+     "Affinity Groups (Yes/No)",
+     "Affinity Groups (brief description)",
+     "Accept 3yr-degree from India? (Y/N)",
+     "Career Coaching/Consulting Services Offered? (Yes/No)",
+     "In-State Tuition Per Credit",
+     "Out-of-State Tuition Per Credit",
+     "International Tuition Per Credit",
+     "In-State Tuition Total",
+     "Out-of-State Tuition Total",
+     "International Tuition Total",
+     "Scholarship",
+     "Deposit",
+     "Ranking (U.S. News)",
+     "Ranking (Best-Masters.com)",
+     "Ranking (QS)",
+     "Job Placement %",
+     "Average Post-Grad Salary",
+     "Average Post-Grad Bonus"
+    ],
+    "link_columns": [
+     "Experiential Learning Courses / Opportunities Link",
+     "Affinity Groups Link",
+     "Career Coaching/Consulting Services Offered? (Link)"
+    ]
+   }
+  ]
+ },
+ {
+  "job": "https://asuonline.asu.edu/online-degree-programs/graduate/supply-chain-management-ms/",
+  "college": "ARIZONA STATE UNIVERSITY",
+  "start_urls": [
+   "https://asuonline.asu.edu/online-degree-programs/graduate/supply-chain-management-ms/"
+  ],
+  "rows": [
+   {
+    "sheet": "Online MSGSCM",
+    "row": 4,
+    "program": "(not given)",
+    "fields": [
+     "School / College Name",
+     "Location - City",
+     "Location - State",
+     "Average GMAT",
+     "Average GRE",
+     "Average Undergraduate GPA",
+     "Work Experience (Month)",
+     "Average Student Age",
+     "Class Size",
+     "International (%)",
+     "Female (%)",
+     "Accept Rate",
+     "Duration (months)",
+     "Credit Hours",
+     "On-Campus Options",
+     "Deadline Date(s)",
+     "Experiential Learning Courses / Opportunities (Yes/No)",
+     "Experiential Learning Courses / Opportunities (brief description)",
+     "Affinity Groups (Yes/No)",
+     "Affinity Groups (brief description)",
+     "Accept 3yr-degree from India? (Y/N)",
+     "Career Coaching/Consulting Services Offered? (Yes/No)",
+     "In-State Tuition Per Credit",
+     "Out-of-State Tuition Per Credit",
+     "International Tuition Per Credit",
+     "In-State Tuition Total",
+     "Out-of-State Tuition Total",
+     "International Tuition Total",
+     "Scholarship",
+     "Deposit",
+     "Ranking (U.S. News)",
+     "Ranking (Best-Masters.com)",
+     "Ranking (QS)",
+     "Job Placement %",
+     "Average Post-Grad Salary",
+     "Average Post-Grad Bonus"
+    ],
+    "link_columns": [
+     "Experiential Learning Courses / Opportunities Link",
+     "Affinity Groups Link",
+     "Career Coaching/Consulting Services Offered? (Link)"
+    ]
+   }
+  ]
+ },
+ {
+  "job": "https://scs.georgetown.edu/programs/503/online/online-masters-in-supply-chain-management/",
+  "college": "GEORGETOWN UNIVERSITY",
+  "start_urls": [
+   "https://scs.georgetown.edu/programs/503/online/online-masters-in-supply-chain-management/"
+  ],
+  "rows": [
+   {
+    "sheet": "Online MSGSCM",
+    "row": 6,
+    "program": "SUPPLY CHAIN MANAGEMENT",
+    "fields": [
+     "School / College Name",
+     "Location - City",
+     "Location - State",
+     "Average GMAT",
+     "Average GRE",
+     "Average Undergraduate GPA",
+     "Work Experience (Month)",
+     "Average Student Age",
+     "Class Size",
+     "International (%)",
+     "Female (%)",
+     "Accept Rate",
+     "Duration (months)",
+     "Credit Hours",
+     "On-Campus Options",
+     "Deadline Date(s)",
+     "Experiential Learning Courses / Opportunities (Yes/No)",
+     "Experiential Learning Courses / Opportunities (brief description)",
+     "Affinity Groups (Yes/No)",
+     "Affinity Groups (brief description)",
+     "Accept 3yr-degree from India? (Y/N)",
+     "Career Coaching/Consulting Services Offered? (Yes/No)",
+     "In-State Tuition Per Credit",
+     "Out-of-State Tuition Per Credit",
+     "International Tuition Per Credit",
+     "In-State Tuition Total",
+     "Out-of-State Tuition Total",
+     "International Tuition Total",
+     "Scholarship",
+     "Deposit",
+     "Ranking (U.S. News)",
+     "Ranking (Best-Masters.com)",
+     "Ranking (QS)",
+     "Job Placement %",
+     "Average Post-Grad Salary",
+     "Average Post-Grad Bonus"
+    ],
+    "link_columns": [
+     "Experiential Learning Courses / Opportunities Link",
+     "Affinity Groups Link",
+     "Career Coaching/Consulting Services Offered? (Link)"
+    ]
+   }
+  ]
+ }
+]

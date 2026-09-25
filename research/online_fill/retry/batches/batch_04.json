@@ -1,0 +1,136 @@
+[
+ {
+  "job": "https://www.worldcampus.psu.edu/degrees-and-certificates/penn-state-online-data-analytics-business-masters-degree",
+  "college": "PENNSYLVANIA STATE UNIVERSITY",
+  "start_urls": [
+   "https://www.worldcampus.psu.edu/degrees-and-certificates/penn-state-online-data-analytics-business-masters-degree"
+  ],
+  "rows": [
+   {
+    "sheet": "Online MS Business Analytics",
+    "row": 6,
+    "program": "(not given)",
+    "fields": [
+     "Average GMAT",
+     "Average GRE",
+     "Average Undergraduate GPA",
+     "Work Experience (Month)",
+     "Average Student Age",
+     "Class Size",
+     "International (%)",
+     "Female (%)",
+     "Accept Rate (%)",
+     "Duration (months)",
+     "Deadline Date(s)",
+     "In-State Tuition Per Credit",
+     "Out-of-State Tuition Per Credit",
+     "International Tuition Per Credit",
+     "In-State Tuition Total",
+     "Out-of-State Tuition Total",
+     "International Tuition Total",
+     "Deposit",
+     "Ranking (U.S. News)",
+     "Ranking (Best-Masters.com)",
+     "Ranking (QS)",
+     "Job Placement %",
+     "Average Post-Grad Salary",
+     "Average Post-Grad Bonus"
+    ],
+    "link_columns": [],
+    "first_pass": {
+     "Average GMAT": "not found for 2026-2027 | Searched psu.edu for class profile (average GMAT/GRE/GPA, work experience, age, class size, international %, women %, acceptance rate) for this World Campus program; no class profile published.",
+     "Average GRE": "not found for 2026-2027 | Searched psu.edu for class profile (average GMAT/GRE/GPA, work experience, age, class size, international %, women %, acceptance rate) for this World Campus program; no class profile published.",
+     "Average Undergraduate GPA": "not found for 2026-2027 | Searched psu.edu for class profile (average GMAT/GRE/GPA, work experience, age, class size, international %, women %, acceptance rate) for this World Campus program; no class profile published.",
+     "Work Experience (Month)": "not found for 2026-2027 | Searched psu.edu for class profile (average GMAT/GRE/GPA, work experience, age, class size, international %, women %, acceptance rate) for this World Campus program; no class profile published.",
+     "Average Student Age": "not found for 2026-2027 | Searched psu.edu for class profile (average GMAT/GRE/GPA, work experience, age, class size, international %, women %, acceptance rate) for this World Campus program; no class profile published.",
+     "Class Size": "not found for 2026-2027 | Searched psu.edu for class profile (average GMAT/GRE/GPA, work experience, age, class size, international %, women %, acceptance rate) for this World Campus program; no class profile published.",
+     "International (%)": "not found for 2026-2027 | Searched psu.edu for class profile (average GMAT/GRE/GPA, work experience, age, class size, international %, women %, acceptance rate) for this World Campus program; no class profile published.",
+     "Female (%)": "not found for 2026-2027 | Searched psu.edu for class profile (average GMAT/GRE/GPA, work experience, age, class size, international %, women %, acceptance rate) for this World Campus program; no class profile published.",
+     "Accept Rate (%)": "not found for 2026-2027 | Searched psu.edu for class profile (average GMAT/GRE/GPA, work experience, age, class size, international %, women %, acceptance rate) for this World Campus program; no class profile published.",
+     "Duration (months)": "not found for 2026-2027 | Searched worldcampus.psu.edu for time to complete the Data Analytics Business Analytics option; page states only that courses run in 12- to 15-week semesters, no program length.",
+     "Deadline Date(s)": "candidate 'Spring 2027 (Jan 11 start): Nov 1' rejected by code check: value digits not in quote\nhttps://www.worldcampus.psu.edu/degrees-and-certificates/penn-state-online-data-analytics-business-masters-degree\n\"Apply by November 1 to start January 11\"",
+     "In-State Tuition Per Credit": "not found for 2026-2027 | Searched worldcampus.psu.edu and tuition.psu.edu for 2026-27 per-credit and total tuition; search results show only 'World Campus tuition is calculated at a cost-per-credit rate based on the program you choose' with no dollar amount readable.",
+     "Out-of-State Tuition Per Credit": "not found for 2026-2027 | Searched worldcampus.psu.edu and tuition.psu.edu for 2026-27 per-credit and total tuition; search results show only 'World Campus tuition is calculated at a cost-per-credit rate based on the program you choose' with no dollar amount readable.",
+     "International Tuition Per Credit": "not found for 2026-2027 | Searched worldcampus.psu.edu and tuition.psu.edu for 2026-27 per-credit and total tuition; search results show only 'World Campus tuition is calculated at a cost-per-credit rate based on the program you choose' with no dollar amount readable.",
+     "In-State Tuition Total": "not found for 2026-2027 | Searched worldcampus.psu.edu and tuition.psu.edu for 2026-27 per-credit and total tuition; search results show only 'World Campus tuition is calculated at a cost-per-credit rate based on the program you choose' with no dollar amount readable.",
+     "Out-of-State Tuition Total": "not found for 2026-2027 | Searched worldcampus.psu.edu and tuition.psu.edu for 2026-27 per-credit and total tuition; search results show only 'World Campus tuition is calculated at a cost-per-credit rate based on the program you choose' with no dollar amount readable.",
+     "International Tuition Total": "not found for 2026-2027 | Searched worldcampus.psu.edu and tuition.psu.edu for 2026-27 per-credit and total tuition; search results show only 'World Campus tuition is calculated at a cost-per-credit rate based on the program you choose' with no dollar amount readable.",
+     "Deposit": "not found for 2026-2027 | Searched psu.edu for World Campus graduate enrollment/confirmation deposit; only the undergraduate $230 enrollment deposit found, nothing for graduate/World Campus master's.",
+     "Ranking (U.S. News)": "not found for 2026-2027 | Searched psu.edu and usnews.com for a 2026 U.S. News ranking of the online Data Analytics/Business Analytics master's; only a general World Campus (Smeal) 'No. 37 ... Best Online Master's in Business Programs (Excluding MBA)' 2026 rank found, not program-specific.",
+     "Ranking (Best-Masters.com)": "not found for 2026-2027 | Searched psu.edu and best-masters.com for a 2026/2027 Best-Masters ranking of this program; none found.",
+     "Ranking (QS)": "not found for 2026-2027 | Searched psu.edu and topuniversities.com for a 2026/2027 QS program ranking; only university-wide QS rank found, no program rank.",
+     "Job Placement %": "not found for 2026-2027 | Searched psu.edu for employment/outcomes report for this World Campus program; none published.",
+     "Average Post-Grad Salary": "not found for 2026-2027 | Searched psu.edu for employment/outcomes report (salary) for this World Campus program; none published.",
+     "Average Post-Grad Bonus": "not found for 2026-2027 | Searched psu.edu for employment/outcomes report (bonus) for this World Campus program; none published."
+    }
+   }
+  ]
+ },
+ {
+  "job": "https://www.worldcampus.psu.edu/degrees-and-certificates/penn-state-online-human-resources-and-employment-relations-masters-degree",
+  "college": "PENNSYLVANIA STATE UNIVERSITY",
+  "start_urls": [
+   "https://www.worldcampus.psu.edu/degrees-and-certificates/penn-state-online-human-resources-and-employment-relations-masters-degree"
+  ],
+  "rows": [
+   {
+    "sheet": "Online MS HRM",
+    "row": 7,
+    "program": "(not given)",
+    "fields": [
+     "Average GMAT",
+     "Average GRE",
+     "Average Undergraduate GPA",
+     "Work Experience (Month)",
+     "Average Student Age",
+     "Class Size",
+     "International (%)",
+     "Female (%)",
+     "Accept Rate",
+     "On-Campus Options",
+     "Deadline Date(s)",
+     "In-State Tuition Per Credit",
+     "Out-of-State Tuition Per Credit",
+     "International Tuition Per Credit",
+     "In-State Tuition Total",
+     "Out-of-State Tuition Total",
+     "International Tuition Total",
+     "Deposit",
+     "Ranking (U.S. News)",
+     "Ranking (Best-Masters.com)",
+     "Ranking (QS)",
+     "Job Placement %",
+     "Average Post-Grad Salary",
+     "Average Post-Grad Bonus"
+    ],
+    "link_columns": [],
+    "first_pass": {
+     "Average GMAT": "not found for 2026-2027 | Searched psu.edu for class profile (average GMAT/GRE/GPA, work experience, age, class size, international %, women %, acceptance rate) for this World Campus program; no class profile published.",
+     "Average GRE": "not found for 2026-2027 | Searched psu.edu for class profile (average GMAT/GRE/GPA, work experience, age, class size, international %, women %, acceptance rate) for this World Campus program; no class profile published.",
+     "Average Undergraduate GPA": "not found for 2026-2027 | Searched psu.edu for class profile (average GMAT/GRE/GPA, work experience, age, class size, international %, women %, acceptance rate) for this World Campus program; no class profile published.",
+     "Work Experience (Month)": "not found for 2026-2027 | Searched psu.edu for class profile (average GMAT/GRE/GPA, work experience, age, class size, international %, women %, acceptance rate) for this World Campus program; no class profile published.",
+     "Average Student Age": "not found for 2026-2027 | Searched psu.edu for class profile (average GMAT/GRE/GPA, work experience, age, class size, international %, women %, acceptance rate) for this World Campus program; no class profile published.",
+     "Class Size": "not found for 2026-2027 | Searched psu.edu for class profile (average GMAT/GRE/GPA, work experience, age, class size, international %, women %, acceptance rate) for this World Campus program; no class profile published.",
+     "International (%)": "not found for 2026-2027 | Searched psu.edu for class profile (average GMAT/GRE/GPA, work experience, age, class size, international %, women %, acceptance rate) for this World Campus program; no class profile published.",
+     "Female (%)": "not found for 2026-2027 | Searched psu.edu for class profile (average GMAT/GRE/GPA, work experience, age, class size, international %, women %, acceptance rate) for this World Campus program; no class profile published.",
+     "Accept Rate": "not found for 2026-2027 | Searched psu.edu for class profile (average GMAT/GRE/GPA, work experience, age, class size, international %, women %, acceptance rate) for this World Campus program; no class profile published.",
+     "On-Campus Options": "not found for 2026-2027 | Searched worldcampus.psu.edu / ler.la.psu.edu for residency, immersion or on-campus options for the online HRER master's; none stated.",
+     "Deadline Date(s)": "candidate 'Spring 2027 (Jan 11 start): Dec 1' rejected by code check: value digits not in quote\nhttps://www.worldcampus.psu.edu/degrees-and-certificates/penn-state-online-human-resources-and-employment-relations-masters-degree\n\"Apply by December 1 to start January 11\"",
+     "In-State Tuition Per Credit": "not found for 2026-2027 | Searched worldcampus.psu.edu and tuition.psu.edu for 2026-27 per-credit and total tuition; search results show only 'World Campus tuition is calculated at a cost-per-credit rate based on the program you choose' with no dollar amount readable.",
+     "Out-of-State Tuition Per Credit": "not found for 2026-2027 | Searched worldcampus.psu.edu and tuition.psu.edu for 2026-27 per-credit and total tuition; search results show only 'World Campus tuition is calculated at a cost-per-credit rate based on the program you choose' with no dollar amount readable.",
+     "International Tuition Per Credit": "not found for 2026-2027 | Searched worldcampus.psu.edu and tuition.psu.edu for 2026-27 per-credit and total tuition; search results show only 'World Campus tuition is calculated at a cost-per-credit rate based on the program you choose' with no dollar amount readable.",
+     "In-State Tuition Total": "not found for 2026-2027 | Searched worldcampus.psu.edu and tuition.psu.edu for 2026-27 per-credit and total tuition; search results show only 'World Campus tuition is calculated at a cost-per-credit rate based on the program you choose' with no dollar amount readable.",
+     "Out-of-State Tuition Total": "not found for 2026-2027 | Searched worldcampus.psu.edu and tuition.psu.edu for 2026-27 per-credit and total tuition; search results show only 'World Campus tuition is calculated at a cost-per-credit rate based on the program you choose' with no dollar amount readable.",
+     "International Tuition Total": "not found for 2026-2027 | Searched worldcampus.psu.edu and tuition.psu.edu for 2026-27 per-credit and total tuition; search results show only 'World Campus tuition is calculated at a cost-per-credit rate based on the program you choose' with no dollar amount readable.",
+     "Deposit": "not found for 2026-2027 | Searched psu.edu for World Campus graduate enrollment/confirmation deposit; only the undergraduate $230 enrollment deposit found, nothing for graduate/World Campus master's.",
+     "Ranking (U.S. News)": "not found for 2026-2027 | Searched psu.edu for a 2026 U.S. News ranking of the online HRER master's; World Campus 2026 announcement lists Engineering, IT, Education, Business (non-MBA) only.",
+     "Ranking (Best-Masters.com)": "not found for 2026-2027 | Searched psu.edu and best-masters.com for a 2026/2027 Best-Masters ranking of this program; none found.",
+     "Ranking (QS)": "not found for 2026-2027 | Searched psu.edu and topuniversities.com for a 2026/2027 QS program ranking; only university-wide QS rank found, no program rank.",
+     "Job Placement %": "not found for 2026-2027 | Searched psu.edu for employment/outcomes report for this World Campus program; none published.",
+     "Average Post-Grad Salary": "not found for 2026-2027 | Searched psu.edu for employment/outcomes report (salary) for this World Campus program; none published.",
+     "Average Post-Grad Bonus": "not found for 2026-2027 | Searched psu.edu for employment/outcomes report (bonus) for this World Campus program; none published."
+    }
+   }
+  ]
+ }
+]

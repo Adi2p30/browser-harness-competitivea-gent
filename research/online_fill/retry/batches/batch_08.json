@@ -1,0 +1,148 @@
+[
+ {
+  "job": "https://supplychainmanagement.utk.edu/online-masters-in-supply-chain-management-msscm",
+  "college": "UNIVERSITY OF TENNESSEE",
+  "start_urls": [
+   "https://supplychainmanagement.utk.edu/online-masters-in-supply-chain-management-msscm"
+  ],
+  "rows": [
+   {
+    "sheet": "Online MSGSCM",
+    "row": 5,
+    "program": "SUPPLY CHAIN MANAGEMENT",
+    "fields": [
+     "Average GMAT",
+     "Average GRE",
+     "Average Undergraduate GPA",
+     "Average Student Age",
+     "International (%)",
+     "Female (%)",
+     "Accept Rate",
+     "Deadline Date(s)",
+     "Affinity Groups (Yes/No)",
+     "Affinity Groups (brief description)",
+     "In-State Tuition Per Credit",
+     "Out-of-State Tuition Per Credit",
+     "International Tuition Per Credit",
+     "In-State Tuition Total",
+     "Out-of-State Tuition Total",
+     "International Tuition Total",
+     "Scholarship",
+     "Deposit",
+     "Ranking (U.S. News)",
+     "Ranking (Best-Masters.com)",
+     "Ranking (QS)",
+     "Job Placement %",
+     "Average Post-Grad Salary",
+     "Average Post-Grad Bonus"
+    ],
+    "link_columns": [
+     "Affinity Groups Link"
+    ],
+    "first_pass": {
+     "Average GMAT": "not found for 2026-2027 | Searched utk.edu / supplychainmanagement.utk.edu for MS SCM Online class profile GMAT; tests optional ('Standardized test scores are not mandatory'), no average published.",
+     "Average GRE": "not found for 2026-2027 | Searched MS SCM Online class profile GRE on utk.edu; no average published.",
+     "Average Undergraduate GPA": "not found for 2026-2027 | Searched MS SCM Online class profile GPA on utk.edu; no average GPA published.",
+     "Average Student Age": "not found for 2026-2027 | Searched MS SCM Online student profile average age; a search summary mentioned 32 but no utk.edu page could be verified stating it (exact-phrase search returned nothing).",
+     "International (%)": "not found for 2026-2027 | Searched MS SCM Online class profile international %; none published.",
+     "Female (%)": "not found for 2026-2027 | Searched MS SCM Online class profile women %; none published.",
+     "Accept Rate": "not found for 2026-2027 | Searched MS SCM Online acceptance rate; none published.",
+     "Deadline Date(s)": "not found for 2026-2027 | Searched MS SCM Online application deadlines Fall 2026 / Spring 2027 on supplychainmanagement.utk.edu, volsonline.utk.edu, haslam.utk.edu; only 'three intakes per year: January, May, and August' found, no dates.",
+     "Affinity Groups (Yes/No)": "not found for 2026-2027 | Searched Haslam/GSCI/Vols Online for affinity groups open to online MS SCM students; only undergraduate student organizations (Women of Haslam, Haslam Women of Color, NABA) found, none stated for online graduate students.",
+     "Affinity Groups (brief description)": "not found for 2026-2027 | Same search as Affinity Groups (Yes/No); no affinity groups stated for online MS SCM students.",
+     "In-State Tuition Per Credit": "not found for 2026-2027 | Searched MS SCM Online tuition 2026-2027 (supplychainmanagement.utk.edu, volsonline.utk.edu). Only figure: FAQ '30 credit hours at $1,379 per credit hour ... approximately $41,370' (https://supplychainmanagement.utk.edu/faq/auto-draft-3/), which search dates to July 2024 an",
+     "Out-of-State Tuition Per Credit": "not found for 2026-2027 | Searched MS SCM Online tuition 2026-2027 (supplychainmanagement.utk.edu, volsonline.utk.edu). Only figure: FAQ '30 credit hours at $1,379 per credit hour ... approximately $41,370' (https://supplychainmanagement.utk.edu/faq/auto-draft-3/), which search dates to July 2024 an",
+     "International Tuition Per Credit": "not found for 2026-2027 | Searched MS SCM Online tuition 2026-2027 (supplychainmanagement.utk.edu, volsonline.utk.edu). Only figure: FAQ '30 credit hours at $1,379 per credit hour ... approximately $41,370' (https://supplychainmanagement.utk.edu/faq/auto-draft-3/), which search dates to July 2024 an",
+     "In-State Tuition Total": "not found for 2026-2027 | Searched MS SCM Online tuition 2026-2027 (supplychainmanagement.utk.edu, volsonline.utk.edu). Only figure: FAQ '30 credit hours at $1,379 per credit hour ... approximately $41,370' (https://supplychainmanagement.utk.edu/faq/auto-draft-3/), which search dates to July 2024 an",
+     "Out-of-State Tuition Total": "not found for 2026-2027 | Searched MS SCM Online tuition 2026-2027 (supplychainmanagement.utk.edu, volsonline.utk.edu). Only figure: FAQ '30 credit hours at $1,379 per credit hour ... approximately $41,370' (https://supplychainmanagement.utk.edu/faq/auto-draft-3/), which search dates to July 2024 an",
+     "International Tuition Total": "not found for 2026-2027 | Searched MS SCM Online tuition 2026-2027 (supplychainmanagement.utk.edu, volsonline.utk.edu). Only figure: FAQ '30 credit hours at $1,379 per credit hour ... approximately $41,370' (https://supplychainmanagement.utk.edu/faq/auto-draft-3/), which search dates to July 2024 an",
+     "Scholarship": "not found for 2026-2027 | Searched MS SCM Online scholarships on supplychainmanagement.utk.edu / volsonline.utk.edu; only general federal aid mention, no program scholarships stated.",
+     "Deposit": "not found for 2026-2027 | Searched MS SCM Online enrollment deposit; none stated.",
+     "Ranking (U.S. News)": "candidate \"#15 overall (#11 public), 2026 Best Online Master's in Business Programs (non-MBA; includes MS SCM Online)\" rejected by code check: value digits not in quote\nhttps://news.utk.edu/2026/01/27/uts-online-programs-earn-high-marks-in-us-news-rankings/\n\"the college's non-MBA online master's pro",
+     "Ranking (Best-Masters.com)": "not found for 2026-2027 | Searched utk.edu and best-masters.com for UT online MS SCM Best-Masters ranking; none found.",
+     "Ranking (QS)": "not found for 2026-2027 | Searched utk.edu/topuniversities.com; QS Business Master's Rankings 2026: Supply Chain Management results did not show UT Knoxville.",
+     "Job Placement %": "not found for 2026-2027 | Searched MS SCM Online employment report / outcomes placement salary bonus; no 2026 outcomes report published for the online program.",
+     "Average Post-Grad Salary": "not found for 2026-2027 | Searched MS SCM Online employment report / outcomes placement salary bonus; no 2026 outcomes report published for the online program.",
+     "Average Post-Grad Bonus": "not found for 2026-2027 | Searched MS SCM Online employment report / outcomes placement salary bonus; no 2026 outcomes report published for the online program.",
+     "Affinity Groups Link": "not found for 2026-2027 | No page found showing affinity groups for online MS SCM students."
+    }
+   }
+  ]
+ },
+ {
+  "job": "https://onlinemba.utk.edu/",
+  "college": "UNIVERSITY OF TENNESSEE",
+  "start_urls": [
+   "https://onlinemba.utk.edu/"
+  ],
+  "rows": [
+   {
+    "sheet": "Online MBA",
+    "row": 25,
+    "program": "BUSINESS ADMINISTRATION",
+    "fields": [
+     "Average GMAT",
+     "Average GRE",
+     "Average Undergraduate GPA",
+     "Work Experience (Month)",
+     "Average Student Age",
+     "International (%)",
+     "Female (%)",
+     "Accept Rate(%)",
+     "Total Enrollment",
+     "Duration (months)",
+     "Deadline Date(s)",
+     "Affinity Groups (Yes/No)",
+     "Affinity Groups (brief description)",
+     "In-State Tuition Per Credit",
+     "Out-of-State Tuition Per Credit",
+     "International Tuition Per Credit",
+     "In-State Tuition Total",
+     "Out-of-State Tuition Total",
+     "International Tuition Total",
+     "Deposit",
+     "Deposit Required?",
+     "Ranking (U.S. News)",
+     "Ranking (Best-Masters.com)",
+     "Ranking (QS)",
+     "Job Placement %",
+     "Average Post-Grad Salary",
+     "Average Post-Grad Bonus"
+    ],
+    "link_columns": [
+     "Affinity Groups Link"
+    ],
+    "first_pass": {
+     "Average GMAT": "not found for 2026-2027 | Tests not required; searched Online MBA class profile GMAT on utk.edu, none published.",
+     "Average GRE": "not found for 2026-2027 | Tests not required; searched Online MBA class profile GRE on utk.edu, none published.",
+     "Average Undergraduate GPA": "not found for 2026-2027 | Searched Online MBA class profile GPA; only minimum 2.7 GPA requirement found (not an average).",
+     "Work Experience (Month)": "not found for 2026-2027 | Searched Online MBA class profile work experience on utk.edu; none published.",
+     "Average Student Age": "not found for 2026-2027 | Searched Online MBA class profile average age on utk.edu; none published.",
+     "International (%)": "not found for 2026-2027 | Searched Online MBA class profile international %; none published.",
+     "Female (%)": "not found for 2026-2027 | Searched Online MBA class profile women %; none published.",
+     "Accept Rate(%)": "not found for 2026-2027 | Searched Online MBA acceptance rate; none published.",
+     "Total Enrollment": "not found for 2026-2027 | Searched Online MBA total enrollment; only college-wide '601 online master's students' (all online master's programs, fall 2026) found, not Online MBA alone.",
+     "Duration (months)": "not found for 2026-2027 | Searched Online MBA duration months; page says 'Duration of program is dependent on the student's academic history, transfer credits...' - no month figure.",
+     "Deadline Date(s)": "not found for 2026-2027 | Searched Online MBA application deadlines Fall 2026 / Spring 2027 on onlinemba.utk.edu, volsonline.utk.edu, utk.edu; only 'Application deadlines vary by program' / priority submit date mentioned, no dates.",
+     "Affinity Groups (Yes/No)": "not found for 2026-2027 | Searched Haslam/onlinemba/Vols Online for affinity groups open to Online MBA students; only undergraduate organizations (Women of Haslam, Haslam Women of Color, NABA) found, none stated for online MBA.",
+     "Affinity Groups (brief description)": "not found for 2026-2027 | Same search as Affinity Groups (Yes/No); none stated for Online MBA students.",
+     "In-State Tuition Per Credit": "not found for 2026-2027 | Searched Online MBA tuition 2026-2027 (onlinemba.utk.edu, volsonline.utk.edu). Only figure: FAQ '$1,200 per credit hour ... total program cost to $54,000' (https://onlinemba.utk.edu/faq/how-much-is-an-online-mba-at-utk/), which search places in early 2025 and is not tied to",
+     "Out-of-State Tuition Per Credit": "not found for 2026-2027 | Searched Online MBA tuition 2026-2027 (onlinemba.utk.edu, volsonline.utk.edu). Only figure: FAQ '$1,200 per credit hour ... total program cost to $54,000' (https://onlinemba.utk.edu/faq/how-much-is-an-online-mba-at-utk/), which search places in early 2025 and is not tied to",
+     "International Tuition Per Credit": "not found for 2026-2027 | Searched Online MBA tuition 2026-2027 (onlinemba.utk.edu, volsonline.utk.edu). Only figure: FAQ '$1,200 per credit hour ... total program cost to $54,000' (https://onlinemba.utk.edu/faq/how-much-is-an-online-mba-at-utk/), which search places in early 2025 and is not tied to",
+     "In-State Tuition Total": "not found for 2026-2027 | Searched Online MBA tuition 2026-2027 (onlinemba.utk.edu, volsonline.utk.edu). Only figure: FAQ '$1,200 per credit hour ... total program cost to $54,000' (https://onlinemba.utk.edu/faq/how-much-is-an-online-mba-at-utk/), which search places in early 2025 and is not tied to",
+     "Out-of-State Tuition Total": "not found for 2026-2027 | Searched Online MBA tuition 2026-2027 (onlinemba.utk.edu, volsonline.utk.edu). Only figure: FAQ '$1,200 per credit hour ... total program cost to $54,000' (https://onlinemba.utk.edu/faq/how-much-is-an-online-mba-at-utk/), which search places in early 2025 and is not tied to",
+     "International Tuition Total": "not found for 2026-2027 | Searched Online MBA tuition 2026-2027 (onlinemba.utk.edu, volsonline.utk.edu). Only figure: FAQ '$1,200 per credit hour ... total program cost to $54,000' (https://onlinemba.utk.edu/faq/how-much-is-an-online-mba-at-utk/), which search places in early 2025 and is not tied to",
+     "Deposit": "not found for 2026-2027 | Searched Online MBA enrollment deposit on onlinemba.utk.edu / haslam.utk.edu; only an undergraduate $250 deposit found.",
+     "Deposit Required?": "not found for 2026-2027 | Searched Online MBA enrollment deposit; not stated for Online MBA.",
+     "Ranking (U.S. News)": "candidate '#119 (of 364), 2026 Best Online MBA Programs' rejected by code check: value digits not in quote\nhttps://www.usnews.com/education/online-education/the-university-of-tennessee-OBUS0775/mba\n\"University of Tennessee--Knoxville is ranked No. 119 out of 364 in Best Online MBA Programs.\"",
+     "Ranking (Best-Masters.com)": "not found for 2026-2027 | Searched utk.edu / best-masters.com for UT Online MBA Best-Masters ranking; none found.",
+     "Ranking (QS)": "not found for 2026-2027 | Searched utk.edu / topuniversities.com for UT Online MBA QS ranking 2026; none found.",
+     "Job Placement %": "not found for 2026-2027 | Searched Online MBA employment report placement salary bonus; no outcomes report for the online MBA found.",
+     "Average Post-Grad Salary": "not found for 2026-2027 | Searched Online MBA employment report placement salary bonus; no outcomes report for the online MBA found.",
+     "Average Post-Grad Bonus": "not found for 2026-2027 | Searched Online MBA employment report placement salary bonus; no outcomes report for the online MBA found.",
+     "Affinity Groups Link": "not found for 2026-2027 | No page found showing affinity groups for Online MBA students."
+    }
+   }
+  ]
+ }
+]

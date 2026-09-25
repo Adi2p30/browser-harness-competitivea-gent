@@ -1,0 +1,143 @@
+[
+ {
+  "job": "https://landing.advanced.jhu.edu/applied-economics/",
+  "college": "JOHNS HOPKINS UNIVERSITY",
+  "start_urls": [
+   "https://landing.advanced.jhu.edu/applied-economics/"
+  ],
+  "rows": [
+   {
+    "sheet": "Online MS Economics",
+    "row": 7,
+    "program": "(not given)",
+    "fields": [
+     "Average GMAT",
+     "Average GRE",
+     "Average Undergraduate GPA",
+     "Work Experience (Month)",
+     "Average Student Age",
+     "Class Size",
+     "International (%)",
+     "Female (%)",
+     "Accept Rate (%)",
+     "Deadline Date(s)",
+     "Experiential Learning Courses / Opportunities (Yes/No)",
+     "Experiential Learning Courses / Opportunities (brief description)",
+     "Affinity Groups (Yes/No)",
+     "Affinity Groups (brief description)",
+     "Accept 3yr-degree from India? (Y/N)",
+     "In-State Tuition Per Credit",
+     "Out-of-State Tuition Per Credit",
+     "International Tuition Per Credit",
+     "Out-of-State Tuition Total",
+     "International Tuition Total",
+     "Scholarship",
+     "Deposit",
+     "Ranking (U.S. News)",
+     "Ranking (Best-Masters.com)",
+     "Ranking (QS)",
+     "Job Placement %",
+     "Average Post-Grad Salary",
+     "Average Post-Grad Bonus"
+    ],
+    "link_columns": [
+     "Experiential Learning Courses / Opportunities Link",
+     "Affinity Groups Link"
+    ],
+    "first_pass": {
+     "Average GMAT": "not found for 2026-2027 | Searched advanced.jhu.edu for MS Applied Economics class profile (GMAT/GRE/GPA/experience/age/class size/international/women/acceptance); no class profile published. Only a minimum 3.0 GPA admission criterion is stated.",
+     "Average GRE": "not found for 2026-2027 | Searched advanced.jhu.edu for MS Applied Economics class profile (GMAT/GRE/GPA/experience/age/class size/international/women/acceptance); no class profile published. Only a minimum 3.0 GPA admission criterion is stated.",
+     "Average Undergraduate GPA": "not found for 2026-2027 | Searched advanced.jhu.edu for MS Applied Economics class profile (GMAT/GRE/GPA/experience/age/class size/international/women/acceptance); no class profile published. Only a minimum 3.0 GPA admission criterion is stated.",
+     "Work Experience (Month)": "not found for 2026-2027 | Searched advanced.jhu.edu for MS Applied Economics class profile (GMAT/GRE/GPA/experience/age/class size/international/women/acceptance); no class profile published. Only a minimum 3.0 GPA admission criterion is stated.",
+     "Average Student Age": "not found for 2026-2027 | Searched advanced.jhu.edu for MS Applied Economics class profile (GMAT/GRE/GPA/experience/age/class size/international/women/acceptance); no class profile published. Only a minimum 3.0 GPA admission criterion is stated.",
+     "Class Size": "not found for 2026-2027 | Searched advanced.jhu.edu for MS Applied Economics class profile (GMAT/GRE/GPA/experience/age/class size/international/women/acceptance); no class profile published. Only a minimum 3.0 GPA admission criterion is stated.",
+     "International (%)": "not found for 2026-2027 | Searched advanced.jhu.edu for MS Applied Economics class profile (GMAT/GRE/GPA/experience/age/class size/international/women/acceptance); no class profile published. Only a minimum 3.0 GPA admission criterion is stated.",
+     "Female (%)": "not found for 2026-2027 | Searched advanced.jhu.edu for MS Applied Economics class profile (GMAT/GRE/GPA/experience/age/class size/international/women/acceptance); no class profile published. Only a minimum 3.0 GPA admission criterion is stated.",
+     "Accept Rate (%)": "not found for 2026-2027 | Searched advanced.jhu.edu for MS Applied Economics class profile (GMAT/GRE/GPA/experience/age/class size/international/women/acceptance); no class profile published. Only a minimum 3.0 GPA admission criterion is stated.",
+     "Deadline Date(s)": "candidate 'Rolling - online program applications accepted year-round (no application deadline); submit 4-6 weeks before start' rejected by code check: value digits not in quote\nhttps://advanced.jhu.edu/admissions-aid/how-to-apply/apply-to-online-program/\n\"Applications for Online Programs are accepte",
+     "Experiential Learning Courses / Opportunities (Yes/No)": "not found for 2026-2027 | Searched advanced.jhu.edu for Applied Economics capstone/practicum/internship/experiential; only an optional research Thesis (11th course) is described, no capstone/practicum/client project found.",
+     "Experiential Learning Courses / Opportunities (brief description)": "not found for 2026-2027 | Only an optional Thesis: 'optional culminating experience of a Thesis as an 11th course, for three additional credits at full tuition' (degree-details-and-courses page); no experiential course found.",
+     "Affinity Groups (Yes/No)": "not found for 2026-2027 | Searched advanced.jhu.edu for student organizations/affinity groups; only AAP Student Government Association and general student services found, no identity-based groups.",
+     "Affinity Groups (brief description)": "not found for 2026-2027 | Searched advanced.jhu.edu for student organizations/affinity groups; none named.",
+     "Accept 3yr-degree from India? (Y/N)": "not found for 2026-2027 | Searched advanced.jhu.edu for three-year degree/India; pages only say bachelor's 'or equivalent international credential' with course-by-course credential evaluation; no statement on 3-year Indian degrees.",
+     "In-State Tuition Per Credit": "candidate '$5,555 per course' rejected by code check: names term Summer 2026\nhttps://advanced.jhu.edu/admissions-aid/tuition-fees/\n\"The cost per course is $5,555. ... Posted tuition rates for each graduate degree and certificate are for the following terms: Summer 2026, Fall 2026, and Spring 2027. T",
+     "Out-of-State Tuition Per Credit": "candidate '$5,555 per course' rejected by code check: names term Summer 2026\nhttps://advanced.jhu.edu/admissions-aid/tuition-fees/\n\"The cost per course is $5,555. ... Posted tuition rates for each graduate degree and certificate are for the following terms: Summer 2026, Fall 2026, and Spring 2027. T",
+     "International Tuition Per Credit": "candidate '$5,555 per course' rejected by code check: names term Summer 2026\nhttps://advanced.jhu.edu/admissions-aid/tuition-fees/\n\"The cost per course is $5,555. ... Posted tuition rates for each graduate degree and certificate are for the following terms: Summer 2026, Fall 2026, and Spring 2027. T",
+     "Out-of-State Tuition Total": "candidate '$55,550 - $56,550 (tuition and fees)' rejected by verifier: Check 2 fails: single program total with no page stating it applies to out-of-state students.\nhttps://advanced.jhu.edu/academics/graduate/ms-applied-economics/\n\"Tuition and fees for the MS in Applied Economics program currently r",
+     "International Tuition Total": "candidate '$55,550 - $56,550 (tuition and fees)' rejected by verifier: Check 2 fails: single program total with no page stating it applies to international students (search found no residency statement).\nhttps://advanced.jhu.edu/academics/graduate/ms-applied-economics/\n\"Tuition and fees for the MS i",
+     "Scholarship": "not found for 2026-2027 | Searched advanced.jhu.edu financial aid pages for AAP scholarships 2026-2027; only loans, payment plan, Yellow Ribbon/veteran benefits found; no program scholarship named.",
+     "Deposit": "not found for 2026-2027 | Searched AAP deposit: the $2,000 seat deposit applies to 'students offered admission into their On-Campus Program'; nothing stated for online-program admits.",
+     "Ranking (U.S. News)": "not found for 2026-2027 | Searched advanced.jhu.edu and usnews.com; school cites only Forbes (Sept 2025) Best Online Master's in Economics #1, no U.S. News 2026/2027 rank.",
+     "Ranking (Best-Masters.com)": "not found for 2026-2027 | Searched best-masters.com 2026 Economics USA ranking; Johns Hopkins Applied Economics not shown in results.",
+     "Ranking (QS)": "not found for 2026-2027 | No QS 2026/2027 ranking for MS Applied Economics found on advanced.jhu.edu or topuniversities.com.",
+     "Job Placement %": "not found for 2026-2027 | Searched advanced.jhu.edu for Applied Economics employment outcomes; none published (Forbes cites alumni median earnings but no figure/year on school page).",
+     "Average Post-Grad Salary": "not found for 2026-2027 | Searched advanced.jhu.edu for Applied Economics employment outcomes; none published (Forbes cites alumni median earnings but no figure/year on school page).",
+     "Average Post-Grad Bonus": "not found for 2026-2027 | Searched advanced.jhu.edu for Applied Economics employment outcomes; none published (Forbes cites alumni median earnings but no figure/year on school page).",
+     "Experiential Learning Courses / Opportunities Link": "not found for 2026-2027 | No page found proving experiential learning for MS Applied Economics.",
+     "Affinity Groups Link": "not found for 2026-2027 | No page found proving affinity groups for AAP students."
+    }
+   }
+  ]
+ },
+ {
+  "job": "https://carey.jhu.edu/programs/mba-programs/mba-flexible",
+  "college": "JOHNS HOPKINS UNIVERSITY",
+  "start_urls": [
+   "https://carey.jhu.edu/programs/mba-programs/mba-flexible"
+  ],
+  "rows": [
+   {
+    "sheet": "Online MBA",
+    "row": 13,
+    "program": "(not given)",
+    "fields": [
+     "Average GMAT",
+     "Average GRE",
+     "Average Undergraduate GPA",
+     "Work Experience (Month)",
+     "Average Student Age",
+     "Class Size",
+     "International (%)",
+     "Female (%)",
+     "Accept Rate(%)",
+     "Total Enrollment",
+     "Duration (months)",
+     "In-State Tuition Total",
+     "Out-of-State Tuition Total",
+     "International Tuition Total",
+     "Scholarship",
+     "Ranking (U.S. News)",
+     "Ranking (Best-Masters.com)",
+     "Ranking (QS)",
+     "Job Placement %",
+     "Average Post-Grad Salary",
+     "Average Post-Grad Bonus"
+    ],
+    "link_columns": [],
+    "first_pass": {
+     "Average GMAT": "not found for 2026-2027 | Searched carey.jhu.edu Flexible MBA class profile; newest profile shown is the Fall 2025 incoming class (58% female, 7.4 yrs experience, avg age 35.4) = previous cycle; no Fall 2026 profile, GMAT/GRE not required, no enrollment total found.",
+     "Average GRE": "not found for 2026-2027 | Searched carey.jhu.edu Flexible MBA class profile; newest profile shown is the Fall 2025 incoming class (58% female, 7.4 yrs experience, avg age 35.4) = previous cycle; no Fall 2026 profile, GMAT/GRE not required, no enrollment total found.",
+     "Average Undergraduate GPA": "not found for 2026-2027 | Searched carey.jhu.edu Flexible MBA class profile; newest profile shown is the Fall 2025 incoming class (58% female, 7.4 yrs experience, avg age 35.4) = previous cycle; no Fall 2026 profile, GMAT/GRE not required, no enrollment total found.",
+     "Work Experience (Month)": "not found for 2026-2027 | Searched carey.jhu.edu Flexible MBA class profile; newest profile shown is the Fall 2025 incoming class (58% female, 7.4 yrs experience, avg age 35.4) = previous cycle; no Fall 2026 profile, GMAT/GRE not required, no enrollment total found.",
+     "Average Student Age": "not found for 2026-2027 | Searched carey.jhu.edu Flexible MBA class profile; newest profile shown is the Fall 2025 incoming class (58% female, 7.4 yrs experience, avg age 35.4) = previous cycle; no Fall 2026 profile, GMAT/GRE not required, no enrollment total found.",
+     "Class Size": "not found for 2026-2027 | Searched carey.jhu.edu Flexible MBA class profile; newest profile shown is the Fall 2025 incoming class (58% female, 7.4 yrs experience, avg age 35.4) = previous cycle; no Fall 2026 profile, GMAT/GRE not required, no enrollment total found.",
+     "International (%)": "not found for 2026-2027 | Searched carey.jhu.edu Flexible MBA class profile; newest profile shown is the Fall 2025 incoming class (58% female, 7.4 yrs experience, avg age 35.4) = previous cycle; no Fall 2026 profile, GMAT/GRE not required, no enrollment total found.",
+     "Female (%)": "not found for 2026-2027 | Searched carey.jhu.edu Flexible MBA class profile; newest profile shown is the Fall 2025 incoming class (58% female, 7.4 yrs experience, avg age 35.4) = previous cycle; no Fall 2026 profile, GMAT/GRE not required, no enrollment total found.",
+     "Accept Rate(%)": "not found for 2026-2027 | Searched carey.jhu.edu Flexible MBA class profile; newest profile shown is the Fall 2025 incoming class (58% female, 7.4 yrs experience, avg age 35.4) = previous cycle; no Fall 2026 profile, GMAT/GRE not required, no enrollment total found.",
+     "Total Enrollment": "not found for 2026-2027 | Searched carey.jhu.edu Flexible MBA class profile; newest profile shown is the Fall 2025 incoming class (58% female, 7.4 yrs experience, avg age 35.4) = previous cycle; no Fall 2026 profile, GMAT/GRE not required, no enrollment total found.",
+     "Duration (months)": "candidate '32.4-72 (2.7 to 6 years)' rejected by code check: value digits not in quote\nhttps://carey.jhu.edu/programs/mba-programs/mba-flexible\n\"The Flexible MBA can be completed in 2.7 to 6 years, depending on how many courses you take per term.\"",
+     "In-State Tuition Total": "not found for 2026-2027 | Searched carey.jhu.edu for Flexible MBA total tuition 2026-27; only per-credit rate ($2,060) and 54 credits stated, no total program tuition.",
+     "Out-of-State Tuition Total": "not found for 2026-2027 | Searched carey.jhu.edu for Flexible MBA total tuition 2026-27; only per-credit rate ($2,060) and 54 credits stated, no total program tuition.",
+     "International Tuition Total": "not found for 2026-2027 | Searched carey.jhu.edu for Flexible MBA total tuition 2026-27; only per-credit rate ($2,060) and 54 credits stated, no total program tuition.",
+     "Scholarship": "candidate \"Dean's Scholarship (merit, automatic consideration); Reaching Out MBA Fellowships (separate application); Tech Fellowship Award (job separation in 2025-2026, starting 2026)\" rejected by code check: names academic year 2025-2026\nhttps://carey.jhu.edu/admissions/financial-aid/prospective-pa",
+     "Ranking (U.S. News)": "not found for 2026-2027 | Searched carey.jhu.edu and usnews.com for 2026 Best Online/Part-time MBA rank of the Flexible MBA; none stated in results.",
+     "Ranking (Best-Masters.com)": "not found for 2026-2027 | Searched best-masters.com 2026 for Johns Hopkins Carey MBA/online MBA; only other Carey programs ranked (MBA/MA Communication, MS Health Care Mgmt), not the Flexible MBA.",
+     "Ranking (QS)": "not found for 2026-2027 | Searched topuniversities.com / carey.jhu.edu; QS 2026 #21 US applies to the Full-time MBA, no QS 2026/2027 rank for the online Flexible MBA.",
+     "Job Placement %": "not found for 2026-2027 | Searched carey.jhu.edu Flexible MBA employment outcomes; newest data is Class of 2025 (avg base salary $232K) and 2024 report = not a 2026/2027 report.",
+     "Average Post-Grad Salary": "not found for 2026-2027 | Searched carey.jhu.edu Flexible MBA employment outcomes; newest data is Class of 2025 (avg base salary $232K) and 2024 report = not a 2026/2027 report.",
+     "Average Post-Grad Bonus": "not found for 2026-2027 | Searched carey.jhu.edu Flexible MBA employment outcomes; newest data is Class of 2025 (avg base salary $232K) and 2024 report = not a 2026/2027 report."
+    }
+   }
+  ]
+ }
+]

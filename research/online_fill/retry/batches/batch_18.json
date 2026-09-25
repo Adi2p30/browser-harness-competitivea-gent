@@ -1,0 +1,215 @@
+[
+ {
+  "job": "https://whitman.syracuse.edu/online-masters-programs-programs/mba-online",
+  "college": "SYRACUSE UNIVERSITY",
+  "start_urls": [
+   "https://whitman.syracuse.edu/online-masters-programs-programs/mba-online"
+  ],
+  "rows": [
+   {
+    "sheet": "Online MBA",
+    "row": 15,
+    "program": "PROJECT MANAGEMENT",
+    "fields": [
+     "Average GMAT",
+     "Average GRE",
+     "Average Undergraduate GPA",
+     "Work Experience (Month)",
+     "Average Student Age",
+     "Class Size",
+     "International (%)",
+     "Female (%)",
+     "Accept Rate(%)",
+     "Total Enrollment",
+     "Affinity Groups (Yes/No)",
+     "Affinity Groups (brief description)",
+     "Out-of-State Tuition Per Credit",
+     "International Tuition Per Credit",
+     "In-State Tuition Total",
+     "Out-of-State Tuition Total",
+     "International Tuition Total",
+     "Deposit",
+     "Deposit Required?",
+     "Ranking (U.S. News)",
+     "Ranking (Best-Masters.com)",
+     "Ranking (QS)",
+     "Job Placement %",
+     "Average Post-Grad Salary",
+     "Average Post-Grad Bonus"
+    ],
+    "link_columns": [
+     "Affinity Groups Link"
+    ],
+    "first_pass": {
+     "Average GMAT": "not found for 2026-2027 | Searched Whitman MBA Online Class Profile; the only profile data reflects new student enrollment from Summer 2021 through Spring 2022 (not 2026-2027).",
+     "Average GRE": "not found for 2026-2027 | Searched Whitman MBA Online Class Profile; the only profile data reflects new student enrollment from Summer 2021 through Spring 2022 (not 2026-2027).",
+     "Average Undergraduate GPA": "not found for 2026-2027 | Searched Whitman MBA Online Class Profile; the only profile data reflects new student enrollment from Summer 2021 through Spring 2022 (not 2026-2027).",
+     "Work Experience (Month)": "not found for 2026-2027 | Searched Whitman MBA Online Class Profile; the only profile data reflects new student enrollment from Summer 2021 through Spring 2022 (not 2026-2027).",
+     "Average Student Age": "not found for 2026-2027 | Searched Whitman MBA Online Class Profile; the only profile data reflects new student enrollment from Summer 2021 through Spring 2022 (not 2026-2027).",
+     "Class Size": "not found for 2026-2027 | Searched Whitman MBA Online Class Profile; the only profile data reflects new student enrollment from Summer 2021 through Spring 2022 (not 2026-2027). No 2026-2027 figure found.",
+     "International (%)": "not found for 2026-2027 | Searched Whitman MBA Online Class Profile; the only profile data reflects new student enrollment from Summer 2021 through Spring 2022 (not 2026-2027). No 2026-2027 figure found.",
+     "Female (%)": "not found for 2026-2027 | Searched Whitman MBA Online Class Profile; the only profile data reflects new student enrollment from Summer 2021 through Spring 2022 (not 2026-2027). No 2026-2027 figure found.",
+     "Accept Rate(%)": "not found for 2026-2027 | Searched Whitman MBA Online Class Profile; the only profile data reflects new student enrollment from Summer 2021 through Spring 2022 (not 2026-2027). No 2026-2027 figure found.",
+     "Total Enrollment": "not found for 2026-2027 | Searched Whitman MBA Online Class Profile; the only profile data reflects new student enrollment from Summer 2021 through Spring 2022 (not 2026-2027). No 2026-2027 figure found.",
+     "Affinity Groups (Yes/No)": "not found for 2026-2027 | Searched Whitman student clubs/online experience pages; only undergraduate clubs (e.g. Whitman Women in Business) found, none stated as open to online MBA students.",
+     "Affinity Groups (brief description)": "not found for 2026-2027 | Searched Whitman student clubs/online experience pages; no affinity groups stated for online MBA students.",
+     "Out-of-State Tuition Per Credit": "not found for 2026-2027 | Page states $2,086 per credit for 2026-27 across all online master's programs but does not say it applies regardless of residency; no separate out-of-state rate stated.",
+     "International Tuition Per Credit": "not found for 2026-2027 | Page states $2,086 per credit for 2026-27 but no separate international rate or statement it applies to international students.",
+     "In-State Tuition Total": "not found for 2026-2027 | Searched Whitman online tuition pages; only a per-credit rate ($2,086, 2026-27) is stated, no total program tuition.",
+     "Out-of-State Tuition Total": "not found for 2026-2027 | Searched Whitman online tuition pages; only a per-credit rate ($2,086, 2026-27) is stated, no total program tuition.",
+     "International Tuition Total": "not found for 2026-2027 | Searched Whitman online tuition pages; only a per-credit rate ($2,086, 2026-27) is stated, no total program tuition.",
+     "Deposit": "not found for 2026-2027 | Searched Whitman online admissions/deposit; a $1000 deposit appears only on the full-time Admitted Graduate Students page, not stated for online programs.",
+     "Deposit Required?": "not found for 2026-2027 | Searched Whitman online admissions/deposit; deposit statement found only on full-time masters admitted-student page.",
+     "Ranking (U.S. News)": "candidate '#75, 2026 Best Online MBA Programs' rejected by code check: value digits not in quote\nhttps://www.usnews.com/education/online-education/syracuse-university-OBUS0608/mba\n\"Syracuse University (Whitman) is ranked No. 75 out of 356 in Best Online MBA Programs\"",
+     "Ranking (Best-Masters.com)": "not found for 2026-2027 | Searched best-masters.com for Syracuse Whitman online MBA; no 2026/2027 rank stated.",
+     "Ranking (QS)": "not found for 2026-2027 | Searched topuniversities.com; no QS rank for the online MBA found.",
+     "Job Placement %": "not found for 2026-2027 | Searched Whitman online outcomes; only a 2023 graduate survey referenced, no 2026/2027 figure.",
+     "Average Post-Grad Salary": "not found for 2026-2027 | Searched Whitman online outcomes; only a 2023 graduate survey referenced, no 2026/2027 figure.",
+     "Average Post-Grad Bonus": "not found for 2026-2027 | Searched Whitman online outcomes; only a 2023 graduate survey referenced, no 2026/2027 figure.",
+     "Affinity Groups Link": "not found for 2026-2027 | No page found proving affinity groups for Whitman online MBA students."
+    }
+   }
+  ]
+ },
+ {
+  "job": "https://fisher.osu.edu/graduate/wpmba/online-mba",
+  "college": "THE OHIO STATE UNIVERSITY",
+  "start_urls": [
+   "https://fisher.osu.edu/graduate/wpmba/online-mba"
+  ],
+  "rows": [
+   {
+    "sheet": "Online MBA",
+    "row": 16,
+    "program": "MBA FOR WORKING PROFESSIONALS",
+    "fields": [
+     "Delivery Model (Led by Full Time faculty or Part Time Adjuncts?)",
+     "Average GMAT",
+     "Average GRE",
+     "Average Undergraduate GPA",
+     "Work Experience (Month)",
+     "Average Student Age",
+     "Class Size",
+     "International (%)",
+     "Female (%)",
+     "Accept Rate(%)",
+     "Total Enrollment",
+     "Deadline Date(s)",
+     "In-State Tuition Per Credit",
+     "Out-of-State Tuition Per Credit",
+     "International Tuition Per Credit",
+     "In-State Tuition Total",
+     "Out-of-State Tuition Total",
+     "International Tuition Total",
+     "Scholarship",
+     "Deposit",
+     "Ranking (U.S. News)",
+     "Ranking (Best-Masters.com)",
+     "Ranking (QS)",
+     "Job Placement %",
+     "Average Post-Grad Salary",
+     "Average Post-Grad Bonus"
+    ],
+    "link_columns": [],
+    "first_pass": {
+     "Delivery Model (Led by Full Time faculty or Part Time Adjuncts?)": "not found for 2026-2027 | Online WPMBA page says courses taught by 'premier faculty and industry experts who teach in all of our MBA programs'; does not state full-time vs adjunct.",
+     "Average GMAT": "not found for 2026-2027 | Searched Fisher WPMBA Incoming Class Profile; data shown is for Autumn 2025 + Spring 2026 + Summer 2026 (2025-2026 cycle), not 2026-2027.",
+     "Average GRE": "not found for 2026-2027 | Searched Fisher WPMBA Incoming Class Profile; data shown is for Autumn 2025 + Spring 2026 + Summer 2026 (2025-2026 cycle), not 2026-2027.",
+     "Average Undergraduate GPA": "not found for 2026-2027 | Searched Fisher WPMBA Incoming Class Profile; data shown is for Autumn 2025 + Spring 2026 + Summer 2026 (2025-2026 cycle), not 2026-2027.",
+     "Work Experience (Month)": "not found for 2026-2027 | Searched Fisher WPMBA Incoming Class Profile; data shown is for Autumn 2025 + Spring 2026 + Summer 2026 (2025-2026 cycle), not 2026-2027.",
+     "Average Student Age": "not found for 2026-2027 | Searched Fisher WPMBA Incoming Class Profile; data shown is for Autumn 2025 + Spring 2026 + Summer 2026 (2025-2026 cycle), not 2026-2027.",
+     "Class Size": "not found for 2026-2027 | Searched Fisher WPMBA Incoming Class Profile; data shown is for Autumn 2025 + Spring 2026 + Summer 2026 (2025-2026 cycle), not 2026-2027.",
+     "International (%)": "not found for 2026-2027 | Searched Fisher WPMBA Incoming Class Profile; data shown is for Autumn 2025 + Spring 2026 + Summer 2026 (2025-2026 cycle), not 2026-2027.",
+     "Female (%)": "not found for 2026-2027 | Searched Fisher WPMBA Incoming Class Profile; data shown is for Autumn 2025 + Spring 2026 + Summer 2026 (2025-2026 cycle), not 2026-2027.",
+     "Accept Rate(%)": "not found for 2026-2027 | Searched Fisher WPMBA Incoming Class Profile; data shown is for Autumn 2025 + Spring 2026 + Summer 2026 (2025-2026 cycle), not 2026-2027.",
+     "Total Enrollment": "not found for 2026-2027 | Searched Fisher WPMBA Incoming Class Profile; data shown is for Autumn 2025 + Spring 2026 + Summer 2026 (2025-2026 cycle), not 2026-2027.",
+     "Deadline Date(s)": "not found for 2026-2027 | Searched Fisher WPMBA Applying and Deadlines for Autumn 2026/Spring 2027/Summer 2027 deadlines; only class start dates (Spring 2027 Jan 11, 2027; Summer 2027 May 10, 2027) returned, no application deadline dates.",
+     "In-State Tuition Per Credit": "not found for 2026-2027 | Searched Fisher WPMBA Tuition & Funding (estimates as of Autumn 2026) and online.osu.edu tuition-and-fees/904; search results did not return the dollar amounts.",
+     "Out-of-State Tuition Per Credit": "not found for 2026-2027 | Searched Fisher WPMBA Tuition & Funding (estimates as of Autumn 2026) and online.osu.edu tuition-and-fees/904; search results did not return the dollar amounts.",
+     "International Tuition Per Credit": "not found for 2026-2027 | Searched Fisher WPMBA Tuition & Funding (estimates as of Autumn 2026) and online.osu.edu tuition-and-fees/904; search results did not return the dollar amounts.",
+     "In-State Tuition Total": "not found for 2026-2027 | Searched Fisher WPMBA Tuition & Funding (estimates as of Autumn 2026) and online.osu.edu tuition-and-fees/904; search results did not return the dollar amounts.",
+     "Out-of-State Tuition Total": "not found for 2026-2027 | Searched Fisher WPMBA Tuition & Funding (estimates as of Autumn 2026) and online.osu.edu tuition-and-fees/904; search results did not return the dollar amounts.",
+     "International Tuition Total": "not found for 2026-2027 | Searched Fisher WPMBA Tuition & Funding (estimates as of Autumn 2026) and online.osu.edu tuition-and-fees/904; search results did not return the dollar amounts.",
+     "Scholarship": "not found for 2026-2027 | Searched Fisher WPMBA scholarships/funding; only Full-Time MBA and Executive MBA scholarship info returned.",
+     "Deposit": "not found for 2026-2027 | Searched Fisher WPMBA deposit; deposit required but amount not stated (only EMBA $250 found).",
+     "Ranking (U.S. News)": "candidate '#50, 2026 Best Online MBA Programs' rejected by code check: value digits not in quote\nhttps://www.usnews.com/education/online-education/the-ohio-state-university-OBUS0446/mba\n\"The Ohio State University (Fisher) is ranked No. 50 out of 364 in Best Online MBA Programs\"",
+     "Ranking (Best-Masters.com)": "not found for 2026-2027 | Searched best-masters.com; Fisher page lists Master of Accounting rank only, no online/WPMBA rank.",
+     "Ranking (QS)": "not found for 2026-2027 | Searched topuniversities.com; no QS rank for the online WPMBA found.",
+     "Job Placement %": "not found for 2026-2027 | Searched WPMBA Career Outcomes; only Class of 2022 salary growth data found, no 2026/2027 placement/salary/bonus.",
+     "Average Post-Grad Salary": "not found for 2026-2027 | Searched WPMBA Career Outcomes; only Class of 2022 salary growth data found, no 2026/2027 placement/salary/bonus.",
+     "Average Post-Grad Bonus": "not found for 2026-2027 | Searched WPMBA Career Outcomes; only Class of 2022 salary growth data found, no 2026/2027 placement/salary/bonus."
+    }
+   }
+  ]
+ },
+ {
+  "job": "https://eller.arizona.edu/programs/mba/online",
+  "college": "UNIVERSITY OF ARIZONA",
+  "start_urls": [
+   "https://eller.arizona.edu/programs/mba/online"
+  ],
+  "rows": [
+   {
+    "sheet": "Online MBA",
+    "row": 17,
+    "program": "BUSINESS ADMINISTRATION",
+    "fields": [
+     "Average GMAT",
+     "Average GRE",
+     "Average Undergraduate GPA",
+     "Work Experience (Month)",
+     "Average Student Age",
+     "Class Size",
+     "International (%)",
+     "Female (%)",
+     "Accept Rate(%)",
+     "Total Enrollment",
+     "Affinity Groups (Yes/No)",
+     "Affinity Groups (brief description)",
+     "Accept 3yr-degree from India? (Y/N)",
+     "Out-of-State Tuition Per Credit",
+     "International Tuition Per Credit",
+     "Out-of-State Tuition Total",
+     "International Tuition Total",
+     "Deposit",
+     "Deposit Required?",
+     "Ranking (Best-Masters.com)",
+     "Ranking (QS)",
+     "Job Placement %",
+     "Average Post-Grad Salary",
+     "Average Post-Grad Bonus"
+    ],
+    "link_columns": [
+     "Affinity Groups Link"
+    ],
+    "first_pass": {
+     "Average GMAT": "not found for 2026-2027 | Searched Eller Online MBA Class Profile page; search results returned no figures for the online MBA (only Professional/Full-time MBA profiles).",
+     "Average GRE": "not found for 2026-2027 | Searched Eller Online MBA Class Profile page; search results returned no figures for the online MBA (only Professional/Full-time MBA profiles).",
+     "Average Undergraduate GPA": "not found for 2026-2027 | Searched Eller Online MBA Class Profile page; search results returned no figures for the online MBA (only Professional/Full-time MBA profiles).",
+     "Work Experience (Month)": "not found for 2026-2027 | Searched Eller Online MBA Class Profile page; search results returned no figures for the online MBA (only Professional/Full-time MBA profiles).",
+     "Average Student Age": "not found for 2026-2027 | Searched Eller Online MBA Class Profile page; search results returned no figures for the online MBA (only Professional/Full-time MBA profiles).",
+     "Class Size": "not found for 2026-2027 | Searched Eller Online MBA Class Profile page; search results returned no figures for the online MBA (only Professional/Full-time MBA profiles).",
+     "International (%)": "not found for 2026-2027 | Searched Eller Online MBA Class Profile page; search results returned no figures for the online MBA (only Professional/Full-time MBA profiles).",
+     "Female (%)": "not found for 2026-2027 | Searched Eller Online MBA Class Profile page; search results returned no figures for the online MBA (only Professional/Full-time MBA profiles).",
+     "Accept Rate(%)": "not found for 2026-2027 | Searched Eller Online MBA Class Profile page; search results returned no figures for the online MBA (only Professional/Full-time MBA profiles).",
+     "Total Enrollment": "not found for 2026-2027 | Searched Eller Online MBA Class Profile page; search results returned no figures for the online MBA (only Professional/Full-time MBA profiles).",
+     "Affinity Groups (Yes/No)": "not found for 2026-2027 | Searched Eller MBA student organizations; only MBASA and HEAL club found, no identity-based affinity groups stated for online MBA students.",
+     "Affinity Groups (brief description)": "not found for 2026-2027 | Searched Eller MBA student organizations/affinity groups; none identified for online MBA.",
+     "Accept 3yr-degree from India? (Y/N)": "not found for 2026-2027 | Searched UArizona Graduate College international/country requirements; India minimum comparable degree not returned in results.",
+     "Out-of-State Tuition Per Credit": "not found for 2026-2027 | Online MBA cost page lists a single per-unit rate ($1,250) without stating it applies to nonresidents.",
+     "International Tuition Per Credit": "not found for 2026-2027 | Online MBA cost page lists a single per-unit rate ($1,250) without stating it applies to international students.",
+     "Out-of-State Tuition Total": "not found for 2026-2027 | Online MBA cost page lists one total ($56,250) without stating it applies to nonresidents.",
+     "International Tuition Total": "not found for 2026-2027 | Online MBA cost page lists one total ($56,250) without stating it applies to international students.",
+     "Deposit": "not found for 2026-2027 | Searched Eller online MBA admissions/deposit; no enrollment deposit stated.",
+     "Deposit Required?": "not found for 2026-2027 | Searched Eller online MBA admissions/deposit; no enrollment deposit stated.",
+     "Ranking (Best-Masters.com)": "not found for 2026-2027 | Searched best-masters.com; no Eller online MBA rank found.",
+     "Ranking (QS)": "not found for 2026-2027 | Searched topuniversities.com; no QS rank for Eller online MBA found.",
+     "Job Placement %": "not found for 2026-2027 | Searched Eller online MBA outcomes; no 2026/2027 employment report for the online MBA found.",
+     "Average Post-Grad Salary": "not found for 2026-2027 | Searched Eller online MBA outcomes; no 2026/2027 employment report for the online MBA found.",
+     "Average Post-Grad Bonus": "not found for 2026-2027 | Searched Eller online MBA outcomes; no 2026/2027 employment report for the online MBA found.",
+     "Affinity Groups Link": "not found for 2026-2027 | No page found proving affinity groups for Eller online MBA students."
+    }
+   }
+  ]
+ }
+]

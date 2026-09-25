@@ -1,0 +1,145 @@
+[
+ {
+  "job": "https://www.rhsmith.umd.edu/programs/online-ms-business-analytics",
+  "college": "UNIVERSITY OF MARYLAND - COLLEGE PARK",
+  "start_urls": [
+   "https://www.rhsmith.umd.edu/programs/online-ms-business-analytics"
+  ],
+  "rows": [
+   {
+    "sheet": "Online MS Business Analytics",
+    "row": 14,
+    "program": "BUSINESS ANALYTICS (ONLINE)",
+    "fields": [
+     "Average GMAT",
+     "Average GRE",
+     "Average Undergraduate GPA",
+     "Work Experience (Month)",
+     "Average Student Age",
+     "Class Size",
+     "International (%)",
+     "Female (%)",
+     "Accept Rate (%)",
+     "On-Campus Options",
+     "Deadline Date(s)",
+     "In-State Tuition Per Credit",
+     "Out-of-State Tuition Per Credit",
+     "International Tuition Per Credit",
+     "In-State Tuition Total",
+     "Out-of-State Tuition Total",
+     "International Tuition Total",
+     "Scholarship",
+     "Ranking (U.S. News)",
+     "Ranking (Best-Masters.com)",
+     "Ranking (QS)",
+     "Job Placement %",
+     "Average Post-Grad Salary",
+     "Average Post-Grad Bonus"
+    ],
+    "link_columns": [],
+    "first_pass": {
+     "Average GMAT": "not found for 2026-2027 | Searched rhsmith.umd.edu for online MSBA class profile / average GMAT; no class profile published (GMAT/GRE waivable).",
+     "Average GRE": "not found for 2026-2027 | Searched rhsmith.umd.edu for online MSBA class profile / average GRE; none published.",
+     "Average Undergraduate GPA": "not found for 2026-2027 | Searched rhsmith.umd.edu for online MSBA class profile GPA; none published.",
+     "Work Experience (Month)": "not found for 2026-2027 | Searched rhsmith.umd.edu for online MSBA average work experience; only Online MBA first-cohort data found, not this program.",
+     "Average Student Age": "not found for 2026-2027 | Searched rhsmith.umd.edu for online MSBA average age; none published for this program.",
+     "Class Size": "not found for 2026-2027 | Searched rhsmith.umd.edu for online MSBA cohort size; none published.",
+     "International (%)": "not found for 2026-2027 | Searched rhsmith.umd.edu for online MSBA international %; none published.",
+     "Female (%)": "not found for 2026-2027 | Searched rhsmith.umd.edu for online MSBA women %; none published.",
+     "Accept Rate (%)": "not found for 2026-2027 | Searched rhsmith.umd.edu for online MSBA acceptance rate; none published.",
+     "On-Campus Options": "not found for 2026-2027 | Searched rhsmith.umd.edu for online MSBA residency/immersion/on-campus options; program page describes live online sessions, no on-campus option stated.",
+     "Deadline Date(s)": "not found for 2026-2027 | Searched rhsmith.umd.edu for online MSBA Fall 2026 / Spring 2027 deadlines; only Fall 2027 business master's deadlines (next cycle) found; no Spring 2027 date for online program.",
+     "In-State Tuition Per Credit": "not found for 2026-2027 | Searched networth.rhsmith.umd.edu 'Tuition & Fees Online MS' 2026-2027 per credit; page says 2026-2027 tuition billed per credit by residency but online MS rates not shown in results ($1,631 figure is for in-person MS/general and also matches Fall 2025).",
+     "Out-of-State Tuition Per Credit": "not found for 2026-2027 | Searched networth.rhsmith.umd.edu for 2026-2027 online MS non-resident per-credit rate; not shown.",
+     "International Tuition Per Credit": "not found for 2026-2027 | Searched networth.rhsmith.umd.edu for 2026-2027 online MS international per-credit rate; not shown.",
+     "In-State Tuition Total": "not found for 2026-2027 | Searched rhsmith.umd.edu for online MSBA total program cost 2026-2027; none stated.",
+     "Out-of-State Tuition Total": "not found for 2026-2027 | Searched rhsmith.umd.edu for online MSBA total program cost 2026-2027; none stated.",
+     "International Tuition Total": "not found for 2026-2027 | Searched rhsmith.umd.edu for online MSBA total program cost 2026-2027; none stated.",
+     "Scholarship": "NOT VERIFIED - review | Live site confirms the $10,000 Double Terp award and FedGrant (30% tuition reduction), but the $5,000-$15,000 merit range and 15% corporate-partner reduction were found only on the www-dev staging page.\nhttps://www-dev.rhsmith.umd.edu/programs/online-ms-business-analytics/adm",
+     "Ranking (U.S. News)": "not found for 2026-2027 | Searched rhsmith.umd.edu for online MSBA U.S. News 2026 rank; site says 'ranked Top 10 in the U.S.' without publisher/edition; U.S. News No. 9 cited is for Online MBA.",
+     "Ranking (Best-Masters.com)": "not found for 2026-2027 | Searched rhsmith.umd.edu for Best-Masters ranking of online MSBA; none cited.",
+     "Ranking (QS)": "not found for 2026-2027 | Searched rhsmith.umd.edu for QS ranking of online MSBA 2026/2027; none cited.",
+     "Job Placement %": "candidate 'More than 4 in 5 within 180 days' rejected by verifier: Check 4: the 'more than 4 in 5 within 180 days' figure is attributed on the live program page to UMD Smith Office of Career Services (2025) data and to business master's graduates generally, not a 2026/2027 report.\nhttps://careers.rh",
+     "Average Post-Grad Salary": "candidate '$87K' rejected by verifier: Check 4: the $87K average is cited on the live program page as UMD Smith Office of Career Services (2025) data for recent business master's graduates, not a 2026/2027 report.\nhttps://careers.rhsmith.umd.edu/outcomes/\n\"Online MS in Business Analytics and AI: Rec",
+     "Average Post-Grad Bonus": "not found for 2026-2027 | Searched rhsmith.umd.edu employment reports for online MSBA signing bonus; none stated."
+    }
+   }
+  ]
+ },
+ {
+  "job": "https://masters.econ.umd.edu/online-program/",
+  "college": "UNIVERSITY OF MARYLAND-COLLEGE PARK",
+  "start_urls": [
+   "https://masters.econ.umd.edu/online-program/"
+  ],
+  "rows": [
+   {
+    "sheet": "Online MS Economics",
+    "row": 12,
+    "program": "APPLIED ECONOMICS (OFF-CAMPUS)",
+    "fields": [
+     "Average GMAT",
+     "Average GRE",
+     "Average Undergraduate GPA",
+     "Work Experience (Month)",
+     "Average Student Age",
+     "Class Size",
+     "International (%)",
+     "Female (%)",
+     "Accept Rate (%)",
+     "Experiential Learning Courses / Opportunities (Yes/No)",
+     "Experiential Learning Courses / Opportunities (brief description)",
+     "Affinity Groups (Yes/No)",
+     "Affinity Groups (brief description)",
+     "In-State Tuition Per Credit",
+     "Out-of-State Tuition Per Credit",
+     "International Tuition Per Credit",
+     "In-State Tuition Total",
+     "Out-of-State Tuition Total",
+     "International Tuition Total",
+     "Scholarship",
+     "Deposit",
+     "Ranking (U.S. News)",
+     "Ranking (Best-Masters.com)",
+     "Ranking (QS)",
+     "Average Post-Grad Salary",
+     "Average Post-Grad Bonus"
+    ],
+    "link_columns": [
+     "Experiential Learning Courses / Opportunities Link",
+     "Affinity Groups Link"
+    ],
+    "first_pass": {
+     "Average GMAT": "not found for 2026-2027 | Searched masters.econ.umd.edu for class profile; program does not require GMAT/GRE, no average published.",
+     "Average GRE": "not found for 2026-2027 | Searched masters.econ.umd.edu; 'does not require GRE scores', no average published.",
+     "Average Undergraduate GPA": "not found for 2026-2027 | Searched masters.econ.umd.edu for average GPA; only guideline 'cumulative undergraduate GPA of 3.0 or better' (not an average).",
+     "Work Experience (Month)": "not found for 2026-2027 | Searched masters.econ.umd.edu for student profile work experience; none published.",
+     "Average Student Age": "not found for 2026-2027 | Searched masters.econ.umd.edu for average age; none published.",
+     "Class Size": "not found for 2026-2027 | Searched masters.econ.umd.edu for class size; none published.",
+     "International (%)": "not found for 2026-2027 | Searched masters.econ.umd.edu for international %; none published.",
+     "Female (%)": "not found for 2026-2027 | Searched masters.econ.umd.edu for women %; none published.",
+     "Accept Rate (%)": "not found for 2026-2027 | Searched masters.econ.umd.edu for acceptance rate; none published.",
+     "Experiential Learning Courses / Opportunities (Yes/No)": "not found for 2026-2027 | Searched masters.econ.umd.edu for capstone / practicum / experiential learning; none stated.",
+     "Experiential Learning Courses / Opportunities (brief description)": "not found for 2026-2027 | Searched masters.econ.umd.edu for capstone / practicum / experiential learning; none stated.",
+     "Affinity Groups (Yes/No)": "not found for 2026-2027 | Searched masters.econ.umd.edu / econ.umd.edu for student organizations / affinity groups for MS Applied Economics students; none found.",
+     "Affinity Groups (brief description)": "not found for 2026-2027 | Searched masters.econ.umd.edu / econ.umd.edu for affinity groups; none found.",
+     "In-State Tuition Per Credit": "candidate '$4,628 per course (3 credits; page gives per-course rate only)' rejected by code check: value digits not in quote\nhttps://masters.econ.umd.edu/tuition-cost-attendance/\n\"The M.S. in Applied Economics program's tuition is $4,628 per course for academic year 2026-27. Tuition per course is id",
+     "Out-of-State Tuition Per Credit": "candidate '$4,628 per course (3 credits; page gives per-course rate only)' rejected by code check: value digits not in quote\nhttps://masters.econ.umd.edu/tuition-cost-attendance/\n\"The M.S. in Applied Economics program's tuition is $4,628 per course for academic year 2026-27. Tuition per course is id",
+     "International Tuition Per Credit": "not found for 2026-2027 | Tuition page gives $4,628 per course for 2026-27 for in-state and out-of-state; does not state the rate applies to international students (only a $125/semester I-20 fee for full-time visa students).",
+     "In-State Tuition Total": "not found for 2026-2027 | Searched masters.econ.umd.edu tuition page; only $4,628 per course for 2026-27 stated, no program total stated.",
+     "Out-of-State Tuition Total": "not found for 2026-2027 | Searched masters.econ.umd.edu tuition page; no program total stated.",
+     "International Tuition Total": "not found for 2026-2027 | Searched masters.econ.umd.edu tuition page; no program total stated.",
+     "Scholarship": "not found for 2026-2027 | Searched masters.econ.umd.edu for scholarships/financial aid; none stated (only application fee waiver).",
+     "Deposit": "not found for 2026-2027 | Searched masters.econ.umd.edu for enrollment deposit; none stated.",
+     "Ranking (U.S. News)": "not found for 2026-2027 | Searched masters.econ.umd.edu; only TFE Times ranking cited, no U.S. News rank.",
+     "Ranking (Best-Masters.com)": "not found for 2026-2027 | Searched masters.econ.umd.edu; no Best-Masters ranking cited.",
+     "Ranking (QS)": "not found for 2026-2027 | Searched masters.econ.umd.edu; no QS ranking cited.",
+     "Average Post-Grad Salary": "not found for 2026-2027 | Searched masters.econ.umd.edu placement page for average salary; no figure stated.",
+     "Average Post-Grad Bonus": "not found for 2026-2027 | Searched masters.econ.umd.edu placement page for bonus; none stated.",
+     "Experiential Learning Courses / Opportunities Link": "not found for 2026-2027 | No experiential learning page found on masters.econ.umd.edu.",
+     "Affinity Groups Link": "not found for 2026-2027 | No affinity group page found."
+    }
+   }
+  ]
+ }
+]
