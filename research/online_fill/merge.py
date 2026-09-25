@@ -69,15 +69,22 @@ def code_check(f: dict, verified: bool = False) -> str | None:
 
 def main() -> None:
     findings, verdicts = read_jsonl("findings/batch_*.jsonl"), read_jsonl("verify/batch_*.jsonl")
+    # second pass (retry/): a value it found replaces the first pass's finding and verdict for that cell
+    retry_verdicts, retry_misses = read_jsonl("retry/verify/batch_*.jsonl"), {}
+    for key, f in read_jsonl("retry/findings/batch_*.jsonl").items():
+        if f.get("status") == "found":
+            findings[key], verdicts[key] = f, retry_verdicts.get(key, {})
+        else:
+            retry_misses[key] = f.get("quote") or ""
     frames = load_frames(str(SRC))
     changed: dict[str, list] = {}
     stats = {"verified": 0, "unverified": 0, "rejected_by_code": 0, "rejected_by_verifier": 0, "not_found": 0,
              "not_published": 0, "no_program": 0}
     rejects = []
 
-    def put(sheet, df, row, col, value, note):
+    def put(sheet, df, row, col, value, note, link=""):
         df.at[row, col] = value
-        changed.setdefault(sheet, []).append((row, col, note))
+        changed.setdefault(sheet, []).append((row, col, note, link))
 
     for sheet, df in frames.items():
         if not sheet.startswith("Online") or df.empty or website_column(df) is None:
@@ -108,6 +115,8 @@ def main() -> None:
                 f = findings.get((sheet, row + 2, col))
                 if not f or f.get("status") != "found":
                     why = (f or {}).get("quote") or "no finding"
+                    if (miss := retry_misses.get((sheet, row + 2, col))) is not None:
+                        why = f"second pass: {miss} | first pass: {why}"
                     put(sheet, df, row, col, NOT_FOUND, f"not found for 2026-2027 | {why}"[:900])
                     stats["not_found"] += 1
                     continue
@@ -122,12 +131,13 @@ def main() -> None:
                 if v.get("verdict") == "correct":
                     value = str(v.get("corrected_value") or "").strip() or f["value"]
                     put(sheet, df, row, col, value, f"verified (research + verification agents, web search) | "
-                                                    f"{v.get('reason', '')}\n{src}"[:900])
+                                                    f"{v.get('reason', '')}\n{src}"[:900],
+                        v.get("source_url") or f.get("source_url"))
                     stats["verified"] += 1
                 elif v.get("verdict") == "incorrect" and (fix := str(v.get("corrected_value") or "").strip()) \
                         and not CTX.cycle_violation(f"{fix} {v.get('reason', '')}", "deadline" in col.casefold()):
                     put(sheet, df, row, col, fix, f"corrected by verification agent (research value {f['value']!r} "
-                                                  f"was wrong): {v.get('reason')}\n{v.get('source_url')}"[:900])
+                                                  f"was wrong): {v.get('reason')}\n{v.get('source_url')}"[:900], v.get("source_url"))
                     stats["verifier_corrected"] = stats.get("verifier_corrected", 0) + 1
                 elif v.get("verdict") == "incorrect":
                     rejects.append({**f, "rejected": f"verifier: {v.get('reason')}"})
@@ -136,7 +146,7 @@ def main() -> None:
                     stats["rejected_by_verifier"] += 1
                 else:
                     put(sheet, df, row, col, f"UNVERIFIED: {f['value']}", f"NOT VERIFIED - review | "
-                        f"{v.get('reason') or 'verifier could not re-confirm'}\n{src}"[:900])
+                        f"{v.get('reason') or 'verifier could not re-confirm'}\n{src}"[:900], f.get("source_url"))
                     stats["unverified"] += 1
     write_back(str(SRC), str(DEST), frames, changed)
     (HERE / "merge_report.json").write_text(json.dumps({"stats": stats, "rejected": rejects}, indent=1))

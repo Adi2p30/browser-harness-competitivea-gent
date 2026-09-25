@@ -1,0 +1,59 @@
+[
+ {
+  "job": "https://mba.wsu.edu/mba/",
+  "college": "WASHINGTON STATE UNIVERSITY- PULLMAN",
+  "start_urls": [
+   "https://mba.wsu.edu/mba/"
+  ],
+  "rows": [
+   {
+    "sheet": "Online MBA",
+    "row": 27,
+    "program": "BUSINESS ADMINISTRATION",
+    "fields": [
+     "Delivery Model (Led by Full Time faculty or Part Time Adjuncts?)",
+     "On-Campus Options - Are they offered to online students? (Y/N)",
+     "Average GMAT",
+     "Average GRE",
+     "Average Undergraduate GPA",
+     "Work Experience (Month)",
+     "Average Student Age",
+     "Class Size",
+     "International (%)",
+     "Female (%)",
+     "Accept Rate(%)",
+     "Total Enrollment",
+     "Deposit",
+     "Deposit Required?",
+     "Ranking (Best-Masters.com)",
+     "Ranking (QS)",
+     "Job Placement %",
+     "Average Post-Grad Salary",
+     "Average Post-Grad Bonus"
+    ],
+    "link_columns": [],
+    "first_pass": {
+     "Delivery Model (Led by Full Time faculty or Part Time Adjuncts?)": "not found for 2026-2027 | Searched mba.wsu.edu/mba/faculty/ and FAQ; pages describe 'dedicated faculty members' but do not state full-time vs adjunct status.",
+     "On-Campus Options - Are they offered to online students? (Y/N)": "candidate 'No - no required in-person meetings; optional international field study abroad' rejected by verifier: Check 2/5: the quote only says in-person meetings are not required; the same FAQ says graduates are invited to on-campus commencement and students to events, so it does not support 'No' o",
+     "Average GMAT": "not found for 2026-2027 | Searched mba.wsu.edu / onlinemba.wsu.edu for Online MBA class profile (averages, age, class size, international, women, acceptance, enrollment); no class profile published.",
+     "Average GRE": "not found for 2026-2027 | Searched mba.wsu.edu / onlinemba.wsu.edu for Online MBA class profile (averages, age, class size, international, women, acceptance, enrollment); no class profile published.",
+     "Average Undergraduate GPA": "not found for 2026-2027 | Searched mba.wsu.edu / onlinemba.wsu.edu for Online MBA class profile (averages, age, class size, international, women, acceptance, enrollment); no class profile published. Only 'Most successful candidates have achieved at least a 3.0 GPA' (a minimum, not an average).",
+     "Work Experience (Month)": "not found for 2026-2027 | Searched mba.wsu.edu / onlinemba.wsu.edu for Online MBA class profile (averages, age, class size, international, women, acceptance, enrollment); no class profile published. Page states no minimum work experience needed.",
+     "Average Student Age": "not found for 2026-2027 | Searched mba.wsu.edu / onlinemba.wsu.edu for Online MBA class profile (averages, age, class size, international, women, acceptance, enrollment); no class profile published.",
+     "Class Size": "not found for 2026-2027 | Searched mba.wsu.edu / onlinemba.wsu.edu for Online MBA class profile (averages, age, class size, international, women, acceptance, enrollment); no class profile published.",
+     "International (%)": "not found for 2026-2027 | Searched mba.wsu.edu / onlinemba.wsu.edu for Online MBA class profile (averages, age, class size, international, women, acceptance, enrollment); no class profile published.",
+     "Female (%)": "not found for 2026-2027 | Searched mba.wsu.edu / onlinemba.wsu.edu for Online MBA class profile (averages, age, class size, international, women, acceptance, enrollment); no class profile published.",
+     "Accept Rate(%)": "not found for 2026-2027 | Searched mba.wsu.edu / onlinemba.wsu.edu for Online MBA class profile (averages, age, class size, international, women, acceptance, enrollment); no class profile published.",
+     "Total Enrollment": "not found for 2026-2027 | Searched mba.wsu.edu / onlinemba.wsu.edu for Online MBA class profile (averages, age, class size, international, women, acceptance, enrollment); no class profile published.",
+     "Deposit": "not found for 2026-2027 | Searched mba.wsu.edu admissions/tuition/FAQ for enrollment deposit; none stated.",
+     "Deposit Required?": "not found for 2026-2027 | Searched mba.wsu.edu admissions/tuition/FAQ for enrollment deposit; none stated.",
+     "Ranking (Best-Masters.com)": "not found for 2026-2027 | Searched wsu.edu and best-masters.com for WSU online MBA Best-Masters ranking; none found.",
+     "Ranking (QS)": "not found for 2026-2027 | Searched wsu.edu and topuniversities.com for QS online MBA ranking 2026; none found.",
+     "Job Placement %": "not found for 2026-2027 | Searched mba.wsu.edu careers pages for employment report; none published for Online MBA.",
+     "Average Post-Grad Salary": "not found for 2026-2027 | Searched mba.wsu.edu careers pages for employment report salary; none published.",
+     "Average Post-Grad Bonus": "not found for 2026-2027 | Searched mba.wsu.edu careers pages for signing bonus; none published."
+    }
+   }
+  ]
+ }
+]

@@ -1,0 +1,135 @@
+[
+ {
+  "job": "https://www.online.uc.edu/degrees-programs/bachelors-required/masters/ms-business-analytics-bana.html",
+  "college": "UNIVERSITY OF CINCINNATI",
+  "start_urls": [
+   "https://www.online.uc.edu/degrees-programs/bachelors-required/masters/ms-business-analytics-bana.html"
+  ],
+  "rows": [
+   {
+    "sheet": "Online MS Business Analytics",
+    "row": 12,
+    "program": "BUSINESS ADMIN BUS ANALYTICS",
+    "fields": [
+     "Average GMAT",
+     "Average GRE",
+     "Average Undergraduate GPA",
+     "Work Experience (Month)",
+     "Average Student Age",
+     "Class Size",
+     "International (%)",
+     "Female (%)",
+     "Accept Rate (%)",
+     "Deadline Date(s)",
+     "Affinity Groups (Yes/No)",
+     "Affinity Groups (brief description)",
+     "In-State Tuition Per Credit",
+     "Out-of-State Tuition Per Credit",
+     "International Tuition Per Credit",
+     "In-State Tuition Total",
+     "Out-of-State Tuition Total",
+     "International Tuition Total",
+     "Scholarship",
+     "Deposit",
+     "Ranking (U.S. News)",
+     "Ranking (Best-Masters.com)",
+     "Job Placement %",
+     "Average Post-Grad Salary",
+     "Average Post-Grad Bonus"
+    ],
+    "link_columns": [
+     "Affinity Groups Link"
+    ],
+    "first_pass": {
+     "Average GMAT": "not found for 2026-2027 | Searched uc.edu/business.uc.edu/online.uc.edu for class profile (average GMAT/GRE/GPA, work experience, age, class size, international %, women %, acceptance rate); no class profile published. (online MSBA).",
+     "Average GRE": "not found for 2026-2027 | Searched uc.edu/business.uc.edu/online.uc.edu for class profile (average GMAT/GRE/GPA, work experience, age, class size, international %, women %, acceptance rate); no class profile published. (online MSBA).",
+     "Average Undergraduate GPA": "not found for 2026-2027 | Searched uc.edu/business.uc.edu/online.uc.edu for class profile (average GMAT/GRE/GPA, work experience, age, class size, international %, women %, acceptance rate); no class profile published. (online MSBA).",
+     "Work Experience (Month)": "not found for 2026-2027 | Searched uc.edu/business.uc.edu/online.uc.edu for class profile (average GMAT/GRE/GPA, work experience, age, class size, international %, women %, acceptance rate); no class profile published. (online MSBA).",
+     "Average Student Age": "not found for 2026-2027 | Searched uc.edu/business.uc.edu/online.uc.edu for class profile (average GMAT/GRE/GPA, work experience, age, class size, international %, women %, acceptance rate); no class profile published. (online MSBA).",
+     "Class Size": "not found for 2026-2027 | Searched uc.edu/business.uc.edu/online.uc.edu for class profile (average GMAT/GRE/GPA, work experience, age, class size, international %, women %, acceptance rate); no class profile published. (online MSBA).",
+     "International (%)": "not found for 2026-2027 | Searched uc.edu/business.uc.edu/online.uc.edu for class profile (average GMAT/GRE/GPA, work experience, age, class size, international %, women %, acceptance rate); no class profile published. (online MSBA).",
+     "Female (%)": "not found for 2026-2027 | Searched uc.edu/business.uc.edu/online.uc.edu for class profile (average GMAT/GRE/GPA, work experience, age, class size, international %, women %, acceptance rate); no class profile published. (online MSBA).",
+     "Accept Rate (%)": "not found for 2026-2027 | Searched uc.edu/business.uc.edu/online.uc.edu for class profile (average GMAT/GRE/GPA, work experience, age, class size, international %, women %, acceptance rate); no class profile published. (online MSBA).",
+     "Deadline Date(s)": "not found for 2026-2027 | Searched online.uc.edu/uc.edu for online MSBA Fall 2026/Spring 2027 deadlines; the UC Online calendar page (online.uc.edu/masters-programs/ms-business-analytics/calendar/) content was not returned; Lindner deadlines page dates not visible in results.",
+     "Affinity Groups (Yes/No)": "not found for 2026-2027 | Searched online.uc.edu for student organizations/affinity groups open to online students; UC Online pages list career and academic support but no student organizations for online learners.",
+     "Affinity Groups (brief description)": "not found for 2026-2027 | Searched online.uc.edu for affinity groups for online MSBA students; none found.",
+     "In-State Tuition Per Credit": "not found for 2026-2027 | Searched online.uc.edu program fees / MSBA tuition page and uc.edu bursar 2026-27 graduate rates; results only point to the Online Program Fees page ('online course fees differ depending on the program', non-resident fee applies) without any dollar amounts.",
+     "Out-of-State Tuition Per Credit": "not found for 2026-2027 | Searched online.uc.edu program fees / MSBA tuition page and uc.edu bursar 2026-27 graduate rates; results only point to the Online Program Fees page ('online course fees differ depending on the program', non-resident fee applies) without any dollar amounts.",
+     "International Tuition Per Credit": "not found for 2026-2027 | Searched online.uc.edu program fees / MSBA tuition page and uc.edu bursar 2026-27 graduate rates; results only point to the Online Program Fees page ('online course fees differ depending on the program', non-resident fee applies) without any dollar amounts.",
+     "In-State Tuition Total": "not found for 2026-2027 | Searched online.uc.edu program fees / MSBA tuition page and uc.edu bursar 2026-27 graduate rates; results only point to the Online Program Fees page ('online course fees differ depending on the program', non-resident fee applies) without any dollar amounts.",
+     "Out-of-State Tuition Total": "not found for 2026-2027 | Searched online.uc.edu program fees / MSBA tuition page and uc.edu bursar 2026-27 graduate rates; results only point to the Online Program Fees page ('online course fees differ depending on the program', non-resident fee applies) without any dollar amounts.",
+     "International Tuition Total": "not found for 2026-2027 | Searched online.uc.edu program fees / MSBA tuition page and uc.edu bursar 2026-27 graduate rates; results only point to the Online Program Fees page ('online course fees differ depending on the program', non-resident fee applies) without any dollar amounts.",
+     "Scholarship": "not found for 2026-2027 | Searched online.uc.edu/uc.edu for online MSBA scholarships; Lindner merit scholarships are stated for incoming full-time students only; nothing specific to the online MSBA found.",
+     "Deposit": "not found for 2026-2027 | Searched for online MSBA enrollment deposit; Lindner pages mention a 'matriculation fee' but no amount, nothing for UC Online.",
+     "Ranking (U.S. News)": "not found for 2026-2027 | Searched uc.edu/usnews.com; UC news cites U.S. News 2026 ranking of online graduate business programs (No. 45) but no U.S. News rank for the online MS Business Analytics itself.",
+     "Ranking (Best-Masters.com)": "candidate '#14, Best Masters Data Analytics in U.S.A. 2026' rejected by verifier: Best-Masters #14 (2026) ranks the UC 'Business Analytics' master generally; nothing confirms it is the online version rather than the on-campus program (check 3).\nhttps://www.best-masters.com/ranking-master-in-usa/mast",
+     "Job Placement %": "not found for 2026-2027 | Searched online.uc.edu/business.uc.edu for online MSBA employment outcomes; none published.",
+     "Average Post-Grad Salary": "not found for 2026-2027 | Searched for online MSBA salary outcomes; none published.",
+     "Average Post-Grad Bonus": "not found for 2026-2027 | Searched for online MSBA bonus; none published.",
+     "Affinity Groups Link": "not found for 2026-2027 | No page found showing affinity groups open to online MSBA students."
+    }
+   }
+  ]
+ },
+ {
+  "job": "https://www.business.uc.edu/programs-degrees/graduate/specialized-masters/applied-economics.html",
+  "college": "UNIVERSITY OF CINCINNATI",
+  "start_urls": [
+   "https://www.business.uc.edu/programs-degrees/graduate/specialized-masters/applied-economics.html"
+  ],
+  "rows": [
+   {
+    "sheet": "Online MS Economics",
+    "row": 11,
+    "program": "APPLIED ECONOMICS",
+    "fields": [
+     "Average GMAT",
+     "Average GRE",
+     "Average Undergraduate GPA",
+     "Work Experience (Month)",
+     "Average Student Age",
+     "Class Size",
+     "International (%)",
+     "Female (%)",
+     "Accept Rate (%)",
+     "In-State Tuition Per Credit",
+     "Out-of-State Tuition Per Credit",
+     "International Tuition Per Credit",
+     "In-State Tuition Total",
+     "Out-of-State Tuition Total",
+     "International Tuition Total",
+     "Deposit",
+     "Ranking (U.S. News)",
+     "Ranking (Best-Masters.com)",
+     "Ranking (QS)",
+     "Average Post-Grad Salary",
+     "Average Post-Grad Bonus"
+    ],
+    "link_columns": [],
+    "first_pass": {
+     "Average GMAT": "not found for 2026-2027 | Searched uc.edu/business.uc.edu/online.uc.edu for class profile (average GMAT/GRE/GPA, work experience, age, class size, international %, women %, acceptance rate); no class profile published. (MS Applied Economics).",
+     "Average GRE": "not found for 2026-2027 | Searched uc.edu/business.uc.edu/online.uc.edu for class profile (average GMAT/GRE/GPA, work experience, age, class size, international %, women %, acceptance rate); no class profile published. (MS Applied Economics).",
+     "Average Undergraduate GPA": "not found for 2026-2027 | Searched uc.edu/business.uc.edu/online.uc.edu for class profile (average GMAT/GRE/GPA, work experience, age, class size, international %, women %, acceptance rate); no class profile published. (MS Applied Economics).",
+     "Work Experience (Month)": "not found for 2026-2027 | Searched uc.edu/business.uc.edu/online.uc.edu for class profile (average GMAT/GRE/GPA, work experience, age, class size, international %, women %, acceptance rate); no class profile published. (MS Applied Economics).",
+     "Average Student Age": "not found for 2026-2027 | Searched uc.edu/business.uc.edu/online.uc.edu for class profile (average GMAT/GRE/GPA, work experience, age, class size, international %, women %, acceptance rate); no class profile published. (MS Applied Economics).",
+     "Class Size": "not found for 2026-2027 | Searched uc.edu/business.uc.edu/online.uc.edu for class profile (average GMAT/GRE/GPA, work experience, age, class size, international %, women %, acceptance rate); no class profile published. (MS Applied Economics).",
+     "International (%)": "not found for 2026-2027 | Searched uc.edu/business.uc.edu/online.uc.edu for class profile (average GMAT/GRE/GPA, work experience, age, class size, international %, women %, acceptance rate); no class profile published. (MS Applied Economics).",
+     "Female (%)": "not found for 2026-2027 | Searched uc.edu/business.uc.edu/online.uc.edu for class profile (average GMAT/GRE/GPA, work experience, age, class size, international %, women %, acceptance rate); no class profile published. (MS Applied Economics).",
+     "Accept Rate (%)": "not found for 2026-2027 | Searched uc.edu/business.uc.edu/online.uc.edu for class profile (average GMAT/GRE/GPA, work experience, age, class size, international %, women %, acceptance rate); no class profile published. (MS Applied Economics).",
+     "In-State Tuition Per Credit": "not found for 2026-2027 | Searched business.uc.edu tuition & fees and uc.edu bursar 2026-27 graduate rates; Lindner moves to per-credit-hour tuition effective Fall 2026 but no dollar amounts were returned in results.",
+     "Out-of-State Tuition Per Credit": "not found for 2026-2027 | Searched business.uc.edu tuition & fees and uc.edu bursar 2026-27 graduate rates; Lindner moves to per-credit-hour tuition effective Fall 2026 but no dollar amounts were returned in results.",
+     "International Tuition Per Credit": "not found for 2026-2027 | Searched business.uc.edu tuition & fees and uc.edu bursar 2026-27 graduate rates; Lindner moves to per-credit-hour tuition effective Fall 2026 but no dollar amounts were returned in results.",
+     "In-State Tuition Total": "not found for 2026-2027 | Searched business.uc.edu tuition & fees and uc.edu bursar 2026-27 graduate rates; Lindner moves to per-credit-hour tuition effective Fall 2026 but no dollar amounts were returned in results.",
+     "Out-of-State Tuition Total": "not found for 2026-2027 | Searched business.uc.edu tuition & fees and uc.edu bursar 2026-27 graduate rates; Lindner moves to per-credit-hour tuition effective Fall 2026 but no dollar amounts were returned in results.",
+     "International Tuition Total": "not found for 2026-2027 | Searched business.uc.edu tuition & fees and uc.edu bursar 2026-27 graduate rates; Lindner moves to per-credit-hour tuition effective Fall 2026 but no dollar amounts were returned in results.",
+     "Deposit": "not found for 2026-2027 | Searched business.uc.edu for enrollment deposit; pages mention admitted students 'confirmed with payment of matriculation fee' but no amount stated.",
+     "Ranking (U.S. News)": "not found for 2026-2027 | Searched uc.edu/usnews.com; no U.S. News rank for MS Applied Economics (program page only says 'top ten applied economics programs' with no publisher/edition).",
+     "Ranking (Best-Masters.com)": "not found for 2026-2027 | Searched best-masters.com 2026 Economics USA ranking; University of Cincinnati not shown in results.",
+     "Ranking (QS)": "not found for 2026-2027 | Searched topuniversities.com/uc.edu; program listing found but no 2026 QS rank for MS Applied Economics.",
+     "Average Post-Grad Salary": "not found for 2026-2027 | Conflicting undated figures on business.uc.edu ('in excess of $77,000', 'in excess of $80,500', '$80K', 'over the past five years'); not attributable to a 2026-2027 report.",
+     "Average Post-Grad Bonus": "not found for 2026-2027 | Searched business.uc.edu for applied economics signing bonus; none published."
+    }
+   }
+  ]
+ }
+]

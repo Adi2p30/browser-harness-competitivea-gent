@@ -1,0 +1,226 @@
+[
+ {
+  "job": "https://www.butler.edu/plus/program/online-mba-program/",
+  "college": "BUTLER UNIVERSITY",
+  "start_urls": [
+   "https://www.butler.edu/plus/program/online-mba-program/"
+  ],
+  "rows": [
+   {
+    "sheet": "Online MBA",
+    "row": 4,
+    "program": "BUSINESS ADMINISTRATION",
+    "fields": [
+     "Average GMAT",
+     "Average GRE",
+     "Average Undergraduate GPA",
+     "Work Experience (Month)",
+     "Average Student Age",
+     "Class Size",
+     "International (%)",
+     "Female (%)",
+     "Accept Rate(%)",
+     "Total Enrollment",
+     "Deadline Date(s)",
+     "Affinity Groups (Yes/No)",
+     "Affinity Groups (brief description)",
+     "Accept 3yr-degree from India? (Y/N)",
+     "In-State Tuition Per Credit",
+     "Out-of-State Tuition Per Credit",
+     "International Tuition Per Credit",
+     "Out-of-State Tuition Total",
+     "International Tuition Total",
+     "Scholarship",
+     "Ranking (Best-Masters.com)",
+     "Ranking (QS)",
+     "Job Placement %",
+     "Average Post-Grad Salary",
+     "Average Post-Grad Bonus"
+    ],
+    "link_columns": [
+     "Affinity Groups Link"
+    ],
+    "first_pass": {
+     "Average GMAT": "not found for 2026-2027 | Searched butler.edu for MBA class profile (average GMAT/GRE/GPA/age/work experience/women); no class profile published.",
+     "Average GRE": "not found for 2026-2027 | Searched butler.edu for MBA class profile (average GMAT/GRE/GPA/age/work experience/women); no class profile published.",
+     "Average Undergraduate GPA": "not found for 2026-2027 | Searched butler.edu for MBA class profile (average GMAT/GRE/GPA/age/work experience/women); no class profile published.",
+     "Work Experience (Month)": "not found for 2026-2027 | Searched butler.edu for MBA class profile (average GMAT/GRE/GPA/age/work experience/women); no class profile published.",
+     "Average Student Age": "not found for 2026-2027 | Searched butler.edu for MBA class profile (average GMAT/GRE/GPA/age/work experience/women); no class profile published.",
+     "Class Size": "not found for 2026-2027 | Searched butler.edu class profile; only 'small class sizes capped at 30 students' (a cap, not a class size).",
+     "International (%)": "not found for 2026-2027 | Searched butler.edu for MBA class profile (average GMAT/GRE/GPA/age/work experience/women); no class profile published.",
+     "Female (%)": "not found for 2026-2027 | Searched butler.edu for MBA class profile (average GMAT/GRE/GPA/age/work experience/women); no class profile published.",
+     "Accept Rate(%)": "not found for 2026-2027 | Searched butler.edu for MBA class profile (average GMAT/GRE/GPA/age/work experience/women); no class profile published.",
+     "Total Enrollment": "not found for 2026-2027 | Searched butler.edu for MBA class profile (average GMAT/GRE/GPA/age/work experience/women); no class profile published.",
+     "Deadline Date(s)": "candidate 'Spring: Dec 10; Summer (online MBA only): Apr 1; Fall: Jul 15 (pending available space)' rejected by verifier: butler.edu MBA admission page gives December 1 (not December 10) for spring; pages conflict and neither ties the dates to 2026-2027.\nhttps://online.butler.edu/online-mba/admissio",
+     "Affinity Groups (Yes/No)": "not found for 2026-2027 | Searched butler.edu MBA student organizations/affinity groups; only campus-wide DEI/undergraduate groups and faculty affinity groups found, none stated as open to online MBA students.",
+     "Affinity Groups (brief description)": "not found for 2026-2027 | Searched butler.edu MBA student organizations/affinity groups; only campus-wide DEI/undergraduate groups and faculty affinity groups found, none stated as open to online MBA students.",
+     "Accept 3yr-degree from India? (Y/N)": "not found for 2026-2027 | Searched butler.edu MBA/international admission; only 'baccalaureate degree from an accredited institution or the international equivalent'; three-year Indian degree not addressed.",
+     "In-State Tuition Per Credit": "not found for 2026-2027 | Searched butler.edu 2026-2027 tuition pages and MBA page; no MBA per-credit rate shown in results (only $37,000 total).",
+     "Out-of-State Tuition Per Credit": "not found for 2026-2027 | Searched butler.edu 2026-2027 tuition pages and MBA page; no MBA per-credit rate shown in results (only $37,000 total).",
+     "International Tuition Per Credit": "not found for 2026-2027 | Searched butler.edu 2026-2027 tuition pages and MBA page; no MBA per-credit rate shown in results (only $37,000 total).",
+     "Out-of-State Tuition Total": "not found for 2026-2027 | MBA page states $37,000 tuition but does not state it applies regardless of residency.",
+     "International Tuition Total": "not found for 2026-2027 | MBA page states $37,000 tuition but does not state it applies regardless of residency.",
+     "Scholarship": "not found for 2026-2027 | Searched butler.edu MBA scholarships; no MBA-specific scholarship named (only FAFSA/employer reimbursement mention).",
+     "Ranking (Best-Masters.com)": "not found for 2026-2027 | Searched butler.edu rankings; no Best-Masters.com 2026/2027 ranking cited.",
+     "Ranking (QS)": "not found for 2026-2027 | Searched butler.edu rankings; no QS 2026/2027 ranking cited.",
+     "Job Placement %": "not found for 2026-2027 | Searched butler.edu MBA outcomes/employment report; none published for online MBA.",
+     "Average Post-Grad Salary": "not found for 2026-2027 | Searched butler.edu MBA outcomes/employment report; none published for online MBA.",
+     "Average Post-Grad Bonus": "not found for 2026-2027 | Searched butler.edu MBA outcomes/employment report; none published for online MBA.",
+     "Affinity Groups Link": "not found for 2026-2027 | Searched butler.edu MBA student organizations/affinity groups; only campus-wide DEI/undergraduate groups and faculty affinity groups found, none stated as open to online MBA students."
+    }
+   }
+  ]
+ },
+ {
+  "job": "https://clarkson.edu/academics/majors-minors/mba-online",
+  "college": "CLARKSON UNIVERSITY QTR POTSDAM",
+  "start_urls": [
+   "https://clarkson.edu/academics/majors-minors/mba-online"
+  ],
+  "rows": [
+   {
+    "sheet": "Online MBA",
+    "row": 5,
+    "program": "ONLINE MBA",
+    "fields": [
+     "On-Campus Options - Are they offered to online students? (Y/N)",
+     "Average GMAT",
+     "Average GRE",
+     "Average Undergraduate GPA",
+     "Work Experience (Month)",
+     "Average Student Age",
+     "Class Size",
+     "International (%)",
+     "Female (%)",
+     "Accept Rate(%)",
+     "Total Enrollment",
+     "Affinity Groups (Yes/No)",
+     "Affinity Groups (brief description)",
+     "In-State Tuition Per Credit",
+     "Out-of-State Tuition Per Credit",
+     "International Tuition Per Credit",
+     "In-State Tuition Total",
+     "Out-of-State Tuition Total",
+     "International Tuition Total",
+     "Deposit",
+     "Deposit Required?",
+     "Ranking (U.S. News)",
+     "Ranking (Best-Masters.com)",
+     "Ranking (QS)",
+     "Job Placement %",
+     "Average Post-Grad Salary",
+     "Average Post-Grad Bonus"
+    ],
+    "link_columns": [
+     "Affinity Groups Link"
+    ],
+    "first_pass": {
+     "On-Campus Options - Are they offered to online students? (Y/N)": "not found for 2026-2027 | Program page says 100% online with no residency requirements; no statement on optional on-campus options for online students.",
+     "Average GMAT": "not found for 2026-2027 | Searched clarkson.edu for Online MBA class profile (GMAT/GRE/GPA/age/experience/women); none published.",
+     "Average GRE": "not found for 2026-2027 | Searched clarkson.edu for Online MBA class profile (GMAT/GRE/GPA/age/experience/women); none published.",
+     "Average Undergraduate GPA": "not found for 2026-2027 | Searched clarkson.edu for Online MBA class profile (GMAT/GRE/GPA/age/experience/women); none published.",
+     "Work Experience (Month)": "not found for 2026-2027 | Searched clarkson.edu for Online MBA class profile (GMAT/GRE/GPA/age/experience/women); none published.",
+     "Average Student Age": "not found for 2026-2027 | Searched clarkson.edu for Online MBA class profile (GMAT/GRE/GPA/age/experience/women); none published.",
+     "Class Size": "not found for 2026-2027 | Searched clarkson.edu for Online MBA class profile (GMAT/GRE/GPA/age/experience/women); none published.",
+     "International (%)": "not found for 2026-2027 | Searched clarkson.edu for Online MBA class profile (GMAT/GRE/GPA/age/experience/women); none published.",
+     "Female (%)": "not found for 2026-2027 | Searched clarkson.edu for Online MBA class profile (GMAT/GRE/GPA/age/experience/women); none published.",
+     "Accept Rate(%)": "not found for 2026-2027 | Searched clarkson.edu for Online MBA class profile (GMAT/GRE/GPA/age/experience/women); none published.",
+     "Total Enrollment": "not found for 2026-2027 | Searched clarkson.edu for Online MBA class profile (GMAT/GRE/GPA/age/experience/women); none published.",
+     "Affinity Groups (Yes/No)": "not found for 2026-2027 | Searched clarkson.edu student organizations; campus clubs (Society of Women Engineers, Sister to Sister, cultural groups) listed but none stated as open to online MBA students.",
+     "Affinity Groups (brief description)": "not found for 2026-2027 | Searched clarkson.edu student organizations; campus clubs (Society of Women Engineers, Sister to Sister, cultural groups) listed but none stated as open to online MBA students.",
+     "In-State Tuition Per Credit": "not found for 2026-2027 | Searched clarkson.edu graduate cost/tuition pages; Online MBA 2026-2027 per-credit rate not shown in results.",
+     "Out-of-State Tuition Per Credit": "not found for 2026-2027 | Searched clarkson.edu graduate cost/tuition pages; Online MBA 2026-2027 per-credit rate not shown in results.",
+     "International Tuition Per Credit": "not found for 2026-2027 | Searched clarkson.edu graduate cost/tuition pages; Online MBA 2026-2027 per-credit rate not shown in results.",
+     "In-State Tuition Total": "not found for 2026-2027 | Searched clarkson.edu; no Online MBA total tuition stated.",
+     "Out-of-State Tuition Total": "not found for 2026-2027 | Searched clarkson.edu; no Online MBA total tuition stated.",
+     "International Tuition Total": "not found for 2026-2027 | Searched clarkson.edu; no Online MBA total tuition stated.",
+     "Deposit": "not found for 2026-2027 | Searched clarkson.edu admitted graduate students/deposit; only 'consult their acceptance letter for payment instructions'.",
+     "Deposit Required?": "not found for 2026-2027 | Searched clarkson.edu admitted graduate students/deposit; only 'consult their acceptance letter for payment instructions'.",
+     "Ranking (U.S. News)": "not found for 2026-2027 | Searched clarkson.edu; only older U.S. News online MBA rankings (top-110, 2024 cycle); no 2026/2027 edition.",
+     "Ranking (Best-Masters.com)": "not found for 2026-2027 | Searched clarkson.edu; no Best-Masters.com ranking cited.",
+     "Ranking (QS)": "not found for 2026-2027 | Searched clarkson.edu; no QS ranking cited.",
+     "Job Placement %": "not found for 2026-2027 | Searched clarkson.edu; no online MBA employment report.",
+     "Average Post-Grad Salary": "not found for 2026-2027 | Searched clarkson.edu; no online MBA employment report.",
+     "Average Post-Grad Bonus": "not found for 2026-2027 | Searched clarkson.edu; no online MBA employment report.",
+     "Affinity Groups Link": "not found for 2026-2027 | Searched clarkson.edu student organizations; campus clubs (Society of Women Engineers, Sister to Sister, cultural groups) listed but none stated as open to online MBA students."
+    }
+   }
+  ]
+ },
+ {
+  "job": "https://www.eastern.edu/academics/graduate-programs/mba-management",
+  "college": "EASTERN UNIVERSITY",
+  "start_urls": [
+   "https://www.eastern.edu/academics/graduate-programs/mba-management"
+  ],
+  "rows": [
+   {
+    "sheet": "Online MBA",
+    "row": 7,
+    "program": "ORGANIZATIONAL MANAGEMENT",
+    "fields": [
+     "Delivery Model (Led by Full Time faculty or Part Time Adjuncts?)",
+     "On-Campus Options - Are they offered to online students? (Y/N)",
+     "GMAT/GRE Required? (Y/N)",
+     "Average GMAT",
+     "Average GRE",
+     "Average Undergraduate GPA",
+     "Work Experience (Month)",
+     "Average Student Age",
+     "Class Size",
+     "International (%)",
+     "Female (%)",
+     "Accept Rate(%)",
+     "Total Enrollment",
+     "Affinity Groups (Yes/No)",
+     "Affinity Groups (brief description)",
+     "Out-of-State Tuition Per Credit",
+     "International Tuition Per Credit",
+     "Out-of-State Tuition Total",
+     "International Tuition Total",
+     "Deposit",
+     "Deposit Required?",
+     "Ranking (U.S. News)",
+     "Ranking (Best-Masters.com)",
+     "Ranking (QS)",
+     "Job Placement %",
+     "Average Post-Grad Salary",
+     "Average Post-Grad Bonus"
+    ],
+    "link_columns": [
+     "Affinity Groups Link"
+    ],
+    "first_pass": {
+     "Delivery Model (Led by Full Time faculty or Part Time Adjuncts?)": "not found for 2026-2027 | Pages say 'expert faculty' / 'dedicated professors with extensive real-world experience'; full-time vs adjunct not stated.",
+     "On-Campus Options - Are they offered to online students? (Y/N)": "not found for 2026-2027 | Searched eastern.edu MBA pages; 100% online, no on-campus option for online students stated.",
+     "GMAT/GRE Required? (Y/N)": "not found for 2026-2027 | Searched eastern.edu MBA admissions requirements for GMAT/GRE; requirements list GPA 2.5, resume, TOEFL but do not explicitly state test policy.",
+     "Average GMAT": "not found for 2026-2027 | Searched eastern.edu for MBA class profile; none published.",
+     "Average GRE": "not found for 2026-2027 | Searched eastern.edu for MBA class profile; none published.",
+     "Average Undergraduate GPA": "not found for 2026-2027 | Searched eastern.edu for MBA class profile; none published.",
+     "Work Experience (Month)": "not found for 2026-2027 | Searched eastern.edu for MBA class profile; none published.",
+     "Average Student Age": "not found for 2026-2027 | Searched eastern.edu for MBA class profile; none published.",
+     "Class Size": "not found for 2026-2027 | Searched eastern.edu for MBA class profile; none published.",
+     "International (%)": "not found for 2026-2027 | Searched eastern.edu for MBA class profile; none published.",
+     "Female (%)": "not found for 2026-2027 | Searched eastern.edu for MBA class profile; none published.",
+     "Accept Rate(%)": "not found for 2026-2027 | Searched eastern.edu for MBA class profile; none published.",
+     "Total Enrollment": "not found for 2026-2027 | Searched eastern.edu for MBA class profile; none published.",
+     "Affinity Groups (Yes/No)": "not found for 2026-2027 | Searched eastern.edu clubs; campus multicultural clubs (Black Student Union, African-Caribbean Union, Bridges) listed but not stated as open to online MBA students.",
+     "Affinity Groups (brief description)": "not found for 2026-2027 | Searched eastern.edu clubs; campus multicultural clubs (Black Student Union, African-Caribbean Union, Bridges) listed but not stated as open to online MBA students.",
+     "Out-of-State Tuition Per Credit": "not found for 2026-2027 | Program page states $330/credit for 2026-2027 but does not state it applies regardless of residency.",
+     "International Tuition Per Credit": "not found for 2026-2027 | Program page states $330/credit for 2026-2027 but does not state it applies regardless of residency.",
+     "Out-of-State Tuition Total": "not found for 2026-2027 | Program page states $9,900 total for 2026-2027 but does not state it applies regardless of residency.",
+     "International Tuition Total": "not found for 2026-2027 | Program page states $9,900 total for 2026-2027 but does not state it applies regardless of residency.",
+     "Deposit": "not found for 2026-2027 | Searched eastern.edu graduate enrollment deposit; none stated for graduate/online programs.",
+     "Deposit Required?": "not found for 2026-2027 | Searched eastern.edu graduate enrollment deposit; none stated for graduate/online programs.",
+     "Ranking (U.S. News)": "not found for 2026-2027 | Searched eastern.edu; no U.S. News 2026/2027 ranking cited for this MBA.",
+     "Ranking (Best-Masters.com)": "not found for 2026-2027 | Searched eastern.edu; no Best-Masters.com ranking cited.",
+     "Ranking (QS)": "not found for 2026-2027 | Searched eastern.edu; no QS ranking cited.",
+     "Job Placement %": "not found for 2026-2027 | Searched eastern.edu; no MBA employment report.",
+     "Average Post-Grad Salary": "not found for 2026-2027 | Searched eastern.edu; no MBA employment report.",
+     "Average Post-Grad Bonus": "not found for 2026-2027 | Searched eastern.edu; no MBA employment report.",
+     "Affinity Groups Link": "not found for 2026-2027 | Searched eastern.edu clubs; campus multicultural clubs (Black Student Union, African-Caribbean Union, Bridges) listed but not stated as open to online MBA students."
+    }
+   }
+  ]
+ }
+]

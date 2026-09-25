@@ -1,0 +1,216 @@
+[
+ {
+  "job": "https://warrington.ufl.edu/graduate/online-mba/",
+  "college": "UNIVERSITY OF FLORIDA",
+  "start_urls": [
+   "https://warrington.ufl.edu/graduate/online-mba/"
+  ],
+  "rows": [
+   {
+    "sheet": "Online MBA",
+    "row": 19,
+    "program": "BUSINESS ADMINISTRATION",
+    "fields": [
+     "Average GMAT",
+     "Average GRE",
+     "Average Undergraduate GPA",
+     "Work Experience (Month)",
+     "Average Student Age",
+     "International (%)",
+     "Female (%)",
+     "Accept Rate(%)",
+     "Total Enrollment",
+     "Credit Hours",
+     "Affinity Groups (Yes/No)",
+     "Affinity Groups (brief description)",
+     "In-State Tuition Per Credit",
+     "Out-of-State Tuition Per Credit",
+     "International Tuition Per Credit",
+     "International Tuition Total",
+     "Scholarship",
+     "Deposit",
+     "Ranking (Best-Masters.com)",
+     "Ranking (QS)",
+     "Job Placement %",
+     "Average Post-Grad Salary",
+     "Average Post-Grad Bonus"
+    ],
+    "link_columns": [
+     "Affinity Groups Link"
+    ],
+    "first_pass": {
+     "Average GMAT": "not found for 2026-2027 | Searched warrington.ufl.edu for Online MBA class profile (GMAT, GRE, GPA, work experience, age, women, international, acceptance, enrollment); no Online MBA class profile figures published.",
+     "Average GRE": "not found for 2026-2027 | Searched warrington.ufl.edu for Online MBA class profile (GMAT, GRE, GPA, work experience, age, women, international, acceptance, enrollment); no Online MBA class profile figures published.",
+     "Average Undergraduate GPA": "not found for 2026-2027 | Searched warrington.ufl.edu for Online MBA class profile (GMAT, GRE, GPA, work experience, age, women, international, acceptance, enrollment); no Online MBA class profile figures published.",
+     "Work Experience (Month)": "not found for 2026-2027 | Searched warrington.ufl.edu for Online MBA class profile (GMAT, GRE, GPA, work experience, age, women, international, acceptance, enrollment); no Online MBA class profile figures published.",
+     "Average Student Age": "not found for 2026-2027 | Searched warrington.ufl.edu for Online MBA class profile (GMAT, GRE, GPA, work experience, age, women, international, acceptance, enrollment); no Online MBA class profile figures published.",
+     "International (%)": "not found for 2026-2027 | Searched warrington.ufl.edu for Online MBA class profile (GMAT, GRE, GPA, work experience, age, women, international, acceptance, enrollment); no Online MBA class profile figures published.",
+     "Female (%)": "not found for 2026-2027 | Searched warrington.ufl.edu for Online MBA class profile (GMAT, GRE, GPA, work experience, age, women, international, acceptance, enrollment); no Online MBA class profile figures published.",
+     "Accept Rate(%)": "not found for 2026-2027 | Searched warrington.ufl.edu for Online MBA class profile (GMAT, GRE, GPA, work experience, age, women, international, acceptance, enrollment); no Online MBA class profile figures published.",
+     "Total Enrollment": "not found for 2026-2027 | Searched warrington.ufl.edu for Online MBA class profile (GMAT, GRE, GPA, work experience, age, women, international, acceptance, enrollment); no Online MBA class profile figures published.",
+     "Credit Hours": "NOT VERIFIED - review | Search only surfaced the 48-credit (28+20) wording for the Full-Time Two-Year MBA; could not confirm it on the Online Two-Year calendar page.\nhttps://warrington.ufl.edu/mba/online/two-year/curriculum/fall-start-calendar/\n\"The program is composed of 48 credit hours (28 credits",
+     "Affinity Groups (Yes/No)": "not found for 2026-2027 | Searched warrington.ufl.edu for MBA affinity/student organizations; results (UF MBAA, NBMBAA partner, Prospanica, Reaching Out) describe Full-Time MBA community, none stated as open to Online MBA students.",
+     "Affinity Groups (brief description)": "not found for 2026-2027 | Searched warrington.ufl.edu for MBA affinity/student organizations; results (UF MBAA, NBMBAA partner, Prospanica, Reaching Out) describe Full-Time MBA community, none stated as open to Online MBA students.",
+     "In-State Tuition Per Credit": "not found for 2026-2027 | Searched warrington.ufl.edu for Online MBA 2026-27 tuition per credit hour; only per-credit university fees (capital improvement, technology, etc.) found, no per-credit tuition rate.",
+     "Out-of-State Tuition Per Credit": "not found for 2026-2027 | Searched warrington.ufl.edu for Online MBA 2026-27 tuition per credit hour; only per-credit university fees (capital improvement, technology, etc.) found, no per-credit tuition rate.",
+     "International Tuition Per Credit": "not found for 2026-2027 | Searched warrington.ufl.edu for Online MBA 2026-27 tuition per credit hour; only per-credit university fees (capital improvement, technology, etc.) found, no per-credit tuition rate.",
+     "International Tuition Total": "not found for 2026-2027 | Searched warrington.ufl.edu; page states residents and nonresidents pay the same tuition but does not state it for international students.",
+     "Scholarship": "NOT VERIFIED - review | Yellow Ribbon $6,500 confirmed, but found full-tuition/partial scholarship wording tied to the full-time MBA; could not confirm it applies to the Online MBA.\nhttps://warrington.ufl.edu/admissions-aid/cost-aid/graduate/\n\"Scholarships are awarded to select competitive in-state ",
+     "Deposit": "not found for 2026-2027 | Searched warrington.ufl.edu for MBA seat deposit amount; page mentions a nonrefundable seat deposit but no amount.",
+     "Ranking (Best-Masters.com)": "not found for 2026-2027 | Searched warrington.ufl.edu for Best-Masters ranking of Online MBA; none cited.",
+     "Ranking (QS)": "not found for 2026-2027 | warrington.ufl.edu news cites QS Online MBA No. 3 in U.S. / No. 8 globally but the search snippet gives no edition year; not accepted.",
+     "Job Placement %": "not found for 2026-2027 | Searched warrington.ufl.edu for Online MBA placement/employment report; none published for Online MBA.",
+     "Average Post-Grad Salary": "candidate '$154,712' rejected by verifier: Figure is the Financial Times 2026 ranking's alumni salary (third-party ranking data for an earlier graduating cohort), not a program employment report figure (check 3/4).\nhttps://warrington.ufl.edu/news/2026-financial-times-online-mba/\n\"With an average sal",
+     "Average Post-Grad Bonus": "not found for 2026-2027 | Searched warrington.ufl.edu for Online MBA signing bonus; none published.",
+     "Affinity Groups Link": "not found for 2026-2027 | Searched warrington.ufl.edu for MBA affinity/student organizations; results (UF MBAA, NBMBAA partner, Prospanica, Reaching Out) describe Full-Time MBA community, none stated as open to Online MBA students."
+    }
+   }
+  ]
+ },
+ {
+  "job": "https://www.terry.uga.edu/mba/online/",
+  "college": "UNIVERSITY OF GEORGIA",
+  "start_urls": [
+   "https://www.terry.uga.edu/mba/online/"
+  ],
+  "rows": [
+   {
+    "sheet": "Online MBA",
+    "row": 20,
+    "program": "BUSINESS ADMINISTRATION",
+    "fields": [
+     "Delivery Model (Led by Full Time faculty or Part Time Adjuncts?)",
+     "Average GMAT",
+     "Average GRE",
+     "Average Undergraduate GPA",
+     "Work Experience (Month)",
+     "Average Student Age",
+     "Class Size",
+     "International (%)",
+     "Female (%)",
+     "Accept Rate(%)",
+     "Total Enrollment",
+     "Affinity Groups (Yes/No)",
+     "Affinity Groups (brief description)",
+     "In-State Tuition Per Credit",
+     "Out-of-State Tuition Per Credit",
+     "International Tuition Per Credit",
+     "International Tuition Total",
+     "Deposit",
+     "Deposit Required?",
+     "Ranking (U.S. News)",
+     "Ranking (Best-Masters.com)",
+     "Ranking (QS)",
+     "Job Placement %",
+     "Average Post-Grad Salary",
+     "Average Post-Grad Bonus"
+    ],
+    "link_columns": [
+     "Affinity Groups Link"
+    ],
+    "first_pass": {
+     "Delivery Model (Led by Full Time faculty or Part Time Adjuncts?)": "not found for 2026-2027 | Searched terry.uga.edu Online MBA faculty page; states faculty are drawn from all academic departments of Terry College but does not say full-time vs adjunct.",
+     "Average GMAT": "not found for 2026-2027 | Searched terry.uga.edu Online MBA class profile (https://www.terry.uga.edu/mba/online/admissions/class-profile/); search results did not return the figures or the cohort year.",
+     "Average GRE": "not found for 2026-2027 | Searched terry.uga.edu Online MBA class profile (https://www.terry.uga.edu/mba/online/admissions/class-profile/); search results did not return the figures or the cohort year.",
+     "Average Undergraduate GPA": "not found for 2026-2027 | Searched terry.uga.edu Online MBA class profile (https://www.terry.uga.edu/mba/online/admissions/class-profile/); search results did not return the figures or the cohort year.",
+     "Work Experience (Month)": "not found for 2026-2027 | Searched terry.uga.edu Online MBA class profile (https://www.terry.uga.edu/mba/online/admissions/class-profile/); search results did not return the figures or the cohort year.",
+     "Average Student Age": "not found for 2026-2027 | Searched terry.uga.edu Online MBA class profile (https://www.terry.uga.edu/mba/online/admissions/class-profile/); search results did not return the figures or the cohort year.",
+     "Class Size": "not found for 2026-2027 | Searched terry.uga.edu Online MBA class profile (https://www.terry.uga.edu/mba/online/admissions/class-profile/); search results did not return the figures or the cohort year.",
+     "International (%)": "not found for 2026-2027 | Searched terry.uga.edu Online MBA class profile (https://www.terry.uga.edu/mba/online/admissions/class-profile/); search results did not return the figures or the cohort year.",
+     "Female (%)": "not found for 2026-2027 | Searched terry.uga.edu Online MBA class profile (https://www.terry.uga.edu/mba/online/admissions/class-profile/); search results did not return the figures or the cohort year.",
+     "Accept Rate(%)": "not found for 2026-2027 | Searched terry.uga.edu Online MBA class profile (https://www.terry.uga.edu/mba/online/admissions/class-profile/); search results did not return the figures or the cohort year.",
+     "Total Enrollment": "not found for 2026-2027 | Searched terry.uga.edu Online MBA class profile (https://www.terry.uga.edu/mba/online/admissions/class-profile/); search results did not return the figures or the cohort year.",
+     "Affinity Groups (Yes/No)": "not found for 2026-2027 | Searched terry.uga.edu for Online MBA affinity/student groups; results (Prospanica, NBMBAA, ReachingOut career fairs, MBA clubs) refer to Full-Time MBA/general students, none stated as open to Online MBA students.",
+     "Affinity Groups (brief description)": "not found for 2026-2027 | Searched terry.uga.edu for Online MBA affinity/student groups; results (Prospanica, NBMBAA, ReachingOut career fairs, MBA clubs) refer to Full-Time MBA/general students, none stated as open to Online MBA students.",
+     "In-State Tuition Per Credit": "not found for 2026-2027 | Searched terry.uga.edu Online MBA tuition; only a program total ($53,700) is stated, no per-credit rate.",
+     "Out-of-State Tuition Per Credit": "not found for 2026-2027 | Searched terry.uga.edu Online MBA tuition; only a program total ($53,700) is stated, no per-credit rate.",
+     "International Tuition Per Credit": "not found for 2026-2027 | Searched terry.uga.edu Online MBA tuition; only a program total ($53,700) is stated, no per-credit rate.",
+     "International Tuition Total": "not found for 2026-2027 | Page states $53,700 regardless of state of residency; does not state it applies to international students.",
+     "Deposit": "not found for 2026-2027 | terry.uga.edu Online MBA tuition page states a $1,000 commitment deposit only for enrollment 'prior to the fall 2027 semester' (2027-2028 cycle); no Fall 2026/Spring 2027 deposit statement found.",
+     "Deposit Required?": "not found for 2026-2027 | terry.uga.edu Online MBA tuition page states a $1,000 commitment deposit only for enrollment 'prior to the fall 2027 semester' (2027-2028 cycle); no Fall 2026/Spring 2027 deposit statement found.",
+     "Ranking (U.S. News)": "not found for 2026-2027 | Searched terry.uga.edu and usnews.com for Terry Online MBA U.S. News 2026 ranking; only Full-Time (#25) and Part-Time rankings cited.",
+     "Ranking (Best-Masters.com)": "not found for 2026-2027 | Searched terry.uga.edu for Best-Masters ranking; none cited.",
+     "Ranking (QS)": "not found for 2026-2027 | Searched terry.uga.edu for QS Online MBA ranking; none cited.",
+     "Job Placement %": "not found for 2026-2027 | Searched terry.uga.edu for Online MBA employment outcomes; none published for the Online MBA.",
+     "Average Post-Grad Salary": "not found for 2026-2027 | Searched terry.uga.edu for Online MBA employment outcomes; none published for the Online MBA.",
+     "Average Post-Grad Bonus": "not found for 2026-2027 | Searched terry.uga.edu for Online MBA employment outcomes; none published for the Online MBA.",
+     "Affinity Groups Link": "not found for 2026-2027 | Searched terry.uga.edu for Online MBA affinity/student groups; results (Prospanica, NBMBAA, ReachingOut career fairs, MBA clubs) refer to Full-Time MBA/general students, none stated as open to Online MBA students."
+    }
+   }
+  ]
+ },
+ {
+  "job": "https://businessgraddegrees.uic.edu/mba-online",
+  "college": "UNIVERSITY OF ILLINOIS CHICAGO",
+  "start_urls": [
+   "https://businessgraddegrees.uic.edu/mba-online"
+  ],
+  "rows": [
+   {
+    "sheet": "Online MBA",
+    "row": 21,
+    "program": "BUSINESS ADMINISTRATION MBA",
+    "fields": [
+     "Average GMAT",
+     "Average GRE",
+     "Average Undergraduate GPA",
+     "Work Experience (Month)",
+     "Average Student Age",
+     "Class Size",
+     "International (%)",
+     "Female (%)",
+     "Accept Rate(%)",
+     "Total Enrollment",
+     "Deadline Date(s)",
+     "Experiential Learning Courses / Opportunities (Yes/No)",
+     "Experiential Learning Courses / Opportunities (brief description)",
+     "In-State Tuition Per Credit",
+     "Out-of-State Tuition Per Credit",
+     "International Tuition Per Credit",
+     "In-State Tuition Total",
+     "Out-of-State Tuition Total",
+     "International Tuition Total",
+     "Deposit",
+     "Deposit Required?",
+     "Ranking (Best-Masters.com)",
+     "Ranking (QS)",
+     "Job Placement %",
+     "Average Post-Grad Salary",
+     "Average Post-Grad Bonus"
+    ],
+    "link_columns": [
+     "Experiential Learning Courses / Opportunities Link"
+    ],
+    "first_pass": {
+     "Average GMAT": "not found for 2026-2027 | Searched businessgraddegrees.uic.edu / business.uic.edu for Online MBA class profile (GMAT, GRE, GPA, work experience, age, class size, women, international, acceptance, enrollment); no class profile published.",
+     "Average GRE": "not found for 2026-2027 | Searched businessgraddegrees.uic.edu / business.uic.edu for Online MBA class profile (GMAT, GRE, GPA, work experience, age, class size, women, international, acceptance, enrollment); no class profile published.",
+     "Average Undergraduate GPA": "not found for 2026-2027 | Searched businessgraddegrees.uic.edu / business.uic.edu for Online MBA class profile (GMAT, GRE, GPA, work experience, age, class size, women, international, acceptance, enrollment); no class profile published.",
+     "Work Experience (Month)": "not found for 2026-2027 | Searched businessgraddegrees.uic.edu / business.uic.edu for Online MBA class profile (GMAT, GRE, GPA, work experience, age, class size, women, international, acceptance, enrollment); no class profile published.",
+     "Average Student Age": "not found for 2026-2027 | Searched businessgraddegrees.uic.edu / business.uic.edu for Online MBA class profile (GMAT, GRE, GPA, work experience, age, class size, women, international, acceptance, enrollment); no class profile published.",
+     "Class Size": "not found for 2026-2027 | Searched businessgraddegrees.uic.edu / business.uic.edu for Online MBA class profile (GMAT, GRE, GPA, work experience, age, class size, women, international, acceptance, enrollment); no class profile published.",
+     "International (%)": "not found for 2026-2027 | Searched businessgraddegrees.uic.edu / business.uic.edu for Online MBA class profile (GMAT, GRE, GPA, work experience, age, class size, women, international, acceptance, enrollment); no class profile published.",
+     "Female (%)": "not found for 2026-2027 | Searched businessgraddegrees.uic.edu / business.uic.edu for Online MBA class profile (GMAT, GRE, GPA, work experience, age, class size, women, international, acceptance, enrollment); no class profile published.",
+     "Accept Rate(%)": "not found for 2026-2027 | Searched businessgraddegrees.uic.edu / business.uic.edu for Online MBA class profile (GMAT, GRE, GPA, work experience, age, class size, women, international, acceptance, enrollment); no class profile published.",
+     "Total Enrollment": "not found for 2026-2027 | Searched businessgraddegrees.uic.edu / business.uic.edu for Online MBA class profile (GMAT, GRE, GPA, work experience, age, class size, women, international, acceptance, enrollment); no class profile published.",
+     "Deadline Date(s)": "NOT VERIFIED - review | Spring 2027 (Dec 1, 2026) and Summer 2027 (May 1, 2027) confirmed for the Online MBA, but the Fall 2026 Online Programs Deadline (Aug 1) page lists MSM/MSHRM/MSAAIB and not the MBA, so the Fall 2026 part could not be confirmed.\nhttps://business.uic.edu/events/spring-2027-onli",
+     "Experiential Learning Courses / Opportunities (Yes/No)": "not found for 2026-2027 | Searched businessgraddegrees.uic.edu for Online MBA experiential learning/capstone/consulting project; only collaborative projects and case studies mentioned, no experiential course or practicum stated.",
+     "Experiential Learning Courses / Opportunities (brief description)": "not found for 2026-2027 | Searched businessgraddegrees.uic.edu for Online MBA experiential learning/capstone/consulting project; only collaborative projects and case studies mentioned, no experiential course or practicum stated.",
+     "In-State Tuition Per Credit": "not found for 2026-2027 | Searched uic.edu (businessgraddegrees tuition page, registrar online tuition Fall 2026/Spring 2027); snippets state a flat per-credit rate regardless of residency but give no amount.",
+     "Out-of-State Tuition Per Credit": "not found for 2026-2027 | Searched uic.edu (businessgraddegrees tuition page, registrar online tuition Fall 2026/Spring 2027); snippets state a flat per-credit rate regardless of residency but give no amount.",
+     "International Tuition Per Credit": "not found for 2026-2027 | Searched uic.edu (businessgraddegrees tuition page, registrar online tuition Fall 2026/Spring 2027); snippets state a flat per-credit rate regardless of residency but give no amount.",
+     "In-State Tuition Total": "not found for 2026-2027 | Only total found was $36,018 from a June 2021 source (older cycle); no 2026-2027 total stated.",
+     "Out-of-State Tuition Total": "not found for 2026-2027 | Only total found was $36,018 from a June 2021 source (older cycle); no 2026-2027 total stated.",
+     "International Tuition Total": "not found for 2026-2027 | Only total found was $36,018 from a June 2021 source (older cycle); no 2026-2027 total stated.",
+     "Deposit": "not found for 2026-2027 | Searched businessgraddegrees.uic.edu for Online MBA enrollment deposit; only a $250 deposit for the Flex MBA was found, nothing for the Online MBA.",
+     "Deposit Required?": "not found for 2026-2027 | Searched businessgraddegrees.uic.edu for Online MBA enrollment deposit; only a $250 deposit for the Flex MBA was found, nothing for the Online MBA.",
+     "Ranking (Best-Masters.com)": "not found for 2026-2027 | Searched uic.edu for Best-Masters ranking; none cited.",
+     "Ranking (QS)": "not found for 2026-2027 | Searched uic.edu for QS Online MBA ranking; none cited.",
+     "Job Placement %": "candidate '94% within six months' rejected by verifier: Statement attributes the 94% rate to 'UIC's MBA graduates' generally, not specifically to Online MBA graduates, and gives no report year (check 3).\nhttps://businessgraddegrees.uic.edu/mba-online/\n\"With a 94% employment rate within six months an",
+     "Average Post-Grad Salary": "candidate '$101,000' rejected by verifier: The $101,000 average is attributed to 'UIC's MBA graduates' generally, not specifically to the Online MBA (check 3).\nhttps://businessgraddegrees.uic.edu/mba-online/\n\"With a 94% employment rate within six months and an average starting salary of $101,000, UI",
+     "Average Post-Grad Bonus": "not found for 2026-2027 | Searched uic.edu for MBA signing bonus; none published.",
+     "Experiential Learning Courses / Opportunities Link": "not found for 2026-2027 | Searched businessgraddegrees.uic.edu for Online MBA experiential learning/capstone/consulting project; only collaborative projects and case studies mentioned, no experiential course or practicum stated."
+    }
+   }
+  ]
+ }
+]

@@ -1,0 +1,179 @@
+[
+ {
+  "job": "https://www.isenberg.umass.edu/programs/masters/ms/business-analytics/online",
+  "college": "UNIVERSITY OF MASSACHUSETTS AT AMHERST",
+  "start_urls": [
+   "https://www.isenberg.umass.edu/programs/masters/ms/business-analytics/online"
+  ],
+  "rows": [
+   {
+    "sheet": "Online MS Business Analytics",
+    "row": 15,
+    "program": "MANAGEMENT (MSBA)",
+    "fields": [
+     "Average GMAT",
+     "Average GRE",
+     "Average Undergraduate GPA",
+     "Work Experience (Month)",
+     "Average Student Age",
+     "Class Size",
+     "International (%)",
+     "Female (%)",
+     "Accept Rate (%)",
+     "Ranking (Best-Masters.com)",
+     "Ranking (QS)",
+     "Job Placement %",
+     "Average Post-Grad Salary",
+     "Average Post-Grad Bonus"
+    ],
+    "link_columns": [],
+    "first_pass": {
+     "Average GMAT": "not found for 2026-2027 | Searched isenberg.umass.edu for online MSBA class profile; only an MSBA profile PDF from 2023 (cdn.success.isenberg.umass.edu/.../2023/07/...MSBAProfile) found - old cycle, rejected; no Fall 2026 profile.",
+     "Average GRE": "not found for 2026-2027 | Searched isenberg.umass.edu for online MSBA class profile; only an MSBA profile PDF from 2023 (cdn.success.isenberg.umass.edu/.../2023/07/...MSBAProfile) found - old cycle, rejected; no Fall 2026 profile.",
+     "Average Undergraduate GPA": "not found for 2026-2027 | Searched isenberg.umass.edu for online MSBA class profile; only an MSBA profile PDF from 2023 (cdn.success.isenberg.umass.edu/.../2023/07/...MSBAProfile) found - old cycle, rejected; no Fall 2026 profile.",
+     "Work Experience (Month)": "not found for 2026-2027 | Searched isenberg.umass.edu for online MSBA class profile; only an MSBA profile PDF from 2023 (cdn.success.isenberg.umass.edu/.../2023/07/...MSBAProfile) found - old cycle, rejected; no Fall 2026 profile.",
+     "Average Student Age": "not found for 2026-2027 | Searched isenberg.umass.edu for online MSBA class profile; only an MSBA profile PDF from 2023 (cdn.success.isenberg.umass.edu/.../2023/07/...MSBAProfile) found - old cycle, rejected; no Fall 2026 profile.",
+     "Class Size": "not found for 2026-2027 | Searched isenberg.umass.edu for online MSBA class profile; only an MSBA profile PDF from 2023 (cdn.success.isenberg.umass.edu/.../2023/07/...MSBAProfile) found - old cycle, rejected; no Fall 2026 profile.",
+     "International (%)": "not found for 2026-2027 | Searched isenberg.umass.edu for online MSBA class profile; only an MSBA profile PDF from 2023 (cdn.success.isenberg.umass.edu/.../2023/07/...MSBAProfile) found - old cycle, rejected; no Fall 2026 profile.",
+     "Female (%)": "not found for 2026-2027 | Searched isenberg.umass.edu for online MSBA class profile; only an MSBA profile PDF from 2023 (cdn.success.isenberg.umass.edu/.../2023/07/...MSBAProfile) found - old cycle, rejected; no Fall 2026 profile.",
+     "Accept Rate (%)": "not found for 2026-2027 | Searched isenberg.umass.edu for online MSBA class profile; only an MSBA profile PDF from 2023 (cdn.success.isenberg.umass.edu/.../2023/07/...MSBAProfile) found - old cycle, rejected; no Fall 2026 profile.",
+     "Ranking (Best-Masters.com)": "not found for 2026-2027 | Searched isenberg.umass.edu and best-masters.com for Isenberg online MSBA Best-Masters ranking 2026; none found.",
+     "Ranking (QS)": "not found for 2026-2027 | Searched isenberg.umass.edu/topuniversities.com for QS Business Masters 2026 Business Analytics Isenberg rank; not shown.",
+     "Job Placement %": "not found for 2026-2027 | Searched isenberg.umass.edu for online MSBA employment report/placement/salary; none published for 2026-2027.",
+     "Average Post-Grad Salary": "not found for 2026-2027 | Searched isenberg.umass.edu for online MSBA employment report/placement/salary; none published for 2026-2027.",
+     "Average Post-Grad Bonus": "not found for 2026-2027 | Searched isenberg.umass.edu for online MSBA employment report/placement/salary; none published for 2026-2027."
+    }
+   }
+  ]
+ },
+ {
+  "job": "https://www.american.edu/cas/economics/ms/online.cfm",
+  "college": "AMERICAN UNIVERSITY",
+  "start_urls": [
+   "https://www.american.edu/cas/economics/ms/online.cfm",
+   "https://programs.online.american.edu/econ/masters-economics"
+  ],
+  "rows": [
+   {
+    "sheet": "Online MS Economics",
+    "row": 3,
+    "program": "PUBLIC POLICY",
+    "fields": [
+     "Average GMAT",
+     "Average GRE",
+     "Average Undergraduate GPA",
+     "Work Experience (Month)",
+     "Average Student Age",
+     "Class Size",
+     "International (%)",
+     "Female (%)",
+     "Accept Rate (%)",
+     "Affinity Groups (Yes/No)",
+     "Affinity Groups (brief description)",
+     "In-State Tuition Per Credit",
+     "Out-of-State Tuition Per Credit",
+     "International Tuition Per Credit",
+     "Out-of-State Tuition Total",
+     "International Tuition Total",
+     "Deposit",
+     "Ranking (U.S. News)",
+     "Ranking (Best-Masters.com)",
+     "Ranking (QS)",
+     "Job Placement %",
+     "Average Post-Grad Salary",
+     "Average Post-Grad Bonus"
+    ],
+    "link_columns": [
+     "Affinity Groups Link"
+    ],
+    "first_pass": {
+     "Average GMAT": "not found for 2026-2027 | Searched american.edu / programs.online.american.edu for online MS Economics class profile (GRE, GPA, age, women, international, acceptance); no class profile published.",
+     "Average GRE": "not found for 2026-2027 | Searched american.edu / programs.online.american.edu for online MS Economics class profile (GRE, GPA, age, women, international, acceptance); no class profile published.",
+     "Average Undergraduate GPA": "not found for 2026-2027 | Searched american.edu / programs.online.american.edu for online MS Economics class profile (GRE, GPA, age, women, international, acceptance); no class profile published.",
+     "Work Experience (Month)": "not found for 2026-2027 | Searched american.edu / programs.online.american.edu for online MS Economics class profile (GRE, GPA, age, women, international, acceptance); no class profile published.",
+     "Average Student Age": "not found for 2026-2027 | Searched american.edu / programs.online.american.edu for online MS Economics class profile (GRE, GPA, age, women, international, acceptance); no class profile published.",
+     "Class Size": "not found for 2026-2027 | Searched american.edu / programs.online.american.edu for online MS Economics class profile (GRE, GPA, age, women, international, acceptance); no class profile published.",
+     "International (%)": "not found for 2026-2027 | Searched american.edu / programs.online.american.edu for online MS Economics class profile (GRE, GPA, age, women, international, acceptance); no class profile published.",
+     "Female (%)": "not found for 2026-2027 | Searched american.edu / programs.online.american.edu for online MS Economics class profile (GRE, GPA, age, women, international, acceptance); no class profile published.",
+     "Accept Rate (%)": "not found for 2026-2027 | Searched american.edu / programs.online.american.edu for online MS Economics class profile (GRE, GPA, age, women, international, acceptance); no class profile published.",
+     "Affinity Groups (Yes/No)": "not found for 2026-2027 | Searched american.edu for graduate affinity groups open to online economics students; found Graduate Black Student Union on SPA graduate organizations page, but no statement that online CAS students can join.",
+     "Affinity Groups (brief description)": "not found for 2026-2027 | Searched american.edu for graduate affinity groups open to online economics students; found Graduate Black Student Union on SPA graduate organizations page, but no statement that online CAS students can join.",
+     "In-State Tuition Per Credit": "not found for 2026-2027 | Searched american.edu / programs.online.american.edu for online MS Economics per-credit rate; program pages state only a flat program tuition ($28,000). Global Online MS page lists $1,298/credit but for a separate Global Online offering without a stated year; not recorded.",
+     "Out-of-State Tuition Per Credit": "not found for 2026-2027 | Searched american.edu / programs.online.american.edu for online MS Economics per-credit rate; program pages state only a flat program tuition ($28,000). Global Online MS page lists $1,298/credit but for a separate Global Online offering without a stated year; not recorded.",
+     "International Tuition Per Credit": "not found for 2026-2027 | Searched american.edu / programs.online.american.edu for online MS Economics per-credit rate; program pages state only a flat program tuition ($28,000). Global Online MS page lists $1,298/credit but for a separate Global Online offering without a stated year; not recorded.",
+     "Out-of-State Tuition Total": "not found for 2026-2027 | Page states one flat total ($28,000) without saying it applies regardless of residency; not recorded per instructions.",
+     "International Tuition Total": "not found for 2026-2027 | Page states one flat total ($28,000) without saying it applies to international students; not recorded per instructions.",
+     "Deposit": "not found for 2026-2027 | Searched american.edu for online MS Economics enrollment deposit; no deposit amount found.",
+     "Ranking (U.S. News)": "not found for 2026-2027 | Searched american.edu/usnews.com for AU online MS Economics U.S. News 2026 rank; no rank cited.",
+     "Ranking (Best-Masters.com)": "not found for 2026-2027 | Searched american.edu for Best-Masters ranking of online MS Economics; none found.",
+     "Ranking (QS)": "not found for 2026-2027 | Searched american.edu for QS ranking of online MS Economics; none found.",
+     "Job Placement %": "not found for 2026-2027 | Searched american.edu for online MS Economics employment report; only an undated '96 percent of MA economics alumni working or studying' statement for a different degree; no 2026 report.",
+     "Average Post-Grad Salary": "not found for 2026-2027 | Searched american.edu for online MS Economics salary outcomes; none published.",
+     "Average Post-Grad Bonus": "not found for 2026-2027 | Searched american.edu for online MS Economics bonus outcomes; none published.",
+     "Affinity Groups Link": "not found for 2026-2027 | Searched american.edu for graduate affinity groups open to online economics students; found Graduate Black Student Union on SPA graduate organizations page, but no statement that online CAS students can join."
+    }
+   }
+  ]
+ },
+ {
+  "job": "https://appliedeconomics.bc.edu/master-science-applied-economics/",
+  "college": "BOSTON COLLEGE",
+  "start_urls": [
+   "https://appliedeconomics.bc.edu/master-science-applied-economics/"
+  ],
+  "rows": [
+   {
+    "sheet": "Online MS Economics",
+    "row": 4,
+    "program": "APPLIED ECONOMICS",
+    "fields": [
+     "Average GMAT",
+     "Average GRE",
+     "Average Undergraduate GPA",
+     "Work Experience (Month)",
+     "Average Student Age",
+     "Class Size",
+     "International (%)",
+     "Female (%)",
+     "Accept Rate (%)",
+     "Accept 3yr-degree from India? (Y/N)",
+     "Out-of-State Tuition Per Credit",
+     "International Tuition Per Credit",
+     "In-State Tuition Total",
+     "Out-of-State Tuition Total",
+     "International Tuition Total",
+     "Ranking (U.S. News)",
+     "Ranking (Best-Masters.com)",
+     "Ranking (QS)",
+     "Job Placement %",
+     "Average Post-Grad Salary",
+     "Average Post-Grad Bonus"
+    ],
+    "link_columns": [],
+    "first_pass": {
+     "Average GMAT": "not found for 2026-2027 | Searched bc.edu / appliedeconomics.bc.edu for MSAE class profile (GPA, age, women, international, class size, acceptance); only minimum GPA 3.0 and qualitative statements, no statistics.",
+     "Average GRE": "not found for 2026-2027 | Searched bc.edu / appliedeconomics.bc.edu for MSAE class profile (GPA, age, women, international, class size, acceptance); only minimum GPA 3.0 and qualitative statements, no statistics.",
+     "Average Undergraduate GPA": "not found for 2026-2027 | Searched bc.edu / appliedeconomics.bc.edu for MSAE class profile (GPA, age, women, international, class size, acceptance); only minimum GPA 3.0 and qualitative statements, no statistics.",
+     "Work Experience (Month)": "not found for 2026-2027 | Searched bc.edu / appliedeconomics.bc.edu for MSAE class profile (GPA, age, women, international, class size, acceptance); only minimum GPA 3.0 and qualitative statements, no statistics.",
+     "Average Student Age": "not found for 2026-2027 | Searched bc.edu / appliedeconomics.bc.edu for MSAE class profile (GPA, age, women, international, class size, acceptance); only minimum GPA 3.0 and qualitative statements, no statistics.",
+     "Class Size": "not found for 2026-2027 | Searched bc.edu / appliedeconomics.bc.edu for MSAE class profile (GPA, age, women, international, class size, acceptance); only minimum GPA 3.0 and qualitative statements, no statistics.",
+     "International (%)": "not found for 2026-2027 | Searched bc.edu / appliedeconomics.bc.edu for MSAE class profile (GPA, age, women, international, class size, acceptance); only minimum GPA 3.0 and qualitative statements, no statistics.",
+     "Female (%)": "not found for 2026-2027 | Searched bc.edu / appliedeconomics.bc.edu for MSAE class profile (GPA, age, women, international, class size, acceptance); only minimum GPA 3.0 and qualitative statements, no statistics.",
+     "Accept Rate (%)": "not found for 2026-2027 | Searched bc.edu / appliedeconomics.bc.edu for MSAE class profile (GPA, age, women, international, class size, acceptance); only minimum GPA 3.0 and qualitative statements, no statistics.",
+     "Accept 3yr-degree from India? (Y/N)": "not found for 2026-2027 | Searched bc.edu Woods College international/graduate requirements; states only that a course-by-course evaluation must show a degree equivalent to a U.S. bachelor's degree; no statement on Indian three-year degrees.",
+     "Out-of-State Tuition Per Credit": "not found for 2026-2027 | Woods College page states one graduate rate ($1,550/credit, 2026-2027) without saying it applies regardless of residency; not recorded per instructions.",
+     "International Tuition Per Credit": "not found for 2026-2027 | Woods College page states one graduate rate ($1,550/credit, 2026-2027) without saying it applies to international students; not recorded per instructions.",
+     "In-State Tuition Total": "not found for 2026-2027 | Searched bc.edu for MSAE total program tuition 2026-2027; only per-credit rate stated, no program total (not computed).",
+     "Out-of-State Tuition Total": "not found for 2026-2027 | Searched bc.edu for MSAE total program tuition 2026-2027; only per-credit rate stated, no program total (not computed).",
+     "International Tuition Total": "not found for 2026-2027 | Searched bc.edu for MSAE total program tuition 2026-2027; only per-credit rate stated, no program total (not computed).",
+     "Ranking (U.S. News)": "not found for 2026-2027 | Searched bc.edu/usnews.com for MSAE U.S. News 2026 online ranking; only a Forbes Advisor ranking (#3) cited, not U.S. News.",
+     "Ranking (Best-Masters.com)": "not found for 2026-2027 | Searched bc.edu for Best-Masters ranking of MSAE; none found.",
+     "Ranking (QS)": "not found for 2026-2027 | Searched bc.edu for QS ranking of MSAE; none found.",
+     "Job Placement %": "not found for 2026-2027 | Searched bc.edu/appliedeconomics.bc.edu for MSAE employment report; none published.",
+     "Average Post-Grad Salary": "not found for 2026-2027 | Only a Forbes Advisor-cited median earnings 10 years after graduation ($103,937), not an average post-grad salary; no MSAE salary report.",
+     "Average Post-Grad Bonus": "not found for 2026-2027 | Searched bc.edu for MSAE signing bonus data; none published."
+    }
+   }
+  ]
+ }
+]

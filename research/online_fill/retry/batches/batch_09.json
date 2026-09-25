@@ -1,0 +1,216 @@
+[
+ {
+  "job": "https://www.ilr.cornell.edu/programs/emhrm",
+  "college": "CORNELL UNIVERSITY",
+  "start_urls": [
+   "https://www.ilr.cornell.edu/programs/emhrm"
+  ],
+  "rows": [
+   {
+    "sheet": "Online MS HRM",
+    "row": 3,
+    "program": "INDUSTRIAL AND LABOR RELATIONS",
+    "fields": [
+     "Average GMAT",
+     "Average GRE",
+     "Average Undergraduate GPA",
+     "Work Experience (Month)",
+     "Average Student Age",
+     "International (%)",
+     "Female (%)",
+     "Accept Rate",
+     "Deadline Date(s)",
+     "Affinity Groups (Yes/No)",
+     "Affinity Groups (brief description)",
+     "Accept 3yr-degree from India? (Y/N)",
+     "In-State Tuition Per Credit",
+     "Out-of-State Tuition Per Credit",
+     "International Tuition Per Credit",
+     "In-State Tuition Total",
+     "Out-of-State Tuition Total",
+     "International Tuition Total",
+     "Ranking (U.S. News)",
+     "Ranking (Best-Masters.com)",
+     "Ranking (QS)",
+     "Job Placement %",
+     "Average Post-Grad Salary",
+     "Average Post-Grad Bonus"
+    ],
+    "link_columns": [
+     "Affinity Groups Link"
+    ],
+    "first_pass": {
+     "Average GMAT": "not found for 2026-2027 | Searched ilr.cornell.edu for EMHRM class profile (averages, age, international, women, acceptance); no class profile statistics published.",
+     "Average GRE": "not found for 2026-2027 | Searched ilr.cornell.edu for EMHRM class profile (averages, age, international, women, acceptance); no class profile statistics published.",
+     "Average Undergraduate GPA": "not found for 2026-2027 | Searched ilr.cornell.edu for EMHRM class profile (averages, age, international, women, acceptance); no class profile statistics published.",
+     "Work Experience (Month)": "not found for 2026-2027 | Searched ilr.cornell.edu EMHRM class profile; only 'most have 10-20 years' experience' and minimum 8+ years stated, no average.",
+     "Average Student Age": "not found for 2026-2027 | Searched ilr.cornell.edu for EMHRM class profile (averages, age, international, women, acceptance); no class profile statistics published.",
+     "International (%)": "not found for 2026-2027 | Searched ilr.cornell.edu for EMHRM class profile (averages, age, international, women, acceptance); no class profile statistics published.",
+     "Female (%)": "not found for 2026-2027 | Searched ilr.cornell.edu for EMHRM class profile (averages, age, international, women, acceptance); no class profile statistics published.",
+     "Accept Rate": "not found for 2026-2027 | Searched ilr.cornell.edu for EMHRM class profile (averages, age, international, women, acceptance); no class profile statistics published.",
+     "Deadline Date(s)": "not found for 2026-2027 | Searched ilr.cornell.edu EMHRM application pages for May 2027 / 2026-2027 deadlines; only 'three application deadlines each year' and 'submit by December 15 for funding consideration' with no dated rounds; older Summer 2023 and May 2025 deadlines only.",
+     "Affinity Groups (Yes/No)": "candidate 'Yes' rejected by verifier: No page says EMHRM students can join these ILR-wide groups (and the alumni affinity groups are for alumni, not students).\nhttps://www.ilr.cornell.edu/current-students/student-organizations\n\"IGSA (International Graduate Student Association) supports international",
+     "Affinity Groups (brief description)": "candidate 'International Graduate Student Association (IGSA); ILR Black Student Union; ILR Alumni Association Affinity Groups' rejected by verifier: No page says EMHRM students can join these ILR-wide groups (and the alumni affinity groups are for alumni, not students).\nhttps://www.ilr.cornell.edu/c",
+     "Accept 3yr-degree from India? (Y/N)": "not found for 2026-2027 | Searched ilr.cornell.edu and gradschool.cornell.edu; India rule found only for doctoral and research master's programs ('four-year undergraduate degree, or a three-year degree plus a post-graduate diploma'), nothing stated for the EMHRM professional master's.",
+     "In-State Tuition Per Credit": "not found for 2026-2027 | Searched EMHRM tuition and fees page; tuition is quoted as a program total paid in installments, no per-credit rate.",
+     "Out-of-State Tuition Per Credit": "not found for 2026-2027 | Searched EMHRM tuition and fees page; tuition is quoted as a program total paid in installments, no per-credit rate.",
+     "International Tuition Per Credit": "not found for 2026-2027 | Searched EMHRM tuition and fees page; tuition is quoted as a program total paid in installments, no per-credit rate.",
+     "In-State Tuition Total": "not found for 2026-2027 | Searched EMHRM tuition page: only total shown is for the cohort starting May 2026 (Summer 2026 entry, previous cycle) - '$71,266' for students starting May 2026 and completing July 2027; no May 2027 cohort tuition published.",
+     "Out-of-State Tuition Total": "not found for 2026-2027 | Searched EMHRM tuition page: only total shown is for the cohort starting May 2026 (Summer 2026 entry, previous cycle) - '$71,266' for students starting May 2026 and completing July 2027; no May 2027 cohort tuition published.",
+     "International Tuition Total": "not found for 2026-2027 | Searched EMHRM tuition page: only total shown is for the cohort starting May 2026 (Summer 2026 entry, previous cycle) - '$71,266' for students starting May 2026 and completing July 2027; no May 2027 cohort tuition published.",
+     "Ranking (U.S. News)": "not found for 2026-2027 | Searched ilr.cornell.edu for EMHRM rankings (U.S. News, Best-Masters, QS); only an HR Patriot blog ranking cited, no 2026/2027 edition from these publishers.",
+     "Ranking (Best-Masters.com)": "not found for 2026-2027 | Searched ilr.cornell.edu for EMHRM rankings (U.S. News, Best-Masters, QS); only an HR Patriot blog ranking cited, no 2026/2027 edition from these publishers.",
+     "Ranking (QS)": "not found for 2026-2027 | Searched ilr.cornell.edu for EMHRM rankings (U.S. News, Best-Masters, QS); only an HR Patriot blog ranking cited, no 2026/2027 edition from these publishers.",
+     "Job Placement %": "not found for 2026-2027 | Searched ilr.cornell.edu for EMHRM outcomes/employment report; none published for the program.",
+     "Average Post-Grad Salary": "not found for 2026-2027 | Searched ilr.cornell.edu for EMHRM outcomes/employment report; none published for the program.",
+     "Average Post-Grad Bonus": "not found for 2026-2027 | Searched ilr.cornell.edu for EMHRM outcomes/employment report; none published for the program.",
+     "Affinity Groups Link": "candidate 'https://www.ilr.cornell.edu/current-students/student-organizations' rejected by verifier: No page says EMHRM students can join these ILR-wide groups (and the alumni affinity groups are for alumni, not students).\nhttps://www.ilr.cornell.edu/current-students/student-organizations\n\"IGSA (Int"
+    }
+   }
+  ]
+ },
+ {
+  "job": "https://business.cornell.edu/admissions/graduate/emba/americas/",
+  "college": "CORNELL UNIVERSITY",
+  "start_urls": [
+   "https://business.cornell.edu/admissions/graduate/emba/americas/"
+  ],
+  "rows": [
+   {
+    "sheet": "Online MBA",
+    "row": 6,
+    "program": "BOARDRM EXEC W/QUEENSU-ONTARIO",
+    "fields": [
+     "Delivery Model (Led by Full Time faculty or Part Time Adjuncts?)",
+     "Average GMAT",
+     "Average GRE",
+     "Average Undergraduate GPA",
+     "Average Student Age",
+     "Class Size",
+     "International (%)",
+     "Accept Rate(%)",
+     "Total Enrollment",
+     "Deadline Date(s)",
+     "Affinity Groups (Yes/No)",
+     "Affinity Groups (brief description)",
+     "Accept 3yr-degree from India? (Y/N)",
+     "In-State Tuition Per Credit",
+     "Out-of-State Tuition Per Credit",
+     "International Tuition Per Credit",
+     "In-State Tuition Total",
+     "Out-of-State Tuition Total",
+     "International Tuition Total",
+     "Ranking (U.S. News)",
+     "Ranking (Best-Masters.com)",
+     "Ranking (QS)",
+     "Job Placement %",
+     "Average Post-Grad Salary",
+     "Average Post-Grad Bonus"
+    ],
+    "link_columns": [
+     "Affinity Groups Link"
+    ],
+    "first_pass": {
+     "Delivery Model (Led by Full Time faculty or Part Time Adjuncts?)": "not found for 2026-2027 | Searched johnson.cornell.edu EMBA Americas faculty page; says professors from Johnson and Queen's Smith School, does not state full-time vs adjunct.",
+     "Average GMAT": "not found for 2026-2027 | Searched johnson.cornell.edu EMBA Americas class facts & profile; only Class of 2027 (entered 2025, previous cycle) profile data found; no 2026-2027 entering class figure.",
+     "Average GRE": "not found for 2026-2027 | Searched johnson.cornell.edu EMBA Americas class facts & profile; only Class of 2027 (entered 2025, previous cycle) profile data found; no 2026-2027 entering class figure.",
+     "Average Undergraduate GPA": "not found for 2026-2027 | Searched johnson.cornell.edu EMBA Americas class facts & profile; only Class of 2027 (entered 2025, previous cycle) profile data found; no 2026-2027 entering class figure.",
+     "Average Student Age": "not found for 2026-2027 | Searched johnson.cornell.edu EMBA Americas class facts & profile; only Class of 2027 (entered 2025, previous cycle) profile data found; no 2026-2027 entering class figure.",
+     "Class Size": "not found for 2026-2027 | Searched johnson.cornell.edu EMBA Americas class facts & profile; only Class of 2027 (entered 2025, previous cycle) profile data found; no 2026-2027 entering class figure.",
+     "International (%)": "not found for 2026-2027 | Searched johnson.cornell.edu EMBA Americas class facts & profile; only Class of 2027 (entered 2025, previous cycle) profile data found; no 2026-2027 entering class figure.",
+     "Accept Rate(%)": "not found for 2026-2027 | Searched johnson.cornell.edu EMBA Americas class facts & profile; only Class of 2027 (entered 2025, previous cycle) profile data found; no 2026-2027 entering class figure.",
+     "Total Enrollment": "not found for 2026-2027 | Searched johnson.cornell.edu EMBA Americas class facts & profile; only Class of 2027 (entered 2025, previous cycle) profile data found; no 2026-2027 entering class figure.",
+     "Deadline Date(s)": "not found for 2026-2027 | Searched EMBA Americas admissions pages; only 'rolling basis for the June 2026 program start' (Summer 2026, previous cycle); no June 2027 deadlines published.",
+     "Affinity Groups (Yes/No)": "candidate 'Yes' rejected by verifier: Diversity page is under the residential MBA 'living in Ithaca' section; no page says EMBA Americas students can join these clubs.\nhttps://www.johnson.cornell.edu/new-students/living-in-ithaca/diversity-and-inclusion/\n\"Cornell Johnson offers a wide network of stu",
+     "Affinity Groups (brief description)": "candidate \"Women's Management Council, Black Graduate Student Association, Out for Business (O4B), Association of Veterans at Johnson\" rejected by verifier: Diversity page is under the residential MBA 'living in Ithaca' section; no page says EMBA Americas students can join these clubs.\nhttps://www.j",
+     "Accept 3yr-degree from India? (Y/N)": "not found for 2026-2027 | Searched johnson.cornell.edu EMBA requirements and gradschool.cornell.edu; no statement for EMBA on three-year Indian degrees.",
+     "In-State Tuition Per Credit": "not found for 2026-2027 | Searched EMBA Americas tuition & financing page; tuition quoted as program total only, no per-credit rate.",
+     "Out-of-State Tuition Per Credit": "not found for 2026-2027 | Searched EMBA Americas tuition & financing page; tuition quoted as program total only, no per-credit rate.",
+     "International Tuition Per Credit": "not found for 2026-2027 | Searched EMBA Americas tuition & financing page; tuition quoted as program total only, no per-credit rate.",
+     "In-State Tuition Total": "not found for 2026-2027 | Searched EMBA Americas tuition page: '$198,234.00' is for students beginning in June 2026 (Class of 2028; Summer 2026 entry, previous cycle); page says Class of 2029 tuition will differ but gives no figure.",
+     "Out-of-State Tuition Total": "not found for 2026-2027 | Searched EMBA Americas tuition page: '$198,234.00' is for students beginning in June 2026 (Class of 2028; Summer 2026 entry, previous cycle); page says Class of 2029 tuition will differ but gives no figure.",
+     "International Tuition Total": "not found for 2026-2027 | Searched EMBA Americas tuition page: '$198,234.00' is for students beginning in June 2026 (Class of 2028; Summer 2026 entry, previous cycle); page says Class of 2029 tuition will differ but gives no figure.",
+     "Ranking (U.S. News)": "not found for 2026-2027 | Searched cornell.edu and usnews.com for EMBA Americas 2026/2027 rankings; only Johnson full-time MBA rankings (FT 2025, Bloomberg 2025-26) cited.",
+     "Ranking (Best-Masters.com)": "not found for 2026-2027 | Searched cornell.edu and usnews.com for EMBA Americas 2026/2027 rankings; only Johnson full-time MBA rankings (FT 2025, Bloomberg 2025-26) cited.",
+     "Ranking (QS)": "not found for 2026-2027 | Searched cornell.edu and usnews.com for EMBA Americas 2026/2027 rankings; only Johnson full-time MBA rankings (FT 2025, Bloomberg 2025-26) cited.",
+     "Job Placement %": "not found for 2026-2027 | Searched johnson.cornell.edu for EMBA Americas employment outcomes; none published (students continue working full time).",
+     "Average Post-Grad Salary": "not found for 2026-2027 | Searched johnson.cornell.edu for EMBA Americas employment outcomes; none published (students continue working full time).",
+     "Average Post-Grad Bonus": "not found for 2026-2027 | Searched johnson.cornell.edu for EMBA Americas employment outcomes; none published (students continue working full time).",
+     "Affinity Groups Link": "candidate 'https://www.johnson.cornell.edu/new-students/living-in-ithaca/diversity-and-inclusion/' rejected by verifier: Diversity page is under the residential MBA 'living in Ithaca' section; no page says EMBA Americas students can join these clubs.\nhttps://www.johnson.cornell.edu/new-students/livi"
+    }
+   }
+  ]
+ },
+ {
+  "job": "https://www.cmu.edu/tepper/programs/master-business-analytics/part-time",
+  "college": "CARNEGIE MELLON UNIVERSITY",
+  "start_urls": [
+   "https://www.cmu.edu/tepper/programs/master-business-analytics/part-time"
+  ],
+  "rows": [
+   {
+    "sheet": "Online MS Business Analytics",
+    "row": 3,
+    "program": "BUSINESS ANALYTICS",
+    "fields": [
+     "Average GMAT",
+     "Average GRE",
+     "Average Undergraduate GPA",
+     "Work Experience (Month)",
+     "Average Student Age",
+     "Class Size",
+     "International (%)",
+     "Female (%)",
+     "Accept Rate (%)",
+     "Credit Hours",
+     "Deadline Date(s)",
+     "Affinity Groups (Yes/No)",
+     "Affinity Groups (brief description)",
+     "In-State Tuition Per Credit",
+     "Out-of-State Tuition Per Credit",
+     "International Tuition Per Credit",
+     "In-State Tuition Total",
+     "Out-of-State Tuition Total",
+     "International Tuition Total",
+     "Deposit",
+     "Ranking (Best-Masters.com)",
+     "Ranking (QS)",
+     "Job Placement %",
+     "Average Post-Grad Salary",
+     "Average Post-Grad Bonus"
+    ],
+    "link_columns": [
+     "Affinity Groups Link"
+    ],
+    "first_pass": {
+     "Average GMAT": "not found for 2026-2027 | Searched cmu.edu for Part-Time Online MSBA class profile; no class profile statistics published (program is test-optional).",
+     "Average GRE": "not found for 2026-2027 | Searched cmu.edu for Part-Time Online MSBA class profile; no class profile statistics published (program is test-optional).",
+     "Average Undergraduate GPA": "not found for 2026-2027 | Searched cmu.edu for Part-Time Online MSBA class profile; no class profile statistics published (program is test-optional).",
+     "Work Experience (Month)": "not found for 2026-2027 | Searched cmu.edu for Part-Time Online MSBA class profile / average work experience; none published.",
+     "Average Student Age": "not found for 2026-2027 | Searched cmu.edu for Part-Time Online MSBA class profile; no class profile statistics published (program is test-optional).",
+     "Class Size": "not found for 2026-2027 | Searched cmu.edu for Part-Time Online MSBA class profile; no class profile statistics published (program is test-optional).",
+     "International (%)": "not found for 2026-2027 | Searched cmu.edu for Part-Time Online MSBA class profile; no class profile statistics published (program is test-optional).",
+     "Female (%)": "not found for 2026-2027 | Searched cmu.edu for Part-Time Online MSBA class profile; no class profile statistics published (program is test-optional).",
+     "Accept Rate (%)": "not found for 2026-2027 | Searched cmu.edu for Part-Time Online MSBA class profile; no class profile statistics published (program is test-optional).",
+     "Credit Hours": "not found for 2026-2027 | Searched cmu.edu part-time MSBA curriculum pages for total units; only full-time MSBA (108) stated, part-time total not stated in HTML.",
+     "Deadline Date(s)": "candidate 'Fall 2026: Round 1 Oct 14, 2025; Round 5 (Part-Time Only) Jun 16, 2026' rejected by verifier: The 'Fall 2026' term label was inferred (the page lists round dates without naming the entry term) and the value omits Rounds 2-4, so it cannot be confirmed as the full 2026-2027 deadline set.\nht",
+     "Affinity Groups (Yes/No)": "not found for 2026-2027 | Searched cmu.edu for Tepper affinity clubs; found MBA affinity clubs (Black Business Association, Out&Allied, Tepper Veterans Club, Tepper Women in Business) but no page stating they are open to Part-Time Online MSBA students.",
+     "Affinity Groups (brief description)": "not found for 2026-2027 | Same search; MBA affinity clubs found but access for Part-Time Online MSBA students not stated.",
+     "In-State Tuition Per Credit": "not found for 2026-2027 | Searched cmu.edu/sfs 2026-2027 Part-Time MSBA tuition page (cmu.edu/sfs/tuition/graduate/tepper/msba.html); search results did not expose the dollar amounts.",
+     "Out-of-State Tuition Per Credit": "not found for 2026-2027 | Searched cmu.edu/sfs 2026-2027 Part-Time MSBA tuition page (cmu.edu/sfs/tuition/graduate/tepper/msba.html); search results did not expose the dollar amounts.",
+     "International Tuition Per Credit": "not found for 2026-2027 | Searched cmu.edu/sfs 2026-2027 Part-Time MSBA tuition page (cmu.edu/sfs/tuition/graduate/tepper/msba.html); search results did not expose the dollar amounts.",
+     "In-State Tuition Total": "not found for 2026-2027 | Searched cmu.edu/sfs 2026-2027 Part-Time MSBA tuition page (cmu.edu/sfs/tuition/graduate/tepper/msba.html); search results did not expose the dollar amounts.",
+     "Out-of-State Tuition Total": "not found for 2026-2027 | Searched cmu.edu/sfs 2026-2027 Part-Time MSBA tuition page (cmu.edu/sfs/tuition/graduate/tepper/msba.html); search results did not expose the dollar amounts.",
+     "International Tuition Total": "not found for 2026-2027 | Searched cmu.edu/sfs 2026-2027 Part-Time MSBA tuition page (cmu.edu/sfs/tuition/graduate/tepper/msba.html); search results did not expose the dollar amounts.",
+     "Deposit": "not found for 2026-2027 | Searched cmu.edu for Part-Time MSBA enrollment deposit; only MBA deferred-admission deposit found.",
+     "Ranking (Best-Masters.com)": "not found for 2026-2027 | Searched cmu.edu and best-masters.com; no Best-Masters rank for the part-time online MSBA.",
+     "Ranking (QS)": "not found for 2026-2027 | Searched cmu.edu for QS ranking of part-time online MSBA; none cited.",
+     "Job Placement %": "not found for 2026-2027 | Searched cmu.edu for Part-Time Online MSBA employment report; none published for the part-time program.",
+     "Average Post-Grad Salary": "not found for 2026-2027 | Searched cmu.edu for Part-Time Online MSBA employment report; none published for the part-time program.",
+     "Average Post-Grad Bonus": "not found for 2026-2027 | Searched cmu.edu for Part-Time Online MSBA employment report; none published for the part-time program.",
+     "Affinity Groups Link": "not found for 2026-2027 | Same search; no page proving affinity groups for Part-Time Online MSBA."
+    }
+   }
+  ]
+ }
+]

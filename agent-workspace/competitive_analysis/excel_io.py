@@ -55,15 +55,18 @@ def is_blank(value) -> bool:
 
 
 def write_back(src: str, dest: str, frames: dict[str, pd.DataFrame],
-               changed: dict[str, list[tuple[int, str, str]]]) -> None:
+               changed: dict[str, list[tuple]]) -> None:
     """Write only the changed cells into the original workbook (formatting survives).
 
-    Each change is (row, column, note); the note (source URL + quote) becomes a cell comment.
+    Each change is (row, column, note[, link]); the note (source URL + quote) becomes a cell comment
+    and the optional link (the source page) the cell's hyperlink.
     """
     wb = load_workbook(src)
     for sheet, cells in changed.items():
         ws, df = wb[sheet], frames[sheet]
-        for row, col, note in cells:
+        for row, col, note, *link in cells:
             cell = ws.cell(row=row + 2, column=list(df.columns).index(col) + 1, value=df.at[row, col])
             cell.comment = Comment(note, "competitive-analysis-agent", width=420, height=160)
+            if link and str(link[0]).startswith("http"):
+                cell.hyperlink = str(link[0])
     wb.save(dest)

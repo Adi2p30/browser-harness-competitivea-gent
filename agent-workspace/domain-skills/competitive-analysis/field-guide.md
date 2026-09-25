@@ -209,28 +209,31 @@ Amount of the enrollment / seat deposit, e.g. "$500".
 ## Ranking - U.S. News
 Matches: u\.?s\.? news
 Keywords: rankings, ranked, us news, recognition
-The program's U.S. News rank as the school cites it, with edition ("#12, 2026 Best Online Programs").
+The program's U.S. News rank, with edition ("#12, 2026 Best Online Programs"). If the school does not cite it,
+take it from usnews.com itself and keep the usnews.com page as the source link.
 Only 2026 or 2027 editions.
 
 ## Ranking - Best-Masters
 Matches: best-masters
 Keywords: rankings, ranked, best masters
-Best-Masters.com rank as cited by the school, 2026/2027 edition only.
+Best-Masters.com rank, 2026/2027 edition (or undated current ranking) only; from the school or best-masters.com itself.
 
 ## Ranking - QS
 Matches: \bqs\b|topuniversities
 Keywords: rankings, ranked, qs, top universities
-QS / TopUniversities rank for this program as cited by the school, 2026/2027 edition only.
+QS / TopUniversities rank for this program, 2026/2027 edition only; from the school or topuniversities.com itself.
 
 ## Placement
 Matches: placement
 Keywords: employment report, outcomes, careers, placement, employed
 Percentage of graduates employed within the stated window ("92% within 3 months"), 2026/2027 report only.
+School's employment report first; otherwise the program's U.S. News or Best-Masters profile (link it).
 
 ## Salary
 Matches: salary
 Keywords: employment report, outcomes, careers, salary
 Average (mean) post-graduation base salary, e.g. "$98,000". Median only if labelled ("$95,000 (median)").
+School's employment report first; otherwise the program's U.S. News or Best-Masters profile (link it).
 
 ## Bonus
 Matches: bonus

@@ -1,0 +1,212 @@
+[
+ {
+  "job": "https://www.hofstra.edu/academics/colleges/zarb/graduate/ms-human-resources-management.html",
+  "college": "HOFSTRA UNIVERSITY",
+  "start_urls": [
+   "https://www.hofstra.edu/academics/colleges/zarb/graduate/ms-human-resources-management.html"
+  ],
+  "rows": [
+   {
+    "sheet": "Online MS HRM",
+    "row": 4,
+    "program": "(not given)",
+    "fields": [
+     "Average GMAT",
+     "Average GRE",
+     "Average Undergraduate GPA",
+     "Work Experience (Month)",
+     "Average Student Age",
+     "Class Size",
+     "International (%)",
+     "Female (%)",
+     "Accept Rate",
+     "Duration (months)",
+     "Accept 3yr-degree from India? (Y/N)",
+     "In-State Tuition Per Credit",
+     "Out-of-State Tuition Per Credit",
+     "International Tuition Per Credit",
+     "In-State Tuition Total",
+     "Out-of-State Tuition Total",
+     "International Tuition Total",
+     "Deposit",
+     "Ranking (U.S. News)",
+     "Ranking (Best-Masters.com)",
+     "Ranking (QS)",
+     "Job Placement %",
+     "Average Post-Grad Salary",
+     "Average Post-Grad Bonus"
+    ],
+    "link_columns": [],
+    "first_pass": {
+     "Average GMAT": "not found for 2026-2027 | Searched hofstra.edu for MS HRM class profile / outcomes / rankings / tuition totals; no 2026-2027 figure published.",
+     "Average GRE": "not found for 2026-2027 | Searched hofstra.edu for MS HRM class profile / outcomes / rankings / tuition totals; no 2026-2027 figure published.",
+     "Average Undergraduate GPA": "not found for 2026-2027 | Searched hofstra.edu for MS HRM class profile / outcomes / rankings / tuition totals; no 2026-2027 figure published.",
+     "Work Experience (Month)": "not found for 2026-2027 | Searched hofstra.edu for MS HRM class profile / outcomes / rankings / tuition totals; no 2026-2027 figure published.",
+     "Average Student Age": "not found for 2026-2027 | Searched hofstra.edu for MS HRM class profile / outcomes / rankings / tuition totals; no 2026-2027 figure published.",
+     "Class Size": "not found for 2026-2027 | Searched hofstra.edu for MS HRM class profile / outcomes / rankings / tuition totals; no 2026-2027 figure published.",
+     "International (%)": "not found for 2026-2027 | Searched hofstra.edu for MS HRM class profile / outcomes / rankings / tuition totals; no 2026-2027 figure published.",
+     "Female (%)": "not found for 2026-2027 | Searched hofstra.edu for MS HRM class profile / outcomes / rankings / tuition totals; no 2026-2027 figure published.",
+     "Accept Rate": "not found for 2026-2027 | Searched hofstra.edu for MS HRM class profile / outcomes / rankings / tuition totals; no 2026-2027 figure published.",
+     "Duration (months)": "not found for 2026-2027 | Searched hofstra.edu for MS HRM duration/months; only MS Accounting/Taxation durations stated, none for MS HRM.",
+     "Accept 3yr-degree from India? (Y/N)": "not found for 2026-2027 | Searched hofstra.edu graduate international admission pages; only course-by-course credential evaluation required, no statement on three-year Indian degrees.",
+     "In-State Tuition Per Credit": "not found for 2026-2027 | Searched hofstra.edu for 2026-2027 graduate/Zarb tuition per credit; bursar page content (hofstra.edu/tuition) not returned by search with a 2026-27 rate.",
+     "Out-of-State Tuition Per Credit": "not found for 2026-2027 | Searched hofstra.edu for 2026-2027 graduate/Zarb tuition per credit; no 2026-27 rate returned.",
+     "International Tuition Per Credit": "not found for 2026-2027 | Searched hofstra.edu for 2026-2027 graduate/Zarb tuition per credit; no 2026-27 rate returned.",
+     "In-State Tuition Total": "not found for 2026-2027 | Searched hofstra.edu for MS HRM class profile / outcomes / rankings / tuition totals; no 2026-2027 figure published.",
+     "Out-of-State Tuition Total": "not found for 2026-2027 | Searched hofstra.edu for MS HRM class profile / outcomes / rankings / tuition totals; no 2026-2027 figure published.",
+     "International Tuition Total": "not found for 2026-2027 | Searched hofstra.edu for MS HRM class profile / outcomes / rankings / tuition totals; no 2026-2027 figure published.",
+     "Deposit": "not found for 2026-2027 | Searched hofstra.edu for Zarb MS enrollment deposit; none stated.",
+     "Ranking (U.S. News)": "not found for 2026-2027 | Searched hofstra.edu and usnews.com; no 2026/2027 U.S. News rank cited for MS HRM (only Part-Time MBA).",
+     "Ranking (Best-Masters.com)": "not found for 2026-2027 | Searched hofstra.edu for MS HRM class profile / outcomes / rankings / tuition totals; no 2026-2027 figure published.",
+     "Ranking (QS)": "not found for 2026-2027 | Searched hofstra.edu for MS HRM class profile / outcomes / rankings / tuition totals; no 2026-2027 figure published.",
+     "Job Placement %": "not found for 2026-2027 | Searched hofstra.edu for MS HRM class profile / outcomes / rankings / tuition totals; no 2026-2027 figure published.",
+     "Average Post-Grad Salary": "not found for 2026-2027 | Searched hofstra.edu for MS HRM class profile / outcomes / rankings / tuition totals; no 2026-2027 figure published.",
+     "Average Post-Grad Bonus": "not found for 2026-2027 | Searched hofstra.edu for MS HRM class profile / outcomes / rankings / tuition totals; no 2026-2027 figure published."
+    }
+   }
+  ]
+ },
+ {
+  "job": "https://online.mobap.edu/master-of-business-administration-2/",
+  "college": "MISSOURI BAPTIST UNIVERSITY",
+  "start_urls": [
+   "https://online.mobap.edu/master-of-business-administration-2/"
+  ],
+  "rows": [
+   {
+    "sheet": "Online MS HRM",
+    "row": 6,
+    "program": "BUSINESS ADMINISTRATION: MBA (ONLINE)",
+    "fields": [
+     "Average GMAT",
+     "Average GRE",
+     "Average Undergraduate GPA",
+     "Work Experience (Month)",
+     "Average Student Age",
+     "Class Size",
+     "International (%)",
+     "Female (%)",
+     "Accept Rate",
+     "On-Campus Options",
+     "Deadline Date(s)",
+     "Affinity Groups (Yes/No)",
+     "Affinity Groups (brief description)",
+     "Accept 3yr-degree from India? (Y/N)",
+     "International Tuition Per Credit",
+     "In-State Tuition Total",
+     "Out-of-State Tuition Total",
+     "International Tuition Total",
+     "Scholarship",
+     "Deposit",
+     "Ranking (U.S. News)",
+     "Ranking (Best-Masters.com)",
+     "Ranking (QS)",
+     "Job Placement %",
+     "Average Post-Grad Salary",
+     "Average Post-Grad Bonus"
+    ],
+    "link_columns": [
+     "Affinity Groups Link"
+    ],
+    "first_pass": {
+     "Average GMAT": "not found for 2026-2027 | Searched mobap.edu for online MBA class profile / outcomes / rankings / tuition totals; no 2026-2027 figure published.",
+     "Average GRE": "not found for 2026-2027 | Searched mobap.edu for online MBA class profile / outcomes / rankings / tuition totals; no 2026-2027 figure published.",
+     "Average Undergraduate GPA": "not found for 2026-2027 | Searched mobap.edu for online MBA class profile / outcomes / rankings / tuition totals; no 2026-2027 figure published.",
+     "Work Experience (Month)": "not found for 2026-2027 | Searched mobap.edu for online MBA class profile / outcomes / rankings / tuition totals; no 2026-2027 figure published.",
+     "Average Student Age": "not found for 2026-2027 | Searched mobap.edu for online MBA class profile / outcomes / rankings / tuition totals; no 2026-2027 figure published.",
+     "Class Size": "not found for 2026-2027 | Searched mobap.edu for online MBA class profile / outcomes / rankings / tuition totals; no 2026-2027 figure published.",
+     "International (%)": "not found for 2026-2027 | Searched mobap.edu for online MBA class profile / outcomes / rankings / tuition totals; no 2026-2027 figure published.",
+     "Female (%)": "not found for 2026-2027 | Searched mobap.edu for online MBA class profile / outcomes / rankings / tuition totals; no 2026-2027 figure published.",
+     "Accept Rate": "not found for 2026-2027 | Searched mobap.edu for online MBA class profile / outcomes / rankings / tuition totals; no 2026-2027 figure published.",
+     "On-Campus Options": "not found for 2026-2027 | Searched mobap.edu; no statement that online MBA students may take on-campus courses or attend residencies.",
+     "Deadline Date(s)": "not found for 2026-2027 | Searched mobap.edu for MBA application deadlines / rolling admission; only 'courses typically begin every eight weeks' stated, no deadline dates or rolling-admission statement.",
+     "Affinity Groups (Yes/No)": "not found for 2026-2027 | Searched mobap.edu clubs & organizations; no identity-based affinity groups for online/graduate students found.",
+     "Affinity Groups (brief description)": "not found for 2026-2027 | Searched mobap.edu clubs & organizations; no identity-based affinity groups found.",
+     "Accept 3yr-degree from India? (Y/N)": "not found for 2026-2027 | Searched mobap.edu international/graduate admission requirements; no statement on three-year Indian degrees.",
+     "International Tuition Per Credit": "not found for 2026-2027 | Searched mobap.edu; $495/credit stated for in-state and out-of-state only, no international rate stated.",
+     "In-State Tuition Total": "not found for 2026-2027 | Searched mobap.edu for online MBA class profile / outcomes / rankings / tuition totals; no 2026-2027 figure published.",
+     "Out-of-State Tuition Total": "not found for 2026-2027 | Searched mobap.edu for online MBA class profile / outcomes / rankings / tuition totals; no 2026-2027 figure published.",
+     "International Tuition Total": "not found for 2026-2027 | Searched mobap.edu for online MBA class profile / outcomes / rankings / tuition totals; no 2026-2027 figure published.",
+     "Scholarship": "not found for 2026-2027 | Searched mobap.edu for MBA scholarships 2026-2027; only FAFSA general aid mention, no named MBA scholarship for 2026-2027.",
+     "Deposit": "not found for 2026-2027 | Searched mobap.edu for MBA enrollment deposit; none stated.",
+     "Ranking (U.S. News)": "not found for 2026-2027 | Searched mobap.edu and usnews.com; no 2026/2027 U.S. News rank for the online MBA (only university regional rank).",
+     "Ranking (Best-Masters.com)": "not found for 2026-2027 | Searched mobap.edu for online MBA class profile / outcomes / rankings / tuition totals; no 2026-2027 figure published.",
+     "Ranking (QS)": "not found for 2026-2027 | Searched mobap.edu for online MBA class profile / outcomes / rankings / tuition totals; no 2026-2027 figure published.",
+     "Job Placement %": "not found for 2026-2027 | Searched mobap.edu for online MBA class profile / outcomes / rankings / tuition totals; no 2026-2027 figure published.",
+     "Average Post-Grad Salary": "not found for 2026-2027 | Searched mobap.edu for online MBA class profile / outcomes / rankings / tuition totals; no 2026-2027 figure published.",
+     "Average Post-Grad Bonus": "not found for 2026-2027 | Searched mobap.edu for online MBA class profile / outcomes / rankings / tuition totals; no 2026-2027 figure published.",
+     "Affinity Groups Link": "not found for 2026-2027 | No page found proving affinity groups for online MBA students."
+    }
+   }
+  ]
+ },
+ {
+  "job": "https://www.troy.edu/academics/academic-programs/graduate/human-resource-management.html",
+  "college": "TROY UNIVERSITY",
+  "start_urls": [
+   "https://www.troy.edu/academics/academic-programs/graduate/human-resource-management.html"
+  ],
+  "rows": [
+   {
+    "sheet": "Online MS HRM",
+    "row": 8,
+    "program": "HUMAN RESOURCE MGMT",
+    "fields": [
+     "Average GMAT",
+     "Average GRE",
+     "Average Undergraduate GPA",
+     "Work Experience (Month)",
+     "Average Student Age",
+     "Class Size",
+     "International (%)",
+     "Female (%)",
+     "Accept Rate",
+     "On-Campus Options",
+     "Deadline Date(s)",
+     "Accept 3yr-degree from India? (Y/N)",
+     "In-State Tuition Per Credit",
+     "Out-of-State Tuition Per Credit",
+     "International Tuition Per Credit",
+     "In-State Tuition Total",
+     "Out-of-State Tuition Total",
+     "International Tuition Total",
+     "Deposit",
+     "Ranking (U.S. News)",
+     "Ranking (Best-Masters.com)",
+     "Ranking (QS)",
+     "Job Placement %",
+     "Average Post-Grad Salary",
+     "Average Post-Grad Bonus"
+    ],
+    "link_columns": [],
+    "first_pass": {
+     "Average GMAT": "not found for 2026-2027 | Searched troy.edu for MSHRM class profile / outcomes / rankings / tuition totals; no 2026-2027 figure published.",
+     "Average GRE": "not found for 2026-2027 | Searched troy.edu for MSHRM class profile / outcomes / rankings / tuition totals; no 2026-2027 figure published.",
+     "Average Undergraduate GPA": "not found for 2026-2027 | Searched troy.edu for MSHRM class profile / outcomes / rankings / tuition totals; no 2026-2027 figure published.",
+     "Work Experience (Month)": "not found for 2026-2027 | Searched troy.edu for MSHRM class profile / outcomes / rankings / tuition totals; no 2026-2027 figure published.",
+     "Average Student Age": "not found for 2026-2027 | Searched troy.edu for MSHRM class profile / outcomes / rankings / tuition totals; no 2026-2027 figure published.",
+     "Class Size": "not found for 2026-2027 | Searched troy.edu for MSHRM class profile / outcomes / rankings / tuition totals; no 2026-2027 figure published.",
+     "International (%)": "not found for 2026-2027 | Searched troy.edu for MSHRM class profile / outcomes / rankings / tuition totals; no 2026-2027 figure published.",
+     "Female (%)": "not found for 2026-2027 | Searched troy.edu for MSHRM class profile / outcomes / rankings / tuition totals; no 2026-2027 figure published.",
+     "Accept Rate": "not found for 2026-2027 | Searched troy.edu for MSHRM class profile / outcomes / rankings / tuition totals; no 2026-2027 figure published.",
+     "On-Campus Options": "not found for 2026-2027 | Searched troy.edu for MSHRM campus availability; only undated catalog listing, program page says fully online curriculum; no on-campus option statement for online students.",
+     "Deadline Date(s)": "not found for 2026-2027 | Searched troy.edu for Fall 2026 / Spring 2027 graduate application deadlines; only 'five start dates' stated, no deadline dates.",
+     "Accept 3yr-degree from India? (Y/N)": "not found for 2026-2027 | Searched troy.edu; three-year baccalaureate policy found only in dated graduate catalogs (2021-22 to 2023-24), not in a 2026-2027 or undated current page.",
+     "In-State Tuition Per Credit": "not found for 2026-2027 | Searched troy.edu for Fall 2026 / 2026-2027 graduate tuition per credit; Fall 2026 unbundled structure announced with undergraduate rate ($382) only, graduate rate not stated in results.",
+     "Out-of-State Tuition Per Credit": "not found for 2026-2027 | Searched troy.edu for Fall 2026 graduate tuition per credit; graduate rate not stated.",
+     "International Tuition Per Credit": "not found for 2026-2027 | Searched troy.edu for Fall 2026 graduate/international tuition per credit; graduate rate not stated.",
+     "In-State Tuition Total": "not found for 2026-2027 | Searched troy.edu for MSHRM class profile / outcomes / rankings / tuition totals; no 2026-2027 figure published.",
+     "Out-of-State Tuition Total": "not found for 2026-2027 | Searched troy.edu for MSHRM class profile / outcomes / rankings / tuition totals; no 2026-2027 figure published.",
+     "International Tuition Total": "not found for 2026-2027 | Searched troy.edu for MSHRM class profile / outcomes / rankings / tuition totals; no 2026-2027 figure published.",
+     "Deposit": "not found for 2026-2027 | Searched troy.edu for graduate enrollment deposit; none stated.",
+     "Ranking (U.S. News)": "not found for 2026-2027 | Searched troy.edu and usnews.com; no 2026/2027 U.S. News rank cited for MSHRM (only #4 in 2021 by Best Value Schools).",
+     "Ranking (Best-Masters.com)": "not found for 2026-2027 | Searched troy.edu for MSHRM class profile / outcomes / rankings / tuition totals; no 2026-2027 figure published.",
+     "Ranking (QS)": "not found for 2026-2027 | Searched troy.edu for MSHRM class profile / outcomes / rankings / tuition totals; no 2026-2027 figure published.",
+     "Job Placement %": "not found for 2026-2027 | Searched troy.edu for MSHRM class profile / outcomes / rankings / tuition totals; no 2026-2027 figure published.",
+     "Average Post-Grad Salary": "not found for 2026-2027 | Searched troy.edu for MSHRM class profile / outcomes / rankings / tuition totals; no 2026-2027 figure published.",
+     "Average Post-Grad Bonus": "not found for 2026-2027 | Searched troy.edu for MSHRM class profile / outcomes / rankings / tuition totals; no 2026-2027 figure published."
+    }
+   }
+  ]
+ }
+]
