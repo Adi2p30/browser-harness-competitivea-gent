@@ -1,10 +1,10 @@
 {
  "stats": {
   "verified": 950,
-  "unverified": 14,
-  "rejected_by_code": 18,
-  "rejected_by_verifier": 46,
-  "not_found": 1438,
+  "unverified": 35,
+  "rejected_by_code": 12,
+  "rejected_by_verifier": 37,
+  "not_found": 1432,
   "not_published": 244,
   "no_program": 270,
   "verifier_corrected": 4
@@ -23,17 +23,6 @@
   },
   {
    "sheet": "Online MS Business Analytics",
-   "row": 6,
-   "field": "Deadline Date(s)",
-   "value": "Spring 2027 (Jan 11 start): Nov 1",
-   "status": "found",
-   "source_url": "https://www.worldcampus.psu.edu/degrees-and-certificates/penn-state-online-data-analytics-business-masters-degree",
-   "quote": "Apply by November 1 to start January 11",
-   "cycle_evidence": "no year stated (next start Jan 11 = Spring 2027)",
-   "rejected": "value digits not in quote"
-  },
-  {
-   "sheet": "Online MS Business Analytics",
    "row": 12,
    "field": "Ranking (Best-Masters.com)",
    "value": "#14, Best Masters Data Analytics in U.S.A. 2026",
@@ -45,47 +34,15 @@
   },
   {
    "sheet": "Online MS Business Analytics",
-   "row": 13,
-   "field": "Out-of-State Tuition Per Credit",
-   "value": "$904",
+   "row": 14,
+   "field": "Ranking (U.S. News)",
+   "value": "#25 (2026 Best Online Master's in Business Programs (Excluding MBA))",
    "status": "found",
-   "source_url": "https://giesonline.illinois.edu/tuition-costs",
-   "quote": "For the Fall 2026 - Summer 2027 Academic Year, the MSBAi tuition is $904 per credit hour (single rate, no residency tiers listed)",
-   "cycle_evidence": "Fall 2026 - Summer 2027",
-   "rejected": "verifier: Check 2: the Gies tuition page gives one Fall 2026-Summer 2027 rate but does not state it applies to out-of-state/international students; the residency applicability was inferred."
-  },
-  {
-   "sheet": "Online MS Business Analytics",
-   "row": 13,
-   "field": "International Tuition Per Credit",
-   "value": "$904",
-   "status": "found",
-   "source_url": "https://giesonline.illinois.edu/tuition-costs",
-   "quote": "For the Fall 2026 - Summer 2027 Academic Year, the MSBAi tuition is $904 per credit hour (single rate, no residency tiers listed)",
-   "cycle_evidence": "Fall 2026 - Summer 2027",
-   "rejected": "verifier: Check 2: the Gies tuition page gives one Fall 2026-Summer 2027 rate but does not state it applies to out-of-state/international students; the residency applicability was inferred."
-  },
-  {
-   "sheet": "Online MS Business Analytics",
-   "row": 13,
-   "field": "Out-of-State Tuition Total",
-   "value": "$32,544",
-   "status": "found",
-   "source_url": "https://giesonline.illinois.edu/tuition-costs",
-   "quote": "For the Fall 2026 - Summer 2027 Academic Year ... total MSBAi tuition of $32,544. (single rate, no residency tiers listed)",
-   "cycle_evidence": "Fall 2026 - Summer 2027",
-   "rejected": "verifier: Check 2: the Gies tuition page gives one Fall 2026-Summer 2027 rate but does not state it applies to out-of-state/international students; the residency applicability was inferred."
-  },
-  {
-   "sheet": "Online MS Business Analytics",
-   "row": 13,
-   "field": "International Tuition Total",
-   "value": "$32,544",
-   "status": "found",
-   "source_url": "https://giesonline.illinois.edu/tuition-costs",
-   "quote": "For the Fall 2026 - Summer 2027 Academic Year ... total MSBAi tuition of $32,544. (single rate, no residency tiers listed)",
-   "cycle_evidence": "Fall 2026 - Summer 2027",
-   "rejected": "verifier: Check 2: the Gies tuition page gives one Fall 2026-Summer 2027 rate but does not state it applies to out-of-state/international students; the residency applicability was inferred."
+   "source": "usnews",
+   "source_url": "https://www.usnews.com/education/online-education/university-of-maryland-college-park-OBUS0706/business",
+   "quote": "University of Maryland--College Park (Smith) is ranked No. 25 out of 221 in Best Online Master's in Business Programs (Excluding MBA)",
+   "cycle_evidence": "2026 edition",
+   "rejected": "value digits not in quote"
   },
   {
    "sheet": "Online MS Business Analytics",
@@ -119,17 +76,6 @@
    "quote": "Admitted international graduate students need to pay a Graduate Tuition Deposit ($300) and submit an Intent to Enroll form, and the deposit will be credited towards your first term tuition.",
    "cycle_evidence": "no year stated",
    "rejected": "verifier: Check 3: the $300 Graduate Tuition Deposit is stated only for admitted international graduate students (tied to I-20/deferral), not as a deposit for this online program."
-  },
-  {
-   "sheet": "Online MS Economics",
-   "row": 7,
-   "field": "Deadline Date(s)",
-   "value": "Rolling - online program applications accepted year-round (no application deadline); submit 4-6 weeks before start",
-   "status": "found",
-   "source_url": "https://advanced.jhu.edu/admissions-aid/how-to-apply/apply-to-online-program/",
-   "quote": "Applications for Online Programs are accepted year-round for fall, spring, or summer term starts, so, there is no application deadline. It is recommended you submit your application materials at least four-to-six weeks before the desired start date.",
-   "cycle_evidence": "no year stated",
-   "rejected": "value digits not in quote"
   },
   {
    "sheet": "Online MS Economics",
@@ -254,17 +200,6 @@
   },
   {
    "sheet": "Online MSGSCM",
-   "row": 5,
-   "field": "Ranking (U.S. News)",
-   "value": "#15 overall (#11 public), 2026 Best Online Master's in Business Programs (non-MBA; includes MS SCM Online)",
-   "status": "found",
-   "source_url": "https://news.utk.edu/2026/01/27/uts-online-programs-earn-high-marks-in-us-news-rankings/",
-   "quote": "the college's non-MBA online master's programs \u2014 Master of Science in Supply Chain Management Online (M.S. SCM) and Master of Science in Business Cybersecurity Online (MSBC) \u2014 rose from No. 16 to No. 11 among public schools and from No. 19 to No. 15 overall.",
-   "cycle_evidence": "2026 Best Online Education Programs (U.S. News, announced Jan. 27, 2026)",
-   "rejected": "value digits not in quote"
-  },
-  {
-   "sheet": "Online MSGSCM",
    "row": 6,
    "field": "Out-of-State Tuition Total",
    "value": "$57,816",
@@ -331,17 +266,6 @@
   },
   {
    "sheet": "Online MS HRM",
-   "row": 7,
-   "field": "Deadline Date(s)",
-   "value": "Spring 2027 (Jan 11 start): Dec 1",
-   "status": "found",
-   "source_url": "https://www.worldcampus.psu.edu/degrees-and-certificates/penn-state-online-human-resources-and-employment-relations-masters-degree",
-   "quote": "Apply by December 1 to start January 11",
-   "cycle_evidence": "no year stated (next start Jan 11 = Spring 2027)",
-   "rejected": "value digits not in quote"
-  },
-  {
-   "sheet": "Online MS HRM",
    "row": 9,
    "field": "Career Coaching/Consulting Services Offered? (Yes/No)",
    "value": "Yes",
@@ -405,17 +329,6 @@
    "quote": "In courses with a real client component, students dive into hands-on experience, applying classroom knowledge to real-world scenarios, serving as the ultimate bridge between theory and practice.",
    "cycle_evidence": "no year stated",
    "rejected": "verifier: Check 3: the Action Learning real-client description comes from a school-wide page and no page found ties those courses to the Online MBA."
-  },
-  {
-   "sheet": "Online MBA",
-   "row": 4,
-   "field": "Deadline Date(s)",
-   "value": "Spring: Dec 10; Summer (online MBA only): Apr 1; Fall: Jul 15 (pending available space)",
-   "status": "found",
-   "source_url": "https://online.butler.edu/online-mba/admission/",
-   "quote": "applications are accepted through December 10 for the spring semester and July 15 for the fall semester, pending available space in the cohort. For the summer semester (online MBA only), applications are accepted through April 1 pending available space in the cohort.",
-   "cycle_evidence": "no year stated",
-   "rejected": "verifier: butler.edu MBA admission page gives December 1 (not December 10) for spring; pages conflict and neither ties the dates to 2026-2027."
   },
   {
    "sheet": "Online MBA",
@@ -551,28 +464,6 @@
   },
   {
    "sheet": "Online MBA",
-   "row": 15,
-   "field": "Ranking (U.S. News)",
-   "value": "#75, 2026 Best Online MBA Programs",
-   "status": "found",
-   "source_url": "https://www.usnews.com/education/online-education/syracuse-university-OBUS0608/mba",
-   "quote": "Syracuse University (Whitman) is ranked No. 75 out of 356 in Best Online MBA Programs",
-   "cycle_evidence": "2026 edition",
-   "rejected": "value digits not in quote"
-  },
-  {
-   "sheet": "Online MBA",
-   "row": 16,
-   "field": "Ranking (U.S. News)",
-   "value": "#50, 2026 Best Online MBA Programs",
-   "status": "found",
-   "source_url": "https://www.usnews.com/education/online-education/the-ohio-state-university-OBUS0446/mba",
-   "quote": "The Ohio State University (Fisher) is ranked No. 50 out of 364 in Best Online MBA Programs",
-   "cycle_evidence": "2026 edition",
-   "rejected": "value digits not in quote"
-  },
-  {
-   "sheet": "Online MBA",
    "row": 19,
    "field": "Average Post-Grad Salary",
    "value": "$154,712",
@@ -617,50 +508,6 @@
   },
   {
    "sheet": "Online MBA",
-   "row": 22,
-   "field": "Out-of-State Tuition Per Credit",
-   "value": "$379",
-   "status": "found",
-   "source_url": "https://giesonline.illinois.edu/tuition-costs",
-   "quote": "For the Fall 2026 - Summer 2027 Academic Year, students will pay University of Illinois tuition and fees of $379 per credit hour (single rate, no residency tiers listed)",
-   "cycle_evidence": "Fall 2026 - Summer 2027",
-   "rejected": "verifier: Check 2: the Gies tuition page gives one Fall 2026-Summer 2027 rate but does not state it applies to out-of-state/international students; the residency applicability was inferred."
-  },
-  {
-   "sheet": "Online MBA",
-   "row": 22,
-   "field": "International Tuition Per Credit",
-   "value": "$379",
-   "status": "found",
-   "source_url": "https://giesonline.illinois.edu/tuition-costs",
-   "quote": "For the Fall 2026 - Summer 2027 Academic Year, students will pay University of Illinois tuition and fees of $379 per credit hour (single rate, no residency tiers listed)",
-   "cycle_evidence": "Fall 2026 - Summer 2027",
-   "rejected": "verifier: Check 2: the Gies tuition page gives one Fall 2026-Summer 2027 rate but does not state it applies to out-of-state/international students; the residency applicability was inferred."
-  },
-  {
-   "sheet": "Online MBA",
-   "row": 22,
-   "field": "Out-of-State Tuition Total",
-   "value": "$27,288",
-   "status": "found",
-   "source_url": "https://giesonline.illinois.edu/tuition-costs",
-   "quote": "For the Fall 2026 - Summer 2027 Academic Year ... iMBA total tuition of $27,288. (single rate, no residency tiers listed)",
-   "cycle_evidence": "Fall 2026 - Summer 2027",
-   "rejected": "verifier: Check 2: the Gies tuition page gives one Fall 2026-Summer 2027 rate but does not state it applies to out-of-state/international students; the residency applicability was inferred."
-  },
-  {
-   "sheet": "Online MBA",
-   "row": 22,
-   "field": "International Tuition Total",
-   "value": "$27,288",
-   "status": "found",
-   "source_url": "https://giesonline.illinois.edu/tuition-costs",
-   "quote": "For the Fall 2026 - Summer 2027 Academic Year ... iMBA total tuition of $27,288. (single rate, no residency tiers listed)",
-   "cycle_evidence": "Fall 2026 - Summer 2027",
-   "rejected": "verifier: Check 2: the Gies tuition page gives one Fall 2026-Summer 2027 rate but does not state it applies to out-of-state/international students; the residency applicability was inferred."
-  },
-  {
-   "sheet": "Online MBA",
    "row": 23,
    "field": "Ranking (U.S. News)",
    "value": "#133 Part-time MBA, U.S. News 2026 Best Graduate Schools",
@@ -680,17 +527,6 @@
    "quote": "maintains small class sizes with an average of only 18 students per session.",
    "cycle_evidence": "no year stated",
    "rejected": "verifier: 18 is the average students per live class session, not the size of the entering class/cohort (check 2)."
-  },
-  {
-   "sheet": "Online MBA",
-   "row": 25,
-   "field": "Ranking (U.S. News)",
-   "value": "#119 (of 364), 2026 Best Online MBA Programs",
-   "status": "found",
-   "source_url": "https://www.usnews.com/education/online-education/the-university-of-tennessee-OBUS0775/mba",
-   "quote": "University of Tennessee--Knoxville is ranked No. 119 out of 364 in Best Online MBA Programs.",
-   "cycle_evidence": "current U.S. News edition = 2026 Best Online MBA Programs (usnews.com/education/online-education/mba/rankings)",
-   "rejected": "value digits not in quote"
   },
   {
    "sheet": "Online MBA",
